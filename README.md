@@ -1,5 +1,5 @@
-# TOPS
-Transformation to Open Science
+# Transformation-to-Open-Science
+Transformation to Open Science or TOPS
 
 ## Description
 This ia a public repository to be used for planning the Year of Open Science 2023: Transform to Open Science.  
