@@ -21,6 +21,9 @@ Accelerating Scientific Discovery through Open Science
 - 2024: and beyond - Continue to harden support for open science
 - Coordinate activities with scientific associations, institutions, philanthropic organizations, & move forward together
  
+## Overview Presentation
+- Short [presentation](https://docs.google.com/presentation/d/10zm_4dnHgLZE6d1HNjFJX89HfDDreVY970h8qVgeFFg/edit?usp=sharing) on TOPS initiative
+
 ## Repository
 
 This repository is used to openly share information about TOPS and the Year of Open Science. 
