@@ -1,94 +1,133 @@
-# Citizen Code of Conduct
+# TOPS Code of Conduct
 
-## 1. Purpose
+## Purpose
 
-A primary goal of Transform To OPen Science is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of Transform To OPen Science is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.  A supplemental goal of this Code of Conduct is to increase open science citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 We invite all those who participate in Transform To OPen Science to help us create safe and positive experiences for everyone.
-
-## 2. Open [Source/Culture/Tech] Citizenship
-
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
-
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
-
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-## 3. Expected Behavior
 
-The following behaviors are expected and requested of all community members:
+## What We Strive For
 
+We strive to create a welcoming and inclusive culture that empowers people to provide outstanding open science. That kind of atmosphere requires an open exchange of ideas balanced by thoughtful guidelines. If we have only openness, colleagues who are on the receiving end of thoughtless or intentionally hurtful comments and behavior may reasonably withdraw. If we have overly intrusive guidelines, people may feel unwelcome.
+
+It would be impossible to list everything staff can do to create a more welcoming space, and we know this team will find ways to include their colleagues that we haven't even thought of. But when in doubt, we encourage you to look to these principles for guidance:
+
+
+ * Practice empathy and humility.
  * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
  * Exercise consideration and respect in your speech and actions.
+ * Assume that everyone we work with is doing their best work for open science. 
+ * Listen carefully and actively.
+ * Ask questions, and seek to understand your partners' context.
+ * Encourage other people to listen as much as they speak.
  * Attempt collaboration before conflict.
- * Refrain from demeaning, discriminatory, or harassing behavior and speech.
+ * Treat other people's identities and cultures with respect. Make an effort to say people's names correctly and refer to them by their stated pronouns.
  * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
- * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-## 4. Unacceptable Behavior
+## Unacceptable Behavior
 
-The following behaviors are considered harassment and are unacceptable within our community:
+To help colleagues understand the kinds of behaviors that are illegal or run counter to the culture we seek to foster, we've listed below actions that are unacceptable within our community:
 
- * Violence, threats of violence or violent language directed against another person.
- * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+ * Violence, threats of violence, or violent language directed against another person.
+ * Unwelcome verbal or written comment or physical conduct based on race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability, genetic information, sexual orientation, gender identity, parental status, marital status, or political affiliation.
  * Posting or displaying sexually explicit or violent material.
  * Posting or threatening to post other people's personally identifying information ("doxing").
- * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
  * Inappropriate photography or recording.
  * Inappropriate physical contact. You should have someone's consent before touching them.
  * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
- * Deliberate intimidation, stalking or following (online or in person).
+ * Deliberate intimidation, stalking, or following (online or in person).
  * Advocating for, or encouraging, any of the above behavior.
- * Sustained disruption of community events, including talks and presentations.
 
-## 5. Weapons Policy
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate including a temporary ban or permanent expulsion from the community without warning.
 
-No weapons will be allowed at Transform To OPen Science events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+## Enforcement Responsibilities
 
-## 6. Consequences of Unacceptable Behavior
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
+ 
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+## Scope
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.  In-person and virtual activities will also provide further guidance on appropriate conduct at those events. 
 
-## 7. Reporting Guidelines
+## Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. yvonne.ivey@nasa.gov.
+Instances of both acceptable or unacceptable behaviors may be reported to the 
+community organizers at steven.m.crawford@nasa.gov.
 
+All complaints will be reviewed and investigated promptly and fairly. 
 
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+## Enforcement Guidelines
 
-## 8. Addressing Grievances
+Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify NASA Open Source Advisory Group with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
+### 1. Correction
 
+**Community Impact**: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.
 
+**Consequence**: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.
 
-## 9. Scope
+### 2. Warning
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
+**Community Impact**: A violation through a single incident or series
+of actions.
 
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+**Consequence**: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or
+permanent ban.
 
-## 10. Contact info
+### 3. Temporary Ban
 
-yvonne.ivey@nasa.gov
+**Community Impact**: A serious violation of community standards, including
+sustained inappropriate behavior.
 
-## 11. License and attribution
+**Consequence**: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+### 4. Permanent Ban
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+**Community Impact**: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior,  harassment of an
+individual, or aggression toward or disparagement of classes of individuals.
 
-_Revision 2.3. Posted 6 March 2017._
+**Consequence**: A permanent ban from any sort of public interaction within
+the community.
 
-_Revision 2.2. Posted 4 February 2016._
+## License and attribution
 
-_Revision 2.1. Posted 23 June 2014._
+TOPS is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
 
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+* [The GSA Code of Conduct](https://handbook.tts.gsa.gov/about-us/code-of-conduct/)
+
+* [The Contributor Covenant](http://contributor-covenant.org), [version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
+
+* [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity)
+
+* [The Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) 
+
+* Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
