@@ -22,7 +22,7 @@ Accelerating Scientific Discovery through Open Science
 - Coordinate activities with scientific associations, institutions, philanthropic organizations, & move forward together
  
 ## Overview Presentation
-- Short [presentation](./assets/presentations/TOPS-highlights-public-latest-version.pdf) on TOPS initiative
+- Short on TOPS initiative: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5338571.svg)](https://doi.org/10.5281/zenodo.5338571)
 
 ## Repository
 
