@@ -14,7 +14,7 @@ Light Tan: RGB: 253/250/225 HEX: fdfae1\
 
 - License: CCA 4.0
 
-Link to Zenodo [DOI](DOI: https://doi.org/10.5281/zenodo.5225076)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5296672.svg)](https://doi.org/10.5281/zenodo.5296672)
 
 
 
