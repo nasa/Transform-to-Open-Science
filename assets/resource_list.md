@@ -6,7 +6,7 @@
 - NASEM [Best Practices for a Future Open Code Policy for NASA Space Science](https://www.nationalacademies.org/our-work/best-practices-for-a-future-open-code-policy-for-nasa-space-science)
 - From open data to open science: [article](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020EA001562)
 
-##Some Educational Resources
+## Some Educational Resources
 - [Guidance](https://data.agu.org/resources/jupyter-notebooks-guidance) for authors: Jupyter Notebooks
 - The Turing Way [handbook](https://the-turing-way.netlify.app/welcome) to reproducible, ethical and collaborative data science
 - A [Guide](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EA001797) to Using GitHub for Developing and Versioning Data Standards and Reporting Formats
