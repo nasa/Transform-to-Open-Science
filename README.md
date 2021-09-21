@@ -65,4 +65,4 @@ A TOPS steering team will set the vision, perform outreach and coordinate across
     
 7.  **Promoting international and multi stakeholder cooperation in the context of Open Science and in view of reducing digital and knowledge gaps.** Engage with international partners to participate in joint activities around open science, including open infrastructures, open MOOCs, international awards, and open metrics.
  
-
+Test update.
