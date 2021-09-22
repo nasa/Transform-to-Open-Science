@@ -9,7 +9,6 @@ This code of conduct outlines our expectations for all those who participate in 
 We invite all those who participate in Transform To OPen Science to help us create safe and positive experiences for everyone.
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-
 ## What We Strive For
 
 We strive to create a welcoming and inclusive culture that empowers people to provide outstanding open science. That kind of atmosphere requires an open exchange of ideas balanced by thoughtful guidelines. If we have only openness, colleagues who are on the receiving end of thoughtless or intentionally hurtful comments and behavior may reasonably withdraw. If we have overly intrusive guidelines, people may feel unwelcome.
