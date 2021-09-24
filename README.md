@@ -10,16 +10,15 @@ Accelerating Scientific Discovery through Open Science
 * Designate 2023 as the Year of Open Science within a 5-year push to Transform to OPen Science. 
 
 
-## Objective
+## Goals
 
-* Accelerate science by motivating and supporting the science community’s move towards open science
-* Broaden participation in science and empower historically excluded groups and institutions
-* Normalize open science for the next generation of scientists that will participate in SMD missions
-
+* Increase understanding and adoption of open science principles and techniques in our Mission and Research Communities 
+* Accelerate major scientific discoveries through supporting the adoption of open science 
+* Broaden participation by historically excluded communities 
 
 ## Implementation
 - 2022: Targeted investments to enable open science
-- 2023: Kick off challenges and other activities to demonstrate the power of open science
+- 2023: Activities to support organizational and community transformation to open science
 - 2024: and beyond - Continue to harden support for open science
 - Coordinate activities with scientific associations, institutions, philanthropic organizations, & move forward together
  
@@ -37,19 +36,21 @@ This repository will only be used for hosting content for documentation purposes
 
 ## Motivation and Plans
 
-**We have lost the luxury of time**. COVID-19 catalyzed the scientific community and the response was dramatically accelerated by collaborative science - for example: sharing genome sequences, maps of ventilator availability, and analysis of transmission hotspots. This saved lives. This is how all of science should work, but even that highest-priority response only included a small fraction of the science community. Many scientists were unable to contribute because of outdated institutional policies around sharing information or they just didn’t know how to participate.
+**We have lost the luxury of time. The Transform to OPen Science (TOPS) mission is designed to rapidly transform agencies, organizations, and communities.** 
 
-Scientists are trying to solve some of the most crucial and complex problems currently facing humanity. The need to quickly address pressing challenges means that the pace of science must accelerate, but responding will likely require analysis of unprecedented amounts of data and information. This means broadening participation, increasing accessibility to knowledge, and embracing new technologies.
+Scientists are working to solve some of the most crucial and complex problems humanity has faced. To quickly address these pressing challenges, the pace of science must accelerate, but responding will likely include new ways to analyze unprecedented amounts of data and information. This response requires a cultural shift - from closed, siloed status-quo to open, transparent science practices and methods. This shift will empower a rapid community transformation, increasing access to data, software, and code, accelerating discoveries, and broadening participation.
 
-Open science is “research conducted openly and transparently” (National Academies of Sciences, 2018). Open science advances science faster while enabling interdisciplinary collaborations leading to the breakthroughs we need to address the major challenges facing science. Many of the barriers to open science are rapidly falling away due to recent technological advances, creating an opportunity to transform how we do science. Adopting open science practices has the potential to lower the threshold for entry to marginalized communities, expand the science community, and increase opportunities for collaboration while promoting scientific innovation, transparency, and reproducibility. **Open science will increase the pace and quality of scientific progress.**
+Open science is defined as [research conducted openly and transparently](https://www.nap.edu/catalog/25116/open-science-by-design-realizing-a-vision-for-21st-century). Sharing knowledge advances science faster while enabling interdisciplinary collaborations leading to the breakthroughs we need to address the major challenges facing science. Adopting open science practices has the potential to lower the threshold for entry to marginalized communities, expand the science community, and increase opportunities for collaboration while promoting scientific innovation, transparency, and reproducibility. *Open science will increase the pace and quality of scientific progress.*
 
-Open science begins with shared access to data, software, resources, and results (publications). Yet, openness that advances science is not a pure product of technology, it is a product of practices, norms, and community behavior around that technology. Just as new technology requires designing new workflows, it is important to deliberately design community dynamics that are welcoming to a more diverse community and strategically directs support to include marginalized groups. Our communities need to shift to open science now, but large shifts in community norms typically occur over decades. **The Transform to OPen Science (TOPS) project will coordinate efforts designed to rapidly transform agencies, organizations, and communities.** These efforts will be aligned with the [2021 UNESCO draft Recommendation on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation) ‘areas of action’ that are recommended to promote acceptance of open science.
+Recent advances have reduced many of the technological barriers to participating in open science, but other barriers remain. Many scientists are still unable to contribute because of outdated institutional policies around sharing information, a lack of support to transition towards openness, or they lack open science skills. The transformation to open science must be enabled by support from the institutions and organizations. *To redesign the way we work together, we need everyone.*
 
-Within TOPS, we will **designate 2023 as the Year Of Open Science (YOOS),** a global community initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm.  Success will be assessed by the number of future science teams using these skills and designing their projects, from inception, around open science practices. **TOPS is only the starting point;** the science community needs agencies and organizations to make a long term commitment to support building an inclusive open science community over the next decade.
+The Transform to OPen Science (TOPS) mission is aligned with recommendations from NASA's [Strategy for Data Management and Computing for Groundbreaking Science 2019-2024](https://science.nasa.gov/files/science-red/s3fs-public/atoms/files/SDMWG%20Strategy_Final.pdf) and National Academies reports on [open science](https://www.nap.edu/catalog/25116/open-science-by-design-realizing-a-vision-for-21st-century), [reproducibility](https://www.nap.edu/catalog/25303/reproducibility-and-replicability-in-science), and [scientific software](https://www.nap.edu/catalog/25217/open-source-software-policy-options-for-nasa-earth-and-space-sciences). The 2021 UNESCO draft [Recommendation on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation) synthesis report will be used as a framework to support the  global scientific community's move to open science. 
 
-A TOPS steering team will set the vision, perform outreach and coordinate across other agencies and organizations. Each of the UNESCO ‘areas of action’ has a dedicated team and targeted activities.
+Within the TOPS mission, we are designating 2023 as the Year Of Open Science (YOOS), a global community initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm. **TOPS is only the starting point;** the science community needs agencies and organizations to make a long term commitment to support building an inclusive open science community over the next decade. To support the effort, TOPS has three overarching goals:
 
-**Targeted Activities, from the [2021 UNESCO draft Recommendation on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation):**
+Within TOPS, we will *designate 2023 as the Year Of Open Science (YOOS),* a global community initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm.  Success will be assessed by the number of future science teams using these skills and designing their projects, from inception, around open science practices. *TOPS is only the starting point;* the science community needs agencies and organizations to make a long term commitment to support building an inclusive open science community over the next decade.
+
+**Targeted Activities:**
 
 1.  **Promoting a common understanding of Open Science, associated benefits and challenges, as well as diverse paths to Open Science.** Increase open science visibility through high-level support and communication strategies, create a TOPS steering team to organize activities, give colloquia, and build partnerships with companies, philanthropic groups, and institutions to advance open science activities.
     
