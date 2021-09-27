@@ -25,14 +25,6 @@ Accelerating Scientific Discovery through Open Science
 ## Overview Presentation
 - Short presentation on TOPS initiative: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5338571.svg)](https://doi.org/10.5281/zenodo.5338571)
 
-## Repository
-
-This repository is used to openly share information about TOPS and the Year of Open Science. 
-Issues are used to collect tasks for development, and Markdown text documents for any planning documents that need to be developed.   This could include linking to other resources. Please feel free to submit an issue or fork the repository to make a contribution. 
-
-
-## Limitation
-This repository will only be used for hosting content for documentation purposes. It will not be used for hosting code. A future version may involve code used to build a website. That will go through SRA (Software Release Authority) approval first. Documentation may be stored in different data formats, but the primary format for storing text documentation will be markdown. 
 
 ## Motivation and Plans
 
@@ -66,4 +58,12 @@ Within TOPS, we will *designate 2023 as the Year Of Open Science (YOOS),* a glob
     
 7.  **Promoting international and multi stakeholder cooperation in the context of Open Science and in view of reducing digital and knowledge gaps.** Engage with international partners to participate in joint activities around open science, including open infrastructures, open MOOCs, international awards, and open metrics.
  
+## Repository
+
+This repository is used to openly share information about TOPS and the Year of Open Science. 
+Issues are used to collect tasks for development, and Markdown text documents for any planning documents that need to be developed.   This could include linking to other resources. Please feel free to submit an issue or fork the repository to make a contribution. 
+
+
+## Limitation
+This repository will only be used for hosting content for documentation purposes. It will not be used for hosting code. A future version may involve code used to build a website. That will go through SRA (Software Release Authority) approval first. Documentation may be stored in different data formats, but the primary format for storing text documentation will be markdown. 
 
