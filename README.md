@@ -1,4 +1,4 @@
-<img src="https://github.com/nasa/Transform-to-Open-Science/blob/main/assets/logos/Tops_logo%404x.png" alt="drawing" width="150"/>
+<img align="right" src="https://github.com/nasa/Transform-to-Open-Science/blob/main/assets/logos/Tops_logo%404x.png" width="300">
 
 # Transform to OPen Science (TOPS)
 
