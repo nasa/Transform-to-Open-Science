@@ -1,4 +1,4 @@
-<img src="https://github.com/nasa/Transform-to-Open-Science/blob/main/assets/logos/Tops_logo%404x.png" alt="drawing" width="150"/>
+<img align="right" src="https://github.com/nasa/Transform-to-Open-Science/blob/main/assets/logos/Tops_logo%404x.png" width="300">
 
 # Transform to OPen Science (TOPS)
 
@@ -25,6 +25,8 @@ Accelerating Scientific Discovery through Open Science
 ## Overview Presentation
 - Short presentation on TOPS initiative: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5338571.svg)](https://doi.org/10.5281/zenodo.5338571)
 
+## Join TOPS
+Sign up for a ~monthly email [here](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform)
 
 ## Motivation and Plans
 
