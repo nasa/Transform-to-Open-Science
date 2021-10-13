@@ -16,13 +16,6 @@ Both.
 #### What is the Year of Open Science?
 #### Does OSS mean free science? 
 #### How does OSS impact ESO?
-ESO missions, along with all new ESD activities, will incorporate OSS from the start of projects including commitments from international partners. ESO mission will:
-- Starting in Phase-B 
-- Science teams will be more inclusive and open -> Develop collaboration plans (template TBD)
-- Initiate software, algorithms,  and documentation as open source
-- Work with the ESDS program to identify common systems suitable for reuse and new capabilities that need to be developed.
-- Responsible for production of products identified within PLRA
-
 #### This sounds hard, what is the first step?
 The first step is to support open source science efforts within your communities. The Turing Way (Welcome — The Turing Way) is a community-driven guide that provides more details on how to design open projects. The 2021 UNESCO recommendations (draft; https://en.unesco.org/science-sustainable-future/open-science/recommendation) have detailed definitions and suggestions on areas of action to support open science. 
 #### What is the ESDS role in OSS?
@@ -32,3 +25,25 @@ The first step is to support open source science efforts within your communities
 #### Are there different requirements for EV, directed, and research/ other missions?
 No.
 #### What incentives and disincentives are being used to encourage OSS?
+
+#### Where should Earth Venture Suborbital science teams (there are 5 currently EVS-3 projects) deliver their data product software and code to? (at completion of project)
+
+**This will be updated.** ESO missions, along with all new ESD activities, will incorporate OSS from the start of projects including commitments from international partners. ESO mission will:
+- Starting in Phase-B 
+- Science teams will be more inclusive and open -> Develop collaboration plans (template TBD)
+- Initiate software, algorithms,  and documentation as open source
+- Work with the ESDS program to identify common systems suitable for reuse and new capabilities that need to be developed.
+- Responsible for production of products identified within PLRA
+
+We will be providing further guidance on it (see the [information policy website](https://science.nasa.gov/researchers/science-data/science-information-policy)) , and I'll have to check with @steadyflux for ESD policy, but these is what I would recommend right now:
+
+If they are at a NASA Center or JPL, they should follow the software release process and contact their software release authority representative. They can find more information at [code.nase.gov](https://code.nasa.gov/).
+
+If they not at a NASA Center or JPL, we do not have specific general guidance for this at this time, but the important aspect is their code should be open source. The process will likely be similiar to:
+
+- Make the code available on a version control platform like GitHub
+- When releasing the code, create a DOI for the release. For example, if using GitHub, this can be done [automatically with Zenodo](https://guides.github.com/activities/citable-code/)
+- Make it clear in the repository [how to cite the code](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+- Also considering adding a meta file describing your software.
+- There is also the aspect of reporting the technology and we will be providing more guidance on that.
+
