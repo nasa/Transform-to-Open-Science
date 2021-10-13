@@ -9,6 +9,7 @@ This code of conduct outlines our expectations for all those who participate in 
 We invite all those who participate in Transform To OPen Science to help us create safe and positive experiences for everyone.
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
+[NASA's policies on anti-harassment and diversity](https://www.nasa.gov/offices/odeo/policy-and-publications)
 
 ## What We Strive For
 
