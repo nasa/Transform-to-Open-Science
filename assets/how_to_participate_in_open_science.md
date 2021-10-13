@@ -14,6 +14,7 @@
                
 ## Open discussions
 - [Pangeo Discourse](https://discourse.pangeo.io/)
+- [TOPS Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions)
 - Discourse 
 
 
