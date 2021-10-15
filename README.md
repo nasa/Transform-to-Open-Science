@@ -25,8 +25,8 @@ Accelerating Scientific Discovery through Open Science
 ## Overview Presentation
 - Short presentation on TOPS initiative: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5338571.svg)](https://doi.org/10.5281/zenodo.5338571)
 
-## Join TOPS
-Sign up for a ~monthly email [here](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform)
+## Join TOPS Mailing List
+Please join the TOPS [email list]((https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activates and become more involved!
 
 ## Motivation and Plans
 
