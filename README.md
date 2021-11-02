@@ -23,10 +23,12 @@ Accelerating Scientific Discovery through Open Science
 - Coordinate activities with scientific associations, institutions, philanthropic organizations, & move forward together
  
 ## Overview Presentation
-- Short presentation on TOPS initiative: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5338571.svg)](https://doi.org/10.5281/zenodo.5338571)
+Short presentation on TOPS initiative: 
+- Slides: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5621674.svg)](https://doi.org/10.5281/zenodo.5621674)
+- [Recording](https://www.youtube.com/watch?v=wtKHHe3m778&t=6977s&ab_channel=ScienceAtNASA) starts at 1:55:32.
 
 ## Join TOPS Mailing List
-Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activates and become more involved!
+Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activates and become more involved! This GitHub repository discussions enabled, so feel free to ask questions or join conversations there.
 
 ## Motivation and Plans
 
