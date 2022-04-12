@@ -1,0 +1,93 @@
+---
+layout: default
+---
+
+<div class="overview">
+    <div class="left">
+        <p>
+            NASA <br>
+            Open-Source <br>
+            Science <br>
+            Initiative <br>
+        </>
+    </div>
+    <div class="right">
+        <div>
+            <p class="normal-text">To help build a culture of open science, <span class="emphasis">NASA is championing a new initiative: the Open-Source Science Initiative (OSSI)</span>.</p>
+            <p class="normal-text">OSSI is a comprehensive program of activities to enable and support moving science towards openness, including policy adjustments, supporting open-source software, and enabling cyberinfrastructure.</p>
+            <p class="normal-text">OSSI aims to implement NASA’s Strategy for Data Management and Computing for Groundbreaking Science 2019-2024, which was developed through community input.</p>
+            <div class="engagement">
+                <a target="_blank" href="https://github.com/nasa/Transform-to-Open-Science">
+                    <div class="github">
+                        <img src="{{ 'assets/images/github-logo.png' | relative_url}}" height="36px" />
+                        <span>Engage in the open science community on the Transform to Open Science (TOPS) Github</span>
+                    </div>
+                </a>
+                <p>Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform">join the TOPS email list</a> to hear about further activates and become more involved!</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="news-section">
+    <p class="title"><a href="{{ '/news' | relative_url}}">News</a></p>
+    {% for post in site.posts limit:3 %}
+        <a href="{{ post.url | relative_url }}">
+            <p class="news-title"> {{ post.title }}</p>
+        </a>
+        <div class="excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 264 }} </div>
+        <div class="date">{{ post.date | date: "%b %d, %Y" }} </div>
+    {% endfor %}
+    <p class="see-more"><a href="{{ '/news' | relative_url}}">Read all</a></p>
+</div>
+
+<div class="detail">
+    <p>
+        NASA is making a long-term commitment to building an inclusive open science community over the next decade. <br>
+        Open-source science is a commitment to the open sharing of software, data, and knowledge (algorithms, papers, documents, ancillary information) as early as possible in the scientific process. <br>
+        The principles of open-source science are to make publicly funded scientific research transparent, inclusive, accessible, and reproducible. Advances in technology, including collaborative tools and cloud computing, help enable open-source science, but technology alone is insufficient. <br>
+        Open-source science requires a culture shift to a more inclusive, transparent, and collaborative scientific process, which will increase the pace and quality of scientific progress.
+    </p>
+</div>
+
+<div class="openness">
+    <div class="row">
+        <div class="col">
+            <div class="thumbnail"><img src="{{ 'assets/images/window.svg' | relative_url }}" height="180px"/></div>
+            <div class="text">
+                <div class="title">Open (Transparent) Science</div>
+                <div class="details">
+                    scientific process and results should be visible, accessible, and understandable
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="thumbnail"><img src="{{ 'assets/images/door.svg' | relative_url }}" height="200px"/></div>
+            <div class="text">
+                <div class="title">Open (Accessible) Science</div>
+                <div class="details">
+                    data, tools, software, documentation, and publications should be accessible to all (FAIR)
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <div class="thumbnail"><img src="{{ 'assets/images/hands.svg' | relative_url }}" height="200px"/></div>
+            <div class="text">
+                <div class="title">Open (Inclusive) Science</div>
+                <div class="details">
+                    process and participants should welcome participation by and collaboration with diverse people and organizations
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="thumbnail"><img src="{{ 'assets/images/cycle.svg' | relative_url }}" height="200px"/></div>
+            <div class="text">
+                <div class="title">Open (Reproducible) Science</div>
+                <div class="details">
+                    Scientific process and results should be open such that they are reproducible by members of the community
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

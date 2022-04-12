@@ -1,0 +1,35 @@
+---
+layout: page
+---
+<div class="news">
+    {% for post in paginator.posts %}
+        <article>
+            <div class="text">
+                <h2>
+                    <a href="{{ post.url | relative_url }}">
+                    {{ post.title }}
+                    </a>
+                </h2>
+                <p><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></p>
+                {{ post.excerpt | strip_html | strip_newlines }} <a class="learn-more" href="{{ post.url }}">learn more</a>
+            </div>
+            {% if post.thumb %}
+                <div class="thumb">
+                    <img src="{{ post.thumb | relative_url }}" />
+                </div>
+            {% endif %}
+        </article>
+    {% endfor %}
+
+    {% if paginator.previous_page_path and paginator.next_page_path %}
+        <div class="navigation">
+            {% if paginator.previous_page_path %}
+                <a href="{{ paginator.previous_page_path }}"> << Prev </a>
+            {% endif %}
+            |
+            {% if paginator.next_page_path %}
+                <a href="{{ paginator.next_page_path }}"> Next >> </a>
+            {% endif %}
+        </div>
+    {% endif %}
+</div>

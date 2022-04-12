@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    {% include head.html %}
+
+  </head>
+
+  <body>
+    {% include header.html %}
+
+    <div class="main">
+        {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
+  </body>
+</html>
