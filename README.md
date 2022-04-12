@@ -66,6 +66,4 @@ This repository is used to openly share information about TOPS and the Year of O
 Issues are used to collect tasks for development, and Markdown text documents for any planning documents that need to be developed.  This could include linking to other resources. Please feel free to submit an issue or fork the repository to make a contribution. 
 
 
-## Limitation
-This repository will only be used for hosting content for documentation purposes. It will not be used for hosting code. A future version may involve code used to build a website. That will go through SRA (Software Release Authority) approval first. Documentation may be stored in different data formats, but the primary format for storing text documentation will be Markdown. 
 
