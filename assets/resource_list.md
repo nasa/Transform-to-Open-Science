@@ -5,6 +5,7 @@
 - NASEM 2018 [Open Science by Design](https://www.nap.edu/catalog/25116/open-science-by-design-realizing-a-vision-for-21st-century)
 - NASEM 2018 [Best Practices for a Future Open Code Policy for NASA Space Science](https://www.nationalacademies.org/our-work/best-practices-for-a-future-open-code-policy-for-nasa-space-science)
 - NASEM 2021 [Developing a Toolkit for Fostering Open Science Practices: Proceedings of a Workshop](https://www.nationalacademies.org/our-work/developing-a-toolkit-for-fostering-open-science-practices-a-workshop)
+- NASEM 2022 [Open Scholarship Priorities and Next Steps: Proceedings of a Workshop–in Brief](https://doi.org/10.17226/26557)
 - AGU Article "From open data to open science" 2021 [article](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020EA001562)
 - NASA SMD 2021 [Scientific Information policy for the Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf)
 
