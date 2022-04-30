@@ -2,25 +2,24 @@
 
 # Transform to OPen Science (TOPS)
 
-Accelerating Scientific Discovery through Open Science
+Accelerating scientific discovery and equity with Open Science
 
 ## Overview
 
-* TOPS will act as a catalyst to jump-start a suite of coordinated activities designed to rapidly transform science. 
-* Designate 2023 as the Year of Open Science within a 5-year push to Transform to OPen Science. 
-
+* Designate 2023 as the Year of Open Science within a 5-year push to Transform to open science. 
+* Jump-start a suite of coordinated activities designed to support adoption of open science.
 
 ## Goals
 
-* Increase understanding and adoption of open science principles and techniques in our Mission and Research Communities 
-* Accelerate major scientific discoveries through supporting the adoption of open science 
+* Increase understanding and adoption of open science principles and techniques 
+* Accelerate major scientific discoveries 
 * Broaden participation by historically excluded communities 
 
 ## Implementation
-- 2022: Targeted investments to enable open science
-- 2023: Activities to support organizational and community transformation to open science
-- 2024 and beyond: Continue to harden support for open science
-- Coordinate activities with scientific associations, institutions, philanthropic organizations, & move forward together
+- Area 1: Engagement: Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
+- Area 2: Capacity sharing: Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
+- Area 3: Incentives: Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
+- Area 4: Moving towards openness: Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.
  
 ## Overview Presentation
 Short presentation on TOPS initiative: 
