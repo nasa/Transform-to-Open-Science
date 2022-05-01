@@ -67,7 +67,7 @@ Link to a detailed article about creating an online course [here](https://www.li
 
 * 8 diverse SMEs for each module that will develop script for videos, slides, quiz questions, and activities workbooks (TOPS20+other SME), representation across SMD.
 * MOOC Instructional designer - will work with all 5 groups - need curriculum specialist
-* Technical developers (to integrate into OpenEDx) - consultant (AGU)
+* Technical developers (to integrate into OpenEDx) - consultant
 * Video creation - NASA TV??????? Big sci comms personalities?
 * More details on roles and responsibilities [here](https://docs.google.com/document/d/1oNXf9TiO6EIxVfVvZgfH7_OJpMxeii3uD2-IKeaPfn0/edit?usp=sharing)
 
@@ -135,7 +135,7 @@ Advertised and open for comments - reaching out to people and having the outline
   <tr>
    <td>June
    </td>
-   <td colspan="4" >Workshop 3 for facilitators, TOPS and AGU teams to finalize content (~15 people - 5 TOPS Core Team, 4 AGU, 1 MOOC Consultant. 5 facilitators/module leads)
+   <td colspan="4" >Workshop 3 for facilitators, TOPS and partner teams to finalize content (~15 people - 5 TOPS Core Team, 4 partner, 1 MOOC Consultant. 5 facilitators/module leads)
    </td>
   </tr>
   <tr>
