@@ -16,7 +16,7 @@ Accelerating scientific discovery and equity with Open Science
 * Broaden participation by historically excluded communities 
 
 ## Implementation
-- Area 1: Engagement: Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
+- [Area 1: Engagement](.docs/Area1_Engagement/readme.md): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
 - Area 2: Capacity sharing: Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
 - Area 3: Incentives: Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
 - Area 4: Moving towards openness: Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.
