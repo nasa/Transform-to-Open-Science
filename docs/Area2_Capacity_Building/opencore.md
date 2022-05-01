@@ -78,11 +78,11 @@ Full description [here](https://docs.google.com/document/d/1eHnJ2G_04cz_UqZdIddh
 
 
 
-1. Ethos: What is open science? Best practices for building communities, collaborations, and project design. Open science norms.
-2. Managing and sharing research software  (GitHub, version control, research notebook best practices, environments, licensing - use TOP educational hub to demo in MOOC)
-3. Collaboration tools (Jupyter notebooks, RStudio, Stackoverflow, NBviewer, cloud - use TOP educational hub to demo in MOOC)
-4. Accessing, managing, and sharing research data (best practices for creators, best practices for consumers, metadata, doi, citation, licensing)
-5. Sharing results (why open access, publications, making your results more accessible - including data and software, Binder, visualization)
+1. [Ethos](./module1.md): What is open science? Best practices for building communities, collaborations, and project design. Open science norms.
+2. [Collaboration tools](./module2.md) (Jupyter notebooks, RStudio, Stackoverflow, NBviewer, cloud - use TOP educational hub to demo in MOOC)
+3. [Managing and sharing research software](./module3.md) (GitHub, version control, research notebook best practices, environments, licensing - use TOP educational hub to demo in MOOC)
+5. [Accessing, managing, and sharing research data](./module4.md) (best practices for creators, best practices for consumers, metadata, doi, citation, licensing)
+6. [Sharing results](./module5.md) (why open access, publications, making your results more accessible - including data and software, Binder, visualization)
 
 # Timeline
 
