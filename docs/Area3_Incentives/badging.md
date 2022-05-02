@@ -28,15 +28,9 @@ For example, OpenBadges.me has a plan for $1500 per year which allows the issuan
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image1.png "image_tooltip")
 
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image2.png "image_tooltip")
@@ -45,8 +39,6 @@ For example, OpenBadges.me has a plan for $1500 per year which allows the issuan
 An alternative to OpenBadges.me is [BadgeCert.com](https://badgecert.com/how-it-works/). In addition to issuing the badge, Badge Cert offers continuous “scanning” of those who have earned badges, allowing for badges to “expire” if certain conditions are not met. This would be interesting if we, for example, wanted people to take our modules in a certain period of time or to refresh their knowledge of open science in Y4 or Y5 of TOPS. BadgeCert also allows for “micro-badging” where learners can earn badges along the way to a “grand badge.” This fits in well with the current curriculum plan. 
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image3.png "image_tooltip")
