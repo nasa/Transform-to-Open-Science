@@ -16,10 +16,15 @@ The bottom line is that we have ambitious goals and need YOU and your organizati
 Here are some quick links that can help you get started:   
 
 Read our publications (link) 
+
 Download our podcast (coming soon) 
+
 Find us at a conference (link)  
+
 Participate in a listening session 
+
 Submit questions to our upcoming community panel 
+
 Read our success stories (coming  soon) 
 Partnerships (coming soon) 
 Show your love for open science =(Link to linkedin frames and I’m not 100% sure we can do this because we would have to create a landing page with the file - but it would be SO COOL if we could) 
