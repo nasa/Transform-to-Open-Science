@@ -42,7 +42,7 @@ Educate stakeholders through a comprehensive curriculum workshop
 Come get some swag from our booth! We have TOPS stickers and other fun items!
 
 ### Citizen Science
-We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation. In citizen science, community members “formulate research questions, conduct scientific experiments, collect and analyze data, interpret results, make new discoveries, develop technologies and applications, and solve complex problems (citizenscience.gov).” 
+We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation. [In citizen science, community members “formulate research questions, conduct scientific experiments, collect and analyze data, interpret results, make new discoveries, develop technologies and applications, and solve complex problems."](https://www.citizenscience.gov)
 
 NASA has been engaged in numerous citizen science projects across SMD and this is another exciting opportunity to do more! 
 
