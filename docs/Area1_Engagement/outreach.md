@@ -3,7 +3,7 @@ We can’t reach our goals solely through inreach efforts. To reach the broadest
 
 | ![CSCCE_CPM_Final_with-logo-01-1024x668.jpg](../../assets/github/CSCCE_CPM_Final_with-logo-01-1024x668.jpg) |
 |:--:|
-| <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|
+| <b>Image courtesy of The Center for Scientific Collaboration and Community Engagement via [https://www.cscce.org/resources/cpm/](https://www.cscce.org/resources/cpm/)</b>|
 
 Here are some ways we collaborate and communicate with communities:
 
