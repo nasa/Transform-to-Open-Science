@@ -11,7 +11,9 @@ These sessions will educate the public about NASA’s OSSI and the TOPS program 
 ## Come join us! 
 The community forum will be held the second Thursday of each month at 2 PM EST. The first in the series will be May 12.
 When: May 12, 2022, 2:00-3:00 PM EST
+
 [Registration Link](https://go.nasa.gov/36aVsmH): 
+
 [Question Submission Link](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
 
 ## Community Panel
@@ -19,5 +21,7 @@ The TOPS Community Panel is another way we create community and discover best pr
 
 ## We hope you’ll join us and submit questions!
 When: May 17-19, 2022, 12:00-3:00 PM EST each day
+
 [Registration Link](https://go.nasa.gov/3kCFc1i)
+
 [Question Submission Link](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)
