@@ -21,7 +21,7 @@ Download our podcast (coming soon)
 
 [Find us at a conference](./tops_conferences.md)
 
-Participate in a listening session 
+[Participate in a listening session](https://go.nasa.gov/36aVsmH)
 
 [Submit questions to our upcoming community panel](https://docs.google.com/forms/d/e/1FAIpQLSc1v1qJ_0WqOvl1-bHWrcTcEJdJyKFUDY3xbhJsWdce2blm1g/viewform)
 
