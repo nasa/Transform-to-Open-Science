@@ -1,4 +1,6 @@
 We can’t reach our goals solely through inreach efforts. To reach the broadest of communities, our TOPS team seeks to form equitable partnerships with academic institutions, non-profits, professional societies, and other government agencies. When working with others to build a vibrant equitable community, we define our goals and objectives for groups of community partners, focusing on the roles the community partners serve and potential ways we can collaborate. We co-create thoughtful calls of action and together develop a shared understanding and determine appropriate collaborations that will benefit all parties. 
+ ![Tux, the Linux mascot](/assets/images/tux.png)
+
 Here are some ways we collaborate and communicate with communities:
 
 Host listening sessions
