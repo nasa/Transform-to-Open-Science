@@ -1,3 +1,10 @@
+# Announcements - TOPS public events!
+- 12 May 2022 2PM EST (11AM PST). TOPS Community Forum: Virtual. [Registration link](https://go.nasa.gov/36aVsmH). This one hour Webex event will provide an update from the TOPS team, an overview of planned activities for the 2023 Year of Open Science, and a short Q&A.
+- 17-19 May 2022, 12-3 EST (9-12 PST), each day. TOPS Community Panel 1: Virtual. [Registration link](https://forms.gle/sgLgwM1nxGzqJbuA6). Each day we will have a deep dive into TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
+
+
+
+
 <img align="right" src="https://github.com/nasa/Transform-to-Open-Science/blob/main/assets/logos/Tops_logo%404x.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
 # Transform to OPen Science (TOPS)
