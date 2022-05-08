@@ -21,13 +21,13 @@ Promote open science in High Priority Publications, through a roadshow (virtual 
 
 If your community is interested in working together, please contact us.
 
-Conferences/Workshops
+### Conferences/Workshops
 
-Throughout 2023, the Year of Open Science, TOPS will build capacity for practicing open-source science by attending scientific conferences across the nation. 
+Throughout 2023, the Year of Open Science, TOPS will build capacity for practicing open-source science by [attending scientific conferences](./tops_conferences.md) across the nation. 
 
 Our team will: 
 
-Build our email list and expand our brand footprint 
+Build our [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) and expand our brand footprint 
 
 Engage with large conference societies (i.e. AGU, AMS, AAS, AAAS) to designate 2023 conference theme with a focus of open science
 
@@ -37,13 +37,16 @@ Educate stakeholders through a comprehensive curriculum workshop
 
 Come get some swag from our booth! We have TOPS stickers and other fun items!
 
-Citizen Science
+### Citizen Science
 We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation. In citizen science, community members “formulate research questions, conduct scientific experiments, collect and analyze data, interpret results, make new discoveries, develop technologies and applications, and solve complex problems (citizenscience.gov).” 
 
 NASA has been engaged in numerous citizen science projects across SMD and this is another exciting opportunity to do more! 
 
 NASA TOPS will promote the inclusion of citizen and participatory science as integral parts of open science policies and practices at the national and international levels through the following tactics. We will: 
+
 Host webinars or listening sessions with the citizen science organizations
+
 Promote TOPS curricula across their organization/communities
+
 Highlight success stories around open science efforts
 
