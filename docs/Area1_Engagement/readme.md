@@ -1,5 +1,5 @@
 # TOPS Engagement Strategy
-TOPS is made up of a small and passionate team that uses [inreach](./inreach.md) and [outreach](./docs/Area1_Engagement/outreach.md) strategies to create community and spark positive change towards open science. Our team is building a vibrant open science community that will change the future of science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to The Year of Open Science kickoff in 2023. 
+TOPS is made up of a small and passionate team that uses [inreach](./inreach.md) and [outreach](./outreach.md) strategies to create community and spark positive change towards open science. Our team is building a vibrant open science community that will change the future of science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to The Year of Open Science kickoff in 2023. 
 
 We need your participation to be successful! There are many ways you can engage with us! We use mediated and face-to-face practices that increase open-science visibility, create knowledge, and build partnerships that advance open-science. 
 
@@ -15,17 +15,20 @@ The bottom line is that we have ambitious goals and need YOU and your organizati
 
 Here are some quick links that can help you get started:   
 
-Read our publications (link) 
+[Read our publications](./tops_publications.md)
 
 Download our podcast (coming soon) 
 
-Find us at a conference (link)  
+[Find us at a conference](./tops_conferences.md)
 
 Participate in a listening session 
 
-Submit questions to our upcoming community panel 
+[Submit questions to our upcoming community panel](https://docs.google.com/forms/d/e/1FAIpQLSc1v1qJ_0WqOvl1-bHWrcTcEJdJyKFUDY3xbhJsWdce2blm1g/viewform)
 
-Read our success stories (coming  soon) 
+Read our success stories (coming soon) 
+
 Partnerships (coming soon) 
-Show your love for open science =(Link to linkedin frames and I’m not 100% sure we can do this because we would have to create a landing page with the file - but it would be SO COOL if we could) 
-Get yourself or someone some TOPS Swag (coming soon) (this would be a PDF of our poster and the year of open science poster…. 
+
+[Show your love for open science](https://www.canva.com/design/DAE_9KAimo4/HGjINSG0FYnFPfjxHUTcIQ/edit)
+
+Get yourself or someone some TOPS Swag (coming soon)
