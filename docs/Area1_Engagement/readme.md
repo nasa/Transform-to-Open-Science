@@ -15,20 +15,20 @@ The bottom line is that we have ambitious goals and need YOU and your organizati
 
 Here are some quick links that can help you get started:   
 
-[Read our publications](./tops_publications.md)
+- [Read our publications](./tops_publications.md)
 
-Download our podcast (coming soon) 
+- Download our podcast (coming soon) 
 
-[Find us at a conference](./tops_conferences.md)
+- [Find us at a conference](./tops_conferences.md)
 
-[Participate in a listening session](https://go.nasa.gov/36aVsmH)
+- [Participate in a listening session](https://go.nasa.gov/36aVsmH)
 
-[Submit questions to our upcoming community panel](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)
+- [Submit questions to our upcoming community panel](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)
 
-Read our success stories (coming soon) 
+- Read our success stories (coming soon) 
 
-Partnerships (coming soon) 
+- Partnerships (coming soon) 
 
-[Show your love for open science](https://www.canva.com/design/DAE_9KAimo4/HGjINSG0FYnFPfjxHUTcIQ/edit)
+- [Show your love for open science](https://www.canva.com/design/DAE_9KAimo4/HGjINSG0FYnFPfjxHUTcIQ/edit)
 
-Get yourself or someone some TOPS Swag (coming soon)
+- Get yourself or someone some TOPS Swag (coming soon)
