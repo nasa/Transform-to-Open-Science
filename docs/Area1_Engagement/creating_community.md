@@ -1,4 +1,5 @@
 ## Creating Community: Our Ground Game
+<img align="right" src="././assets/github/Communities_CynthiaHall.png">
 Open Science is built on community. Central to its success is diversity, inclusivity, accessibility and equity. NASA’s Transform to Open Science (TOPS) efforts can’t be successful without working with diverse communities. When we learn from each other, we all come out stronger. 
 
 With 2023 on the horizon, and The Year of Open Science quickly approaching, our efforts revolve around two primary areas of focus: [inreach to existing](./inreach.md) communities of practice and [outreach](./outreach.md) to communities of potential. 
