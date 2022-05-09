@@ -7,11 +7,11 @@ We can’t reach our goals solely through inreach efforts. To reach the broadest
 
 Here are some ways we collaborate and communicate with communities:
 
-Host listening sessions
+[Host listening sessions](https://go.nasa.gov/36aVsmH)
 
 Participate in webinars at community meetings
 
-Codevelop open science curricula
+[Codevelop open science curricula](../Area2_Capacity_Sharing/opencore/opencore.md)
 
 Co-create a forum with diverse voices/perspectives
 
@@ -21,7 +21,7 @@ Develop podcast with the Geoscience and Remote Sensing Society (GRSS), a technic
 
 Collaborate with communities focused on historically underrepresented groups
 
-Promote open science in High Priority Publications, through a roadshow (virtual if necessary) to brief editorial boards of top science publications, publishing pieces in high priority publications - scientific and popular media forms, and write Op-eds in key publications
+Promote open science in [High Priority Publications](../tops_publications.md), through a roadshow (virtual if necessary) to brief editorial boards of top science publications, publishing pieces in high priority publications - scientific and popular media forms, and write Op-eds in key publications
 
 If your community is interested in working together, please contact us.
 
