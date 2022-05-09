@@ -25,22 +25,6 @@ This virtual meeting is open to all and free to attend.
 **Proposed Schedule:**
 
 
-<style>
-    .heatMap {
-        width: 100%;
-        text-align: left;
-    }
-    .heatMap th {
-        background: grey;
-        word-wrap: break-word;
-        text-align: left;
-    }
-    .heatMap tr:nth-child(1) { background: teal; }
-    .heatMap tr:nth-child(3) { background: beige; }
-</style>
-
-<div class="heatMap">
-
 | **Time (ET)** | **Agenda Item**                            | **Description**    |
 |---------------|--------------------------------------------|--------------------|
 | 2:00 PM       | Introduction and Review of Code of Conduct | Yvonne             |
