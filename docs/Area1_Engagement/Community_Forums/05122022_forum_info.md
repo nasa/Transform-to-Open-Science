@@ -2,9 +2,15 @@
 
 
 **Related Resources:** [Community Forum Strategy](./Community_Engagement_Listening_Sessions.md)
+
+
 **Planning Lead:**
+
+
 **Communications Lead:** Cynthia Hall
-**Day of Tech:** Christian Reyez
+
+
+**Day of Tech:** Christian Reyes
 
 
 **Objective:** In the spirit of openness and transparency, TOPS will hold a community forum where we will 
