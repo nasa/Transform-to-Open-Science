@@ -14,11 +14,11 @@
 
 
 
-| **Time (ET)** | **Agenda Item**                            |
-|---------------|--------------------------------------------|
-| 2:00 PM       | Introduction and Review of Code of Conduct |
-| 2:05 PM       | Welcome                                    |
-| 2:15 PM       | TOPS Overview                              |
-| 2:20 PM       | Breakdown of TOPS areas of actions         |
-| 2:40 PM       | Q&A                                        |
-| 2:55 PM       | Announcement and Next Steps                |
+| **Time (ET)** | **Agenda Item**                            | **Description**       |
+|---------------|--------------------------------------------|-----------------------|
+| 2:00 PM       | Introduction and Review of Code of Conduct | Yvonne Ivey           |
+| 2:05 PM       | Welcome                                    | Kevin Murphy          |
+| 2:15 PM       | TOPS Overview                              | Dr. Chelle Gentemann  |
+| 2:20 PM       | Breakdown of TOPS areas of actions         | Yvonne Ivey           |
+| 2:40 PM       | Q&A                                        | Dr. Karla Mastracchio |
+| 2:55 PM       | Announcement and Next Steps                | Yvonne Ivey           |
