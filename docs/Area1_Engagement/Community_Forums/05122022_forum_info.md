@@ -1,7 +1,7 @@
 # Meeting Title: TOPS Community Forum - May 2022
 
 
-**Related Resources:** [Community Forum Strategy](./Community_Engagement_Listening_Sessions.md)
+**Related Resources:** [Community Forum Strategy](./readme.md)
 
 
 **Planning Lead:**
