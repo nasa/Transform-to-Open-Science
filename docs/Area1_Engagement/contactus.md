@@ -1,5 +1,5 @@
 ## Contact us!
-Want TOPS at your event? Let us know!
+Want TOPS at your event? Let us know! We want to hear from you!
 
 [Sign up to receive emails](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform)
 
