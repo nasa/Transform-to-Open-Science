@@ -1,43 +1,24 @@
-# Meeting Title: TOPS Community Forum - May 2022
-
-
-**Related Resources:** [Community Forum Strategy](./readme.md)
-
-
-**Planning Lead:**
-
-
-**Communications Lead:** Cynthia Hall
-
-
-**Day of Tech:** Christian Reyes
-
-
-**Objective:** In the spirit of openness and transparency, TOPS will hold a community forum where we will 
-give an overview of current TOPS and 2023 Year of Open Science plans, answer questions, and receive feedback. 
-This virtual meeting is open to all and free to attend.
-
-
-**Audience:**
+# TOPS Community Forum - May 2022
 
 
 **Date:** May 12, 2022
 
 
-**Logistical details**: Webex + IO Tool for Q&A 
-
-**Registration Info:**
-
-**Proposed Schedule:**
+**Time:** 2:00 PM ET
 
 
-| **Time (ET)** | **Agenda Item**                            | **Description**    |
-|---------------|--------------------------------------------|--------------------|
-| 2:00 PM       | Introduction and Review of Code of Conduct | Yvonne             |
-| 2:05 PM       | Welcome                                    | Kevin Murphy       |
-| 2:15 PM       | TOPS Overview                              | Chelle             |
-| 2:20 PM       | Breakdown of TOPS areas of actions         | Yvonne             |
-| 2:40 PM       | Q&A                                        | Karla (Cyndi Chat) |
-| 2:55 PM       | Announcement and Next Steps                | Yvonne             |
+[Click here to register!](https://go.nasa.gov/36aVsmH)
 
-</div>
+
+[Please also review our code of conduct here.]()
+
+
+
+| **Time (ET)** | **Agenda Item**                            |
+|---------------|--------------------------------------------|
+| 2:00 PM       | Introduction and Review of Code of Conduct |
+| 2:05 PM       | Welcome                                    |
+| 2:15 PM       | TOPS Overview                              |
+| 2:20 PM       | Breakdown of TOPS areas of actions         |
+| 2:40 PM       | Q&A                                        |
+| 2:55 PM       | Announcement and Next Steps                |
