@@ -1,6 +1,6 @@
 ## Condensed Version
 
-Be kind and collaborative. Critique ideas, not people. Communicate Freely while being receptive to a diversity of opinions, viewpoints, and backgrounds.
+Be kind and collaborative. Critique ideas, not people. Communicate freely while being receptive to a diversity of opinions, viewpoints, and backgrounds.
 
 ## Extended Version
 
