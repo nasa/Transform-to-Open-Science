@@ -10,7 +10,7 @@
 [Click here to register!](https://go.nasa.gov/36aVsmH)
 
 
-[Please review our code of conduct here.](../code_of_conduct.md)
+[Please review our code of conduct here.](../Community_Forums/code_of_conduct.md)
 
 
 
