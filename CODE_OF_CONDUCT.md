@@ -60,7 +60,7 @@ decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.  In-person and virtual activities will also provide further guidance on appropriate conduct at those events. 
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.  [In-person and virtual activities will also provide further guidance on appropriate conduct at those events.](./docs/Area1_Engagement/Community_Forums/code_of_conduct.md)
 
 ## Reporting Guidelines
 
