@@ -1,5 +1,5 @@
-# Announcements - TOPS public events!
-- 12 May 2022 2PM EDT  [TOPS Community Forum](./docs/Area1_Engagement/Community_Forums/05122022_forum_info.md)
+# Announcements!
+- 12 May 2022 [TOPS Community Forum](./docs/Area1_Engagement/Community_Forums/05122022_forum_info.md)
 - 17-19 May 2022 [TOPS Community Panel](./docs/Area1_Engagement/community_panel.md)
 - [Funding Opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
 
