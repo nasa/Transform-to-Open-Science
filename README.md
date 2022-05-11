@@ -1,8 +1,11 @@
 # Announcements - TOPS public events!
 - 12 May 2022 2PM EST (11AM PST). TOPS Community Forum: Virtual. [Registration link](https://go.nasa.gov/36aVsmH). This one hour Webex event will provide an update from the TOPS team, an overview of planned activities for the 2023 Year of Open Science, and a short Q&A.
 - 17-19 May 2022, 12-3 EST (9-12 PST), each day. TOPS Community Panel 1: Virtual. [Registration link](https://forms.gle/sgLgwM1nxGzqJbuA6). Each day we will have a deep dive into TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
-
-
+- **Funding Opportunity** The Open Source Science Initiative (OSSI) welcomes proposals relevant to its goals to
+expand open science for the Science Mission Directorate. See section 3.6.1 at this [link](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bC669B5EF-ACBB-A0E4-B57D-06F31DEABDB5%7d&path=&method=init)
+     - Events focused on SMD data, software, or open science practices
+     - Hackathons, un-conferences, and challenges that build open science skills
+     - Training in open science
 
 
 <img align="right" src="https://github.com/nasa/Transform-to-Open-Science/blob/main/assets/logos/Tops_logo%404x.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
