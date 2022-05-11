@@ -1,10 +1,7 @@
 # Announcements - TOPS public events!
 - 12 May 2022 2PM EDT  [TOPS Community Forum](./docs/Area1_Engagement/Community_Forums/05122022_forum_info.md)
 - 17-19 May 2022 [TOPS Community Panel](./docs/Area1_Engagement/community_panel.md)
-- **Funding Opportunity** The Open Source Science Initiative ([OSSI](https://science.nasa.gov/open-science-overview)) welcomes proposals relevant to its goals to expand open science for the Science Mission Directorate at this [link](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bC669B5EF-ACBB-A0E4-B57D-06F31DEABDB5%7d&path=&method=init). See section 3.6.1 at this [link](https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=860804&solicitationId={C669B5EF-ACBB-A0E4-B57D-06F31DEABDB5}&viewSolicitationDocument=1)
-     - Events focused on SMD data, software, or open science practices
-     - Hackathons, un-conferences, and challenges that build open science skills
-     - Training in open science
+- [Funding Opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
 
 
 <img align="right" src="https://github.com/nasa/Transform-to-Open-Science/blob/main/assets/logos/Tops_logo%404x.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
