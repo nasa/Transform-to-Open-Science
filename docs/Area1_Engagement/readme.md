@@ -1,5 +1,5 @@
 # TOPS Engagement Strategy
-TOPS is made up of a small and passionate team that uses [inreach](./inreach.md) and [outreach](./outreach.md) strategies to create community and spark positive change towards open science. Our team is building a vibrant open science community that will change the future of science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to The Year of Open Science kickoff in 2023. 
+TOPS is made up of a small and passionate team that uses [inreach](./inreach.md) and [outreach](./outreach.md) strategies to [create community](./creating_community.md) and spark positive change towards open science. Our team is building a vibrant open science community that will change the future of science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to The Year of Open Science kickoff in 2023. 
 
 We need your participation to be successful! There are many ways you can engage with us! We use mediated and face-to-face practices that increase open-science visibility, create knowledge, and build partnerships that advance open-science. 
 
