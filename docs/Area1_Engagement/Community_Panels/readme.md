@@ -2,9 +2,7 @@
 
 ## Announcements
 
-
-
-* TOPS Community Panel public (virtual) meeting: 17-19 May 2022, 12-3 EST (9-12 PST), each day. [Registration link](https://forms.gle/sgLgwM1nxGzqJbuA6). Each day we will present TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
+* 17-19 May 2022 [TOPS Community Panel](./20220517_community_panel.md). Public participation encouraged.
 * We are pleased to announce our 2022 Transform to Open Science Community Panel. We received an overwhelming number of applicants and we want to express our sincere thanks to all who applied. We are excited for our first community panel next week and looking forward to the fruitful discussion that is sure to follow! 
 
 ## 2022 TOPS Community Panel:
