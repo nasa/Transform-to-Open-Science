@@ -3,7 +3,8 @@
 ## Announcements
 
 * 17-19 May 2022 [TOPS Community Panel](./20220517_community_panel.md). Public participation encouraged.
-* We are pleased to announce our 2022 Transform to Open Science Community Panel. We received an overwhelming number of applicants and we want to express our sincere thanks to all who applied. We are excited for our first community panel next week and looking forward to the fruitful discussion that is sure to follow! 
+
+We are pleased to announce our 2022 Transform to Open Science Community Panel. We received an overwhelming number of applicants and we want to express our sincere thanks to all who applied. We are excited for our first community panel next week and looking forward to the fruitful discussion that is sure to follow! 
 
 ## 2022 TOPS Community Panel:
 
