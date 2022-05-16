@@ -148,7 +148,7 @@ Links to presentations will be added the morning of the event.
   <tr>
    <td>12:05 pm
    </td>
-   <td>Overview of OpenCORE Curriculum: Engagement of Open Science Community
+   <td>Overview of OpenCore Curriculum: Engagement of Open Science Community
    </td>
    <td>Shelley Stall, Chelle Gentemann
    </td>
