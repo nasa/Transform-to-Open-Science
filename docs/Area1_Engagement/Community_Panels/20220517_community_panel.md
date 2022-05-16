@@ -161,7 +161,7 @@ Links to presentations will be added the morning of the event.
    <td>Discussion: 
 <ul>
 
-<li>Approach to Engage with Subject Matter Experts
+<li>Approach to Engagement with Subject Matter Experts
 </li>
 </ul>
    </td>
