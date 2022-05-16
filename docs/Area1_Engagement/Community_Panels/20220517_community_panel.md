@@ -21,7 +21,7 @@ Links to presentations will be added the morning of the event.
     <td colspan = "3"> <strong>Day 1: NASA's Open Science Vision</strong>
     </td>
   </tr>
-   <td><strong><em> Time (ET)</em></strong>
+   <td><strong><em>   Time (ET)  </em></strong>
    </td>
    <td><strong><em>Agenda Item</em></strong>
    </td>
