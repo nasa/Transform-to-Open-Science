@@ -52,7 +52,7 @@ Links to presentations will be added the morning of the event.
    </td>
   </tr>
   <tr>
-   <td>12:20 pm
+   <td>12:25 pm
    </td>
    <td>Introduction of Panelists
    </td>
