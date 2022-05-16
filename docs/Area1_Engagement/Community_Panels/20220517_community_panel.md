@@ -294,7 +294,7 @@ Links to presentations will be added the morning of the event.
   <tr>
    <td>1:30 pm
    </td>
-   <td>Open discussion
+   <td>Open Discussion
    </td>
    <td>Greg Tananbaum
    </td>
@@ -318,7 +318,7 @@ Links to presentations will be added the morning of the event.
   <tr>
    <td>2:20 pm
    </td>
-   <td>Discussion: Open topics suggested by panel
+   <td>Discussion: Open Topics Suggested by Panel
    </td>
    <td>Chelle Gentemann, Yvonne Ivey
    </td>
@@ -326,7 +326,7 @@ Links to presentations will be added the morning of the event.
   <tr>
    <td>2:40 pm
    </td>
-   <td>Next Steps
+   <td>Next Steps and Panel Wrap-up
    </td>
    <td>Yvonne Ivey
    </td>
