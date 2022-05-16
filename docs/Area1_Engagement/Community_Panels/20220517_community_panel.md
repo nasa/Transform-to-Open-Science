@@ -8,6 +8,10 @@
 
 Each day we will present TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
 
+
+[Please also take a moment to review our Code of Conduct here](../../../CODE_OF_CONDUCT.md)
+
+
 Panels will be recorded and posted here.   
 Links to the videos will be added here.  
 Links to presentations will be added the morning of the event. 
