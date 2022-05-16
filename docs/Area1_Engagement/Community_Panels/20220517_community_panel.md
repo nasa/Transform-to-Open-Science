@@ -87,7 +87,7 @@ Links to presentations will be added the morning of the event.
   <tr>
    <td>1:40 pm
    </td>
-   <td>Q&A
+   <td>Discusssion
    </td>
    <td>Yvonne Ivey, 
      <br>
