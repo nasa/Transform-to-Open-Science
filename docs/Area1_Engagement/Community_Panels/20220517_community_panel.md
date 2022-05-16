@@ -262,7 +262,7 @@ Links to presentations will be added the morning of the event.
   <tr>
    <td>12:05 pm
    </td>
-   <td>Moving to Openness - Policy
+   <td>NASA's Open Science Policies
    </td>
    <td>Steve Crawford
    </td>
@@ -286,15 +286,15 @@ Links to presentations will be added the morning of the event.
   <tr>
    <td>1:10 pm
    </td>
-   <td>To change everything, we need everyone
+   <td>To Change Everything, We Need Everyone
    </td>
-   <td>Greg Tananbaum - Open Research Funders Group
+   <td>Greg Tananbaum
    </td>
   </tr>
   <tr>
    <td>1:30 pm
    </td>
-   <td>Q&A
+   <td>Open discussion
    </td>
    <td>Greg Tananbaum
    </td>
