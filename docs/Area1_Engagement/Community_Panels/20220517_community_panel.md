@@ -16,13 +16,12 @@ Panels will be recorded and posted here.
 Links to the videos will be added here.  
 Links to presentations will be added the morning of the event. 
 
-
-**Day 1: NASA’s Open Science Vision**
-
-
 <table>
   <tr>
-   <td><strong><em>Time (ET)</em></strong>
+    <td colspan = "3"> <strong>Day 1: NASA's Open Science Vision</strong>
+    </td>
+  </tr>
+   <td><strong><em> Time (ET)</em></strong>
    </td>
    <td><strong><em>Agenda Item</em></strong>
    </td>
@@ -90,7 +89,9 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>Q&A
    </td>
-   <td>Yvonne Ivey, Chelle Gentemann
+   <td>Yvonne Ivey, 
+     <br>
+     Chelle Gentemann
    </td>
   </tr>
   <tr>
@@ -115,7 +116,10 @@ Links to presentations will be added the morning of the event.
 </li>
 </ul>
    </td>
-   <td>Chelle Gentemann, Yvonne Ivey, Steve Crawford
+   <td>Chelle Gentemann, 
+     <br>
+     Yvonne Ivey, <br>
+     Steve Crawford
    </td>
   </tr>
   <tr>
@@ -126,14 +130,18 @@ Links to presentations will be added the morning of the event.
    <td>Yvonne Ivey
    </td>
   </tr>
-</table>
-
-
-**Day 2: Transform to Open Science Curriculum Plans**
-
-
-<table>
   <tr>
+  </tr>
+  <tr>
+  <td colspan = "3"></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td colspan = "3"> <strong>Day 2: Transform to Open Science Curriculum Plans</strong>
+    </td>
+  </tr>
+    <tr>
    <td><strong><em> Time (ET)</em></strong>
    </td>
    <td><strong><em>Agenda Item</em></strong>
@@ -154,7 +162,9 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>Overview of OpenCore Curriculum: Engagement of Open Science Community
    </td>
-   <td>Shelley Stall, Chelle Gentemann
+   <td>Shelley Stall, 
+     <br>
+     Chelle Gentemann
    </td>
   </tr>
   <tr>
@@ -183,7 +193,9 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>Testing, Management, and Maintenance:  Continued Engagement, Community Involvement
    </td>
-   <td>Chris Erdmann, Laura Lyon, Shelley Stall
+   <td>Chris Erdmann, 
+     <br>Laura Lyon, 
+     <br>Shelley Stall
    </td>
   </tr>
   <tr>
@@ -198,7 +210,10 @@ Links to presentations will be added the morning of the event.
 </li>
 </ul>
    </td>
-   <td>Chris Erdmann, Laura Lyon, Shelley Stall
+   <td>Chris Erdmann, 
+     <br>
+     Laura Lyon, <br>
+     Shelley Stall
    </td>
   </tr>
   <tr>
@@ -229,7 +244,8 @@ Links to presentations will be added the morning of the event.
 </li>
 </ul>
    </td>
-   <td>Yvonne Ivey, Chelle Gentemann
+   <td>Yvonne Ivey, 
+     <br>Chelle Gentemann
    </td>
   </tr>
   <tr>
@@ -240,15 +256,16 @@ Links to presentations will be added the morning of the event.
    <td>Shelley Stall
    </td>
   </tr>
-</table>
-
-
-**Day 3: Engagement with Communities**
-
-
-<table>
   <tr>
-   <td><strong><em>Time (ET)</em></strong>
+  <td colspan = "3"></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  <td colspan = "3"><strong>Day 3: Engagement with Communities</strong></td>
+  </tr>
+  <tr>
+   <td><strong><em> Time (ET)</em></strong>
    </td>
    <td><strong><em>Agenda Item</em></strong>
    </td>
