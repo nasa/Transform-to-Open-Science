@@ -280,7 +280,7 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>Break
    </td>
-   <td>Yvonne Ivey
+   <td>
    </td>
   </tr>
   <tr>
