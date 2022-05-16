@@ -86,7 +86,7 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>Q&A
    </td>
-   <td>Yvonne Ivey & Chelle Gentemann
+   <td>Yvonne Ivey, Chelle Gentemann
    </td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ Links to presentations will be added the morning of the event.
 </li>
 </ul>
    </td>
-   <td>Chelle Gentemann & Yvonne Ivey & Steve Crawford
+   <td>Chelle Gentemann, Yvonne Ivey, Steve Crawford
    </td>
   </tr>
   <tr>
@@ -208,7 +208,7 @@ Links to presentations will be added the morning of the event.
   <tr>
    <td>2:10 pm
    </td>
-   <td>Transform to Open Science (TOPS): Underrepresented Community Engagement Plans
+   <td>Transform to Open Science (TOPS): Historically-excluded Community Engagement Plans
    </td>
    <td>Yvonne Ivey
    </td>
@@ -225,7 +225,7 @@ Links to presentations will be added the morning of the event.
 </li>
 </ul>
    </td>
-   <td>Yvonne Ivey & Chelle Gentemann
+   <td>Yvonne Ivey, Chelle Gentemann
    </td>
   </tr>
   <tr>
@@ -320,7 +320,7 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>Discussion: Open topics suggested by panel
    </td>
-   <td>Chelle Gentemann & Yvonne Ivey
+   <td>Chelle Gentemann, Yvonne Ivey
    </td>
   </tr>
   <tr>
