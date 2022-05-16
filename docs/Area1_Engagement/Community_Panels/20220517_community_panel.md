@@ -21,11 +21,11 @@ Links to presentations will be added the morning of the event.
     <td colspan = "3"> <strong>Day 1: NASA's Open Science Vision</strong>
     </td>
   </tr>
-   <td><strong><em>Time (ET)</em></strong>
+   <td width = "10%"><strong><em>Time (ET)</em></strong>
    </td>
    <td><strong><em>Agenda Item</em></strong>
    </td>
-   <td><strong><em>Description</em></strong>
+   <td width = "20%"><strong><em>Description</em></strong>
    </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>Discusssion
    </td>
-   <td>Yvonne Ivey, 
+   <td>Yvonne Ivey
      <br>
      Chelle Gentemann
    </td>
@@ -116,9 +116,10 @@ Links to presentations will be added the morning of the event.
 </li>
 </ul>
    </td>
-   <td>Chelle Gentemann, 
+   <td>Chelle Gentemann
      <br>
-     Yvonne Ivey, <br>
+     Yvonne Ivey
+     <br>
      Steve Crawford
    </td>
   </tr>
@@ -162,7 +163,7 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>Overview of OpenCore Curriculum: Engagement of Open Science Community
    </td>
-   <td>Shelley Stall, 
+   <td>Shelley Stall
      <br>
      Chelle Gentemann
    </td>
@@ -177,7 +178,9 @@ Links to presentations will be added the morning of the event.
 </li>
 </ul>
    </td>
-   <td>Shelley Stall, Chelle Gentemann
+   <td>Shelley Stall
+     <br>
+     Chelle Gentemann
    </td>
   </tr>
   <tr>
@@ -193,9 +196,11 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>Testing, Management, and Maintenance:  Continued Engagement, Community Involvement
    </td>
-   <td>Chris Erdmann, 
-     <br>Laura Lyon, 
-     <br>Shelley Stall
+   <td>Chris Erdmann
+     <br>
+     Laura Lyon
+     <br>
+     Shelley Stall
    </td>
   </tr>
   <tr>
@@ -210,9 +215,10 @@ Links to presentations will be added the morning of the event.
 </li>
 </ul>
    </td>
-   <td>Chris Erdmann, 
+   <td>Chris Erdmann
      <br>
-     Laura Lyon, <br>
+     Laura Lyon
+     <br>
      Shelley Stall
    </td>
   </tr>
@@ -244,8 +250,9 @@ Links to presentations will be added the morning of the event.
 </li>
 </ul>
    </td>
-   <td>Yvonne Ivey, 
-     <br>Chelle Gentemann
+   <td>Yvonne Ivey
+     <br>
+     Chelle Gentemann
    </td>
   </tr>
   <tr>
@@ -341,7 +348,9 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>Discussion: Open Topics Suggested by Panel
    </td>
-   <td>Chelle Gentemann, Yvonne Ivey
+   <td>Chelle Gentemann
+     <br>
+     Yvonne Ivey
    </td>
   </tr>
   <tr>
