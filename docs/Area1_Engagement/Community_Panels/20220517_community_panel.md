@@ -8,7 +8,9 @@
 
 Each day we will present TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
 
-Panels will be recorded and posted on the NASA TOPS website. Links to the videos will be added here.
+Panels will be recorded and posted on the NASA TOPS website.   
+Links to the videos will be added here.  
+Links to presentations will be added the morning of the event. 
 
 
 **Day 1: NASA’s Open Science Vision**
