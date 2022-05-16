@@ -14,10 +14,6 @@ Panels will be recorded and posted here.
 Links to the videos will be added here.  
 Links to presentations will be added the morning of the event. 
 
-
-**Day 1: NASA’s Open Science Vision**
-
-
 <table>
   <tr>
     <td colspan = "3"> <strong>Day 1: NASA's Open Science Vision</strong>
