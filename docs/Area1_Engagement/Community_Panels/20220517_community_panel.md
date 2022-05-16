@@ -129,6 +129,9 @@ Links to presentations will be added the morning of the event.
    </td>
   </tr>
   <tr>
+  <td colspan = "3"></td>
+  </tr>
+  <tr>
     <td colspan = "3"> <strong>Day 2: Transform to Open Science Curriculum Plans</strong>
     </td>
   </tr>
@@ -246,6 +249,9 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>Shelley Stall
    </td>
+  </tr>
+  <tr>
+  <td colspan = "3"></td>
   </tr>
   <tr>
   <td colspan = "3"><strong>Day 3: Engagement with Communities</strong></td>
