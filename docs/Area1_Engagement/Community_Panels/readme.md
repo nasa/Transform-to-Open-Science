@@ -18,7 +18,7 @@ We are pleased to announce our 2022 Transform to Open Science Community Panel. W
 1. [Logan Kilpatrick](https://www.linkedin.com/in/logankilpatrick/)
 1. [Brian Nosek](https://osf.io/cdi38/)
 1. [Fernando Perez](https://fperez.org)
-1. [Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan)
+1. [Malvika Sharan](https://www.turing.ac.uk/people/researchers/malvika-sharan)
 1. [Gloria Washington](https://profiles.howard.edu/profile/45491/gloria-washington)
 1. [Talitha Washington](http://www.talithawashington.com/)
 1. [Lou Woodley](https://www.cscce.org/research/)
