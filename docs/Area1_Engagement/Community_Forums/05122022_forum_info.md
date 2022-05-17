@@ -7,7 +7,7 @@
 **Time:** 2:00 PM ET
 
 
-[Click here to register!](https://go.nasa.gov/36aVsmH)
+[Link to Video Recording](https://www.youtube.com/watch?v=Gzg_xTEUOII)
 
 
 [Please review our code of conduct here.](../Community_Forums/code_of_conduct.md)
