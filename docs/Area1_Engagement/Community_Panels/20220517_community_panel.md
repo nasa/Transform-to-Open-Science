@@ -4,7 +4,7 @@
 **Where:** Public (virtual) meeting  
 **When:** 17-19 May 2022, 12-3 EST (9-12 PST), each day.  
 **How:** [Registration link](https://forms.gle/sgLgwM1nxGzqJbuA6)  
-**Questions?** [Submit new questions and upvote existing questions through this tool](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)
+**Questions?** [Submit new questions and upvote existing questions through this tool](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)  
 **Slides:** [Panel slides](https://doi.org/10.5281/zenodo.6555260), each morning more slides will be added.
 
 Each day we will present TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
