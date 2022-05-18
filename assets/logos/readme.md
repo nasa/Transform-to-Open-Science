@@ -18,7 +18,7 @@ Light Tan: RGB: 253/250/225 HEX: fdfae1\
 
 - Designer: Tanner Boeger, tannerboeger@me.com
 
-- License: CCA 4.0
+- License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5296672.svg)](https://doi.org/10.5281/zenodo.5296672)
 
