@@ -5,16 +5,15 @@
 **When:** 17-19 May 2022, 12-3 EST (9-12 PST), each day.  
 **How:** [Registration link](https://forms.gle/sgLgwM1nxGzqJbuA6)  
 **Questions?** [Submit new questions and upvote existing questions through this tool](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)  
-**Slides:** [Panel slides](https://doi.org/10.5281/zenodo.6555260), each morning more slides will be added.
+**Slides:** [Panel slides](https://doi.org/10.5281/zenodo.6555260), each morning more slides will be added.  
+**Recordings:** [Day 1 Recording](https://www.youtube.com/watch?v=MkND79xz-sI)
 
 Each day we will present TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
 
 
 [Please also take a moment to review our Code of Conduct here](../../../CODE_OF_CONDUCT.md)
 
-
-Panels will be recorded and posted here.   
-Links to the videos will be added here.  
+  
 Links to presentations will be added the morning of the event. 
 
 <table>
