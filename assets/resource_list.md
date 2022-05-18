@@ -13,8 +13,16 @@
 - [Guidance](https://data.agu.org/resources/jupyter-notebooks-guidance) for authors: Jupyter Notebooks
 - The Turing Way [handbook](https://the-turing-way.netlify.app/welcome) to reproducible, ethical and collaborative data science
 - A [Guide](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EA001797) to Using GitHub for Developing and Versioning Data Standards and Reporting Formats
+- [Center for Open Science](https://osf.io/vkhbt/wiki/home/)
 - Open coding and data learning materials: [The Carpentries](https://carpentries.org/)
 - Openscapes open science mentorship [program](https://www.openscapes.org/)
 - Online resource [list](https://github.com/asoplata/open-science-resources)
 - [Python](https://prappleizer.github.io/index.html) for astronomers
-- Scientific [python](https://projectpythia.org/)
+- [Project Pythia (Pangeo)](https://projectpythia.org/)
+
+## Existing Open Science MOOCs
+
+- [OpenScienceMOOC](https://opensciencemooc.eu/)
+- [Foster](https://www.fosteropenscience.eu/toolkit)
+- [TUDelft](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/)
+- [Eurodoc Ambassador Training](http://eurodoc.net/ambassadors)
