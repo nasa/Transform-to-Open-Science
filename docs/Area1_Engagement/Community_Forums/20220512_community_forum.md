@@ -7,7 +7,7 @@
 **Time:** 2:00 PM ET
 
 
-[Link to Video Recording](https://www.youtube.com/watch?v=Gzg_xTEUOII)
+[Video Recording](https://www.youtube.com/watch?v=Gzg_xTEUOII)
 
 
 [Please review our code of conduct here.](../Community_Forums/code_of_conduct.md)
