@@ -25,7 +25,7 @@ Links to presentations will be added the morning of the event.
    </td>
    <td><strong><em>Agenda Item</em></strong>
    </td>
-   <td width = "20%"><strong><em>Description</em></strong>
+   <td width = "20%"><strong><em>Presenter</em></strong>
    </td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ Links to presentations will be added the morning of the event.
    </td>
    <td><strong><em>Agenda Item</em></strong>
    </td>
-   <td><strong><em>Description</em></strong>
+   <td><strong><em>Presenter</em></strong>
    </td>
   </tr>
 
@@ -273,7 +273,7 @@ Links to presentations will be added the morning of the event.
    </td>
    <td><strong><em>Agenda Item</em></strong>
    </td>
-   <td><strong><em>Description</em></strong>
+   <td><strong><em>Presenter</em></strong>
    </td>
   </tr>
   <tr>
@@ -335,13 +335,13 @@ Links to presentations will be added the morning of the event.
   <tr>
    <td>2:10 pm
    </td>
-   <td>Transform to Open Science (TOPS): Moving to Openness
+   <td>Transform to Open Science (TOPS): Community Engagement Plans
    </td>
-   <td>Chelle Gentemann
+   <td>Yvonne Ivey
    </td>
   </tr>
   <tr>
-   <td>2:20 pm
+   <td>2:30 pm
    </td>
    <td>Discussion: Open Topics Suggested by Panel
    </td>
