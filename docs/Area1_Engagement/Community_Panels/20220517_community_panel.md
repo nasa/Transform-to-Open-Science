@@ -150,6 +150,8 @@ Links to presentations will be added the morning of the event.
    <td><strong><em>Description</em></strong>
    </td>
   </tr>
+
+
   <tr>
    <td>12:00 pm
    </td>
@@ -161,69 +163,61 @@ Links to presentations will be added the morning of the event.
   <tr>
    <td>12:05 pm
    </td>
-   <td>Overview of OpenCore Curriculum: Engagement of Open Science Community
+   <td>Expectations of Panelist 
    </td>
-   <td>Shelley Stall
-     <br>
-     Chelle Gentemann
+   <td>Chelle Gentemann 
    </td>
   </tr>
   <tr>
-   <td>12:30 pm
+   <td>12:10 pm
    </td>
-   <td>Discussion: 
-<ul>
-
-<li>Approach to Engagement with Subject Matter Experts
-</li>
-</ul>
+   <td>Recap of Day One 
    </td>
-   <td>Shelley Stall
-     <br>
-     Chelle Gentemann
+   <td>Yvonne Ivey
    </td>
   </tr>
   <tr>
-   <td>1:00 pm
+   <td>12:20 pm
    </td>
-   <td>Break
+   <td>Overview of OpenCore Curriculum
    </td>
-   <td>
+   <td>Shelley Stall & Chelle Gentemann
+   </td>
+  </tr>
+  <tr>
+   <td>12:45 pm
+   </td>
+   <td>Discussion
+   </td>
+   <td>Shelley Stall & Chelle Gentemann
    </td>
   </tr>
   <tr>
    <td>1:10 pm
    </td>
-   <td>Testing, Management, and Maintenance:  Continued Engagement, Community Involvement
+   <td>Break
    </td>
-   <td>Chris Erdmann
-     <br>
-     Laura Lyon
-     <br>
-     Shelley Stall
+   <td>
    </td>
   </tr>
   <tr>
-   <td>1:25 pm
+   <td>1:20 pm
    </td>
-   <td>Discussion: 
-<ul>
-
-<li>Feedback on Curriculum Testing Approach
-
-<li>Community Development Approach
-</li>
-</ul>
+   <td>Engagement of Open Science Community
    </td>
-   <td>Chris Erdmann
-     <br>
-     Laura Lyon
-     <br>
-     Shelley Stall
+   <td>Chris Erdmann, Laura Lyon, Shelley Stall
    </td>
   </tr>
   <tr>
-   <td>2:00 pm
+   <td>1:40 pm
+   </td>
+   <td>Discussion
+   </td>
+   <td>Chris Erdmann, Laura Lyon, Shelley Stall
+   </td>
+  </tr>
+  <tr>
+   <td>2:10 pm
    </td>
    <td>Break
    </td>
@@ -231,28 +225,19 @@ Links to presentations will be added the morning of the event.
    </td>
   </tr>
   <tr>
-   <td>2:10 pm
+   <td>2:20 pm
    </td>
-   <td>Transform to Open Science (TOPS): Historically-excluded Community Engagement Plans
+   <td>Testing, Management, and Maintenance:  Continued Engagement, Community Involvement
    </td>
-   <td>Yvonne Ivey
+   <td>Laura Lyon, Chris Erdmann, Shelley Stall
    </td>
   </tr>
   <tr>
-   <td>2:20 pm
+   <td>2:35 pm
    </td>
-   <td>Discussion:
-<ul>
-
-<li>Open doesn’t mean open for everyone. To some communities, openness has resulted in exploitation. How do we ensure that openness is equitable? 
-
-<li>How do we ensure that communities historically excluded from science are reached by TOPS? 
-</li>
-</ul>
+   <td>Discussion
    </td>
-   <td>Yvonne Ivey
-     <br>
-     Chelle Gentemann
+   <td>Laura Lyon, Chris Erdmann, Shelley Stall
    </td>
   </tr>
   <tr>
@@ -260,9 +245,21 @@ Links to presentations will be added the morning of the event.
    </td>
    <td>End of Day Wrap Up
    </td>
-   <td>Shelley Stall
+   <td>Yvonne Ivey
    </td>
   </tr>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <tr>
   <td colspan = "3"></td>
   </tr>
