@@ -6,6 +6,7 @@
 
 **Time:** 2:00 PM ET
 
+[Slides](https://doi.org/10.5281/zenodo.6324320)  
 
 [Video Recording](https://www.youtube.com/watch?v=Gzg_xTEUOII)
 
