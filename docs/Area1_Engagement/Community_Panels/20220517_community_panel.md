@@ -311,7 +311,7 @@ Links to presentations will be added the morning of the event.
   <tr>
    <td>1:10 pm
    </td>
-   <td>To Change Everything, We Need Everyone
+   <td>Cross-Sector Developments in the Alignment of Open Scholarship Incentives
    </td>
    <td>Greg Tananbaum
    </td>
