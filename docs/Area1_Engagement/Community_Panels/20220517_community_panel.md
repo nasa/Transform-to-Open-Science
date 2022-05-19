@@ -6,7 +6,7 @@
 **How:** [Registration link](https://forms.gle/sgLgwM1nxGzqJbuA6)  
 **Questions?** [Submit new questions and upvote existing questions through this tool](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)  
 **Slides:** [Panel slides](https://doi.org/10.5281/zenodo.6555260), each morning more slides will be added.  
-**Recordings:** [Day 1 Recording](https://www.youtube.com/watch?v=MkND79xz-sI)
+**Recordings:** [Day 1 Recording](https://www.youtube.com/watch?v=MkND79xz-sI), [Day 2 Recording](https://www.youtube.com/watch?v=Nt31-2g3G_4)
 
 Each day we will present TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
 
