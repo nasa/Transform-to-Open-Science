@@ -1,5 +1,5 @@
 # Announcements!
-- 12 May 2022 [TOPS Community Forum](.docs/Area1_Engagement/Community_Forums/20220512_community_forum.md)
+- 12 May 2022 [TOPS Community Forum](./docs/Area1_Engagement/Community_Forums/20220512_community_forum.md)
 - 17-19 May 2022 [TOPS Community Panel](./docs/Area1_Engagement/Community_Panels/20220517_community_panel.md)
 - [Funding Opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
 - [Job Opportunity - Program Manager, Science and Data (AGU TOPS Team)](https://jobs.agu.org/program-manager-science-andamp-data/job/19185688)
