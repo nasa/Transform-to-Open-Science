@@ -1,0 +1,12 @@
+sass:
+  sass_dir: _sass
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+paginate: 10
+paginate_path: "/news/page:num/"
+
+plugins:
+  - jekyll-plugins
