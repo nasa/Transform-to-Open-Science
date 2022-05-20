@@ -18,6 +18,15 @@
 - Openscapes open science mentorship [program](https://www.openscapes.org/)
 - Online resource [list](https://github.com/asoplata/open-science-resources)
 - [Python](https://prappleizer.github.io/index.html) for astronomers
+
+- Scientific [python](https://projectpythia.org/)
+
+## Python Learning Recorces
+- A [Guide](https://gist.github.com/kenjyco/69eeb503125035f21a9d) to python basics
+- Xarray python [Tutorial](https://unidata.github.io/python-training/workshop/XArray/xarray-introduction/)
+- Numpy python [Tutorial](https://numpy.org/devdocs/user/absolute_beginners.html)
+- Cartopy python [Tutorial](https://rabernat.github.io/research_computing_2018/maps-with-cartopy.html)
+- Python oceanography [Recources](https://scrapbox.io/pycoaj/oceanography)
 - [Project Pythia (Pangeo)](https://projectpythia.org/)
 
 ## Existing Open Science MOOCs
@@ -26,3 +35,4 @@
 - [Foster](https://www.fosteropenscience.eu/toolkit)
 - [TUDelft](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/)
 - [Eurodoc Ambassador Training](http://eurodoc.net/ambassadors)
+
