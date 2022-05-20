@@ -5,6 +5,7 @@
 **When:** 17-19 May 2022, 12-3 EST (9-12 PST), each day.  
 **How:** [Registration link](https://forms.gle/sgLgwM1nxGzqJbuA6)  
 **Questions?** [Submit new questions and upvote existing questions through this tool](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)  
+**Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)
 **Slides:** [Panel slides](https://doi.org/10.5281/zenodo.6555260).  
 **Recordings:** [Day 1](https://www.youtube.com/watch?v=MkND79xz-sI), [Day 2](https://www.youtube.com/watch?v=Nt31-2g3G_4), [Day 3](https://www.youtube.com/watch?v=WJgxxy1U_tw)
 
