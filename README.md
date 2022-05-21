@@ -10,7 +10,7 @@
 
 ## What We Do
 
-The world is changing rapidly. Everyday new problems emerge and it takes groundbreaking scientific discoveries to solve them. To stay ahead, the pace of science must accelerate and science needs to be even better, more accurate, and faster to enable the truly transformative breakthroughs that will help us thrive. Closed science, hoarding information and resources, silos of knowledge holds science back. We need more voices that work together and share knowledge and resources. Only then will we find new and unexpected solutions. Transforming to Open Science (TOPS) will allow us to create a scientific culture that is ready for 21st century challenges. Open Science will **broaden participation, increase accessibility to knowledge, and embrace new technologies** that can respond to these changes at scale. We hope you will join us in creating an open science infrastructure in your organization. TOPS will show you how! 
+The world is changing rapidly. Everyday new problems emerge and it takes groundbreaking scientific discoveries to solve them. To stay ahead, the pace of science must accelerate and science needs to be even better, more accurate, and faster to enable the truly transformative breakthroughs that will help us thrive. Closed science, hoarding information and resources, silos of knowledge holds science back by limiting who can participate. We need more voices that work together and share knowledge and resources. Only then will we find new and better solutions. NASA's Transform to Open Science (TOPS) mission will allow us to create a scientific culture that is ready for 21st century challenges. Open Science will **broaden participation, increase accessibility to knowledge, and embrace new technologies** that can respond to these changes at scale. We hope you will join us in creating an open science infrastructure in your organization. TOPS will show you how! 
 
 ## Goals
 
@@ -21,7 +21,7 @@ Open Science creates more advanced and inclusive research faster, builds a more 
 
 ## TOPS and the Year of Open Science
 
-2023 is the Year Of Open Science, a global community initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) project coordinates efforts designed to rapidly transform agencies, organizations, and communities.*
+2023 is the Year Of Open Science, a NASA initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) project coordinates efforts designed to rapidly transform agencies, organizations, and communities.*
 
 ## Implementation
 - [Area 1: Engagement](./docs/Area1_Engagement/readme.md): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
