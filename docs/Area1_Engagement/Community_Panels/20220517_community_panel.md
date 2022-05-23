@@ -7,8 +7,8 @@
 **Questions?** Submit new questions and upvote existing questions through this [tool](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)  
 **Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)  
 **Slides:** [Panel slides](https://doi.org/10.5281/zenodo.6555260)  
-**Recordings:** [Day 1](https://www.youtube.com/watch?v=MkND79xz-sI), [Day 2](https://www.youtube.com/watch?v=Nt31-2g3G_4), [Day 3](https://www.youtube.com/watch?v=WJgxxy1U_tw)
-**Transcripts:** [Day 1](https://otter.ai/s/jhQbMCTQS8-_m3soIbn7Hw), [Day 2](https://otter.ai/u/7VlDKH6yCIrwNkFGWq6oFEtNsYQ), [Day 3](https://otter.ai/u/yH9zFBW4OUuhNbsj8dgxxmj-s3Y)
+**Recordings:** [Day 1](https://www.youtube.com/watch?v=MkND79xz-sI), [Day 2](https://www.youtube.com/watch?v=Nt31-2g3G_4), [Day 3](https://www.youtube.com/watch?v=WJgxxy1U_tw)  
+**Transcripts:** [Day 1](https://otter.ai/s/jhQbMCTQS8-_m3soIbn7Hw), [Day 2](https://otter.ai/u/7VlDKH6yCIrwNkFGWq6oFEtNsYQ), [Day 3](https://otter.ai/u/yH9zFBW4OUuhNbsj8dgxxmj-s3Y)  
 
 Each day we will present TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
 
