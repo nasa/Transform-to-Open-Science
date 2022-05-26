@@ -1,4 +1,5 @@
 # Announcements!
+- AGU announces OpenCore [Leads](./docs/Area2_Capacity_Sharing/opencore/OpenCore_leads.md)
 - [Apply by June 15th to join the TOPS Curriculum Development Team](https://t.co/oYEBwytXR3)  
 - [Apply](https://t.co/X8DSfD2z4x) NASA Postdoctoral Management Fellow within [SMD Bridge Program](https://science.nasa.gov/smd-bridge-program)
 - [Funding Opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
