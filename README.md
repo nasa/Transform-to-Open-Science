@@ -1,4 +1,5 @@
 # Announcements!
+- OSTP releases [New Guidance to Ensure Federally Funded Research Data Equitably Benefits All of America](https://www.whitehouse.gov/ostp/news-updates/2022/05/26/new-guidance-to-ensure-federally-funded-research-data-equitably-benefits-all-of-america/)
 - AGU announces OpenCore [Leads](./docs/Area2_Capacity_Sharing/opencore/OpenCore_leads.md)
 - [Apply by June 15th to join the TOPS Curriculum Development Team](https://t.co/oYEBwytXR3)  
 - [Apply](https://t.co/X8DSfD2z4x) NASA Postdoctoral Management Fellow within [SMD Bridge Program](https://science.nasa.gov/smd-bridge-program)
