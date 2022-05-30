@@ -1,11 +1,8 @@
 # Announcements!
 - OSTP releases [New Guidance to Ensure Federally Funded Research Data Equitably Benefits All of America](https://www.whitehouse.gov/ostp/news-updates/2022/05/26/new-guidance-to-ensure-federally-funded-research-data-equitably-benefits-all-of-america/)
 - AGU announces OpenCore [Leads](./docs/Area2_Capacity_Sharing/opencore/OpenCore_leads.md)
-- [Apply by June 15th to join the TOPS Curriculum Development Team](https://t.co/oYEBwytXR3)  
-- [Apply](https://t.co/X8DSfD2z4x) NASA Postdoctoral Management Fellow within [SMD Bridge Program](https://science.nasa.gov/smd-bridge-program)
-- [Funding Opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
-- [Job Opportunity - Program Manager, Science and Data (AGU TOPS Team)](https://jobs.agu.org/program-manager-science-andamp-data/job/19185688)
-
+- [New Funding Opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
+- [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
 
 
 <img align="right" src="https://github.com/nasa/Transform-to-Open-Science/blob/main/assets/logos/Tops_logo%404x.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
