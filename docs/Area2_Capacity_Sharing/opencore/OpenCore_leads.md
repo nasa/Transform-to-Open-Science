@@ -16,7 +16,7 @@ We are pleased to announce our 2022 Transform to Open Science (TOPS) Curriculum 
 2. [Sara El-Gebali](https://twitter.com/yalahowy) - Open Data
 3. [James Powell](https://www.dontusethiscode.com/) - Open Software
 4. [Shilaan Alzahawi](https://shilaan.rbind.io/author/shilaan-alzahawi/) - Open Science Tools and Resources
-5. TBD - Open Results
+5. [Natasha Batalha](https://natashabatalha.github.io/) - Open Results
 
 ## 2022 TOPS Content Subject Matter Experts:
 
