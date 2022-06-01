@@ -8,20 +8,19 @@ Key Terms: open-source software, source vs. compiled code, permissive vs. non-pe
 
 # Topics: 
 
+1. Why share software? 
+     - Sharing software as a form of improving impact, reproducibility and and replicability of research
+     - “If the code is good enough to publish a paper, then it is good enough to share” 
 
+3. Common fears about sharing software
+4. How you share matters:
+     - Software repositories
+     - Software licenses 
+     - Software DOIs
+     - Documentation
+5. How to attribute/cite open software 
+6. Executable notebooks
 
-1. Why share code?
-    1. Sharing software as a form of improving impact, reproducibility and and replicability of research
-    2. “If the code is good enough to publish a paper, then it is good enough to share” 
-2. Code repositories and software repositories
-3. Importance of documentation to open-source software
-    - Exercise/Assignment: Creating a README
-4. How to attribute/cite open-source software 
-5. Quality requirements for sharing code 
-    - Exercise/Assignment: Practice with common code-sharing tools such as GitHub, GitLab, Jupyter and Zenodo 
-6. Choosing an appropriate license 
-    - Exercise/Assignment: Choosing a license
-7. Open Discussion: Why is open-source software critical to the decolonization of science and for advancing diversity and equity in science and research? 
 
 ## Further Reading to Consider Assigning
 
