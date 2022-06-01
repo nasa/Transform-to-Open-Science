@@ -8,7 +8,17 @@ Key Terms: p-hacking, null results, workflow design, study plan, data dictionary
 
 ## Topics:
 
+1. Why open results?
+     - Amplifying the impact of your research
+     - How sharing results and getting credit is changing
+     - Equity and open access.
+1. Sharing results
+     - Preprints
+     - Executable notebooks
+     - Blogs, social media, video tutorials…
+1. Open Science as advocacy (e.g., your own rights as an author, advocating for open access for others) 
 
+Other possible options...
 
 1. The reproducibility crisis and how we can combat it with open science
     1. The “three levels of reproducibility” 
