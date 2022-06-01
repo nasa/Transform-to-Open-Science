@@ -7,14 +7,14 @@ By the end of this module, learners will be familiar with the definitions centra
 Key Terms: 
 Open science, open data, open source, open access, interdisciplinary, equitable, citizen science, open research, open scholarship, reproducibility and replicability, peer-review, FAIR principles, metrics [in context of scientific merit], [altmetrics](https://www.altmetric.com/), openness, transparency, rigor, computational provenance 
 
-# Topics: 
-1. History of research, publication, and merit.  
-2. The “birth” of open science and citizen science 
-3. Definitions of open science 
-    * FAIR principles 
-4. Examples of open science (ideally NASA examples, or NASA-community examples) 
-5. Benefits of open science (Climate change, DEIA, collaboration, innovation, technology advancement are all things that can be explored here)
-6. The intersection of open science and metrics, and how to prove merit with alternative metrics 
+# Possible Topics: 
+1. What is open science
+1. Why open science? 
+     - Benefits and examples of Open Science
+1. Equity and open science
+1. Barriers to open science 
+      - The intersection of Open Science and metrics/altmetrics
+3. The intersection of Open Science and metrics/altmetrics
 7. Brief overview of the <span style="text-decoration:underline;">motivation </span>behind open science frameworks and workflows (actually using them will be covered in later modules, could use this as an opportunity to advertise/encourage later modules), which could include considerations such as…
     * Data Accessibility 
     * Software Accessibility 
