@@ -24,7 +24,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>[00:00:00 - 00:02:41](https://www.youtube.com/watch?v=MkND79xz-sI)
+  <td><a href = "https://www.youtube.com/watch?v=MkND79xz-sI">00:00:00 - 00:02:41</a>
    </td>
    <td>[Introduction and Review of Code of Conduct]((https://www.youtube.com/watch?v=MkND79xz-sI)
    </td>
