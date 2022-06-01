@@ -7,9 +7,9 @@ Key Terms: **Virtual research environments (VRE), SMART goals, advocacy, metadat
  
 # Topics:
  
-1. Open Science as advocacy
-    1. Advocating for your own rights as an author
-    2. Advocating for the right to get access to science worldwide 
+1. Why use open tools?
+1. Introduction to Open Science communities
+1. Introduce places to ask questions, build community: StackOverFlow, GitHub discussions, Twitter, Discourse
 2. Introduction to popular tools and resources for Open Science, which may include but not be limited to…
     - [Jupyter Lab](http://jupyter.org/)
     - Version control (e.g., GitHub, GitLab, Bitbucket) 
@@ -17,7 +17,6 @@ Key Terms: **Virtual research environments (VRE), SMART goals, advocacy, metadat
     - Preregistering important study aspects (​​e.g., [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/), and [Registered Reports](https://cos.io/rr/))
     - Shared notebooks (e.g., [mybinder](http://mybinder.org/), [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/))
     - Several popular tools are reviewed in this article: ​​[https://genr.eu/wp/open-science-top-ten-tools-all-open-source/](https://genr.eu/wp/open-science-top-ten-tools-all-open-source/) 
-3. Setting SMART goals for research 
 
 5. Exercise/Assignment: Module should include hands-on experience with some of the tools mentioned above 
  
