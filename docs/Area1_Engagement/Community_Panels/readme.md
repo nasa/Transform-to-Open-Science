@@ -50,7 +50,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
   <tr>
    <td><a href = "https://youtu.be/MkND79xz-sI?t=696">00:11:35 - 00:54:13</a>
    </td>
-   <td>(https://youtu.be/MkND79xz-sI?t=696)<a href = "https://youtu.be/MkND79xz-sI?t=696">Introduction of Panelists</a>
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=696">Introduction of Panelists</a>
    </td>
    <td>Yvonne Ivey
    </td>
@@ -74,7 +74,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
   <tr>
    <td><a href = "https://youtu.be/MkND79xz-sI?t=4617">01:16:57 - 01:32:23</a>
    </td>
-   <td>[Transform to Open Science (TOPS): Areas of Action](https://youtu.be/MkND79xz-sI?t=4617)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=4617">Transform to Open Science (TOPS): Areas of Action</a>
    </td>
    <td>Yvonne Ivey
    </td>
