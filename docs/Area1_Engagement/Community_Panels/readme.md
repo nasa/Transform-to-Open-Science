@@ -24,39 +24,39 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-  <td><a href = "https://www.youtube.com/watch?v=MkND79xz-sI">00:00:00 - 00:02:41</a>
+  <td><a href = "https://youtu.be/MkND79xz-sI?t=0">00:00:00 - 00:02:41</a>
    </td>
-   <td>[Introduction and Review of Code of Conduct]((https://www.youtube.com/watch?v=MkND79xz-sI)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=0">Introduction and Review of Code of Conduct</a>
    </td>
    <td>Karla Mastracchio
    </td>
   </tr>
   <tr>
-   <td>[00:02:41 - 00:04:53](https://youtu.be/MkND79xz-sI?t=160)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=160">00:02:41 - 00:04:53</a>
    </td>
-   <td>[Welcome and Meeting Objectives](https://youtu.be/MkND79xz-sI?t=160)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=160">Welcome and Meeting Objectives</a>
    </td>
    <td>Chelle Gentemann
    </td>
   </tr>
   <tr>
-   <td>[00:04:53 - 00:11:35](https://youtu.be/MkND79xz-sI?t=293)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=293">00:04:53 - 00:11:35</a>
    </td>
-   <td>[NASA’s Open Science Vision](https://youtu.be/MkND79xz-sI?t=293)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=293">NASA's Open Science Vision</a>
    </td>
    <td>Kevin Murphy
    </td>
   </tr>
   <tr>
-   <td>[00:11:35 - 00:54:13](https://youtu.be/MkND79xz-sI?t=696)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=696">00:11:35 - 00:54:13</a>
    </td>
-   <td>[Introduction of Panelists](https://youtu.be/MkND79xz-sI?t=696)
+   <td>(https://youtu.be/MkND79xz-sI?t=696)<a href = "https://youtu.be/MkND79xz-sI?t=696">Introduction of Panelists</a>
    </td>
    <td>Yvonne Ivey
    </td>
   </tr>
   <tr>
-   <td>[00:54:13 - 01:04:28]()
+   <td>00:54:13 - 01:04:28
    </td>
    <td>Break
    </td>
@@ -64,15 +64,15 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>[01:04:28 - 01:16:57](https://youtu.be/MkND79xz-sI?t=3868)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=3868">01:04:28 - 01:16:57</a>
    </td>
-   <td>[Transform to Open Science (TOPS): Introduction](https://youtu.be/MkND79xz-sI?t=3868)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=3868">Transform to Open Science (TOPS): Introduction</a>
    </td>
    <td>Chelle Gentemann
    </td>
   </tr>
   <tr>
-   <td>[01:16:57 - 01:32:23](https://youtu.be/MkND79xz-sI?t=4617)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=4617">01:16:57 - 01:32:23</a>
    </td>
    <td>[Transform to Open Science (TOPS): Areas of Action](https://youtu.be/MkND79xz-sI?t=4617)
    </td>
@@ -80,9 +80,9 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>[01:32:23 - 01:55:22](https://youtu.be/MkND79xz-sI?t=5543)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=5543">01:32:23 - 01:55:22</a>
    </td>
-   <td>[Discusssion](https://youtu.be/MkND79xz-sI?t=5543)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=5543">Discussion</a>
    </td>
    <td>Yvonne Ivey
      <br>
@@ -90,7 +90,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>[01:55:22 - 02:05:28](https://youtu.be/MkND79xz-sI?t=6922)
+   <td>01:55:22 - 02:05:28
    </td>
    <td>Break
    </td>
@@ -98,9 +98,10 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>[02:05:28 - 02:53:01](https://youtu.be/MkND79xz-sI?t=7528)
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=7528">02:05:28 - 02:53:01</a>
    </td>
-   <td>Discussion: 
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=7528">02:05:28 - 02:53:01
+     Discussion: 
 <ul>
 
 <li>How can TOPS best support adoption of open science? 
@@ -110,6 +111,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
 <li>What are future directions TOPS should consider?
 </li>
 </ul>
+     </a>
    </td>
    <td>Chelle Gentemann
      <br>
@@ -119,9 +121,9 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>[02:53:01 - 02:55:19]
+  <td><a href = "https://youtu.be/MkND79xz-sI?t=10381">02:53:01 - 02:55:19</a>
    </td>
-   <td>End of Day Wrap Up
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=10381">End of Day Wrap Up</a>
    </td>
    <td>Yvonne Ivey
    </td>
