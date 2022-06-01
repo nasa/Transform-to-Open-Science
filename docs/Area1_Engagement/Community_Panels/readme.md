@@ -16,7 +16,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
     <td colspan = "3"> <strong>Day 1: NASA's Open Science Vision</strong>
     </td>
   </tr>
-   <td width = "10%"><strong><em>Time (ET)</em></strong>
+   <td width = "10%"><strong><em>Timestamp</em></strong>
    </td>
    <td><strong><em>Agenda Item</em></strong>
    </td>
@@ -24,39 +24,39 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>12:00 pm
+   <td>[00:00:00 - 00:02:41](https://www.youtube.com/watch?v=MkND79xz-sI)
    </td>
-   <td>Introduction and Review of Code of Conduct
+   <td>[Introduction and Review of Code of Conduct]((https://www.youtube.com/watch?v=MkND79xz-sI)
    </td>
    <td>Karla Mastracchio
    </td>
   </tr>
   <tr>
-   <td>12:05 pm
+   <td>[00:02:41 - 00:04:53](https://youtu.be/MkND79xz-sI?t=160)
    </td>
-   <td>Welcome and Meeting Objectives
+   <td>[Welcome and Meeting Objectives](https://youtu.be/MkND79xz-sI?t=160)
    </td>
    <td>Chelle Gentemann
    </td>
   </tr>
   <tr>
-   <td>12:15 pm
+   <td>[00:04:53 - 00:11:35](https://youtu.be/MkND79xz-sI?t=293)
    </td>
-   <td>NASA’s Open Science Vision
+   <td>[NASA’s Open Science Vision](https://youtu.be/MkND79xz-sI?t=293)
    </td>
    <td>Kevin Murphy
    </td>
   </tr>
   <tr>
-   <td>12:25 pm
+   <td>[00:11:35 - 00:54:13](https://youtu.be/MkND79xz-sI?t=696)
    </td>
-   <td>Introduction of Panelists
+   <td>[Introduction of Panelists](https://youtu.be/MkND79xz-sI?t=696)
    </td>
    <td>Yvonne Ivey
    </td>
   </tr>
   <tr>
-   <td>1:00 pm
+   <td>[00:54:13 - 01:04:28]()
    </td>
    <td>Break
    </td>
@@ -64,25 +64,25 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>1:10 pm
+   <td>[01:04:28 - 01:16:57](https://youtu.be/MkND79xz-sI?t=3868)
    </td>
-   <td>Transform to Open Science (TOPS): Introduction
+   <td>[Transform to Open Science (TOPS): Introduction](https://youtu.be/MkND79xz-sI?t=3868)
    </td>
    <td>Chelle Gentemann
    </td>
   </tr>
   <tr>
-   <td>1:20 pm
+   <td>[01:16:57 - 01:32:23](https://youtu.be/MkND79xz-sI?t=4617)
    </td>
-   <td>Transform to Open Science (TOPS): Areas of Action
+   <td>[Transform to Open Science (TOPS): Areas of Action](https://youtu.be/MkND79xz-sI?t=4617)
    </td>
    <td>Yvonne Ivey
    </td>
   </tr>
   <tr>
-   <td>1:40 pm
+   <td>[01:32:23 - 01:55:22](https://youtu.be/MkND79xz-sI?t=5543)
    </td>
-   <td>Discusssion
+   <td>[Discusssion](https://youtu.be/MkND79xz-sI?t=5543)
    </td>
    <td>Yvonne Ivey
      <br>
@@ -90,7 +90,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>2:00 pm
+   <td>[01:55:22 - 02:05:28](https://youtu.be/MkND79xz-sI?t=6922)
    </td>
    <td>Break
    </td>
@@ -98,7 +98,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>2:10 pm
+   <td>[02:05:28 - 02:53:01](https://youtu.be/MkND79xz-sI?t=7528)
    </td>
    <td>Discussion: 
 <ul>
@@ -119,7 +119,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>2:55 pm
+   <td>[02:53:01 - 02:55:19]
    </td>
    <td>End of Day Wrap Up
    </td>
