@@ -199,7 +199,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-    <td><a href = "https://youtu.be/Nt31-2g3G_4?t=1759">00:29:19 - </a>
+    <td><a href = "https://youtu.be/Nt31-2g3G_4?t=1759">00:29:19 - 01:08:55</a>
    </td>
     <td><a href = "https://youtu.be/Nt31-2g3G_4?t=1759">Discussion</a>
    </td>
@@ -215,23 +215,23 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>1:20 pm
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=4713">01:18:30 - 01:31:43</a>
    </td>
-   <td>Engagement of Open Science Community
-   </td>
-   <td>Chris Erdmann, Laura Lyon, Shelley Stall
-   </td>
-  </tr>
-  <tr>
-   <td>1:40 pm
-   </td>
-   <td>Discussion
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=4713">Engagement of Open Science Community</a>
    </td>
    <td>Chris Erdmann, Laura Lyon, Shelley Stall
    </td>
   </tr>
   <tr>
-   <td>2:10 pm
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=5503">01:31:43- 02:07:28</a>
+   </td>
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=5503">Discussion</a>
+   </td>
+   <td>Chris Erdmann, Laura Lyon, Shelley Stall
+   </td>
+  </tr>
+  <tr>
+   <td>02:07:28 - 02:19:04
    </td>
    <td>Break
    </td>
@@ -239,25 +239,25 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>2:20 pm
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=8344">02:19:04 - 02:24:58</a>
    </td>
-   <td>Testing, Management, and Maintenance:  Continued Engagement, Community Involvement
-   </td>
-   <td>Laura Lyon, Chris Erdmann, Shelley Stall
-   </td>
-  </tr>
-  <tr>
-   <td>2:35 pm
-   </td>
-   <td>Discussion
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=8344">Testing, Management, and Maintenance:  Continued Engagement, Community Involvement</a>
    </td>
    <td>Laura Lyon, Chris Erdmann, Shelley Stall
    </td>
   </tr>
   <tr>
-   <td>2:55 pm
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=8698">02:24:58 - 02:55:21</a>
    </td>
-   <td>End of Day Wrap Up
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=8698">Discussion</a>
+   </td>
+   <td>Laura Lyon, Chris Erdmann, Shelley Stall
+   </td>
+  </tr>
+  <tr>
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=10521">02:55:21 - 02:57:51</a>
+   </td>
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=10521">End of Day Wrap Up</a>
    </td>
    <td>Yvonne Ivey
    </td>
