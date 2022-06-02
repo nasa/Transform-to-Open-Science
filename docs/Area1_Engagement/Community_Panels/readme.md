@@ -144,7 +144,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
 ### Day 2
 
 [Recording](https://www.youtube.com/watch?v=Nt31-2g3G_4)
-[Transript](https://otter.ai/u/7VlDKH6yCIrwNkFGWq6oFEtNsYQ)
+[Transcript](https://otter.ai/u/7VlDKH6yCIrwNkFGWq6oFEtNsYQ)
 
   <table>
   <tr>
@@ -157,7 +157,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
     </td>
   </tr>
     <tr>
-   <td><strong><em>Time (ET)</em></strong>
+   <td><strong><em>Timestamp</em></strong>
    </td>
    <td><strong><em>Agenda Item</em></strong>
    </td>
@@ -167,41 +167,41 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
 
 
   <tr>
-   <td>12:00 pm
+    <td><a href = "https://youtu.be/Nt31-2g3G_4?t=0">00:00:00 - 00:03:03</a>
    </td>
-   <td>Introduction and Review of Code of Conduct
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=0">Introduction and Review of Code of Conduct</a>
    </td>
    <td>Karla Mastracchio
    </td>
   </tr>
   <tr>
-   <td>12:05 pm
+    <td><a href = "https://youtu.be/Nt31-2g3G_4?t=183">00:03:03 - 00:07:05</a>
    </td>
-   <td>Expectations of Panelist 
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=183">Expectations of Panelists</a>
    </td>
    <td>Chelle Gentemann 
    </td>
   </tr>
   <tr>
-   <td>12:10 pm
+    <td><a href = "https://youtu.be/Nt31-2g3G_4?t=426">00:07:05 - 00:11:56</a>
    </td>
-   <td>Recap of Day One 
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=426">Recap of Day One</a>
    </td>
    <td>Yvonne Ivey
    </td>
   </tr>
   <tr>
-   <td>12:20 pm
+    <td><a href = "https://youtu.be/Nt31-2g3G_4?t=716">00:11:56 - 00:29:19</a>
    </td>
-   <td>Overview of OpenCore Curriculum
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=716">Overview of OpenCore Curriculum</a>
    </td>
    <td>Shelley Stall & Chelle Gentemann
    </td>
   </tr>
   <tr>
-   <td>12:45 pm
+    <td><a href = "https://youtu.be/Nt31-2g3G_4?t=1759">00:29:19 - </a>
    </td>
-   <td>Discussion
+    <td><a href = "https://youtu.be/Nt31-2g3G_4?t=1759">Discussion</a>
    </td>
    <td>Shelley Stall & Chelle Gentemann
    </td>
