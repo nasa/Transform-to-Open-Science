@@ -207,7 +207,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>1:10 pm
+   <td>01:08:55 - 01:18:33
    </td>
    <td>Break
    </td>
@@ -215,7 +215,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=4713">01:18:30 - 01:31:43</a>
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=4713">01:18:33 - 01:31:43</a>
    </td>
    <td><a href = "https://youtu.be/Nt31-2g3G_4?t=4713">Engagement of Open Science Community</a>
    </td>
