@@ -305,25 +305,25 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>12:00 pm
+    <td><a href = "https://youtu.be/WJgxxy1U_tw?t=0">00:00:00 - 00:06:31</a>
    </td>
-   <td>Introduction and Review of Code of Conduct
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=0">Introduction and Review of Code of Conduct</a>
    </td>
    <td>Karla Mastracchio
    </td>
   </tr>
   <tr>
-   <td>12:05 pm
+    <td><a href = "https://youtu.be/WJgxxy1U_tw?t=391">00:06:31 - 00:30:33</a>
    </td>
-   <td>NASA's Open Science Policies
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=391">NASA's Open Science Policies</a>
    </td>
    <td>Steve Crawford
    </td>
   </tr>
   <tr>
-   <td>12:30 pm
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=391">000:30:33 - </a>
    </td>
-   <td>Discussion: Policy
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=391">Discussion: Policy</a>
    </td>
    <td>Steve Crawford
    </td>
