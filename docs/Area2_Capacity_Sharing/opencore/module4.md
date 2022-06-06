@@ -9,20 +9,16 @@ Key Terms: Copyright, license, CC-BY and CC0 license, data management plan, meta
 
 ## Topics: 
 
+1. Why share data? 
+1. Common fears about sharing data
+1. How you share matters:
+     - Restrictions
+     - Data repositories
+     - Data licenses 
+     - Data DOIs
+     - Documentation, metadata, FAIR
+1. How to attribute/cite data 
 
-
-1. FAIR principles and data
-   - What to do with sensitive and/or proprietary data? 
-2. Basics of copyrights and licenses
-   - Exercise/Assignment: Choosing a copyright 
-3. The importance of data packaging (e.g., READ ME for explainability and context), data citation and metadata. Importance of tracking changes and keeping copies.
-   - Principles of metadata ([examples](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136)) 
-4. How to identify a “trustworthy” data repository
-5. How to write a data management plan
-   - Exercise/Assignment: Data management plan 
-6. Metadata: What is it? How do I use it? And how do I make sure my data has it? 
-7. How to cite databases and data
-   - Exercise/Assignment: Citing data
 8. Open Discussion: The argument for databases as “publications” or rewarding the accumulation of high-quality data as noteworthy accomplishments
 
 ## Further Reading to Consider Assigning
