@@ -321,7 +321,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=391">000:30:33 - </a>
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=391">000:30:33 - 01:01:22</a>
    </td>
    <td><a href = "https://youtu.be/WJgxxy1U_tw?t=391">Discussion: Policy</a>
    </td>
@@ -329,7 +329,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>1:00 pm
+   <td>01:01:22 - 01:01:27
    </td>
    <td>Break
    </td>
@@ -337,23 +337,23 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>1:10 pm
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=3687">01:01:27 - 01:22:07</a>
    </td>
-   <td>Cross-Sector Developments in the Alignment of Open Scholarship Incentives
-   </td>
-   <td>Greg Tananbaum
-   </td>
-  </tr>
-  <tr>
-   <td>1:30 pm
-   </td>
-   <td>Open Discussion
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=3687">Cross-Sector Developments in the Alignment of Open Scholarship Incentives</a>
    </td>
    <td>Greg Tananbaum
    </td>
   </tr>
   <tr>
-   <td>2:00 pm
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=4927">01:22:07 - 01:47:36</a>
+   </td>
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=4927">Open Discussion</a>
+   </td>
+   <td>Greg Tananbaum
+   </td>
+  </tr>
+  <tr>
+   <td>01:47:36 - 01:48:38
    </td>
    <td>Break
    </td>
@@ -361,17 +361,17 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>2:10 pm
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=6518">01:48:38 - 01:59:50</a>
    </td>
-   <td>Transform to Open Science (TOPS): Community Engagement Plans
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=6518">Transform to Open Science (TOPS): Community Engagement Plans</a>
    </td>
    <td>Yvonne Ivey
    </td>
   </tr>
   <tr>
-   <td>2:30 pm
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=7190">01:59:50 - 02:30:44</a>
    </td>
-   <td>Discussion: Open Topics Suggested by Panel
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=7190">Discussion: Open Topics Suggested by Panel</a>
    </td>
    <td>Chelle Gentemann
      <br>
@@ -379,9 +379,9 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td>2:40 pm
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=9044">02:30:44 - 02:36:31</a>
    </td>
-   <td>Next Steps and Panel Wrap-up
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=9044">Next Steps and Panel Wrap-up</a>
    </td>
    <td>Yvonne Ivey
    </td>
