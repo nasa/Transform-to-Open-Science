@@ -1,9 +1,119 @@
-## Upcoming TOPS Conferences
-| Date                    | Name of Event                                                                                                            |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| 05/09/2022              | [Open Science Pathways Pathways in the Earth, Space, and Life Sciences](https://www.scilifelab.se/event/agu-scilifelab/) |
-| 05/11/2022              | [ARM/ASR Open Science Virtual Workshop](https://www.arm.gov/news/events/post/76365/)                                     |
-| 05/12/2022              | [TOPS Monthly Community Forum](https://go.nasa.gov/36aVsmH)                                                             |
-| 05/12/2022              | Board on Research Data and Information                                                                                   |
-| 05/17/2022 - 05/17/2022 | [TOPS Community Panel](https://go.nasa.gov/3kCFc1i)                                                                     |
-| 06/01/2022              | [Tech Day Costa Rica 2022](https://www.allevents.in/heredia/it-now-live-tech-day-costa-rica/10000325246951387/)          |
+## TOPS Priority Events for 2023
+
+These are the events where TOPS will be holding 2023 Year of Open Science workshops, sessions, and other events.
+
+<table>
+  <tr>
+   <td><strong>Association</strong>
+   </td>
+   <td><strong>Location</strong>
+   </td>
+   <td><strong>Start date</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Train the Trainers AGU
+   </td>
+   <td>Washington, DC
+   </td>
+   <td>2022-11-14
+   </td>
+  </tr>
+  <tr>
+   <td>AGU Fall Meeting
+   </td>
+   <td>Chicago, IL
+   </td>
+   <td>2022-12-12
+   </td>
+  </tr>
+  <tr>
+   <td>AMS 2023 Meeting
+   </td>
+   <td>Denver, CO
+   </td>
+   <td>2023-01-08
+   </td>
+  </tr>
+  <tr>
+   <td>AAAS
+   </td>
+   <td>Washington, DC
+   </td>
+   <td>2023-03-02
+   </td>
+  </tr>
+  <tr>
+   <td>LPSC
+   </td>
+   <td>Houston, TX
+   </td>
+   <td>2023-03-13
+   </td>
+  </tr>
+  <tr>
+   <td>EGU
+   </td>
+   <td>Vienna, Austra
+   </td>
+   <td>2023-04-23
+   </td>
+  </tr>
+  <tr>
+   <td>American Astronomical Society Summer
+   </td>
+   <td>Albuquerque, NM
+   </td>
+   <td>2023-06-04
+   </td>
+  </tr>
+  <tr>
+   <td>IGARSS - pasadena
+   </td>
+   <td>Pasadena, CA
+   </td>
+   <td>2023-07-16
+   </td>
+  </tr>
+  <tr>
+   <td>Society of Asian Scientists and Engineers (SASE)
+   </td>
+   <td>Atlanta, GA
+   </td>
+   <td>2023-10-12
+   </td>
+  </tr>
+  <tr>
+   <td>American Indian Science and Engineering Society
+   </td>
+   <td>Spokane, WA
+   </td>
+   <td>2023-10-19
+   </td>
+  </tr>
+  <tr>
+   <td>SACNAS
+   </td>
+   <td>Portland, OR
+   </td>
+   <td>2023-10-26
+   </td>
+  </tr>
+  <tr>
+   <td>American Society for Gravitational and Space Research
+   </td>
+   <td>Houston, TX
+   </td>
+   <td>2023-11-03
+   </td>
+  </tr>
+  <tr>
+   <td>AGU Fall Meeting
+   </td>
+   <td>San Francisco, CA
+   </td>
+   <td>2023-12-11
+   </td>
+  </tr>
+</table>
+
