@@ -10,6 +10,8 @@
 
 **Submit Questions:** [Link to Submit](https://nasa.cnf.io/sessions/kzbb/#!/dashboard).
 
+**Slides:** [Link to slides](https://doi.org/10.5281/zenodo.6626291)
+
 [Please review our code of conduct here.](../Community_Forums/code_of_conduct.md)
 
 
