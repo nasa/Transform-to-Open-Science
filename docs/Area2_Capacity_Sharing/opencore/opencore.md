@@ -160,7 +160,7 @@ Advertised and open for comments - reaching out to people and having the outline
   <tr>
    <td>October
    </td>
-   <td colspan="4" >TOPS Open Science MOOC v0 is launched
+   <td colspan="4" >TOPS Open Science MOOC v0 is launched for online validation only
    </td>
   </tr>
   <tr>
@@ -174,7 +174,7 @@ Advertised and open for comments - reaching out to people and having the outline
    </td>
    <td>Soft-launch Fall AGU
    </td>
-   <td rowspan="13" >Support cohort formation within the MOOC for the online cohort planned activities.
+   <td rowspan="13" >TOPS Open Science MOOC v0 is officialy launched; Support cohort formation within the MOOC for the online cohort planned activities.
    </td>
    <td rowspan="13" >Maintain open science MOOC and work with future discipline specific module developers to integrate their content into the MOOC.
    </td>
