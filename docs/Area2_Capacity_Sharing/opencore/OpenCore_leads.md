@@ -18,6 +18,18 @@ We are pleased to announce our 2022 Transform to Open Science (TOPS) Curriculum 
 4. [Shilaan Alzahawi](https://shilaan.rbind.io/author/shilaan-alzahawi/) - Open Science Tools and Resources
 5. [Natasha Batalha](https://natashabatalha.github.io/) - Open Results
 
-## 2022 TOPS Content Subject Matter Experts:
+## 2022 TOPS Content Subject Matter Experts (SMEs):  
 
-- Deadline June 15. In process.
+Deadline is June 15th. SMEs are being selected on a rolling basis. Current SME selections:
+
+### Open Data
+
+1. [Yuhan Rao](https://twitter.com/douglas_rao)
+
+### Open Science Tools and Resources
+
+1. [Flavio Azevedo](https://twitter.com/Flavio_Azevedo_)
+2. [Rebecca Ringuette](https://www.linkedin.com/in/rebecca-ringuette-841b0b17/)
+3. [Elli Papadopoulou](https://twitter.com/elli_lib)
+
+
