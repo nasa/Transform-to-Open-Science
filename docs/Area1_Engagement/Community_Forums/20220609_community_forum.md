@@ -6,11 +6,9 @@
 
 **Time:** 1:00 PM ET
 
-**Registration:** [Link to Register](https://go.nasa.gov/3G1PmlT).
+[Slides](https://doi.org/10.5281/zenodo.6626291)
 
-**Submit Questions:** [Link to Submit](https://nasa.cnf.io/sessions/kzbb/#!/dashboard).
-
-**Slides:** [Link to slides](https://doi.org/10.5281/zenodo.6626291)
+[Video Recording](https://www.youtube.com/watch?v=Am0cnc3oT2M&list=PLSqpxDmgLp4FRm1-9aYx_qhw0t7VZrVFt&index=1)
 
 [Please review our code of conduct here.](../Community_Forums/code_of_conduct.md)
 
