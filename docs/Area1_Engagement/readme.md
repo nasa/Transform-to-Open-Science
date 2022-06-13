@@ -21,9 +21,7 @@ Here are some quick links that can help you get started:
 
 - [Find us at a conference](./tops_conferences.md)
 
-- [Participate in a listening session](https://go.nasa.gov/36aVsmH)
-
-- [Submit questions to our upcoming community panel](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)
+- [Participate in a community forum]([https://go.nasa.gov/36aVsmH](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums))
 
 - Read our success stories (coming soon) 
 
