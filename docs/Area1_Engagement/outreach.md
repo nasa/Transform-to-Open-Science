@@ -7,13 +7,13 @@ We can’t reach our goals solely through inreach efforts. To reach the broadest
 
 Here are some ways we collaborate and communicate with communities:
 
- - [Host listening sessions](https://go.nasa.gov/36aVsmH)
+ - [Host community forums](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums)
 
  - Participate in webinars at community meetings
 
  - [Codevelop open science curricula](../Area2_Capacity_Sharing/opencore/opencore.md)
 
- - Co-create a forum with diverse voices/perspectives
+ - Co-create a [forum](https://github.com/nasa/Transform-to-Open-Science/discussions) with diverse voices/perspectives
 
  - Co-create articles of success
 
