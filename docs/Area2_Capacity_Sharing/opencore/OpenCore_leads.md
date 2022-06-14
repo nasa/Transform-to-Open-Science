@@ -25,6 +25,9 @@ Deadline is June 15th. SMEs are being selected on a rolling basis. Current SME s
 ### Open Data
 
 1. [Yuhan Rao](https://twitter.com/douglas_rao)
+2. [Jannatul Ferdush](https://www.linkedin.com/in/jannatul-ferdush/)
+3. [Siobhan Mackenzie Hall](https://twitter.com/smhall97)
+4. [Binita KC](https://www.linkedin.com/in/binitakc/)
 
 ### Open Science Tools and Resources
 
@@ -32,4 +35,7 @@ Deadline is June 15th. SMEs are being selected on a rolling basis. Current SME s
 2. [Rebecca Ringuette](https://www.linkedin.com/in/rebecca-ringuette-841b0b17/)
 3. [Elli Papadopoulou](https://twitter.com/elli_lib)
 
+### Open Results
 
+1. [Daniela	Saderi](https://twitter.com/Neurosarda)
+2. [Malvika Sharan](https://twitter.com/MalvikaSharan)
