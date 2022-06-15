@@ -39,3 +39,4 @@ Deadline is June 15th. SMEs are being selected on a rolling basis. Current SME s
 
 1. [Daniela	Saderi](https://twitter.com/Neurosarda)
 2. [Malvika Sharan](https://twitter.com/MalvikaSharan)
+3. [Michel Lacerda](https://www.linkedin.com/in/michellacerda/)
