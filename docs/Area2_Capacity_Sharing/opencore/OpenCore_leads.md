@@ -34,6 +34,10 @@ Deadline is June 15th. SMEs are being selected on a rolling basis. Current SME s
 1. [Flavio Azevedo](https://twitter.com/Flavio_Azevedo_)
 2. [Rebecca Ringuette](https://www.linkedin.com/in/rebecca-ringuette-841b0b17/)
 3. [Elli Papadopoulou](https://twitter.com/elli_lib)
+4. [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/)
+5. [Tyson Swetnam](https://tysonswetnam.com/)
+6. [Batool Almarzouq](https://www.linkedin.com/in/batool-almarzouq-093366a1/)
+7. [Melissa Black](https://twitter.com/melissablck/)
 
 ### Open Results
 
