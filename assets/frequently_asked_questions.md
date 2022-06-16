@@ -33,9 +33,7 @@ The open development of code should make it easier to identify when people arenâ
 One of the goals of TOPS is to develop resources to help researchers, organizations, and citizen scientists do their work using open science practices and principles. TOPS is developing an open science curriculum that will become available in late 2022. 
 The [Turing Way](https://the-turing-way.netlify.app/welcome) is a community-driven guide that provides more details on how to design open projects. 
 [Please sign up for our newsletter to receive the latest updates!](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform)
-### Open data sharing and data sovereignty by indigenous people (e.g. CARE principles) seem to be in conflict. Are they?
 
-They are not but it needs to be guided through community decision-making, centering on indigenous scholars who are elevating their community knowledge. There are a variety of historical inequities in regards to indigenous data and that needs to be taken into consideration. It needs to be a relationship building process. NASA maintains that open science needs to be as open as possible and as closed as necessary. We acknowledge that researchers and communities donâ€™t necessarily need to open everything, with no consideration of the CARE principles. There are both sides in using the data, positive and negative; open science requires more people in the room with voices, for example more tribal institutions at the table to discuss the appropriateness of data access.
 
 ### How can I advocate for open science?
 - Make data non-proprietary and available in an open repository 
