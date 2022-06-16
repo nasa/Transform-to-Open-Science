@@ -5,7 +5,7 @@ We need your participation to be successful! There are many ways you can engage 
 
 We know that Open Science creates a more equitable system and broadens participation in science. Reducing barriers to entry for excluded, disenfranchised, and marginalized communities enables more diverse voices and areas of expertise to engage in scientific debate and take part in discovery and innovation. Leveraging more researchers will advance discovery, increase collaboration, and create new knowledge. All these things are essential for scientific discovery in the 21st century. 
 
-Open Science is a Best Practice and can help you, your organization, your research’s impact. TOPS understands that doing open science is great for science careers at all levels and in securing future funding. Funding trends indicate that open science may play a key role in securing funding from Federal Agencies. Participation will also be weighted heavily in criteria for awards, credentials, evaluations and impact policy.
+Open Science is a best practice and can help you, your organization, your research’s impact. TOPS understands that doing open science is great for science careers at all levels and in securing future funding. Funding trends indicate that open science may play a key role in securing funding from Federal Agencies. Participation will also be weighted heavily in criteria for awards, credentials, evaluations and impact policy.
 Open, FAIR data gets more use & citations. 
 Open software increases trust in and transparency of results  
 Open results increases reproducibility and expands possible collaborations. 
