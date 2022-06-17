@@ -6,7 +6,7 @@ The June 1-3 pre-sprint meeting offered the first opportunity for the TOPS Curri
  
 ### Wednesday, June 1
  
-- [Curriculum Module Leads](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/opencore/OpenCore_leads.md), TOPS Team Introductions
+- [Curriculum Module Leads](./../../OpenCore_leads.md), TOPS Team Introductions
 - Background on NASA OSSI, TOPS, and OpenCore Curriculum
 - Initial Logistics, Timeline, Roles, Engagement
 - Course Technology, Creation Workflow Overview
