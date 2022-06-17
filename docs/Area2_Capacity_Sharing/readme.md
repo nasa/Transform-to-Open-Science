@@ -4,8 +4,8 @@ As NASA moves towards more open science requirements (eg. [Scientific Informatio
 
 ## [OpenCore](./opencore/readme.md)  
 
-TOPS will initially focus on developing [OpenCore](./opencore/opencore.md), 5 modules following a scientific workflow. The objective with these modules is to create a more nuanced understanding of open science to enable participants to better understand the open science workflow from end to end. The focus of the curriculum will give the learners participating a basic understanding of open science, and its ethos, why it benefits them, and how to actively participate in open science communities. 
+TOPS will initially focus on developing [OpenCore](./OpenCore/readme.md), 5 modules following a scientific workflow. The objective with these modules is to create a more nuanced understanding of open science to enable participants to better understand the open science workflow from end to end. The focus of the curriculum will give the learners participating a basic understanding of open science, and its ethos, why it benefits them, and how to actively participate in open science communities. 
 
-## [ScienceCore](./sciencecore.md)
+## [ScienceCore](./ScienceCore/readme.md)
 
-Once scientists have these basic open science skills, they will need advanced data science and domain specific curriculum content to continue learning, [ScienceCore](./sciencecore.md). For some learners, it is these domain specific modules that may attract them to learning more about open science. 
+Once scientists have these basic open science skills, they will need advanced data science and domain specific curriculum content to continue learning, [ScienceCore](./ScienceCore/readme.md). For some learners, it is these domain specific modules that may attract them to learning more about open science. 
