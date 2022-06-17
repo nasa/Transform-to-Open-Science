@@ -6,7 +6,7 @@ We are pleased to announce our 2022 Transform to Open Science (TOPS) Curricula D
 
 ## TOPS Team / Curricula Development Team Sprints:
 
-- June 1-3 [Pre-sprint](./OpenCore/events/2022-06-03-opencore-presprint-report.md)
+- June 1-3 [Pre-sprint](./events/2022-06-03-opencore-presprint-report.md)
 - June 27 - July 1 (curricula sprint)
 - August 9-11 (post-sptrint)
 
