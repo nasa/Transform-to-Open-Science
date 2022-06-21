@@ -44,6 +44,12 @@ Deadline is June 15th. SMEs are being selected on a rolling basis. Current SME s
 
 ### Open Software
 
+1. [Johanna Bayer](https://twitter.com/likeajumprope)
+2. [Ana Vaz](https://www.linkedin.com/in/ana-carolina-vaz-9612a814/)
+3. [Sierra Kaufman](https://github.com/MillionConcepts)
+4. [Taher Chegini](https://cheginit.github.io/)
+5. [Yeo Keat Ee](https://www.linkedin.com/in/yeokeat/)
+6. [Babatunde Onabajo](https://github.com/BabatundeOnabajo)
 
 ### Open Science Tools and Resources
 
