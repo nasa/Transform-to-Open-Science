@@ -73,14 +73,6 @@ Meetings Calendar
 
 A Google Calendar has been setup with these reoccurring times [GCAL_, ICAL_].
 
-.. _GCAL: https://calendar.google.com/calendar/embed?src=ucar.edu_c23ln4014khs3f65o93vqv5kqc%40group.calendar.google.com&ctz=America%2FLos_Angeles
-.. _ICAL: https://calendar.google.com/calendar/ical/ucar.edu_c23ln4014khs3f65o93vqv5kqc%40group.calendar.google.com/public/basic.ics
-
-Meetings Calendar
------------------
-
-A Google Calendar has been setup with these reoccurring times [GCAL_, ICAL_].
-
 .. _GCAL: https://calendar.google.com/calendar/embed?src=tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com&ctz=America%2FNew_York
 .. _ICAL: https://calendar.google.com/calendar/ical/tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com/public/basic.ics
 
