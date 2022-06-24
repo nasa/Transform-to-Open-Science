@@ -29,7 +29,7 @@ Here are some quick links that can help you get started:
 1. TOPS Community Forum
   a. When: Second Thursday Every Month, 1-2 PM ET
   b. Description: Our next community forum will be on Thursday, July 14, 2022 at 1 PM EDT (10 AM PDT). We will be joined by the OpenCore Curriculum Module Leads and Content Subject Matter Experts to discuss their recent work developing the lesson material and next steps towards advancing this work with the community.  
-  c. Registration Link: [https://www.google.com/url?q=https%3A%2F%2Fgo.nasa.gov%2F3N938Fl&sa=D&ust=1656525060000000&usg=AOvVaw3Ll1tAOImBzBv2yCblr-J3](https://docs.google.com/forms/d/e/1FAIpQLSdwvKbB1q2bB7Myeo1dX0eyT3-As0yO4CXZVWXTJhzu2XJitg/viewform)
+  c. Registration Link: [https://docs.google.com/forms/d/e/1FAIpQLSdwvKbB1q2bB7Myeo1dX0eyT3-As0yO4CXZVWXTJhzu2XJitg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdwvKbB1q2bB7Myeo1dX0eyT3-As0yO4CXZVWXTJhzu2XJitg/viewform)
   d. Question Link: [https://nasa.cnf.io/sessions/kzbb/#!/dashboard](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
   
 ### Conferences and Workshops
