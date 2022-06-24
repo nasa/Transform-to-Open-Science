@@ -26,7 +26,7 @@ Here are some quick links that can help you get started:
 
 ## Calendar
 ### Recurring TOPS Meetings
-1. TOPS Community Forum
+1. [TOPS Community Forums](./Community_Forums)
     * When: Second Thursday Every Month, 1-2 PM ET
     * Description: Our next community forum will be on Thursday, July 14, 2022 at 1 PM EDT (10 AM PDT). We will be joined by the OpenCore Curriculum Module Leads and Content Subject Matter Experts to discuss their recent work developing the lesson material and next steps towards advancing this work with the community.  
     * Registration Link: [https://docs.google.com/forms/d/e/1FAIpQLSdwvKbB1q2bB7Myeo1dX0eyT3-As0yO4CXZVWXTJhzu2XJitg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdwvKbB1q2bB7Myeo1dX0eyT3-As0yO4CXZVWXTJhzu2XJitg/viewform)
