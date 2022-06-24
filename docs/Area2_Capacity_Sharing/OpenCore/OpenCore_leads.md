@@ -1,16 +1,16 @@
-# TOPS Curriculum Development Team
+# TOPS Curricula Development Team
 
 ## Announcements
 
-We are pleased to announce our 2022 Transform to Open Science (TOPS) Curriculum Development Team - TOPS Curriculum Module Leads. We continue to receive an overwhelming number of applications and are still in the process of reviewing them until the deadline of June 15 for the role of Content Subject Matter Expert (5-7 per module). We are excited for the upcoming pre-sprint meeting, June 1-3, with the Leads and the TOPS Team. Information from the meeting will be shared following the pre-sprint. 
+We are pleased to announce our 2022 Transform to Open Science (TOPS) Curricula Development Team - TOPS Curricula Module Leads. We continue to receive an overwhelming number of applications and are still in the process of reviewing them until the deadline of June 15 for the role of Content Subject Matter Expert (5-7 per module).  
 
-## TOPS Team / Curriculum Development Team Sprints:
+## TOPS Team / Curricula Development Team Sprints:
 
-- June 1-3 (pre-sprint)
-- June 27 - July 1 (curriculum sprint)
+- June 1-3 [Pre-sprint](./events/2022-06-03-opencore-presprint-report.md)
+- June 27 - July 1 (curricula sprint)
 - August 9-11 (post-sptrint)
 
-## 2022 TOPS Curriculum Module Leads:
+## 2022 TOPS Curricula Module Leads:
 
 1. [Yo Yehudi](https://twitter.com/yoyehudi) - Ethos of Open Science
 2. [Sara El-Gebali](https://twitter.com/yalahowy) - Open Data
@@ -44,6 +44,12 @@ Deadline is June 15th. SMEs are being selected on a rolling basis. Current SME s
 
 ### Open Software
 
+1. [Johanna Bayer](https://twitter.com/likeajumprope)
+2. [Ana Vaz](https://www.linkedin.com/in/ana-carolina-vaz-9612a814/)
+3. [Sierra Kaufman](https://github.com/MillionConcepts)
+4. [Taher Chegini](https://cheginit.github.io/)
+5. [Yeo Keat Ee](https://www.linkedin.com/in/yeokeat/)
+6. [Babatunde Onabajo](https://github.com/BabatundeOnabajo)
 
 ### Open Science Tools and Resources
 
