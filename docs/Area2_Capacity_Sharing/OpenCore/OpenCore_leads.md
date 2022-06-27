@@ -20,7 +20,6 @@ We are pleased to announce our 2022 Transform to Open Science (TOPS) Curricula D
 
 ## 2022 TOPS Content Subject Matter Experts (SMEs):  
 
-Deadline is June 15th. SMEs are being selected on a rolling basis. Current SME selections:
 
 ### Ethos of Open Science
 
