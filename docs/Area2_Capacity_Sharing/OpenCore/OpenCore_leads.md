@@ -45,7 +45,7 @@ We are pleased to announce our 2022 Transform to Open Science (TOPS) Curricula D
 
 1. [Johanna Bayer](https://twitter.com/likeajumprope)
 2. [Ana Vaz](https://www.linkedin.com/in/ana-carolina-vaz-9612a814/)
-3. [Sierra Kaufman](https://github.com/MillionConcepts)
+3. [Sierra Kaufman](https://www.linkedin.com/in/sierra-kaufman-a521bb149/)
 4. [Taher Chegini](https://cheginit.github.io/)
 5. [Yeo Keat Ee](https://www.linkedin.com/in/yeokeat/)
 6. [Babatunde Onabajo](https://github.com/BabatundeOnabajo)
