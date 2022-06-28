@@ -16,10 +16,10 @@ Ask [questions](https://nasa.cnf.io/sessions/bx7z/#!/dashboard) of TOPS team
 
 
 
-| **Time (ET)** | **Agenda Item**                            | **Description**       |
-|---------------|--------------------------------------------|-----------------------|
-| 1:00 PM       | Welcome and Review of Code of Conduct      | Cynthia Hall          |
-| 1:05 PM       | Introduction to TOPS                       | Cynthia Hall          |
-| 1:10 PM       | TOPS OpenCore Curriculum overview          | Chris Erdmann, AGU    |
-| 1:15 PM       | Interactive Q&A                            | TOPS Team             |
-| 1:55 PM       | Announcement and Next Steps                | Cynthia Hall          |
+| **Time (ET)** | **Agenda Item**                            | **Description**        |
+|---------------|--------------------------------------------|------------------------|
+| 1:00 PM       | Welcome and Review of Code of Conduct      | Cynthia Hall           |
+| 1:05 PM       | Introduction to TOPS                       | Cynthia Hall           |
+| 1:10 PM       | TOPS OpenCore Curriculum overview          | Chris Erdmann, AGU     |
+| 1:15 PM       | Interactive Q&A                            | TOPS Team, Module Leads|
+| 1:55 PM       | Announcement and Next Steps                | Cynthia Hall           |
