@@ -25,10 +25,10 @@ Open Science creates more advanced and inclusive research faster, builds a more 
 2023 is the Year Of Open Science, a NASA initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) community coordinates efforts designed to rapidly transform agencies, organizations, and communities.*
 
 ## Implementation
-- [Area 1: Engagement](./docs/Area1_Engagement/readme.md): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
-- [Area 2: Capacity sharing](./docs/Area2_Capacity_Sharing/readme.md): Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
-- [Area 3: Incentives](./docs/Area3_Incentives/readme.md): Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
-- [Area 4: Moving towards openness](./docs/Area4_Moving_To_Openness/readme.md): Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.
+- [Area 1: Engagement](./docs/Area1_Engagement/): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
+- [Area 2: Capacity sharing](./docs/Area2_Capacity_Sharing/): Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
+- [Area 3: Incentives](./docs/Area3_Incentives/): Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
+- [Area 4: Moving towards openness](./docs/Area4_Moving_To_Openness/): Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.
  
 ## Overview Presentation
 Short presentation on TOPS initiative: 
