@@ -48,7 +48,7 @@ Conferences and Workshops
 2. TOPS OpenCore Sprint Meeting
     * When: August 9-11
     * Description: Post-sprint meeting to finalize OpenCore curricula development
-3. FOSS3G
+3. FOSS4G
     * When: Aug 22-28
     * Description: Kevin Murphy will be attending and Cynthia Hall will be presenting NASA’s Transform to Open Science (TOPS) Initiative.
     * `More Information: <https://foss4g.org/>`__
