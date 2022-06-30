@@ -12,11 +12,11 @@ Critical to these relationships is open, candid, and complete two-way communicat
 These sessions will educate the public about NASA’s OSSI and the TOPS program and create conversation where people can engage with us, give feedback on initiatives, and discuss opportunities and challenges. These sessions will feature an open-source science advocate/practitioner or discuss a topic of interest, followed by a listening session where participants have an opportunity to shape the conversation. The ultimate goal of the sessions is to have the community transition into long-term partnerships with increased community involvement.
 
 ### Come join us! 
-The community forum will be held the second Thursday of each month at 2 PM EST. The first in the series will be May 12.
+Exciting announcement, for the month of July, we will be shifting our previously scheduled Community Forum to a special topic on Monday July 18 at 10AM. In August we will resume our normal Thursday time. 
 
-When: May 12, 2022, 2:00-3:00 PM EST
+When: July 18, 2022, 10:00-11:00 AM EDT
 
-[Registration Link](https://go.nasa.gov/36aVsmH)
+[Registration Link](https://go.nasa.gov/3N938Fl)
 
 [Question Submission Link](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
 
