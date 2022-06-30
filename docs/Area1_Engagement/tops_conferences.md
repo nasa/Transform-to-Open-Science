@@ -7,47 +7,42 @@ Community Meetings
 
 Recurring TOPS Meetings
 -----------------
-1. `TOPS Community Forums <./Community_Forums>`__
+1.[TOPS Community Forums](../Community_Forums)
     * When: Second Thursday Every Month, 1-2 PM ET
     * Description: Our next community forum will be on Thursday, July 14, 2022 at 1 PM EDT (10 AM PDT). We will be joined by the OpenCore Curriculum Module Leads and Content Subject Matter Experts to discuss their recent work developing the lesson material and next steps towards advancing this work with the community.  
-    * Register `here <https://docs.google.com/forms/d/e/1FAIpQLSdwvKbB1q2bB7Myeo1dX0eyT3-As0yO4CXZVWXTJhzu2XJitg/viewform>`__
-    * Submit Questions `here <https://nasa.cnf.io/sessions/kzbb/#!/dashboard>`__
+    * Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdwvKbB1q2bB7Myeo1dX0eyT3-As0yO4CXZVWXTJhzu2XJitg/viewform)
+    * Submit Questions [here](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
   
 Conferences and Workshops
 -----------------
 1. ESIP Summer
     * When: July 18-20
     * Description: Cynthia Hall will be participating as a panelist, along with Ryan McGranaghan and Mark Parsons, in the session, Building a Thriving Open Science Community. 
-    * `More information: <https://www.esipfed.org/meetings](https://www.esipfed.org/meetings>`__
+    * More information: [https://www.esipfed.org/meetings](https://www.esipfed.org/meetings)
 2. TOPS OpenCore Sprint Meeting
     * When: August 9-11
     * Description: Post-sprint meeting to finalize OpenCore curricula development
 3. FOSS4G
     * When: Aug 22-28
     * Description: Kevin Murphy will be attending and Cynthia Hall will be presenting NASA’s Transform to Open Science (TOPS) Initiative.
-    * `More Information: <https://foss4g.org/>`__
+    * More Information: [https://foss4g.org/](https://foss4g.org/)
 4. SACNAS
     * When: Oct 27-29
     * Description: Yvonne Ivey will be attending and providing information and resources on NASA's Transform to Open Science (TOPS) mission.
-    * `Website <https://www.sacnas.org/conference>`__
+    * Website: [https://www.sacnas.org/conference](https://www.sacnas.org/conference)
 5. Github Universe
     * When: Nov 9-10
     * Description: TOPS will be attending. Come see us!
-    * `More Information: <https://www.githubuniverse.com/>`__
+    * More Information: [https://www.githubuniverse.com/](https://www.githubuniverse.com/)
 6. TOPS Train the Trainers
     * When: Nov 14-18
     * Description: More information coming soon
 7. AGU Fall Meeting
     * When: Dec 12-16
-    * Description: TOPS and AGU will be cohosting workshops on `OpenCore curricula <https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore>`__, will be available in the NASA booth. We will host an open science help desk and more. Join us! 
-    * `More Information <https://www.agu.org/Fall-Meeting>`__
+    * Description: TOPS and AGU will be cohosting workshops on [OpenCore curricula](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore), will be available in the NASA booth. We will host an open science help desk and more. Join us! 
+    * More Information: [https://www.agu.org/Fall-Meeting](https://www.agu.org/Fall-Meeting)
 
 Meetings Calendar
 -----------------
 
-A Google Calendar has been setup with these reoccurring times [GCAL_, ICAL_].
-
-.. _GCAL: https://calendar.google.com/calendar/embed?src=tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com&ctz=America%2FNew_York
-.. _ICAL: https://calendar.google.com/calendar/ical/tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com/public/basic.ics
-
-.. raw:: html
+A Google Calendar has been setup with these reoccurring times [GCAL](https://calendar.google.com/calendar/embed?), [ICAL](https://calendar.google.com/calendar/ical/tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com/public/basic.ics)
