@@ -1,10 +1,12 @@
 # TOPS Community Forum - July 2022
 
+Exciting announcement, for the month of July, we will be shifting our previously scheduled Community Forum to a special topic on Monday July 18 at 10AM. In August we will resume our normal Thursday time.
 
-**Date:** July 14, 2022
+
+**Date:** July 18, 2022
 
 
-**Time:** 1:00 PM ET
+**Time:** 10:00 - 11:00 AM ET / UTC -4 / [See in your timezone](https://www.timeanddate.com/worldclock/converter.html?iso=20220718T140000&p1=263)
 
 Slides: Coming
 
@@ -18,8 +20,7 @@ Ask [questions](https://nasa.cnf.io/sessions/bx7z/#!/dashboard) of TOPS team
 
 | **Time (ET)** | **Agenda Item**                            | **Description**        |
 |---------------|--------------------------------------------|------------------------|
-| 1:00 PM       | Welcome and Review of Code of Conduct      | Cynthia Hall           |
-| 1:05 PM       | Introduction to TOPS                       | Cynthia Hall           |
-| 1:10 PM       | TOPS OpenCore Curriculum overview          | Chris Erdmann, AGU     |
-| 1:15 PM       | Interactive Q&A                            | TOPS Team, Module Leads|
-| 1:55 PM       | Announcement and Next Steps                | Cynthia Hall           |
+| 10:00 AM      | Welcome and Review of Code of Conduct      | Cynthia Hall           |
+| 10:05 AM      | TOPS OpenCore Curriculum overview          | Lauren Parr, AGU       |
+| 10:45 AM      | Process of Providing Feedback              | Lauren Parr, AGU       |
+| 10:55 AM      | Announcement and Next Steps                | Cynthia Hall           |
