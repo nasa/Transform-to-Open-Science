@@ -36,6 +36,14 @@ These are the events where TOPS will be holding 2023 Year of Open Science worksh
    </td>
   </tr>
   <tr>
+   <td>AAS 2023 Meeting
+   </td>
+   <td>Seattle, WA
+   </td>
+   <td>2023-01-08
+   </td>
+  </tr>
+  <tr>
    <td>AAAS
    </td>
    <td>Washington, DC
