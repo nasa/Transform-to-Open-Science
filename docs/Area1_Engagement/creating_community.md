@@ -12,20 +12,17 @@ Critical to these relationships is open, candid, and complete two-way communicat
 These sessions will educate the public about NASA’s OSSI and the TOPS program and create conversation where people can engage with us, give feedback on initiatives, and discuss opportunities and challenges. These sessions will feature an open-source science advocate/practitioner or discuss a topic of interest, followed by a listening session where participants have an opportunity to shape the conversation. The ultimate goal of the sessions is to have the community transition into long-term partnerships with increased community involvement.
 
 ### Come join us! 
-The community forum will be held the second Thursday of each month at 2 PM EST. The first in the series will be May 12.
+The community forum will be held the second Thursday of each month at 1 PM ET.
 
-When: May 12, 2022, 2:00-3:00 PM EST
+When: July 14, 2022, 1:00-2:00 PM ET
 
-[Registration Link](https://go.nasa.gov/36aVsmH)
+[Registration Link](https://go.nasa.gov/3N938Fl)
 
 [Question Submission Link](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
 
 ## Community Panel
 The TOPS Community Panel is another way we create community and discover best practices for engagement. This event brings together leaders from the open science, open source software, and data science communities with the NASA TOPS team for a detailed review of TOPS plans and vibrant discussion.  Panelists review and provide input on NASA’s strategy for transitioning to open-source science. Feedback helps us shape engagement and community building practices for the Year of Open Science in 2023. Every April NASA will announce an opportunity to be a panelist. Community Panels are public and we have created  tools for the public to submit questions. Our May Community Panel is a virtual meeting and open to all. It is free to attend.
 
-### We hope you’ll join us and submit questions!
 When: May 17-19, 2022, 12:00-3:00 PM EST each day
-
-[Registration Link](https://go.nasa.gov/3kCFc1i)
 
 [Question Submission Link](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)
