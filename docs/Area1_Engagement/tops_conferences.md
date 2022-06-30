@@ -2,126 +2,52 @@
 
 These are the events where TOPS will be holding 2023 Year of Open Science workshops, sessions, and other events.
 
-<table>
-  <tr>
-   <td><strong>Association</strong>
-   </td>
-   <td><strong>Location</strong>
-   </td>
-   <td><strong>Start date</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Train the Trainers AGU
-   </td>
-   <td>Washington, DC
-   </td>
-   <td>2022-11-14
-   </td>
-  </tr>
-  <tr>
-   <td>AGU Fall Meeting
-   </td>
-   <td>Chicago, IL
-   </td>
-   <td>2022-12-12
-   </td>
-  </tr>
-  <tr>
-   <td>AMS 2023 Meeting
-   </td>
-   <td>Denver, CO
-   </td>
-   <td>2023-01-08
-   </td>
-  </tr>
-  <tr>
-   <td>AAS 2023 Meeting
-   </td>
-   <td>Seattle, WA
-   </td>
-   <td>2023-01-08
-   </td>
-  </tr>
-  <tr>
-   <td>AAAS
-   </td>
-   <td>Washington, DC
-   </td>
-   <td>2023-03-02
-   </td>
-  </tr>
-  <tr>
-   <td>LPSC
-   </td>
-   <td>Houston, TX
-   </td>
-   <td>2023-03-13
-   </td>
-  </tr>
-  <tr>
-   <td>EGU
-   </td>
-   <td>Vienna, Austra
-   </td>
-   <td>2023-04-23
-   </td>
-  </tr>
-  <tr>
-   <td>American Astronomical Society Summer
-   </td>
-   <td>Albuquerque, NM
-   </td>
-   <td>2023-06-04
-   </td>
-  </tr>
-  <tr>
-   <td>IGARSS - pasadena
-   </td>
-   <td>Pasadena, CA
-   </td>
-   <td>2023-07-16
-   </td>
-  </tr>
-  <tr>
-   <td>Society of Asian Scientists and Engineers (SASE)
-   </td>
-   <td>Atlanta, GA
-   </td>
-   <td>2023-10-12
-   </td>
-  </tr>
-  <tr>
-   <td>American Indian Science and Engineering Society
-   </td>
-   <td>Spokane, WA
-   </td>
-   <td>2023-10-19
-   </td>
-  </tr>
-  <tr>
-   <td>SACNAS
-   </td>
-   <td>Portland, OR
-   </td>
-   <td>2023-10-26
-   </td>
-  </tr>
-  <tr>
-   <td>American Society for Gravitational and Space Research
-   </td>
-   <td>Houston, TX
-   </td>
-   <td>2023-11-03
-   </td>
-  </tr>
-  <tr>
-   <td>AGU Fall Meeting
-   </td>
-   <td>San Francisco, CA
-   </td>
-   <td>2023-12-11
-   </td>
-  </tr>
-</table>
+Community Meetings
+-----------------
 
+Recurring TOPS Meetings
+-----------------
+1. `TOPS Community Forums <./Community_Forums>`__
+    * When: Second Thursday Every Month, 1-2 PM ET
+    * Description: Our next community forum will be on Thursday, July 14, 2022 at 1 PM EDT (10 AM PDT). We will be joined by the OpenCore Curriculum Module Leads and Content Subject Matter Experts to discuss their recent work developing the lesson material and next steps towards advancing this work with the community.  
+    * Register `here <https://docs.google.com/forms/d/e/1FAIpQLSdwvKbB1q2bB7Myeo1dX0eyT3-As0yO4CXZVWXTJhzu2XJitg/viewform>`__
+    * Submit Questions `here <https://nasa.cnf.io/sessions/kzbb/#!/dashboard>`__
+  
+Conferences and Workshops
+-----------------
+1. ESIP Summer
+    * When: July 18-20
+    * Description: Cynthia Hall will be participating as a panelist, along with Ryan McGranaghan and Mark Parsons, in the session, Building a Thriving Open Science Community. 
+    * `More information: <https://www.esipfed.org/meetings](https://www.esipfed.org/meetings>`__
+2. TOPS OpenCore Sprint Meeting
+    * When: August 9-11
+    * Description: Post-sprint meeting to finalize OpenCore curricula development
+3. FOSS4G
+    * When: Aug 22-28
+    * Description: Kevin Murphy will be attending and Cynthia Hall will be presenting NASA’s Transform to Open Science (TOPS) Initiative.
+    * `More Information: <https://foss4g.org/>`__
+4. SACNAS
+    * When: Oct 27-29
+    * Description: Yvonne Ivey will be attending and providing information and resources on NASA's Transform to Open Science (TOPS) mission.
+    * `Website <https://www.sacnas.org/conference>`__
+5. Github Universe
+    * When: Nov 9-10
+    * Description: TOPS will be attending. Come see us!
+    * `More Information: <https://www.githubuniverse.com/>`__
+6. TOPS Train the Trainers
+    * When: Nov 14-18
+    * Description: More information coming soon
+7. AGU Fall Meeting
+    * When: Dec 12-16
+    * Description: TOPS and AGU will be cohosting workshops on `OpenCore curricula <https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore>`__, will be available in the NASA booth. We will host an open science help desk and more. Join us! 
+    * `More Information <https://www.agu.org/Fall-Meeting>`__
+
+Meetings Calendar
+-----------------
+
+A Google Calendar has been setup with these reoccurring times [GCAL_, ICAL_].
+
+.. _GCAL: https://calendar.google.com/calendar/embed?src=tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com&ctz=America%2FNew_York
+.. _ICAL: https://calendar.google.com/calendar/ical/tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com/public/basic.ics
+
+.. raw:: html
