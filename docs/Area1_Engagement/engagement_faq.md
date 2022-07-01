@@ -6,7 +6,7 @@
   
   <details>
   <summary><h4>This sounds difficult. What is the first step? What can I do?</h4></summary>
-  The first step is to support open-source science efforts within your communities. The <a href="https://the-turing-way.netlify.app/welcome">Turing Way</a> is a community-driven guide that provides more details on how to design open projects. The <a href="https://en.unesco.org/science-sustainable-future/open-science/recommendation">2021 UNESCO recommendations</a>have detailed definitions and suggestions on areas of action to support open science.
+  The first step is to support open-source science efforts within your communities. The <a href="https://the-turing-way.netlify.app/welcome">Turing Way</a> is a community-driven guide that provides more details on how to design open projects. The <a href="https://en.unesco.org/science-sustainable-future/open-science/recommendation">2021 UNESCO recommendations</a> have detailed definitions and suggestions on areas of action to support open science.
   </details>
   
   <details>
@@ -16,13 +16,14 @@
 
   <details>
   <summary><h4>How can I advocate for open science?</h4></summary>
-    1. Make data non-proprietary and available in an open repository
-    2. Provide datasets in standardized formats and assign them DOIs
-    3. Develop open-source software and code, using best practices and rigorous version control, so that people can reuse it
-    4. Support community development and encourage reuse
-    5. Publish in open-access journals
-    6. Actively engage the public through storytelling (blogging, social media), hack-a-thons, and citizen science
-    7. Cite your data, software, and documentation; use DOIs
+  <ol>
+    <li>Make data non-proprietary and available in an open repository</li>
+    <li>Provide datasets in standardized formats and assign them DOIs</li>
+    <li>Develop open-source software and code, using best practices and rigorous version control, so that people can reuse it</li>
+    <li>Support community development and encourage reuse</li>
+    <li>Publish in open-access journals</li>
+    <li>Actively engage the public through storytelling (blogging, social media), hack-a-thons, and citizen science</li>
+    <li>Cite your data, software, and documentation; use DOIs</li>
   </details>
   
   <details>
