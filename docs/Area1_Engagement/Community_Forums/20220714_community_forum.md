@@ -22,5 +22,5 @@ Ask [questions](https://nasa.cnf.io/sessions/bx7z/#!/dashboard) of TOPS team
 |---------------|--------------------------------------------|------------------------|
 | 10:00 AM      | Welcome and Review of Code of Conduct      | Cynthia Hall           |
 | 10:05 AM      | TOPS OpenCore Curriculum overview          | Lauren Parr, AGU       |
-| 10:45 AM      | Process of Providing Feedback              | Lauren Parr, AGU       |
+| 10:45 AM      | Process of Providing Feedback              | Chris Erdmann, AGU       |
 | 10:55 AM      | Announcement and Next Steps                | Cynthia Hall           |
