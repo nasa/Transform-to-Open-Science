@@ -34,8 +34,8 @@ Community Meetings
 Recurring TOPS Meetings
 -----------------
 1. `TOPS Community Forums <./Community_Forums>`__
-    * When: Second Thursday Every Month, 1-2 PM ET
-    * Description: Our next community forum will be on Thursday, July 14, 2022 at 1 PM EDT (10 AM PDT). We will be joined by the OpenCore Curriculum Module Leads and Content Subject Matter Experts to discuss their recent work developing the lesson material and next steps towards advancing this work with the community.  
+    * When: July 18, 2022 at 10 AM EDT / UTC -4
+    * Description: Our next community forum will be on Monday, July 18, 2022 at 10 AM EDT (7 AM PDT). We will be joined by the OpenCore Curriculum Module Leads and Content Subject Matter Experts to discuss their recent work developing the lesson material and next steps towards advancing this work with the community.  
     * Register `here <https://docs.google.com/forms/d/e/1FAIpQLSdwvKbB1q2bB7Myeo1dX0eyT3-As0yO4CXZVWXTJhzu2XJitg/viewform>`__
     * Submit Questions `here <https://nasa.cnf.io/sessions/kzbb/#!/dashboard>`__
   
