@@ -2,7 +2,7 @@
 
 ### What is Open Science?
 <details>
-  <summary><h4>What is open science></h4></summary>
+  <summary><h4>What is open science?</h4></summary>
   Open science does not have one central definition or framework. However, we like how <a href = "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020EA001562">Ramachandran et al. (2021)</a> defines it; they say open science is “a collaborative culture enabled by technology that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding.” Broadly, it is a collection of ideas, principles, and practices that attempt to increase the quantity and quality of scientific production as well as facilitate the public’s interaction with science through openness and transparency.
   </details>
   
