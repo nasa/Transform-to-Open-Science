@@ -21,7 +21,7 @@ If you do not already have a GitHub account, you can [sign up for GitHub here](h
 * When submitting a bug report, please try to provide as much detail as possible, i.e. a screenshot or [gist](https://gist.github.com/) that demonstrates the problem, the technology you are using, and any relevant links. 
 
 #### Ready for your Help 
-Issues labeled :sparkles:[`help wanted`](https:/github.com/nasa/Transform-to-Open-Science/labels/help%20wanted):sparkles: make it easy for you to find ways you can contribute today. 
+Issues labeled :sparkles:[`help wanted`](https://github.com/nasa/Transform-to-Open-Science/labels/help%20wanted):sparkles: make it easy for you to find ways you can contribute today. 
 
 ## Development Model
 
