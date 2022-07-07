@@ -15,7 +15,7 @@ Research and practices by sites such as [GitHub’s badge profiles](https://docs
 
 In particular, “[Open Badges - glorified award stickers or valuable learning credentials](https://www.academia.edu/11621164/Open_Badges_-_glorified_award_stickers_or_valuable_learning_credentials)” summarizes the value of using the open badge standard pioneered by Mozilla in 2010 in order to embed meta-data associated with the achievements of the learner directly in the badge. 
 
-It is suggested that for the YOOS TOPS curriculum, participants received a badge for each module and a “grand badge” at the end of completing the course. Participants who take the fastpass option receive their badge by completing the fastpass activities described in a later section. The preliminary designs for NASA’s YOOS badges are suggested on slide 5 of [this deck](https://docs.google.com/presentation/d/1lZHLr34arhDt5kyRviyi-lf3PYisL56URUs7O2rfmoc/edit#slide=id.g35f391192_00). 
+It is suggested that for the TOPS curriculum, participants received a badge for each module and a “grand badge” at the end of completing the course. Participants who take the fastpass option receive their badge by completing the fastpass activities described in a later section. The preliminary designs for NASA’s YOOS badges are suggested on slide 5 of [this deck](https://docs.google.com/presentation/d/1lZHLr34arhDt5kyRviyi-lf3PYisL56URUs7O2rfmoc/edit#slide=id.g35f391192_00). 
 
 It is further suggested that special badges be awarded for participants who complete the course while at a NASA-sponsored event, such as Summer School or Science Team Meetings, as opposed to completing it on their own. The argument is that those who take an instructor-led course then have the potential to learn from each other and form their own open science community and connections during the course. Although this is primarily aimed at digital badges which can be added to online environments, this can also be extended to passing out physical stickers, pins, patches etc. at in-person events. 
 
@@ -24,27 +24,9 @@ It is further suggested that special badges be awarded for participants who comp
 
 A potential avenue for combining certification and badging is through[ IMS Global Learning Consortium’s open badges program](https://openbadges.org/). This is the avenues that the EU’s open science program is taking, with further details available [here](https://openbadges.org/). A list of all participating organizations can be found [here](https://site.imsglobal.org/certifications?page=2&refinementList%5Bstandards_lvlx%5D%5B0%5D=Open%20Badges) and the GitHub site is [here](https://gist.github.com/cmcavoy/4114344). The primary difference between the IMS standards and and GitHub’s digital badging is that IMS embeds additional information about the certification in the badge, while GitHub is currently limited to an icon that represents an achievement. This enables IMS to gather data regarding the use of the badges. IMS also has partners such as [OpenBadges.me](https://openbadges.me/) which provide services such as the design of the badge (free and paid options), tracking the issuing of the badge, allowing issuers to monitor and manage all issued badges. 
 
-For example, OpenBadges.me has a plan for $1500 per year which allows the issuance of badges to 3k recipients with advanced, rules-based issuance, analytics on recipients, and integration with other features such as Google suite (e.g., we can [issue badges via a google form submission](https://openbadges.me/blog/latest-blogs/using-apis-and-integrations-with-open-badges/)) as well as integration with GitHub ([instructions here](https://openbadges.zendesk.com/hc/en-us/articles/360005942914-Simple-Badge-Issuing-API)). 
+For example, OpenBadges.me has a plan which allows the issuance of badges to 3k recipients with advanced, rules-based issuance, analytics on recipients, and integration with other features such as Google suite (e.g., we can [issue badges via a google form submission](https://openbadges.me/blog/latest-blogs/using-apis-and-integrations-with-open-badges/)) as well as integration with GitHub ([instructions here](https://openbadges.zendesk.com/hc/en-us/articles/360005942914-Simple-Badge-Issuing-API)). 
 
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-An alternative to OpenBadges.me is [BadgeCert.com](https://badgecert.com/how-it-works/). In addition to issuing the badge, Badge Cert offers continuous “scanning” of those who have earned badges, allowing for badges to “expire” if certain conditions are not met. This would be interesting if we, for example, wanted people to take our modules in a certain period of time or to refresh their knowledge of open science in Y4 or Y5 of TOPS. BadgeCert also allows for “micro-badging” where learners can earn badges along the way to a “grand badge.” This fits in well with the current curriculum plan. 
-
-
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-Like OpenBadges.me, OpenCert offers API integration, allowing learners to display badges on GitHub, in addition to personal portfolio management and analytics for the badge issuer. As an added bonus, it also allows for paper certificates/traditional certificates to be issued along with the digital badge which overcomes some of the problems with certificates mentioned in the next section. Pricing is not available on the OpenCert page without signing up for more information. 
+An alternative to OpenBadges.me is [BadgeCert.com](https://badgecert.com/how-it-works/). In addition to issuing the badge, Badge Cert offers continuous “scanning” of those who have earned badges, allowing for badges to “expire” if certain conditions are not met. This would be interesting if we, for example, wanted people to take our modules in a certain period of time or to refresh their knowledge of open science in Y4 or Y5 of TOPS. BadgeCert also allows for “micro-badging” where learners can earn badges along the way to a “grand badge.” This fits in well with the current curriculum plan. Like OpenBadges.me, OpenCert offers API integration, allowing learners to display badges on GitHub, in addition to personal portfolio management and analytics for the badge issuer. As an added bonus, it also allows for paper certificates/traditional certificates to be issued along with the digital badge which overcomes some of the problems with certificates mentioned in the next section. Pricing is not available on the OpenCert page without signing up for more information. 
 
 Other build-your-own-badge websites to consider are:
 
