@@ -19,7 +19,7 @@
 
 # OpenCore Scope
 
-TOPS aims to meet everyone where they are at on their open science journey. While some members of our growing community may have practiced open science for many years, others may be trying to transition to a new way of conducting research or are students who are looking to begin their scientific careers. As such, TOPS' first priority is to develop the infrastructure to train 20,000 scientists and researchers as part of our five-year program. This open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts. TOPS will initially focus on developing the [OpenCore](./OpenCore/readme.md), designed as five modules that mimic a scientific workflow.  
+TOPS aims to meet everyone where they are at on their open science journey. While some members of our growing community may have practiced open science for many years, others may be trying to transition to a new way of conducting research or are students who are looking to begin their scientific careers. As such, TOPS' first priority is to develop the infrastructure to train 20,000 scientists and researchers as part of our five-year program. This open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts. TOPS will initially focus on developing the OpenCore, designed as five modules that mimic a scientific workflow.  
 
 For the 2023 Year of Open Science, TOPS is developing strategic partnerships with large scientific associations to teach open science during large annual meetings, special science team summer schools, and other events. The vision for the TOPS OpenCore and other learning resources is for a CC-BY licensed Massive Online Open Course (MOOC), hosted on the OpenEDx platform, that can be used to train scientists and award NASA open science badges.
 
@@ -35,11 +35,11 @@ The design is for a 12.5-hour course consisting of five, 2.5-hour modules that c
 * All content will be assigned a CC0 or CC-BY license.
 
 ### v0 OpenCore Modules
-1. [Ethos](./module1.md): What is open science? Best practices for building communities, collaborations, and project design. Open science norms.
-2. [Collaboration tools](./module2.md) (Jupyter notebooks, RStudio, Stackoverflow, NBviewer, cloud - use TOP educational hub to demo in MOOC)
-3. [Managing and sharing research software](./module3.md) (GitHub, version control, research notebook best practices, environments, licensing - use TOP educational hub to demo in MOOC)
-5. [Accessing, managing, and sharing research data](./module4.md) (best practices for creators, best practices for consumers, metadata, doi, citation, licensing)
-6. [Sharing results](./module5.md) (why open access, publications, making your results more accessible - including data and software, Binder, visualization)
+1. [Ethos of Open Science](./module1.md): Best practices for building open science communities, collaborations, and project design
+2. [Open Science Tools](./module2.md): Open science tools and resoures such as Jupyter notebooks, RStudio, Stackoverflow, NBviewer, and cloud computing
+3. [Open Software](./module3.md): Introduction to open-source software best practices including GitHub, version control, research notebook best practices, environments, and licensing
+5. [Open Data](./module4.md): How to create and maintain open data including best practices for creators and consumers, metadata, citation, and licensing
+6. [Open Results](./module5.md): Benefits of open access and other open avenues for publication; making results more accessible
 
 # Course Enrollment and Teaching Event Plan
 *This area will be updated as the content nears completion.*
