@@ -16,7 +16,7 @@ Plan, curate, and connect your software. Use this checklist to improve your  sof
 
 - [ ] **Determine what metadata you will need.** E.g. [Making your code citable](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) via Zenodo and GitHub and  using [Zenodo’s Sandbox](https://sandbox.zenodo.org/) allows you to see additional metadata that you will need including ORCIDs for  authors, related identifiers (e.g. paper DOIs), funding information, etc. and the [CodeMeta file](https://codemeta.github.io/) that is  created.  
 
-## YOUR SOFTWARE AVAILABILITY STATEMENT. YOUR SOFTWARE REFERENCE.
+## YOUR SOFTWARE AVAILABILITY STATEMENT AND CITATION.
 
 
 - [ ] **Include your Software Availability Statement.** Your Software Availability Statement might significant impact on your research and/or  your research is not reproducible without it. 
