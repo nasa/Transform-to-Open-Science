@@ -2,7 +2,7 @@
 
 We're so glad you're interested in contributing to Transform to Open Science!
 
-Before contributing, in addition to reading our CONTRIBUTING guide (you are here), we also ask you to read our [LICENSE](https://github.com/nasa/Transform-to-Open-Science/blob/main/LICENSE.MD), our [README]([https://github.com/nasa/Transform-to-Open-Science/blob/main/README.MD](https://github.com/reeseIngraham/Transform-to-Open-Science/blob/main/README.md), and our [Code of Conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.MD).
+Before contributing, in addition to reading our CONTRIBUTING guide (you are here), we also ask you to read our [LICENSE](https://github.com/nasa/Transform-to-Open-Science/blob/main/LICENSE.MD), our [README][https://github.com/nasa/Transform-to-Open-Science/blob/main/README.MD](https://github.com/reeseIngraham/Transform-to-Open-Science/blob/main/README.md), and our [Code of Conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.MD).
 
 ## Ways to Contribute
 
