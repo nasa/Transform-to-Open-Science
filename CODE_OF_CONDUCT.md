@@ -126,7 +126,7 @@ TOPS is greatly appreciative of the multiple sources that we drew from to build 
 
 * [The Contributor Covenant](http://contributor-covenant.org), [version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
 
-* [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity)
+* [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/inclusion#code-of-conduct--enforcement)
 
 * [The Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) 
 
