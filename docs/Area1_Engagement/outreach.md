@@ -21,7 +21,7 @@ Here are some ways we collaborate and communicate with communities:
 
  - Collaborate with communities focused on historically underrepresented groups
 
- - Promote open science in [High Priority Publications](../tops_publications.md), through a roadshow (virtual if necessary) to brief editorial boards of top science publications, publishing pieces in high priority publications - scientific and popular media forms, and write Op-eds in key publications
+ - Promote open science in [High Priority Publications](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/tops_publications.md), through a roadshow (virtual if necessary) to brief editorial boards of top science publications, publishing pieces in high priority publications - scientific and popular media forms, and write Op-eds in key publications
 
 If your community is interested in working together, please contact us.
 
