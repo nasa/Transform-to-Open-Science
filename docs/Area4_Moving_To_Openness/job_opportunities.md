@@ -1,4 +1,4 @@
-# Job opportunities
+# Job Opportunities
 
 - [Fall Student Internship!](https://nasacentral.force.com/s/course-offering/a0Bt000000A3iWG/increasing-hispanic-serving-institutions-participation-in-open-science)
 - [Apply](https://t.co/X8DSfD2z4x) to be a NASA Postdoctoral Management Fellow within the [SMD Bridge Program](https://science.nasa.gov/smd-bridge-program)
