@@ -1,9 +1,9 @@
-# TOPS Moving to Openness
+# TOPS Moving towards Open Science
 
-## Funding opportunities
+## Funding Opportunities
 
 A list of open science [funding opportunities](./funding_opportunities.md). Please feel free to make pull requests and add new opportunities.
 
-## Job opportunities
+## Job Opportunities
 
 A list of open science [job opportunities](./job_opportunities.md). Please feel free to make pull requests and add new opportunities.
