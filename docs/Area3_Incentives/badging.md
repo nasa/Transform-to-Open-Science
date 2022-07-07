@@ -11,9 +11,8 @@ Research and practices by sites such as [GitHub’s badge profiles](https://docs
     * 20 organizational endorsers of COS badges ([link](https://osf.io/tvyxz/wiki/5.%20Adoptions%20and%20Endorsements/)) 
 * [FAQ on badges](https://osf.io/tvyxz/wiki/7.%20Frequently%20Asked%20Questions/) from the Open Science Framework
 * [Kidwell et al](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002456).[ Badges to Acknowledge Open Practices: A Simple, Low-Cost, Effective Method for Increasing Transparency. 2016.](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002456)
-* [Psychological Science ](https://journals.sagepub.com/toc/pss/current) has an example of how badges are used to track the “openness” of a particular article 
-
-In particular, “[Open Badges - glorified award stickers or valuable learning credentials](https://www.academia.edu/11621164/Open_Badges_-_glorified_award_stickers_or_valuable_learning_credentials)” summarizes the value of using the open badge standard pioneered by Mozilla in 2010 in order to embed meta-data associated with the achievements of the learner directly in the badge. 
+* [Psychological Science ](https://journals.sagepub.com/toc/pss/current) has an example of how badges are used to track the “openness” of a particular article
+* “[Open Badges - glorified award stickers or valuable learning credentials](https://www.academia.edu/11621164/Open_Badges_-_glorified_award_stickers_or_valuable_learning_credentials)” summarizes the value of using the open badge standard pioneered by Mozilla in 2010 in order to embed meta-data associated with the achievements of the learner directly in the badge 
 
 It is suggested that for the TOPS curriculum, participants received a badge for each module and a “grand badge” at the end of completing the course. Participants who take the fastpass option receive their badge by completing the fastpass activities described in a later section. The preliminary designs for NASA’s YOOS badges are suggested on slide 5 of [this deck](https://docs.google.com/presentation/d/1lZHLr34arhDt5kyRviyi-lf3PYisL56URUs7O2rfmoc/edit#slide=id.g35f391192_00). 
 
