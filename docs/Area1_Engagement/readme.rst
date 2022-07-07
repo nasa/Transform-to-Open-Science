@@ -44,14 +44,14 @@ Conferences and Workshops
 1. ESIP Summer
     * When: July 18-20
     * Description: Cynthia Hall will be participating as a panelist, along with Ryan McGranaghan and Mark Parsons, in the session, Building a Thriving Open Science Community. 
-    * `More information: <https://www.esipfed.org/meetings](https://www.esipfed.org/meetings>`__
+    * `More information <https://www.esipfed.org/meetings](https://www.esipfed.org/meetings>`__
 2. TOPS OpenCore Sprint Meeting
     * When: August 9-11
     * Description: Post-sprint meeting to finalize OpenCore curricula development
 3. FOSS4G
     * When: Aug 22-28
     * Description: Kevin Murphy will be attending and Cynthia Hall will be presenting NASA’s Transform to Open Science (TOPS) Initiative.
-    * `More Information: <https://foss4g.org/>`__
+    * `More Information <https://foss4g.org/>`__
 4. SACNAS
     * When: Oct 27-29
     * Description: Yvonne Ivey will be attending and providing information and resources on NASA's Transform to Open Science (TOPS) mission.
@@ -59,7 +59,7 @@ Conferences and Workshops
 5. Github Universe
     * When: Nov 9-10
     * Description: TOPS will be attending. Come see us!
-    * `More Information: <https://www.githubuniverse.com/>`__
+    * `More Information <https://www.githubuniverse.com/>`__
 6. TOPS Train the Trainers
     * When: Nov 14-18
     * Description: More information coming soon
