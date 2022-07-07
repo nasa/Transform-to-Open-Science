@@ -1,5 +1,4 @@
 # NASA Transform to Open Science (TOPS) Frequently Asked Questions 
-## NASA TOPS is a five-year initiative designed to support scientists, agencies, organizations, and communities as they transform to an inclusive culture of open science
 ### What is open-source science (OSS)?
 Open-source science is a commitment to the open sharing of software, data, and knowledge (algorithms, papers, documents, ancillary information) from the start of research activities. The principles of OSS are to make publicly funded scientific research transparent, inclusive, accessible, and reproducible. OSS is enabled by advances in technology, including collaboration tools and cloud computing. More information is available from NASA's [Science Mission Directorate (SMD) Policy Document (SPD-41) on science information policy.](https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf)
 ### What is the difference between OSS and open science?
