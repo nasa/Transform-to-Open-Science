@@ -2,7 +2,7 @@
 # Announcements
 - 28 June 2022: AGU announces OpenCore [Leads](./OpenCore_leads.md)
 
-## TOPS Team / Curricula Development Team Sprints:
+# OpenCore Sprint Schedule
 
 * Curriculum [Pre-sprint](./events/2022-06-03-opencore-presprint-report.md): 1 June - 26 June
 * Curriculum Sprint: 27 June - 1 July
@@ -17,66 +17,37 @@
 * Adjudicate Testing Feedback: 17 Oct - 28 Oct
 * Module Soft Launch: 28 Oct
 
-# Scope:
+# OpenCore Scope
 
-TOPS aims to meet everyone where they are at on their open science journey. While some members of our growing community may have practiced open science for many years, others may be trying to transition to a new way of conducting research or are students who are looking to begin their scientific careers. As such, TOPS' first priority is to develop the infrastructure to train 20,000 scientists and researchers as part of our five-year program. This open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts.
+TOPS aims to meet everyone where they are at on their open science journey. While some members of our growing community may have practiced open science for many years, others may be trying to transition to a new way of conducting research or are students who are looking to begin their scientific careers. As such, TOPS' first priority is to develop the infrastructure to train 20,000 scientists and researchers as part of our five-year program. This open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts. TOPS will initially focus on developing the [OpenCore](./OpenCore/readme.md), designed as five modules that mimic a scientific workflow.  
 
 For the 2023 Year of Open Science, TOPS is developing strategic partnerships with large scientific associations to teach open science during large annual meetings, special science team summer schools, and other events. The vision for the TOPS OpenCore and other learning resources is for a CC-BY licensed Massive Online Open Course (MOOC), hosted on the OpenEDx platform, that can be used to train scientists and award NASA open science badges.
 
-The TOPS curriculum will also be used to support researchers looking to engage with NASA as NASA moves to adopt more open science requirements (e.g., Scientific Information Policy and ROSES opportunities). Scientists will need to acquire the new skills highlighted in the curriculum to participate in open science effectively and to demonstrate those skills when applying for NASA funding opportunities.
+## Learning Objectives
 
-# Learning objective:
+The OpenCore aims to introduce learners to a nuanced understanding of open science, enabling participants to better understand an open science workflow from end to end. The focus of the curriculum will be on providing learners with a basic understanding of open science, its ethos and benefits, and how to actively participate in open science communities. The TOPS curriculum will also be used to support researchers looking to engage with NASA as NASA moves to adopt more open science requirements (e.g., Scientific Information Policy and ROSES opportunities). Scientists will need to acquire the new skills highlighted in the curriculum to participate in open science effectively and to demonstrate those skills when applying for NASA funding opportunities.
 
-Create a more nuanced understanding of open science to enable participants to better understand the open science workflow from end to end. The focus of the curriculum will give the learners participating a basic understanding of open science, and its ethos, why it benefits them, and how to actively participate in open science communities. 
+## Module Descriptions
 
+The design is for a 12.5-hour course consisting of five, 2.5-hour modules that could be taught in-person during large society meetings or during science team meetings, completed individually online, or completed via group-organized online events. 
+* Each MOOC module will be a 2.5-hour interactive learning experience with slides, videos, quizzes, and activities. 
+* All content will be integrated into OpenedX 
+* All content will be assigned a CC0 or CC-BY license.
 
-# Incentive to take the course
-
-* Gain Certification in open science
-
-# Description:
-
-
-The design is for a 12.5-hour course (five 2.5-hour modules) that could be taught in-person during large society meetings, each morning of a week-long science team meeting, completed individually online, or in group-organized online events. 
-
-
-* Each MOOC module is a 2.5-hour interactive learning experience with slides, videos, quizzes, and activities. 
-* All content will be integrated into an Open edX and a JupyterBook that will be integrated into the TOPS website. All content will be assigned a CC0 or CC-BY license.
-
-# Requirement for each module (Deliverables):
-
-
-Each module includes:
-
-
-* 3-hour schedule (2.5-hours of content and two 15 minute breaks)
-* Slides, scripts, videos for MOOC
-* Quiz questions for MOOCs
-* Activities workbooks
-
-
-# Course Enrollment and Teaching Events
-
-* MOOC that can be completed independently. 
-* In-person teaching at large society meetings
-* In-person teaching at science team meetings
-* Online cohorts with weekly meetings to help progression through the course
-
-
-# Course Creation
-
-* 8 SMEs for each module that will develop interactive content.
-* MOOC Instructional designer 
-* Technical developers 
-* Video/Animation creation
-
-# Proposed Open Science Module components (version 0):
-
+### v0 OpenCore Modules
 1. [Ethos](./module1.md): What is open science? Best practices for building communities, collaborations, and project design. Open science norms.
 2. [Collaboration tools](./module2.md) (Jupyter notebooks, RStudio, Stackoverflow, NBviewer, cloud - use TOP educational hub to demo in MOOC)
 3. [Managing and sharing research software](./module3.md) (GitHub, version control, research notebook best practices, environments, licensing - use TOP educational hub to demo in MOOC)
 5. [Accessing, managing, and sharing research data](./module4.md) (best practices for creators, best practices for consumers, metadata, doi, citation, licensing)
 6. [Sharing results](./module5.md) (why open access, publications, making your results more accessible - including data and software, Binder, visualization)
+
+# Course Enrollment and Teaching Event Plan
+*This area will be updated as the content nears completion.*
+
+## Course Incentives
+
+* Certification and/or NASA TOPS open science [badges](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area3_Incentives/badging.md)
+
 
 # Timeline
 
@@ -285,15 +256,15 @@ Advertised and open for comments - reaching out to people and having the outline
   <tr>
    <td><strong>Objective</strong>
    </td>
-   <td>Roughly 10% of NASA funded scientists are working in open source development. They may or may not have received formal training but are actively using open science principles. 
+   <td>Roughly 10% of NASA funded scientists are working in open-source development. They may or may not have received formal training but are actively using open science principles. 
    </td>
-   <td>Increase knowledge about open science benefits and how to incorporate from idea inception to publication
+   <td>Increase knowledge about open science benefits and how to incorporate open science practices into research workflow
    </td>
   </tr>
   <tr>
    <td><strong>Modules</strong>
    </td>
-   <td>Completion of module 1 (Ethos) and pull request in Github  ~3hrs 
+   <td>Completion of Ethos of Open Science module and pull request in Github  ~3hrs 
    </td>
    <td>Completion of all 5 modules
    </td>
@@ -317,9 +288,9 @@ Advertised and open for comments - reaching out to people and having the outline
   <tr>
    <td><strong>Expected Outcome</strong>
    </td>
-   <td>Ensure that scientists currently active in open source development are also aware of inclusivity of open science norms.
+   <td>Ensure that scientists currently active in open source development are also aware of inclusivity of open science norms
    </td>
-   <td>NASA scientists will understand how to participate in open science communities and see the benefits to their scientific impact.
+   <td>NASA scientists will understand how to participate in open science communities and see the benefits to their scientific impact
    </td>
   </tr>
 </table>
