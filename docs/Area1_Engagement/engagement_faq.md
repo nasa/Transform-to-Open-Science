@@ -148,7 +148,7 @@
   
   <details>
   <summary><h4>This sounds difficult. What is the first step? What can I do?</h4></summary>
-  The first step is to support open-source science efforts within your communities. The <a href="https://the-turing-way.netlify.app/welcome">Turing Way</a> is a community-driven guide that provides more details on how to design open projects. The <a href="https://en.unesco.org/science-sustainable-future/open-science/recommendation">2021 UNESCO recommendations</a> have detailed definitions and suggestions on areas of action to support open science.
+  The first step is to learn about Open Science and the Transform to Open Science repository provides more resources. Integrating open science best practices into your work is the next step. The <a href="https://the-turing-way.netlify.app/welcome">Turing Way</a> is a community-driven guide that provides more details on how to design open projects. As you become more confortable with Open Science you can also start to support Open Science efforts in your community. The <a href="https://en.unesco.org/science-sustainable-future/open-science/recommendation">2021 UNESCO recommendations</a> have detailed definitions and suggestions on areas of action to support open science.
   </details>
   
   <details>
