@@ -5,11 +5,11 @@
 By the end of this module, learners will be familiar with the definitions central to open science and have explored some concrete examples of the benefits of open science principles and community. The course will include best practices for building open science communities, increasing collaboration, and introducing open principles to project design, as well as an overview of open science norms. This module will also explore the historical impact of “closed” science, and how open science seeks to create a more diverse and equitable scientific community.
 
 Key Terms: 
-Open science, open data, open source, open access, interdisciplinary, equitable, citizen science, open research, open scholarship, reproducibility and replicability, peer-review, FAIR principles, metrics [in context of scientific merit], [altmetrics](https://www.altmetric.com/), openness, transparency, rigor, computational provenance 
+Open science, open data, open source, open access, interdisciplinary, equitable, citizen science, open research, open scholarship, reproducibility and replicability, peer-review, FAIR principles, [altmetrics](https://www.altmetric.com/), openness, transparency, rigor, computational provenance 
 
 # Possible Topics: 
 1. What is open science
-1. Why open science? 
+1. Why practice open science? 
      - Benefits and examples of Open Science
 1. Equity and open science
 1. Barriers to open science 
@@ -24,7 +24,7 @@ Open science, open data, open source, open access, interdisciplinary, equitable,
 8. Exercise/Activity: Take an “open” policy held by your institution and examine it as a group. Who is it for? Who does it benefit? How “open” is it truly? 
     * If your institution does not have an open policy, examine a policy on publication, research sharing, collaborations or partnerships. Who is it for? Who does it benefit? What would it take, in your opinion, to make the policy “open”?
 
-## Further Reading to Consider Assigning
+## Suggested Resources
 
 
 
