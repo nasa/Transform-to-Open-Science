@@ -118,7 +118,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
   <tr>
    <td><a href = "https://youtu.be/MkND79xz-sI?t=7528">02:05:28 - 02:53:01</a>
    </td>
-   <td><a href = "https://youtu.be/MkND79xz-sI?t=7528">02:05:28 - 02:53:01
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=7528">
      Discussion: 
 <ul>
 
