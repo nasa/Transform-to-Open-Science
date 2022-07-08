@@ -21,7 +21,7 @@
 
 TOPS aims to meet everyone where they are at on their open science journey. While some members of our growing community may have practiced open science for many years, others may be trying to transition to a new way of conducting research or are students who are looking to begin their scientific careers. As such, TOPS' first priority is to develop the infrastructure to train 20,000 scientists and researchers as part of our five-year program. This open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts. TOPS will initially focus on developing the OpenCore, designed as five modules that mimic a scientific workflow.  
 
-For the 2023 Year of Open Science, TOPS is developing strategic partnerships with large scientific associations to teach open science during large annual meetings, special science team summer schools, and other events. The vision for the TOPS OpenCore and other learning resources is for a CC-BY licensed Massive Online Open Course (MOOC), hosted on the OpenEDx platform, that can be used to train scientists and award NASA open science badges.
+For the 2023 Year of Open Science, TOPS is developing strategic partnerships with large scientific associations to teach open science during large annual meetings, special science team summer schools, and other events. The vision for the TOPS OpenCore and other learning resources is for a CC-BY licensed online, open course, hosted on the OpenEDx platform, that can be used to train scientists and award NASA open science badges.
 
 ## Learning Objectives
 
@@ -30,7 +30,7 @@ The OpenCore aims to introduce learners to a nuanced understanding of open scien
 ## Module Descriptions
 
 The design is for a 12.5-hour course consisting of five, 2.5-hour modules that could be taught in-person during large society meetings or during science team meetings, completed individually online, or completed via group-organized online events. 
-* Each MOOC module will be a 2.5-hour interactive learning experience with slides, videos, quizzes, and activities. 
+* Each course module will be a 2.5-hour interactive learning experience with slides, videos, quizzes, and activities. 
 * All content will be integrated into OpenedX 
 * All content will be assigned a CC0 or CC-BY license.
 
@@ -78,29 +78,29 @@ The design is for a 12.5-hour course consisting of five, 2.5-hour modules that c
   <tr>
    <td>March
    </td>
-   <td colspan="4" >V1 curriculum content development - core team focused effort
+   <td colspan="4" >V1 curriculum content development
    </td>
   </tr>
   <tr>
    <td>April
    </td>
-   <td colspan="4" >Outline and draftv1 published on google drive | curriculum dev still work on product
+   <td colspan="4" >Outline and draft V1 published on google drive | curriculum dev still work on product
 <p>
-Advertised and open for comments - reaching out to people and having the outline up
+Advertised and open for review comments
    </td>
   </tr>
   <tr>
    <td>May
    </td>
-   <td colspan="4" >Outline and draftv1 published on google drive | curriculum dev still work on product
+   <td colspan="4" >Outline and draft v1 published on google drive | curriculum dev still work on product
 <p>
-Advertised and open for comments - reaching out to people and having the outline up
+Advertised and open for review comments
    </td>
   </tr>
   <tr>
    <td>June
    </td>
-   <td colspan="4" >Workshop 3 for facilitators, TOPS and partner teams to finalize content (~15 people - 5 TOPS Core Team, 4 partner, 1 MOOC Consultant. 5 facilitators/module leads)
+   <td colspan="4" >Workshop 3 for facilitators, TOPS and partner teams to finalize content (~15 people - 5 TOPS Core Team, 4 partner, 1 course Consultant. 5 facilitators/module leads)
    </td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@ Advertised and open for comments - reaching out to people and having the outline
   <tr>
    <td>October
    </td>
-   <td colspan="4" >TOPS Open Science MOOC v0 is launched for online validation only
+   <td colspan="4" >TOPS Open Science curriculum v0 is launched for online validation only
    </td>
   </tr>
   <tr>
@@ -136,9 +136,9 @@ Advertised and open for comments - reaching out to people and having the outline
    </td>
    <td>Soft-launch Fall AGU
    </td>
-   <td rowspan="13" >TOPS Open Science MOOC v0 is officialy launched; Support cohort formation within the MOOC for the online cohort planned activities.
+   <td rowspan="13" >TOPS Open Science curriculum v0 is officialy launched; Support cohort formation for the online cohort planned activities.
    </td>
-   <td rowspan="13" >Maintain open science MOOC and work with future discipline specific module developers to integrate their content into the MOOC.
+   <td rowspan="13" >Maintain open science curriculum and work with future discipline specific module developers to integrate their content into existing curriculum.
    </td>
    <td>
    </td>
