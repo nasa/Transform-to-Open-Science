@@ -37,7 +37,7 @@ Key Terms: **Virtual research environments (VRE), SMART goals, advocacy, metadat
     * [OpenAire](https://explore.openaire.eu/search/find/dataproviders) 
     * [Share](https://share.osf.io/sources) 
  
- ## Further** **Reading to Consider** **Assigning
+ ## Suggested Resources
  
  
  
