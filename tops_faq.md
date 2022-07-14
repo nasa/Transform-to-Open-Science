@@ -1,14 +1,16 @@
-## TOPS FAQ
+<h2>TOPS FAQ</h2>
 This page contains a selection of questions and answers for the TOPS May 2022 community events that TOPS believes may benefit the wider community. Both the questions and responses have been edited for length and clarity; a full transcript of the event is available in our GitHub <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums">community forum</a> and <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Panels">community panel</a> pages.
-### General Questions on TOPS
+<h3>General Questions on TOPS</h3>
 <details>
-  <summary><h4>NASA TOPS is a $40M mission over 5 years. How will those funds be spent? Will any of this go to specific science directorates to foster more localized open science approaches?</h4></summary>
+  <summary>
+    <h4>NASA TOPS is a $40M mission over 5 years. How will those funds be spent?</h4>
+  </summary>
   TOPS is across all of NASA’s Science Mission Directorate (SMD). The majority of the funding is to support training activities to help the SMD community learn about Open Sciences. This includes training that is tailored to the needs of the scientific communities of SMD. Opportunities will be announced that are available to all directorates and the different directorates are participating in the design and development of the project. 
 
   </details>
   
   <details>
-  <summary><h4>What are the concrete objectives with the TOPS mission? What will success look like? What outcomes and deliverables are you pursuing?</summary></h4>
+  <summary><h4>What are the concrete objectives with the TOPS mission? What outcomes and deliverables are you pursuing?</summary></h4>
   TOPS goals are to enable 
   <ol>
     <li> 20,000 individuals to earn an Open Science Badge, 
@@ -35,7 +37,7 @@ This page contains a selection of questions and answers for the TOPS May 2022 co
   </details>
   
   <details>
-  <summary><h4>Have actionable plans been made to ensure that communities historically excluded from research are reached by TOPS? Which underrepresented groups are you targeting for participation?</h4></summary>
+  <summary><h4>Have actionable plans been made to ensure that communities historically excluded from research are reached by TOPS?</h4></summary>
   Yes; plans have been developed that include engagement and support for these communities. A core value within the TOPS team is to meet historically excluded groups where they are, and we will continue to follow through with this value for the next 5 years.  We are working to have a strong presence at conferences that focus on historically excluded groups.  We have partnered with NASA’s Minority University Research and Education Project (MUREP) to support different activities such as funding 3-year NASA internships and to develop future solicitations. Our TOPS Community Panel includes leaders in open science and is 50% women and 70% people of color.  We will also be developing further plans based on the engagement and feedback we receive. We welcome suggestions, contributions, and comments through our <a href = "https://github.com/nasa/Transform-to-Open-Science">GitHub site</a> or by contacting us directly.
   </details>
   
@@ -47,12 +49,12 @@ This page contains a selection of questions and answers for the TOPS May 2022 co
   
   <details>
   <summary><h4>Where can I go to get more information on NASA open data policy?</h4></summary>
-  Please refer to the official website at <a href = "https://science.nasa.gov/researchers/science-data/science-information-policy.">https://science.nasa.gov/researchers/science-data/science-information-policy.</a> .
+  Please refer to the official website at <a href = "https://science.nasa.gov/researchers/science-data/science-information-policy">https://science.nasa.gov/researchers/science-data/science-information-policy.</a> .
 
   </details>
   
   <details>
-  <summary><h4>How will you enable open meetings? Will they all be virtual or will funding be provided for volunteers, specifically citizen scientists, to present at science meetings?</h4></summary>
+  <summary><h4>How will you enable open meetings? Will they all be virtual? Will funding be provided for volunteers to present at science meetings?</h4></summary>
   We are enabling open meetings by providing an option for virtual attendance, including the ability to submit questions. We have plans to expand participation at NASA science team meetings; please subscribe to our <a href = "https://go.nasa.gov/3Lwlb87">listserv</a> to hear more.
 
   </details>
@@ -62,30 +64,29 @@ This page contains a selection of questions and answers for the TOPS May 2022 co
   You can visit us at conferences to find our latest educational and informational resources. We are also working on a distribution mechanism to share resources with the full community, so join our <a href = "https://go.nasa.gov/3Lwlb87">listserv</a> to stay tuned!
 
   </details>
-### Incentives and Recognition
+<h3>Incentives and Recognition</h3>
 <details>
   <summary><h4>What are NASA's plans to make sure that the extra effort required to make work open is properly recognized?</h4></summary>
  There are different ways to recognize effort. First, there is financial recognition. If research is open from inception, and openness has been planned and budgeted for at the proposal stage, then being open isn’t a substantial extra effort. So, with regards to cost, the effort will be recognized by funding it in the budget. Then there is professional recognition. If one put in the effort to be open, one should certainly be recognized. There is already a lot of evidence that by being open, science has more impact and more citations. But we are planning additional specific activities to incentivize and recognize open science activities. Further, TOPS is working with partners to create awards specifically created to recognize scientific achievements in open science.
   </details>
   
   <details>
-  <summary><h4>Based on prior experience, open science needs enabling technology as well as a shift in personal attitudes. How will researchers who are used to working in more closed frameworks be incentivized to share their work products?
+  <summary><h4>How will researchers who are used to working in more closed frameworks be incentivized to share their work products?
 </h4></summary>
-Many researchers adopt open science principles as they become familiar with them and as they become best practices in their community.  TOPS first goal is to increase the understanding of open science practices to support the culture shift.  SMD is also supporting incentives to adopt open science through solicitations such as the <a href = "https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={0BFB6C2C-5189-507A-FB82-E5A9869DF9E4}&path=open">F.8 Supplement for Open Source Software</a> and also developing initiatives that support open science so that it is easy to share the scientific information that is produced.  It is important to note that this shift is not automatic; this process will require some experimentation to see what works and what does not. It is also imperative that TOPS get feedback from the community to ensure the effectiveness and efficiency of its efforts.
+Many researchers adopt open science principles as they become familiar with them and as they become best practices in their community.  TOPS first goal is to increase the understanding of open science practices to support the culture shift.  SMD is also supporting incentives to adopt open science through solicitations such as the <a href = "https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7B0BFB6C2C-5189-507A-FB82-E5A9869DF9E4%7D&path=open">F.8 Supplement for Open Source Software</a> and also developing initiatives that support open science so that it is easy to share the scientific information that is produced.  It is important to note that this shift is not automatic; this process will require some experimentation to see what works and what does not. It is also imperative that TOPS get feedback from the community to ensure the effectiveness and efficiency of its efforts.
   </details>
   
   <details>
-  <summary><h4>To further the cause of open science, can we consider and incorporate published literature in the form of books, book chapters, and research papers related to advancement in science?
-</h4></summary>
+  <summary><h4>Can we consider and incorporate published literature in the form of books, book chapters, and papers related to open science?</h4></summary>
   Absolutely! We believe that to be successful in spreading the word on open science we need to be as visible as possible, including by publishing articles, papers, and blog posts about our successes and failures. 
   </details>
   
-    <details>
+  <details>
   <summary><h4>Can the public participate in solicitations?</h4></summary>
   NASA solicits research proposals through Research Opportunities in Space and Earth Sciences (ROSES). More information on ROSES is available on <a href = "https://science.nasa.gov/researchers/sara/grant-solicitations">https://science.nasa.gov/researchers/sara/grant-solicitations</a>.
   </details>
   
-  ### Getting Involved
+  <h3>Getting Involved</h3>
     <details>
   <summary><h4>How can you become part of the Community Advisory Panel for TOPS?</h4></summary>
   The <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Panels/readme.md">Community Panel</a> for 2022 has been selected. However, each year we will have an open call for new members. Please continue to monitor the <a href = "https://github.com/nasa/Transform-to-Open-Science">GitHub</a> as all announcements will be provided there.
@@ -102,7 +103,7 @@ Many researchers adopt open science principles as they become familiar with them
   </details>
   
   <details>
-  <summary><h4>vHow does citizen science connect to open science?</h4></summary>
+  <summary><h4>How does citizen science connect to open science?</h4></summary>
   We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation.
   </details>
   
