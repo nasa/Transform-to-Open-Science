@@ -65,7 +65,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 ## Reporting Guidelines
 
 Instances of both acceptable or unacceptable behaviors may be reported to the 
-community organizers at [steven.m.crawford@nasa.gov](mailto:steven.m.crawford@nasa.gov?subject=TOPS%20Inappropriate%20Behavior%20Report).
+community organizers at [steven.m.crawford@nasa.gov](mailto:steven.m.crawford@nasa.gov?subject=TOPS%20Code%20of%20Conduct%20Report).
 
 All complaints will be reviewed and investigated promptly and fairly. 
 
