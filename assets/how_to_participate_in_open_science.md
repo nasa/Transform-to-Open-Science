@@ -15,7 +15,6 @@
 ## Open discussions
 - [Pangeo Discourse](https://discourse.pangeo.io/)
 - [TOPS Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions)
-- [TOPS Slack](https://join.slack.com/t/tops-nnf6521/shared_invite/zt-1c1jbtbra-YNS_15~1knWRPcJBNzHPKw)
 
 
 
