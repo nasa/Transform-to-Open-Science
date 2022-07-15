@@ -2,13 +2,23 @@
 
 ## Announcements
 
-We are pleased to announce our 2022 Transform to Open Science (TOPS) Curricula Development Team - TOPS Curricula Module Leads. We continue to receive an overwhelming number of applications and are still in the process of reviewing them until the deadline of June 15 for the role of Content Subject Matter Expert (5-7 per module).  
+* 28 June 2022: Module subject matter experts (SMEs) chosen
+* 1 June 2022: We are pleased to announce our 2022 TOPS Curricula Module Leads. We continue to receive an overwhelming number of applications and are still in the process of reviewing them until the deadline of June 15 for the role of Content Subject Matter Expert (5-7 per module).  
 
 ## TOPS Team / Curricula Development Team Sprints:
 
-- June 1-3 [Pre-sprint](./events/2022-06-03-opencore-presprint-report.md)
-- June 27 - July 1 (curricula sprint)
-- August 9-11 (post-sptrint)
+- Curriculum [Pre-sprint](./events/2022-06-03-opencore-presprint-report.md): 1 June - 26 June
+- Curriculum Sprint: 27 June - 1 July
+- Curriculum Harmonization: 5 July - 15 July
+- Content Review (*Community Participation Welcome*): 18 July - 29 July
+- Adjudicate Reviewer Feedback: 1 Aug - 12 Aug
+- Copy Editing: 15 Aug - 24 Aug
+- Second Content Check: 25 Aug - 31 Aug
+- Instructional Design: 1 Sept - 30 Sept
+- OpenEdx Module Content Review: 27 Sept - 30 Sept
+- Module Testing (*Community Participation Welcome*): 3 Oct - 14 Oct
+- Adjudicate Testing Feedback: 17 Oct - 28 Oct
+- Module Soft Launch: 28 Oct
 
 ## 2022 TOPS Curricula Module Leads:
 
