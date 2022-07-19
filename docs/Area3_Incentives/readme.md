@@ -1,7 +1,7 @@
-# TOPS Incentives development plans
+# TOPS Incentive Development
 
-Change is hard. Some scientists will be motivated to adopt open science because it increases their scientific impact, but others may be more motivated by other types of incentives. 
+Research has shown that science which is conducted in the open, and results which are freely shared, have an increased scientific impact. Open research is cited more, shared more, and contributes more to the work of others. However, it can be difficult for researchers to transition to doing open science due to institutional barriers, lab practices, or even industry practices. To try to ease this transition, TOPS is working with partners to develop additional incentives for engaging in open science.
+- TOPS is working to develop [Open Science Badges](./badging.md) that apply to the [OpenCore](./../Area2_Capacity_Sharing/opencore/opencore.md) curriculum. Our vision is that every module will have an associated micro-badge, and that a "grand badge" will be available for those who complete all five modules.
+- TOPS is partnering with other organizations to develop high-profiel awards in support of open science research. More information on these awards will be available in Fall 2022.
+- TOPS is working to identify [funding opportunities](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness) aimed at advancing open science as well as supporting researchers conducting their work in the open.
 
-TOPS is working to develop [Open Science Badges](./badging.md) that apply to the [OpenCore](./../Area2_Capacity_Sharing/opencore/opencore.md) curriculum. After each module a microbadge is earned. When all 5 are completed the TOPS Open Science Badge is awarded.  
-
-TOPS is working to develop high profile awards in support of open science research. This activity is in formulation over Summer 2022.
