@@ -1,8 +1,8 @@
 ## Welcome!
 
-We're so glad you're thinking about contributing to Transform to Open Science!
+We're so glad you're interested in contributing to Transform to Open Science!
 
-Before contributing, we encourage you to read our CONTRIBUTING guide (you are here), our [LICENSE](https://github.com/nasa/Transform-to-Open-Science/blob/main/LICENSE.MD), our [README](https://github.com/nasa/Transform-to-Open-Science/blob/main/README.MD), and our [Code of Conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.MD), all of which should be in this repository.
+Before contributing, in addition to reading our CONTRIBUTING guide (you are here), we also ask you to read our [LICENSE](https://github.com/nasa/Transform-to-Open-Science/blob/main/LICENSE.MD), our [README](https://github.com/reeseIngraham/Transform-to-Open-Science/blob/main/README.md), and our [Code of Conduct](https://github.com/reeseIngraham/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md).
 
 ## Ways to Contribute
 
@@ -14,20 +14,20 @@ If you do not already have a GitHub account, you can [sign up for GitHub here](h
 - by writing specifications
 - by writing code and documentation (**no pull request is too small**: fix typos, add code comments, clean up inconsistent whitespace)
 - by reviewing [pull requests](https://github.com/nasa/Transform-to-Open-Science/pulls).
-- by closing issues
+- by closing [issues](https://github.com/nasa/Transform-to-Open-Science/issues)
 
 #### Submit Great Issues
 * Before submitting a new [issue](https://github.com/nasa/Transform-to-Open-Science/issues), check to make sure [a similar issue isn't already open](https://github.com/nasa/Transform-to-Open-Science/issues?q=is%3Aopen+is%3Aissue). If one is, contribute to that issue thread with your feedback.
 * When submitting a bug report, please try to provide as much detail as possible, i.e. a screenshot or [gist](https://gist.github.com/) that demonstrates the problem, the technology you are using, and any relevant links. 
 
 #### Ready for your Help 
-Issues labeled :sparkles:[`help wanted`](https:/github.com/nasa/Transform-to-Open-Science/labels/help%20wanted):sparkles: make it easy for you to find ways you can contribute today. 
+Issues labeled :sparkles:[`help wanted`](https://github.com/nasa/Transform-to-Open-Science/labels/help%20wanted):sparkles: make it easy for you to find ways you can contribute today. 
 
 ## Development Model
 
 For accepting new contributions, TOPS uses the [forking workflow](https://guides.github.com/activities/forking/). As the first step of your contribution, you'll want to fork this repository, make a local clone of it, add your contribution, and then create a pull request back to the TOPS repository.  
 
-All documentation should be written using Markdown.  
+All documentation should be written using Markdown and Github Markdown-supported HTML.  
 
 ## Public Domain
 

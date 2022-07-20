@@ -21,7 +21,7 @@
 
 - Scientific [python](https://projectpythia.org/)
 
-## Python Learning Recorces
+## Python Learning Resources
 - A [Guide](https://gist.github.com/kenjyco/69eeb503125035f21a9d) to python basics
 - Xarray python [Tutorial](https://unidata.github.io/python-training/workshop/XArray/xarray-introduction/)
 - Numpy python [Tutorial](https://numpy.org/devdocs/user/absolute_beginners.html)

@@ -3,7 +3,7 @@
 TOPS Engagement Strategy
 ==========================
 
-TOPS is made up of a small and passionate team that uses `inreach <./inreach.md>`__ and `outreach <./outreach.md>`__ strategies to `create community  <./creating_community.md>`__ and spark positive change towards open science. Our team is building a vibrant open science community that will change the future of science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to The Year of Open Science kickoff in 2023. 
+TOPS is made up of a small and passionate team that uses `inreach <./inreach.md>`__ and `outreach <./outreach.md>`__ strategies to `create community  <./creating_community.md>`__ and spark positive change towards open science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to The Year of Open Science kickoff in 2023. 
 
 We know that Open Science creates a more equitable system and broadens participation in science. Reducing barriers to entry for excluded, disenfranchised, and marginalized communities enables more diverse voices and areas of expertise to engage in scientific debate and take part in discovery and innovation. Leveraging more researchers will advance discovery, increase collaboration, and create new knowledge. All these things are essential for scientific discovery in the 21st century. 
 
@@ -18,7 +18,7 @@ Here are some quick links that can help you get started:
 
 - `Find us at a conference <./tops_conferences.md>`__
 
-- Participate in a community forum `https://go.nasa.gov/36aVsmH <https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums>`__
+- `Participate in a community forum <https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums>`__
 
 - Read our success stories (coming soon) 
 
@@ -44,14 +44,14 @@ Conferences and Workshops
 1. ESIP Summer
     * When: July 18-20
     * Description: Cynthia Hall will be participating as a panelist, along with Ryan McGranaghan and Mark Parsons, in the session, Building a Thriving Open Science Community. 
-    * `More information: <https://www.esipfed.org/meetings](https://www.esipfed.org/meetings>`__
+    * `More information <https://www.esipfed.org/meetings](https://www.esipfed.org/meetings>`__
 2. TOPS OpenCore Sprint Meeting
     * When: August 9-11
     * Description: Post-sprint meeting to finalize OpenCore curricula development
 3. FOSS4G
     * When: Aug 22-28
     * Description: Kevin Murphy will be attending and Cynthia Hall will be presenting NASA’s Transform to Open Science (TOPS) Initiative.
-    * `More Information: <https://foss4g.org/>`__
+    * `More Information <https://foss4g.org/>`__
 4. SACNAS
     * When: Oct 27-29
     * Description: Yvonne Ivey will be attending and providing information and resources on NASA's Transform to Open Science (TOPS) mission.
@@ -59,7 +59,7 @@ Conferences and Workshops
 5. Github Universe
     * When: Nov 9-10
     * Description: TOPS will be attending. Come see us!
-    * `More Information: <https://www.githubuniverse.com/>`__
+    * `More Information <https://www.githubuniverse.com/>`__
 6. TOPS Train the Trainers
     * When: Nov 14-18
     * Description: More information coming soon
@@ -77,5 +77,3 @@ A Google Calendar has been setup with these reoccurring times [GCAL_, ICAL_].
 .. _ICAL: https://calendar.google.com/calendar/ical/tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com/public/basic.ics
 
 .. raw:: html
-
-    <iframe src="https://calendar.google.com/calendar/b/1/embed?title=Upcoming%20TOPS%20Meetings&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>

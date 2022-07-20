@@ -1,12 +1,11 @@
 <h2>TOPS FAQ</h2>
 This page contains a selection of questions and answers for the TOPS May 2022 community events that TOPS believes may benefit the wider community. Both the questions and responses have been edited for length and clarity; a full transcript of the event is available in our GitHub <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums">community forum</a> and <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Panels">community panel</a> pages.
 <h3>General Questions on TOPS</h3>
-<details>
+<details> 
   <summary>
     <h4>NASA TOPS is a $40M mission over 5 years. How will those funds be spent?</h4>
   </summary>
   TOPS is across all of NASA’s Science Mission Directorate (SMD). The majority of the funding is to support training activities to help the SMD community learn about Open Sciences. This includes training that is tailored to the needs of the scientific communities of SMD. Opportunities will be announced that are available to all directorates and the different directorates are participating in the design and development of the project. 
-
   </details>
   
   <details>

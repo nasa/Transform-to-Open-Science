@@ -2,7 +2,7 @@
 
 ## Open science communities
 - [Pangeo](https://pangeo.io/) - an open science community with a weekly community meeting that starts with a 15 min science talk. Meeting schedule is at the bottom of [this](https://pangeo.io/meeting-notes.html) page.
-- [Openscapes](https://www.openscapes.org/)
+- [Openscapes](https://www.openscapes.org/) - an open source community offering mentorship, teaching, coaching and community organizing centered around open data science
            
 ## Open software 
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - a great fun way to first get involved in open source software at any level.
@@ -15,7 +15,6 @@
 ## Open discussions
 - [Pangeo Discourse](https://discourse.pangeo.io/)
 - [TOPS Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions)
-- Discourse 
 
 
 

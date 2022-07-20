@@ -118,7 +118,7 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
   <tr>
    <td><a href = "https://youtu.be/MkND79xz-sI?t=7528">02:05:28 - 02:53:01</a>
    </td>
-   <td><a href = "https://youtu.be/MkND79xz-sI?t=7528">02:05:28 - 02:53:01
+   <td><a href = "https://youtu.be/MkND79xz-sI?t=7528">
      Discussion: 
 <ul>
 
@@ -321,9 +321,9 @@ We are pleased to announce that our 2022 Transform to Open Science Community Pan
    </td>
   </tr>
   <tr>
-   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=391">000:30:33 - 01:01:22</a>
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=1833">000:30:33 - 01:01:22</a>
    </td>
-   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=391">Discussion: Policy</a>
+   <td><a href = "https://youtu.be/WJgxxy1U_tw?t=1833">Discussion: Policy</a>
    </td>
    <td>Steve Crawford
    </td>
