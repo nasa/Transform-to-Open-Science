@@ -17,9 +17,11 @@ These sessions will educate the public about NASA’s OSSI and the TOPS program 
 
 ### Come join us! 
 
-Exciting announcement, for the month of July, we will be shifting our previously scheduled Community Forum to a special topic on Monday July 25 (Time TBD). In August we will resume our normal Thursday time. 
+Exciting announcement, for the month of July, we will be shifting our previously scheduled Community Forum to a special topic on Monday July 25 . In August we will resume our normal Thursday time. 
 
-When: July 25, 2022
+When: July 25, 2022, 10AM EDT (UTC -4)
+
+[Registration Link](https://forms.gle/r8KxCnEvTwj7XugQ9)
 
 [Question Submission Link](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
 
@@ -27,5 +29,3 @@ When: July 25, 2022
 The TOPS Community Panel is another way we create community and discover best practices for engagement. This event brings together leaders from the open science, open source software, and data science communities with the NASA TOPS team for a detailed review of TOPS plans and vibrant discussion.  Panelists review and provide input on NASA’s strategy for transitioning to open-source science. Feedback helps us shape engagement and community building practices for the Year of Open Science in 2023. Every April NASA will announce an opportunity to be a panelist. Community Panels are public and we have created  tools for the public to submit questions. Our May Community Panel is a virtual meeting and open to all. It is free to attend.
 
 When: May 17-19, 2022, 12:00-3:00 PM EST each day
-
-[Question Submission Link](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)
