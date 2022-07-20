@@ -11,3 +11,11 @@ Slides: Coming
 Ask [questions](https://nasa.cnf.io/sessions/bx7z/#!/dashboard) of TOPS team
 
 [Please review our code of conduct here.](../Community_Forums/code_of_conduct.md)
+
+Agenda:
+| Time (ET) | Agenda Item | Speaker |
+| ------------- | ------------- | ------------- |
+| 10:00 am | Welcome and Review of Code of Conduct | Cynthia Hall |
+| 10:05 am | TOPS OpenCore Curriculum overview  | Shelley Stall, OpenCore Content Leads |
+| 10:45 am | Process of Providing Feedback | Chris Erdmann, AGU |
+| 10:55 am | Announcements and Next Steps | Cynthia Hall |
