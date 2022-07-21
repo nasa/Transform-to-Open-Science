@@ -1,4 +1,6 @@
 
+## Are you interested in contributing to the OpenCore? Please proceed to the Learn Open Science GitHub and follow the instructions to submit an issue and join the discussion! 
+
 # Announcements
 - 28 June 2022: AGU announces OpenCore [Leads](./OpenCore_leads.md)
 - 25 July 2022: Community Forum on the OpenCore
