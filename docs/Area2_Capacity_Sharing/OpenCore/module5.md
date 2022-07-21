@@ -1,12 +1,9 @@
 
 # Module 5: Open Results
-# Objective
-By the end of this module, learners will have an in-depth understanding of how open science principles help with increasing the reproducibility and replicability of research, as well as guidelines by which to choose the best location to publish their research. Learners will have hands-on experience with creating a replicable, open science workflow and using a virtual research environment, and practice with some tools that make such a workflow possible. 
+# Learning Objectives
+By the end of this module, learners will have an in-depth understanding of how open science principles help with increasing the reproducibility and replicability of research, as well as guidelines by which to choose the best location to publish their research. Learners will have hands-on experience with creating a replicable, open science workflow and using a virtual research environment, and practice with some tools that make such a workflow possible.  
 
-## Key Terms: 
-p-hacking, null results, workflow design, study plan, data dictionary, codebook, literate programming, open access [publication], green vs gold open access, embargo period, self archiving, pre-print, “reproducibility crisis”, computational provenance, authorship vs. unique identifiers 
-
-# Suggested Topics
+# Module Outline
 * Why open results?
      - Amplifying the impact of your research
      - How sharing results and getting credit is changing
@@ -26,6 +23,7 @@ p-hacking, null results, workflow design, study plan, data dictionary, codebook,
 Suggested Exercise: What is your favorite open access journal? What are the pros and cons of that platform? Create a full, research workflow that incorporates multiple principles of open science. 
 
 # Suggested Resources
+*Interested in exploring 'Open Results' while we develop the module? Here are some resources to get you started:*
 * Geoscience Paper of the Future from [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) 
 * Symposium report, October 2015. Reproducibility and reliability of biomedical research: improving research practice [[PDF.](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf)]
 * Schwab, M., N. Karrenbach, and J. Claerbout (2000), Making scientific computations reproducible, Comput. Sci. Eng., 2(6), 61–67. [[URL](http://sep.stanford.edu/lib/exe/fetch.php?id=sep%3Aresearch%3Areproducible&cache=cache&media=sep:research:reproducible:cip.pdf)]
