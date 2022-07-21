@@ -1,12 +1,9 @@
  
 # Module 2: Open Science Tools & Resources 
-# Objective
+# Learning Objectives
 By the end of this module, a learner will have gained hands-on experience working with different open science tools, databases/datasets, and policies. Learners should have been introduced to open science communities within their field of study. 
  
-## Key Terms 
-Virtual research environments (VRE), SMART goals, advocacy, metadata, data repository, executable papers, Permanent URLs (PURLs) or Digital Object Identifiers (DOIs)
- 
-# Possible Topics
+# Module Outline
  
 * Why use open tools?
 * Introduction to Open Science communities
@@ -20,7 +17,8 @@ Virtual research environments (VRE), SMART goals, advocacy, metadata, data repos
 
 Suggested Exercise: Module should include hands-on experience with some of the tools mentioned above 
  
-# Suggested Resources 
+# Suggested Resources
+*Interested in exploring Tools & Resources for Open Science while we develop the module? Here are some resources to get you started:*
 * Data Repositories
     * [EDUAT ](https://www.eudat.eu/)
     * [Harvard Dataverse](https://dataverse.harvard.edu/) 
