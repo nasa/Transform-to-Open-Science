@@ -3,12 +3,12 @@
 
 **Where:** Public (virtual) meeting  
 **When:** 17-19 May 2022, 12-3 EST (9-12 PST), each day.  
-**How:** [Registration link](https://forms.gle/sgLgwM1nxGzqJbuA6)  
-**Questions?** Submit new questions and upvote existing questions through this [tool](https://nasa.cnf.io/sessions/bx7z/#!/dashboard)  
+**Questions?** Many of the questions that came out of the panel are answered in our [FAQs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/engagement_faq.md)  
 **Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)  
 **Slides:** [Panel slides](https://doi.org/10.5281/zenodo.6555260)  
 **Recordings:** [Day 1](https://www.youtube.com/watch?v=MkND79xz-sI), [Day 2](https://www.youtube.com/watch?v=Nt31-2g3G_4), [Day 3](https://www.youtube.com/watch?v=WJgxxy1U_tw)  
 **Transcripts:** [Day 1](https://otter.ai/s/jhQbMCTQS8-_m3soIbn7Hw), [Day 2](https://otter.ai/u/7VlDKH6yCIrwNkFGWq6oFEtNsYQ), [Day 3](https://otter.ai/u/yH9zFBW4OUuhNbsj8dgxxmj-s3Y), [Searchable PDFs](https://doi.org/10.5281/zenodo.6578578)  
+**May 2022 Community Panel Summary:** [Executive Summary and Final Report on Zenodo](https://doi.org/10.5281/zenodo.6875090)
 
 Each day we will present TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
 
