@@ -2,6 +2,8 @@
 [Forty amazing subject matter experts (SMEs)](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md) have been working since late June to gather the content for the TOPS OpenCore. We asked them what inspired them to join the Open Science community and have received permission to share some of their responses here. There are many paths to open science - and we hope some of their paths inspire you!
 
 ## Ismael Kherroubi Garcia
+<img align="right" src="/docs/Area2_Capacity_Sharing/OpenCore/images/amber.png" width="250" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
+
 **Why I practice open science?**
 > I practice philosophy of the social sciences! And I am a believer in breaking down barriers to encourage more collaborative approaches to science, specifically across disciplines. I apply the ethos of open science to [An Incomplete History of Research Ethics](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics), which is multidisciplinary.
 
@@ -9,6 +11,8 @@
 > Two simple steps. Step one, I fell in love with the philosophical notion of standpoint theory: traditionally marginalised voices can – under certain conditions – access and communicate information that better informs science. Step two, I joined an [OLS](https://openlifesci.org) cohort to learn more about open science practices in the context of a project of my own. 
 
 # Elio Campitelli
+<img align="right" src="/docs/Area2_Capacity_Sharing/OpenCore/images/elio.png" width="250" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
+
 **Why I practice open science?**
 > Because what other science is there? Science is a collaborative enterprise that builds upon the work of a community, so methods, data and results need be open for it to work properly. You cannot see further if the shoulders of the giants you need to stand on are tucked away behind a paywall.
 
@@ -16,6 +20,8 @@
 > By doing science myself. I new I needed to make my results open and so searched around for tools and best practices that allowed me to do that. That lead me to people and communities that shared the same goals and worked to solve the same problems.
 
 # Saranjeet Kaur Bhogal
+<img align="right" src="/docs/Area2_Capacity_Sharing/OpenCore/images/saranjeet.jpeg" width="250" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
+
 **Why I practice open science?**
 > Because it helps me to improve continuously. I can communicate and collaborate with individuals across the globe due to the principles that open science is based on!
 
@@ -24,9 +30,10 @@
 I did GSoC 2020 with the Julia language organisation, was a Technical Writer with the R Foundation for building the R Development Guide in 2021, participated in the Digital Infrastructure Incubator by Code for Science and Society in 2021, participated in the OLS-4 cohort as a mentee, Technical Writer with the GSoD 2022 to expand and reorganise the R dev guide - and also continue to participate in many community events!
 Also, I would like to mention that the possibility of being able to attend many conferences remotely made a huge impact in my involvement with open science. 
 
-<img align="right" src="https://github.com/nasa/Transform-to-Open-Science/blob/main/assets/logos/Tops_logo%404x.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
 # Amber Osman
+<img align="right" src="/docs/Area2_Capacity_Sharing/OpenCore/images/amber.png" width="250" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
+
 **Why I practice open science?**
 > I faced issues in doing research because the research content available was blocked behind pay-walls and our institution had limited subscription access to research databases. 
 The open access initiatives provided platform for everyone to easily access research materials and collaborate on global level and that’s why I practice Open Science; it definitely allows progression in science.
