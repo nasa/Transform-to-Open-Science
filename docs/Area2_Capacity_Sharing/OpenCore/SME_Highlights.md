@@ -2,7 +2,7 @@
 [Forty amazing subject matter experts (SMEs)](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md) have been working since late June to gather the content for the TOPS OpenCore. We asked them what inspired them to join the Open Science community and have received permission to share some of their responses here. There are many paths to open science - and we hope some of their paths inspire you!
 
 ## Ismael Kherroubi Garcia
-<img align="right" src="/docs/Area2_Capacity_Sharing/OpenCore/images/Tops_Logo_OG_NEW_OG.png" width="250" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
+<img align="right" src="/docs/Area2_Capacity_Sharing/OpenCore/images/ismael.png" width="250" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
 **Why I practice open science?**
 > I practice philosophy of the social sciences! And I am a believer in breaking down barriers to encourage more collaborative approaches to science, specifically across disciplines. I apply the ethos of open science to [An Incomplete History of Research Ethics](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics), which is multidisciplinary.
