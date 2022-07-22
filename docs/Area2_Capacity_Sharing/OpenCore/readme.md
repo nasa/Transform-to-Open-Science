@@ -14,9 +14,9 @@
     * July 25: Module outlines open to the community
     * Aug 5: Full module content open to the community
 * Adjudicate Reviewer Feedback, Phase 1: 28 July - 5 Aug
+* Post Sprint Meeting with TOPS Team + OpenCore SMEs: Aug 9 to Aug 11
 * Adjudicate Reviewer Feedback, Phase 2: 6 Aug - 20 Aug
-* Copy Editing: 20 Aug - 21 Aug
-* Content Review by OpenCore SMEs: 21 Aug - 31 Aug
+* Content Review by OpenCore SMEs + Copy Editing: 21 Aug - 31 Aug
 * Instructional Design: 1 Sept - 30 Sept
 * OpenEdx Module Content Review: 27 Sept - 30 Sept
 * Module Testing (*Community Participation Welcome*): 3 Oct - 14 Oct
