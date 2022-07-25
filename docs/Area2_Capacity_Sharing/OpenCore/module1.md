@@ -2,24 +2,27 @@
 # Module 1: Ethos of Open Science
 
 # Learning Objectives 
-By the end of this module, learners will be familiar with the definitions central to open science and have explored some concrete examples of the benefits of open science principles and community. The course will include best practices for building open science communities, increasing collaboration, and introducing open principles to project design, as well as an overview of open science norms. This module will also explore the historical impact of “closed” science, and how open science seeks to create a more diverse and equitable scientific community.
+* Explain **why responsible Open Science matters** to specific research projects, science writ large, and society
+* Explain the **advantages and challenges** of responsible Open Science
+* Select Open Science **communities** that are compatible with a research project
+* Explain how Open Science is critical for **building public trust** in science and **influencing key societal challenges**
+* Describe the key **components and behaviors** of responsible Open Science
+* Identify **areas of concern** in research that responsible Open Science can address
+* Include **stakeholders** who will benefit from research done with responsible Open Science
+* Select responsible Open Science **workflows**
 
 # Module Outline
-* What is open science
-* Why practice open science? Benefits and examples of Open Science
-* Equity and open science
-* Barriers to open science 
-* The intersection of Open Science and metrics/altmetrics
-* The intersection of Open Science and metrics/altmetrics
-* Brief overview of the motivation behind open science frameworks and workflows, which could include considerations such as…
-    * Data Accessibility 
-    * Software Accessibility 
-    * Provenance documentation
-    * Methods documentation
-    * Author identification 
+Learning Objectives
 
-Suggested Exercise: Take an “open” policy held by your institution and examine it as a group. Who is it for? Who does it benefit? How “open” is it truly? 
-If your institution does not have an open policy, examine a policy on publication, research sharing, collaborations or partnerships. Who is it for? Who does it benefit? What would it take, in your opinion, to make the policy “open”?
+Lesson 1. Intro to Open Science: What is it and what does it promote?
+
+Lesson 2. Benefits and Challenges of Responsible Open Science: Why does it matter?
+
+Lesson 3. Stakeholders of Open Science: Who practices Responsible Open Science and for whom?
+
+Lesson 4. Impact of Open Science on academia, communities and society as a whole: Where open science happens
+
+References
 
 # Suggested Resources
 *Interested in exploring 'Ethos of Open Science' while we develop the module? Here are some resources to get you started:*
