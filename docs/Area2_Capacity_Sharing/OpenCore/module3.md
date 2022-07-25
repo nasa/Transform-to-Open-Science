@@ -1,21 +1,27 @@
 
 # Module 3: Open Software 
+https://learnopenscience.github.io/TOPS-OC3-code/intro.html
 
 # Learning Objectives
-At the end of this module, learners will understand the impact of open-source code, and have hands-on practice with choosing a license, creating a README, and uploading code to GitHub/GitLab. Learners will understand the importance of high-quality and documented code. Learners will discuss the impact of open-source software on open science and advancing equity in scientific fields. 
+* Explain the benefits and challenges that producing open software encompasses
+* Be able to identify resources for Open Software relevant for a scientific field
+* Identify key markers of open software in code
+* How to cite others’ software in publications
+* Differentiate open, reproducible, and executable code
+* Publish software openly so others may access, use, and grow the software
 
 # Module Outline 
-* Why share software? 
-     - Sharing software as a form of improving impact, reproducibility and and replicability of research
-     - “If the code is good enough to publish a paper, then it is good enough to share” 
-* Common fears about sharing software
-* How you share matters:
-     - Software repositories
-     - Software licenses 
-     - Software DOIs
-     - Documentation
-* How to attribute/cite open software 
-* Executable notebooks
+Learning Objectives
+
+Lesson 1: Open software in the context of Open Science
+
+Lesson 2: The Pros and Cons of Open Software
+
+Lesson 3: Licensing/Ownership & DOI’s
+
+Lesson 4: Code management/Quality
+
+References
 
 # Suggested Resources
 *Interested in exploring 'Open Software' while we develop the module? Here are some resources to get you started:*
