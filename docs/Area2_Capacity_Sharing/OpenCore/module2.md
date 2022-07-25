@@ -1,21 +1,35 @@
  
 # Module 2: Open Science Tools & Resources 
+https://learnopenscience.github.io/TOPS-OC2-data/intro.html
+
 # Learning Objectives
-By the end of this module, a learner will have gained hands-on experience working with different open science tools, databases/datasets, and policies. Learners should have been introduced to open science communities within their field of study. 
+* Describe key characteristics of open data
+* Categorize types of open data
+* Communicate the benefits of Open data and its effects on science
+* Communicate best practices for responsibly sharing data
+* Explain the relationship between FAIR, CARE and Open Data
+* Describe key features for effective data management planning
+* Describe best practices for sharing open data
  
 # Module Outline
  
-* Why use open tools?
-* Introduction to Open Science communities
-* Introduction to online places where one can ask questions, build community: StackOverFlow, GitHub discussions, Twitter, Discord
-* Introduction to popular tools and resources for Open Science, which may include but not be limited to…
-    - [Jupyter Lab](http://jupyter.org/)
-    - Version control (e.g., GitHub, GitLab, Bitbucket) 
-    - Best practice for creating research/study plans
-    - Preregistering important study aspects (*e.g.*, [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/), and [Registered Reports](https://cos.io/rr/))
-    - Shared notebooks (e.g., [mybinder](http://mybinder.org/), [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/)
+Learning Objectives
 
-Suggested Exercise: Module should include hands-on experience with some of the tools mentioned above 
+Definitions
+
+Lesson 1: What is Open Data?
+
+Lesson 2: Benefits of Open Data
+
+Lesson 3: Responsible Open Data
+
+Lesson 4: CARE & FAIR Principles
+
+Lesson 5: Planning for Open Data
+
+Lesson 6: Sharing Open Data
+
+References
  
 # Suggested Resources
 *Interested in exploring Tools & Resources for Open Science while we develop the module? Here are some resources to get you started:*
