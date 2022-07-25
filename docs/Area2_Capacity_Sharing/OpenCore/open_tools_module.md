@@ -1,6 +1,6 @@
 
 # Module 5: Open Tools & Resources
-https://learnopenscience.github.io/TOPS-OC5-tools/intro.html
+To contribute to the discussion please head to https://learnopenscience.github.io/TOPS-OC5-tools/intro.html.
 
 # Learning Objectives
 * Explain why open science tools encourage responsible open science (e.g., using the FAIR and CARE principles)
@@ -11,8 +11,6 @@ https://learnopenscience.github.io/TOPS-OC5-tools/intro.html
 * Describe 3-5 open science tools and how to use them in projects (e.g., for communication, sharing of results, giving credit, and collaboration)
 
 # Module Outline
-Learning Objectives
-
 Lesson 1: Introduction to Open Science tools
 
 Lesson 2: Open Science tools across the research lifecycle
@@ -21,21 +19,9 @@ Lesson 3: Open Science tools for reproducibility
 
 Lesson 4: Open Science communities
 
-References
-
-Contributors
-
 # Suggested Resources
 *Interested in exploring Tools & Resources for Open Science while we develop the module? Here are some resources to get you started:*
-* Data Repositories
-    * [EDUAT ](https://www.eudat.eu/)
-    * [Harvard Dataverse](https://dataverse.harvard.edu/)
-    * [Zenodo](https://zenodo.org/)
-    * [Dryad](https://datadryad.org/stash)
-    * [GitHub](https://github.com/)
-    * [Figshare](https://figshare.com/)
-    * [Protocols.io](https://www.protocols.io/)
-    * More can be found in the [Registry of Research Data Repositories](https://www.re3data.org/)
+* [Registry of Research Data Repositories](https://www.re3data.org/)
 * Search Tools
     * [OpenAire](https://explore.openaire.eu/search/find/dataproviders)
     * [Share](https://share.osf.io/sources)
