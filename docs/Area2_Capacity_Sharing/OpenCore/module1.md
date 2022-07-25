@@ -1,6 +1,8 @@
 
 # Module 1: Ethos of Open Science
 
+https://learnopenscience.github.io/TOPS-OC1-ethos/intro.html
+
 # Learning Objectives 
 * Explain **why responsible Open Science matters** to specific research projects, science writ large, and society
 * Explain the **advantages and challenges** of responsible Open Science
