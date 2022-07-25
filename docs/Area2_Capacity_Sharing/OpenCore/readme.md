@@ -1,7 +1,8 @@
 
-## Are you interested in contributing to the OpenCore? Please proceed to the [Learn Open Science GitHub](https://github.com/learnopenscience) and follow the instructions to submit an issue and join the discussion! 
+# Contribute to the OpenCore!
+From July 25, 2022 through August 4, 2022, the community is invited to share their suggestions and make contributions to the OpenCore modules. If you are interested, you can either submit an [issue](https://github.com/learnopenscience/TOPS-OC1-ethos/issues/new/choose) or contribute via [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScPmtt6ehzIll8zNEk8aDbn0VDH2X6RNI8sET4QD6viVAdgPQ/viewform). The community will also be invited to view and comment on the module content and to test the resulting online curriculum prior to its general release date. More information on those processes to come!
 
-# Announcements
+## Past Announcements
 - 28 June 2022: AGU announces OpenCore [Leads](./OpenCore_leads.md)
 - 25 July 2022: Community Forum on the OpenCore
 
