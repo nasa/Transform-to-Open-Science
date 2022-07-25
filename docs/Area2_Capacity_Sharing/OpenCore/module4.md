@@ -1,21 +1,29 @@
 
 
 # Module 4: Open Data
+https://learnopenscience.github.io/TOPS-OC4-results/intro.html
+
 # Learning Objectives
-By the end of this module, learners should feel comfortable creating a data management plan that follows FAIR principles, including assigning a license/copyright, metadata tagging, and assigning PIDs. Learners should also feel comfortable utilizing and assigning metadata. 
+* Identify research stages and elements of research objects that can be considered results
+* Identify the guiding practices and principles related to open results and the advantages of implementing them across stages of a research process
+* Apply open result principles to new and ongoing research projects
+* Identify paths for publicly communicating results
+* Create open results contributor guidelines and opportunities for open and equitable collaborations
+* Give credit to contributors in open results
+* Contribute and provide constructive feedback to others’ results
 
 # Module Outline 
-* Why share data? 
-* Common fears about sharing data
-* How you share matters:
-     - Restrictions
-     - Data repositories
-     - Data licenses 
-     - Data DOIs
-     - Documentation, metadata, FAIR
-* How to attribute/cite data 
+Learning Objectives
 
-Suggested Exercise: Have an open discussion on the argument for databases as “publications” or rewarding the accumulation of high-quality data as noteworthy accomplishments
+Lesson 1: The Research Process and Its Results
+
+Lesson 2: Results in the Context of Open Science
+
+Lesson 3: Applying Open Result Framework to your Research
+
+Lesson 4: Providing Equitable Opportunities and Credit for Contributors to Results
+
+References
 
 # Suggested Resources 
 *Interested in exploring 'Open Data' while we develop the module? Here are some resources to get you started:*
