@@ -1,6 +1,6 @@
  
 # Module 2: Open Data
-https://learnopenscience.github.io/TOPS-OC2-data/intro.html
+To contribute to the discussion please head to https://learnopenscience.github.io/TOPS-OC2-data/intro.html.
 
 # Learning Objectives
 * Describe key characteristics of open data
@@ -12,24 +12,17 @@ https://learnopenscience.github.io/TOPS-OC2-data/intro.html
 * Describe best practices for sharing open data
  
 # Module Outline
- 
-Learning Objectives
-
-Definitions
-
 Lesson 1: What is Open Data?
 
-Lesson 2: Benefits of Open Data
+Lesson 2: Benefits of Open Data 
 
-Lesson 3: Responsible Open Data
+Lesson 3: Responsible Open Data 
 
-Lesson 4: CARE & FAIR Principles
+Lesson 4: CARE & FAIR Principles 
 
-Lesson 5: Planning for Open Data
+Lesson 5: Planning for Open Data 
 
-Lesson 6: Sharing Open Data
-
-References
+Lesson 6: Sharing Open Data 
  
 # Suggested Resources
 *Interested in exploring ‘Open Data’ while we develop the module? Here are some resources to get you started:*
