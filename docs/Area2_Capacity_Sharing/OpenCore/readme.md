@@ -2,12 +2,8 @@
 # Contribute to the OpenCore!
 From July 25, 2022 through August 4, 2022, the community is invited to share their suggestions and make contributions to the OpenCore modules (learning objectives and lesson outlines). If you are interested, you can either submit an issue:
 
-- Ethos of Open Science [repository](https://github.com/learnopenscience/TOPS-OC1-ethos/) / [issues](https://github.com/learnopenscience/TOPS-OC1-ethos/issues) / [website](https://learnopenscience.github.io/TOPS-OC1-ethos/intro.html)
-- Open Data [repository](https://github.com/learnopenscience/TOPS-OC2-data/) / [issues](https://github.com/learnopenscience/TOPS-OC2-data/issues) / [website](https://learnopenscience.github.io/TOPS-OC2-data/intro.html) 
-- Open Software [repository](https://github.com/learnopenscience/TOPS-OC3-code/) / [Open Software](https://github.com/learnopenscience/TOPS-OC3-code/issues) / [website](https://learnopenscience.github.io/TOPS-OC3-code/intro.html)
-- Open Results [repository](https://github.com/learnopenscience/TOPS-OC4-results/) / [Open Results](https://github.com/learnopenscience/TOPS-OC4-results/issues) / [website](https://learnopenscience.github.io/TOPS-OC4-results/intro.html)
-- Open Tools [repository](https://github.com/learnopenscience/TOPS-OC5-tools/) / [Open Tools](https://github.com/learnopenscience/TOPS-OC5-tools/issues) / [website](https://learnopenscience.github.io/TOPS-OC5-tools/intro.html)
-
+ - Content will be here SOON!
+ 
 Or contribute via [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScPmtt6ehzIll8zNEk8aDbn0VDH2X6RNI8sET4QD6viVAdgPQ/viewform). The community will also be invited to view and comment on the module content and to test the resulting online curriculum prior to its general release date. More information on those processes to come!
 
 ## Past Announcements
