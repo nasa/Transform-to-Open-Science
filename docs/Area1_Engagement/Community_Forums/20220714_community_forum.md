@@ -4,13 +4,19 @@ Exciting announcement, for the month of July, we will be shifting our previously
 
 **Date:** July 25, 2022, 10AM EDT (UTC -4)
 
-Slides: Coming
+[Slides](https://doi.org/10.5281/zenodo.6901309)
 
-[Register](https://forms.gle/r8KxCnEvTwj7XugQ9)
+[Mentimeter Results](https://doi.org/10.5281/zenodo.6907760)
 
-Ask [questions](https://nasa.cnf.io/sessions/bx7z/#!/dashboard) of TOPS team
+Video Recording: Coming Soon
 
-[Please review our code of conduct here.](../Community_Forums/code_of_conduct.md)
+[Transcript of Session](https://otter.ai/u/ANuXfj3nAHthmiwfH4mzzObJ25U)
+
+Curricula Review - now until August 4:
+* [Module GitHub Repositories For Review](https://github.com/learnopenscience)
+* [Module Review Form](https://docs.google.com/forms/d/e/1FAIpQLScPmtt6ehzIll8zNEk8aDbn0VDH2X6RNI8sET4QD6viVAdgPQ/viewform)
+
+[Code of conduct](../Community_Forums/code_of_conduct.md)
 
 Agenda:
 | Time (ET) | Agenda Item | Speaker |
