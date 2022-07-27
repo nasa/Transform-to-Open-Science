@@ -1,10 +1,49 @@
+# **Contribute to the OpenCore!**
 
-# Contribute to the OpenCore!
-From July 25, 2022 through August 4, 2022, the community is invited to share their suggestions and make contributions to the OpenCore modules (learning objectives and lesson outlines). If you are interested, you can either submit an issue:
+We are seeking your feedback on the [draft objectives and outlines](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines) for the five (5) OpenCore modules: 
 
- - Content will be here SOON!
- 
-Or contribute via [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScPmtt6ehzIll8zNEk8aDbn0VDH2X6RNI8sET4QD6viVAdgPQ/viewform). The community will also be invited to view and comment on the module content and to test the resulting online curriculum prior to its general release date. More information on those processes to come!
+* Ethos of Open Science
+* Open Data
+* Open Software
+* Open Results
+* Open Tools and Resources
+
+## **Your Feedback is Needed!**
+
+OpenCore module [objective and outline](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines) review period: **Now through 4 August 2022**
+
+OpenCore module **content** review period (more information soon): **5 August - 20 August** 
+
+There are two ways to provide your feedback.
+
+
+
+1. Submit a GitHub Issue - use our “TOPS Issue template” 
+    1. If you don’t have a GitHub account, you can create one [here](https://github.com/signup?user_email=&source=form-home-signup).
+    2. More information on submitting a GitHub Issue [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
+2. [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScPmtt6ehzIll8zNEk8aDbn0VDH2X6RNI8sET4QD6viVAdgPQ/viewform) 
+
+We adhere to the [AGU Code of Conduct:](https://www.agu.org/Plan-for-a-Meeting/AGUMeetings/Meetings-Resources/Meetings-code-of-conduct#:~:text=About%20the%20code%20of%20conduct%20American%20Geophysical%20Union,or%20event%2C%20whether%20in%20public%20or%20private%20facilities.). As you consider your feedback please be respectful. To report a concern, please contact AGU Ethics, ethics@agu.org. 
+
+## We specifically are in need of your feedback on: 
+
+1. **Missing concepts for Open Science beginners**
+2. **Incorrect concepts, or updated leading practices**
+
+Please be specific about the **module/lesson/item (ex: Open Data/1/ii)** and provide a recommended correction.
+
+## **A note from the team about working openly…**
+
+We are inviting you to engage while the text is still in draft form.  You will see grammar and potentially spelling errors not normally encountered in a peer-review process.  Our copy editing step is later in August, so please focus on the content and not the fine tuning of the text. We truly appreciate your contributions at this stage.
+
+**Getting ready for the next community feedback opportunity…**
+
+=> 5 Aug - 20 Aug - Module content review for the initial version of the modules. We are excited to share with you.  More information soon.
+
+
+## **Join TOPS Mailing List to hear about future opportunities:**
+
+Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations on TOPS there.
 
 ## Past Announcements
 - 28 June 2022: AGU announces OpenCore [Leads and Subject Matter Experts](./OpenCore_leads.md)
