@@ -15,7 +15,7 @@ OpenCore module [objective and outline](https://github.com/learnopenscience/TOPS
 OpenCore module **content** review period (more information soon): **5 August - 20 August** 
 
 There are two ways to provide your feedback.
-1. Submit a GitHub Issue - use our “TOPS Issue template” 
+1. Submit a [GitHub Issue](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines/issues) using our “TOPS Issue template” 
     1. If you don’t have a GitHub account, you can create one [here](https://github.com/signup?user_email=&source=form-home-signup).
     2. More information on submitting a GitHub Issue [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
 2. [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScPmtt6ehzIll8zNEk8aDbn0VDH2X6RNI8sET4QD6viVAdgPQ/viewform) 
