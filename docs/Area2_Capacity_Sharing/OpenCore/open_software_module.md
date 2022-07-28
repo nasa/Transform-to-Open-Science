@@ -1,6 +1,9 @@
 
 # Module 3: Open Software 
-To contribute to the discussion please head to https://learnopenscience.github.io/TOPS-OC3-code/intro.html.
+
+## We need your feedback on the OpenCore!
+
+To contribute to the building of the Open Software module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
 # Learning Objectives
 * Explain the benefits and challenges that producing open software encompasses
