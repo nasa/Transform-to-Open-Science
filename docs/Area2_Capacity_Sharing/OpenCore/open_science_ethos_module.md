@@ -1,7 +1,9 @@
 
 # Module 1: Ethos of Open Science
 
-To contribute to the discussion please head to https://learnopenscience.github.io/TOPS-OC1-ethos/intro.html.
+## We need your feedback on the OpenCore!
+
+To contribute to the building of the Ethos of Open Science module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
 # Learning Objectives 
 * Explain **why responsible Open Science matters** to specific research projects, science writ large, and society
