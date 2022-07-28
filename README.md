@@ -1,3 +1,5 @@
+### Contribute to the TOPS Open Science Curriculum! More information can be found on the [OpenCore page](/docs/Area2_Capacity_Sharing/OpenCore/readme.md).
+
 # Announcements!
 - 25 July, 2022: Our TOPS community is invited to contribute to the OpenCore! Instructions can be found [here](./docs/Area2_Capacity_Sharing/OpenCore/readme.md)
 - 25 July, 2022: TOPS [Community Forum](./docs/Area1_Engagement/Community_Forums/20220714_community_forum.md)
