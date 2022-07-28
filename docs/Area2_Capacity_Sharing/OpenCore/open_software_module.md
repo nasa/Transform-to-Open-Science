@@ -6,12 +6,12 @@
 To contribute to the building of the Open Software module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
 # Learning Objectives
-* Explain the benefits and challenges that producing open software encompasses
-* Be able to identify resources for Open Software relevant for a scientific field
-* Identify key markers of open software in code
-* How to cite others’ software in publications
-* Differentiate open, reproducible, and executable code
-* Publish software openly so others may access, use, and grow the software
+1. Explain the benefits and challenges that producing open software encompasses.
+2. Be able to identify resources for Open Software relevant for a scientific field.
+3. Identify key markers of open software in code
+4. How to cite others’ software in publications
+5. Differentiate open, reproducible, and executable code
+6. Publish software openly so others may access, use, and grow the software
 
 # Module Outline 
 Lesson 1: Open software in the context of Open Science
@@ -20,7 +20,13 @@ Lesson 2: The Pros and Cons of Open Software
 
 Lesson 3: Licensing, Ownership and DOI’s
 
-Lesson 4: Code management and quality
+Lesson 4: Code Management and Quality
+
+Lesson 5: Maintain Good Code Quality
+
+Lesson 6: Contributing to Existing Open Software
+
+**Interested in reading the full module outline and giving feedback? Join the discussion at [LearnOpenScience](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines).**
 
 # Suggested Resources
 *Interested in exploring 'Open Software' while we develop the module? Here are some resources to get you started:*
