@@ -1,6 +1,9 @@
 
 # Module 5: Open Tools & Resources
-To contribute to the discussion please head to https://learnopenscience.github.io/TOPS-OC5-tools/intro.html.
+
+## We need your feedback on the OpenCore!
+
+To contribute to the building of the Open Tools & Resources module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
 # Learning Objectives
 * Explain why open science tools encourage responsible open science (e.g., using the FAIR and CARE principles)
