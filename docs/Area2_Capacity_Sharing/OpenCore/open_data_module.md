@@ -1,6 +1,9 @@
  
 # Module 2: Open Data
-To contribute to the discussion please head to https://learnopenscience.github.io/TOPS-OC2-data/intro.html.
+
+## We need your feedback on the OpenCore!
+
+To contribute to the building of the Open Data module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
 # Learning Objectives
 * Describe key characteristics of open data
