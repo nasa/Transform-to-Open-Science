@@ -5,7 +5,6 @@
 - 25 July, 2022: TOPS [Community Forum](./docs/Area1_Engagement/Community_Forums/20220714_community_forum.md)
 - 29 July, 2022: [Navigating growth and scale to sustain open communities](https://www.eventbrite.co.uk/e/navigating-growth-and-scale-to-sustain-open-communities-tickets-360328802147)
 - OSTP releases [New Guidance to Ensure Federally Funded Research Data Equitably Benefits All of America](https://www.whitehouse.gov/ostp/news-updates/2022/05/26/new-guidance-to-ensure-federally-funded-research-data-equitably-benefits-all-of-america/)
-- AGU announces OpenCore [Leads and Subject Matter Experts](./docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md)
 - [New Funding Opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
 - [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
 
@@ -21,9 +20,9 @@ The world is changing rapidly. Everyday new problems emerge and it takes groundb
 ## Goals
 
 Open Science creates more advanced and inclusive research faster, builds a more just and equitable world, and ensures that minds from all walks of life can participate in science. TOPS is NASA’s ambitious plan to accelerate open science practices. It’s a 5 year journey that will  
-1. Increase understanding and adoption of open science principles and techniques 
-2. Accelerate major scientific discoveries 
-3. Broaden participation by historically excluded communities 
+1. Accelerate major scientific discoveries 
+2. Broaden participation by historically excluded communities 
+3. Increase understanding and adoption of open science principles and techniques 
 
 ## TOPS and the Year of Open Science
 
