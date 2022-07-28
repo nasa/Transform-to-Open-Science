@@ -1,7 +1,10 @@
 
 
 # Module 4: Open Results
-To contribute to the discussion please head to https://learnopenscience.github.io/TOPS-OC4-results/intro.html.
+
+## We need your feedback on the OpenCore!
+
+To contribute to the building of the Open Results module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
 # Learning Objectives
 * Identify research stages and elements of research objects that can be considered results
