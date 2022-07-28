@@ -42,7 +42,7 @@ The open access initiatives provided platform for everyone to easily access rese
 > While doing different research studies as a student then my job was related to research & development; being an Editor for a journal and all these roles & responsibilities brought me close to Open Science practices. I joined the Creative Commons movement and other renowned publishing platforms for open science & best practices in scholarly communication advocacy because I believe that the right to open knowledge is for all.
 
 # Jannatul Ferdush
-<img align="right" src="/docs/Area2_Capacity_Sharing/OpenCore/images/amber.png" width="250" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
+<img align="right" src="/docs/Area2_Capacity_Sharing/OpenCore/images/jannatul.png" width="250" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
 **Why I practice open science?**
 > I always run for having a sense of place in mind to stay in science, because I know I need to reach out to more people, more knowledge, and learn more. From being grown up in a developing county, I felt the lack of resources, training, and facilities! I struggled a lot to get my research published due to a lack of updated open data. Beyond this, I started my study overseas and started getting more resources and facilities! I always feel the responsibility of practicing open science to share my knowledge and resources with others! 
