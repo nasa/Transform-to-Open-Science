@@ -1,15 +1,18 @@
  
 # Module 2: Open Data
-To contribute to the discussion please head to https://learnopenscience.github.io/TOPS-OC2-data/intro.html.
+
+## We need your feedback on the OpenCore!
+
+To contribute to the building of the Open Data module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
 # Learning Objectives
-* Describe key characteristics of open data
-* Categorize types of open data
-* Communicate the benefits of Open data and its effects on science
-* Communicate best practices for responsibly sharing data
-* Explain the relationship between FAIR, CARE and Open Data
-* Describe key features for effective data management planning
-* Describe best practices for sharing open data
+1. Describe key characteristics of open data
+2. Categorize types of open data
+3. Communicate the benefits of Open data and its effects on science
+4. Communicate best practices for responsibly sharing data
+5. Explain the relationship between FAIR, CARE and Open Data
+6. Describe key features for effective data management planning
+7. Describe best practices for sharing open data
  
 # Module Outline
 Lesson 1: What is Open Data?
@@ -18,11 +21,15 @@ Lesson 2: Benefits of Open Data
 
 Lesson 3: Responsible Open Data 
 
-Lesson 4: CARE & FAIR Principles 
+Lesson 4: Principles of Data Sharing
 
 Lesson 5: Planning for Open Data 
 
 Lesson 6: Sharing Open Data 
+
+Lesson 7: Finding and Using Open Data
+
+**Interested in reading the full module outline and giving feedback? Join the discussion at [LearnOpenScience](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines).** 
  
 # Suggested Resources
 *Interested in exploring ‘Open Data’ while we develop the module? Here are some resources to get you started:*

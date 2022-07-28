@@ -15,10 +15,7 @@ OpenCore module [objective and outline](https://github.com/learnopenscience/TOPS
 OpenCore module **content** review period (more information soon): **5 August - 20 August** 
 
 There are two ways to provide your feedback.
-
-
-
-1. Submit a GitHub Issue - use our “TOPS Issue template” 
+1. Submit a [GitHub Issue](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines/issues) using our “TOPS Issue template” 
     1. If you don’t have a GitHub account, you can create one [here](https://github.com/signup?user_email=&source=form-home-signup).
     2. More information on submitting a GitHub Issue [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
 2. [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScPmtt6ehzIll8zNEk8aDbn0VDH2X6RNI8sET4QD6viVAdgPQ/viewform) 
@@ -36,12 +33,9 @@ Please be specific about the **module/lesson/item (ex: Open Data/1/ii)** and pro
 
 We are inviting you to engage while the text is still in draft form.  You will see grammar and potentially spelling errors not normally encountered in a peer-review process.  Our copy editing step is later in August, so please focus on the content and not the fine tuning of the text. We truly appreciate your contributions at this stage.
 
-**Getting ready for the next community feedback opportunity…**
-
-=> 5 Aug - 20 Aug - Module content review for the initial version of the modules. We are excited to share with you.  More information soon.
-
-
 ## **Join TOPS Mailing List to hear about future opportunities:**
+
+**The next community feedback opportunity will be from 5 Aug through 20 Aug.** This period will focus on reveiw of the initial version of the module content. We are excited to share our process with you. More information soon!
 
 Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations on TOPS there.
 
