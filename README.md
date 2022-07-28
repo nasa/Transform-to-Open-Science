@@ -19,9 +19,9 @@ The world is changing rapidly. Everyday new problems emerge and it takes groundb
 ## Goals
 
 Open Science creates more advanced and inclusive research faster, builds a more just and equitable world, and ensures that minds from all walks of life can participate in science. TOPS is NASA’s ambitious plan to accelerate open science practices. It’s a 5 year journey that will  
-1. Increase understanding and adoption of open science principles and techniques 
-2. Accelerate major scientific discoveries 
-3. Broaden participation by historically excluded communities 
+1. Accelerate major scientific discoveries 
+2. Broaden participation by historically excluded communities 
+3. Increase understanding and adoption of open science principles and techniques 
 
 ## TOPS and the Year of Open Science
 
