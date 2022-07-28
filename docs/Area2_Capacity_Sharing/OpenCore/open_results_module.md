@@ -7,13 +7,13 @@
 To contribute to the building of the Open Results module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
 # Learning Objectives
-* Identify research stages and elements of research objects that can be considered results
-* Identify the guiding practices and principles related to open results and the advantages of implementing them across stages of a research process
-* Apply open result principles to new and ongoing research projects
-* Identify paths for publicly communicating results
-* Create open results contributor guidelines and opportunities for open and equitable collaborations
-* Give credit to contributors in open results
-* Contribute and provide constructive feedback to others’ results
+1. Identify research stages and elements of research objects that can be considered results
+2. Identify the guiding practices and principles related to open results and the advantages of implementing them across stages of a research process
+3. Apply open result principles to new and ongoing research projects
+4. Identify paths for publicly communicating results
+5. Create open results contributor guidelines and opportunities for open and equitable collaborations
+6. Give credit to contributors in open results
+7. Contribute and provide constructive feedback to others’ results
 
 # Module Outline 
 Lesson 1: The Research Process and Its Results
@@ -23,6 +23,8 @@ Lesson 2: Results in the Context of Open Science
 Lesson 3: Applying Open Result Framework to your Research
 
 Lesson 4: Providing Equitable Opportunities and Credit for Contributors to Results
+
+**Interested in reading the full module outline and giving feedback? Join the discussion at [LearnOpenScience](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines).**
 
 # Suggested Resources 
 *Interested in exploring ‘Open Results’ while we develop the module? Here are some resources to get you started:*
