@@ -4,7 +4,7 @@ Jekyll based github pages website for ossi
 
 ## how to run
 
-In the root folder, run:
+In the website folder, run:
 
 ``` bash
 docker-compose up
