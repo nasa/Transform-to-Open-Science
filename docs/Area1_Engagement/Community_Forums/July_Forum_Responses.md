@@ -1,5 +1,5 @@
 # July 25th Community Forum Survey Results
-On July 25th 2022, TOPS held a community forum during which Mentimeter was used to collect anonymous survey data from the participants. The raw data can be found [here](https://zenodo.org/record/6907761#.YuLdT-zML0o). What follows is a summary of that analysis, as well as recommendations for how this community feedback can be incorporated into TOPS.
+On July 25th 2022, TOPS held a community forum during which Mentimeter was used to collect anonymous survey data from the participants. The raw data can be found [here](https://zenodo.org/record/6907761#.YuLdT-zML0o) and word art created showcasing the barriers is [here](https://zenodo.org/record/6949180#.YugfIezML0o). What follows is a summary of that analysis, as well as recommendations for how this community feedback can be incorporated into TOPS.
 
 ## Barriers to Open Science
 **Question: What barriers, challenges, or considerations exist for practicing science openly?** 
