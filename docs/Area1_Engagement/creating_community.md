@@ -17,11 +17,11 @@ These sessions will educate the public about NASA’s OSSI and the TOPS program 
 
 ### Come join us! 
 
-Exciting announcement, for the month of July, we will be shifting our previously scheduled Community Forum to a special topic on Monday July 25 . In August we will resume our normal Thursday time. 
+[August Community Forum with OpenCore Breakouts](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20220811_community_forum.md) 
 
-When: July 25, 2022, 10AM EDT (UTC -4)
+When: August 11, 2022, 1PM EDT (UTC -4)
 
-[Registration Link](https://forms.gle/r8KxCnEvTwj7XugQ9)
+[Registration Link](https://go.nasa.gov/3PFGGWo)
 
 [Question Submission Link](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
 
