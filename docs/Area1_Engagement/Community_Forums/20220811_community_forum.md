@@ -14,6 +14,7 @@ Tentative Agenda:
 | Time (ET) | Agenda Item | Speaker |
 | ------------- | ------------- | ------------- |
 | 1:00 pm | Welcome and Review of Code of Conduct | Cynthia Hall |
-| 1:05 pm | TOPS OpenCore Curriculum overview  | TOPS |
-| 1:20 pm | Breakouts on Each of the Modules | TOPS |
+| 1:05 pm | TOPS updates  | Chelle Gentemann |
+| 1:10 pm | Curriculum overview  | Isabella Martinez |
+| 1:20 pm | Breakouts on Each of the Modules | TOPS Team |
 | 1:55 pm | Announcements and Next Steps | Cynthia Hall |
