@@ -1,6 +1,16 @@
 # TOPS Community Forum - August 2022
 
- We want to hear from you; this forum will provide an overview of OpenCore, after which we will break out into smaller groups to have an in-depth discussion of each of the modules: Ethos of Open Science, Open Software, Open Data, Open Tools, and Open Results.
+ We want to hear from you! 
+ - If you already *do* open science, what helped you? 
+ - If you *want* to do open science, what help do you need? 
+ 
+This forum will first provide an overview of OpenCore, TOPS Open Science curriculum topics. 
+Then we will break out into smaller groups to have an in-depth discussion of each of the topics: 
+- Ethos of Open Science 
+- Open Tools
+- Open Software 
+- Open Data
+- Open Results.
 
 **Date:** August 11, 2022, 1PM EDT (UTC -4)
 
