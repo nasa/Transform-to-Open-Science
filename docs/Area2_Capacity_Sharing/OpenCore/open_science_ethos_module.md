@@ -5,26 +5,18 @@
 
 To contribute to the building of the Ethos of Open Science module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
-# Learning Objectives 
-1. Explain **why responsible Open Science matters** to specific research projects, science writ large, and society;
-2. Explain the **advantages and challenges** of responsible Open Science
-3. Select Open Science **communities** that are compatible with a research project
-4. Explain how Open Science is critical for **building public trust** in science and **influencing key societal challenges**
-5. Describe the key **components and behaviors** of responsible Open Science
-6. Identify **areas of concern** in research that responsible Open Science can address.
-7. Include **stakeholders** who will benefit from research done with responsible Open Science
-8. Select responsible Open Science **workflows**
+# Learning Outcomes
+By the end of this module, learners will be familiar with the definitions central to open science and have explored some concrete examples of the benefits of open science principles and practices. The course will include best practices for building open science communities, increasing collaboration, and introducing open principles to project design, as well as an overview of open science norms. This module will also explore the historical impact of “closed” science, and how open science seeks to create a more diverse and equitable scientific community.
 
-# Module Outline
-Lesson 1. Intro to Open Science: What is it and what does it promote?
-
-Lesson 2. Benefits and Challenges of Responsible Open Science: Why does it matter?
-
-Lesson 3. Stakeholders of Open Science: Who practices Responsible Open Science and for whom?
-
-Lesson 4. Impact of Open Science on academia, communities and society as a whole: Where open science happens.
-
-Lesson 5: Open Science resources & tools: How to get started with responsible open science 
+# Suggested Module Topics 
+1. Explain why responsible Open Science matters to specific research projects, science writ large, and society;
+2. Explain the advantages and challenges of responsible Open Science
+3. Select Open Science communities that are compatible with a research project
+4. Explain how Open Science is critical for building public trust in science and influencing key societal challenges
+5. Describe the key components and behaviors of responsible Open Science
+6. Identify areas of concern in research that responsible Open Science can address.
+7. Include stakeholders who will benefit from research done with responsible Open Science
+8. Select responsible Open Science workflows 
 
 **Interested in reading the full module outline and giving feedback? Join the discussion at [LearnOpenScience](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines).** 
 
