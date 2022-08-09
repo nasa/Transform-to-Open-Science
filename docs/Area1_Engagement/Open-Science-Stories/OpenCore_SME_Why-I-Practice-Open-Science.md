@@ -20,7 +20,7 @@ The open access initiatives provided platform for everyone to easily access rese
 **How did I get involved in open science?**
 > By doing science myself. I new I needed to make my results open and so searched around for tools and best practices that allowed me to do that. That lead me to people and communities that shared the same goals and worked to solve the same problems.
 
-## Ismael Kherroubi Garcia
+# Ismael Kherroubi Garcia
 <img align="right" src="/docs/Area2_Capacity_Sharing/OpenCore/images/ismael.png" width="250" alt="Image of Ismael Kherroubi Garcia">
 
 **Why I practice open science?**
