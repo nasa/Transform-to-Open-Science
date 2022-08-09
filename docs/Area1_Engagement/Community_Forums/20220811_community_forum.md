@@ -15,6 +15,7 @@ Tentative Agenda:
 | ------------- | ------------- | ------------- |
 | 1:00 pm | Welcome and Review of Code of Conduct | Cynthia Hall |
 | 1:05 pm | TOPS updates  | Chelle Gentemann |
-| 1:10 pm | Curriculum overview  | Isabella Martinez |
-| 1:20 pm | Breakouts on Each of the Modules | TOPS Team |
+| 1:10 pm | Fun Word Art Activity | Cynthia Hall |
+| 1:15 pm | Intro to TOPS Open Science curriculum topics | Isabella Martinez |
+| 1:25 pm | Breakouts for each topic - tell us what you think! | TOPS Team |
 | 1:55 pm | Announcements and Next Steps | Cynthia Hall |
