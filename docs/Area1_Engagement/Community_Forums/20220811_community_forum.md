@@ -10,7 +10,7 @@ Then we will break out into smaller groups to have an in-depth discussion of eac
 - Open Tools
 - Open Software 
 - Open Data
-- Open Results.
+- Open Results
 
 **Date:** August 11, 2022, 1PM EDT (UTC -4)
 
