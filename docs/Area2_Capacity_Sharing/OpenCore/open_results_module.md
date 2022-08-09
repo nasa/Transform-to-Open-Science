@@ -6,7 +6,10 @@
 
 To contribute to the building of the Open Results module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
-# Learning Objectives
+# Learning Outcomes
+By the end of this module, learners will have an in-depth understanding of how open science principles help with increasing the reproducibility and replicability of research, as well as guidelines by which to choose the best location to publish their research. Learners will have hands-on experience with creating a replicable, open science workflow and using a virtual research environment, and practice with some tools that make such a workflow possible.
+
+# Suggested Module Topics
 1. Identify research stages and elements of research objects that can be considered results
 2. Identify the guiding practices and principles related to open results and the advantages of implementing them across stages of a research process
 3. Apply open result principles to new and ongoing research projects
@@ -14,15 +17,6 @@ To contribute to the building of the Open Results module, please refer to [these
 5. Create open results contributor guidelines and opportunities for open and equitable collaborations
 6. Give credit to contributors in open results
 7. Contribute and provide constructive feedback to others’ results
-
-# Module Outline 
-Lesson 1: The Research Process and Its Results
-
-Lesson 2: Results in the Context of Open Science
-
-Lesson 3: Applying Open Result Framework to your Research
-
-Lesson 4: Providing Equitable Opportunities and Credit for Contributors to Results
 
 **Interested in reading the full module outline and giving feedback? Join the discussion at [LearnOpenScience](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines).**
 
