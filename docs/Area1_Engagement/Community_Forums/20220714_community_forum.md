@@ -6,9 +6,9 @@ Exciting announcement, for the month of July, we will be shifting our previously
 
 [Slides](https://doi.org/10.5281/zenodo.6901309)
 
-[Mentimeter Results](https://doi.org/10.5281/zenodo.6907760)
+[Mentimeter Results](https://doi.org/10.5281/zenodo.6907760); [Barriers to Open Science Word Art](https://doi.org/10.5281/zenodo.6949179)
 
-Video Recording: Coming Soon
+[Video Recording](https://www.youtube.com/watch?v=AzZjLTD-yb0)
 
 [Transcript of Session](https://otter.ai/u/ANuXfj3nAHthmiwfH4mzzObJ25U)
 

@@ -1,9 +1,6 @@
-### Contribute to the TOPS Open Science Curriculum! More information can be found on the [OpenCore page](/docs/Area2_Capacity_Sharing/OpenCore/readme.md).
-
 # Announcements!
-- 25 July, 2022: Our TOPS community is invited to contribute to the OpenCore! Instructions can be found [here](./docs/Area2_Capacity_Sharing/OpenCore/readme.md)
-- 25 July, 2022: TOPS [Community Forum](./docs/Area1_Engagement/Community_Forums/20220714_community_forum.md)
-- 29 July, 2022: [Navigating growth and scale to sustain open communities](https://www.eventbrite.co.uk/e/navigating-growth-and-scale-to-sustain-open-communities-tickets-360328802147)
+- Open Science [stories](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Open-Science-Stories/readme.md)
+- 11 August, 2022: [Community Forum with OpenCore Breakouts](./docs/Area1_Engagement/Community_Forums/20220811_community_forum.md)
 - OSTP releases [New Guidance to Ensure Federally Funded Research Data Equitably Benefits All of America](https://www.whitehouse.gov/ostp/news-updates/2022/05/26/new-guidance-to-ensure-federally-funded-research-data-equitably-benefits-all-of-america/)
 - [New Funding Opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
 - [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
