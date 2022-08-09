@@ -5,26 +5,16 @@
 
 To contribute to the building of the Open Software module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
-# Learning Objectives
+# Learning Outcomes
+By the end of this module, learners will understand the impact of open-source code, and have hands-on practice with choosing a license, creating a README, and uploading code to GitHub/GitLab. Learners will understand the importance of high-quality and documented code. Learners will discuss the impact of open-source software on open science and advancing equity in scientific fields.
+
+# Suggested Module Topics
 1. Explain the benefits and challenges that producing open software encompasses.
 2. Be able to identify resources for Open Software relevant for a scientific field.
 3. Identify key markers of open software in code
 4. How to cite others’ software in publications
 5. Differentiate open, reproducible, and executable code
 6. Publish software openly so others may access, use, and grow the software
-
-# Module Outline 
-Lesson 1: Open software in the context of Open Science
-
-Lesson 2: The Pros and Cons of Open Software
-
-Lesson 3: Licensing, Ownership and DOI’s
-
-Lesson 4: Code Management and Quality
-
-Lesson 5: Maintain Good Code Quality
-
-Lesson 6: Contributing to Existing Open Software
 
 **Interested in reading the full module outline and giving feedback? Join the discussion at [LearnOpenScience](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines).**
 
