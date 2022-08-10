@@ -24,7 +24,7 @@ Tentative Agenda:
 | Time (ET) | Agenda Item | Speaker |
 | ------------- | ------------- | ------------- |
 | 1:00 pm | Welcome and Review of Code of Conduct | Cynthia Hall |
-| 1:05 pm | TOPS updates  | Chelle Gentemann |
+| 1:05 pm | TOPS updates  | Cynthia Hall |
 | 1:10 pm | Fun Word Art Activity | Cynthia Hall |
 | 1:15 pm | Intro to TOPS Open Science curriculum topics | Isabella Martinez |
 | 1:25 pm | Breakouts for each topic - tell us what you think! | TOPS Team |
