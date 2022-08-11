@@ -5,22 +5,16 @@
 
 To contribute to the building of the Open Tools & Resources module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
 
-# Learning Objectives
+# Learning Outcomes
+By the end of this module, a learner will have gained hands-on experience working with different open science tools, databases/datasets, and policies. Learners should have been introduced to open science communities within their field of study.
+
+# Suggested Module Topics
 1. Explain why open science tools encourage responsible open science   (e.g., using the FAIR and CARE principles)  
 2. Identify Open Science communities and initiatives - within and across disciplines - and join a community of practice (CoP) of interest to you  
 3. Provide examples of how open science is practiced in a research team  
 4. Identify types of Open Science tools along with their purpose  
 5. Match appropriate open science tools to specific objectives within the research workflow  
 6. Describe 3-5 open science tools and how to use them in projects (e.g., for communication, sharing of results, giving credit, and collaboration)
-
-# Module Outline
-Lesson 1: Introduction to Open Science tools
-
-Lesson 2: Open Science tools across the research lifecycle
-
-Lesson 3: Open Science tools for reproducibility
-
-Lesson 4: Open Science communities
 
 **Interested in reading the full module outline and giving feedback? Join the discussion at [LearnOpenScience](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines).**
 
