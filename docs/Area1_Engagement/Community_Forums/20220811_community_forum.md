@@ -14,9 +14,13 @@ Then we will break out into smaller groups to have an in-depth discussion of eac
 
 **Date:** August 11, 2022, 1PM EDT (UTC -4)
 
-[Registration](https://go.nasa.gov/3PFGGWo)
+[Video Recording](https://www.youtube.com/watch?v=BgvIbzRsX-M)
 
-[Ask Questions](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
+[Slides](https://doi.org/10.5281/zenodo.6983153)
+
+[What is Open Science? Word Art](https://doi.org/10.5281/zenodo.6986412)
+
+[Transcript of Main Session](./Community_Forums/20220811_transcript.md)
 
 [Code of conduct](../Community_Forums/code_of_conduct.md)
 
