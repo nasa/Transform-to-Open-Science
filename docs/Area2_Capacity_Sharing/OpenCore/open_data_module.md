@@ -4,16 +4,13 @@
 # Learning Outcomes
 By the end of this module, learners should feel comfortable creating a data management plan that follows FAIR principles, including assigning a license/copyright, metadata tagging, and assigning PIDs. Learners should also feel comfortable utilizing and assigning metadata.
 
-# Suggested Module Topics
-1. Describe key characteristics of open data
-2. Categorize types of open data
-3. Communicate the benefits of Open data and its effects on science
-4. Communicate best practices for responsibly sharing data
-5. Explain the relationship between FAIR, CARE and Open Data
-6. Describe key features for effective data management planning
-7. Describe best practices for sharing open data
-
-**Interested in reading the full module outline and giving feedback? Join the discussion at [LearnOpenScience](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines).** 
+# Suggested Module Structure
+### Open Data
+* Lesson 1: Introduction to Open Data
+* Lesson 2: Using Open Data
+* Lesson 3: Making Open Data
+* Lesson 4: Sharing Open Data
+* Lesson 5: Community Stories - Open Data
  
 # Suggested Resources
 *Interested in exploring ‘Open Data’ while we develop the module? Here are some resources to get you started:*
