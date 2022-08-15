@@ -1,10 +1,6 @@
  
 # Module 2: Open Data
 
-## We need your feedback on the OpenCore!
-
-To contribute to the building of the Open Data module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
-
 # Learning Outcomes
 By the end of this module, learners should feel comfortable creating a data management plan that follows FAIR principles, including assigning a license/copyright, metadata tagging, and assigning PIDs. Learners should also feel comfortable utilizing and assigning metadata.
 
