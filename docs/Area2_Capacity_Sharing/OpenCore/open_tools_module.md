@@ -1,10 +1,6 @@
 
 # Module 5: Open Tools & Resources
 
-## We need your feedback on the OpenCore!
-
-To contribute to the building of the Open Tools & Resources module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
-
 # Learning Outcomes
 By the end of this module, a learner will have gained hands-on experience working with different open science tools, databases/datasets, and policies. Learners should have been introduced to open science communities within their field of study.
 
