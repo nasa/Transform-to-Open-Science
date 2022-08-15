@@ -27,7 +27,7 @@ The design is for a 12.5-hour course consisting of five, 2.5-hour modules that c
 * All content will be integrated into OpenedX 
 * All content will be assigned a CC0 or CC-BY license.
 
-Additional information about the module structure can be found on the [module structure page](./open_science_ethos_module.md)
+Additional information about the module structure can be found on the [module structure page](./OpenCore_structure.md)
 
 # Course Enrollment and Teaching Event Plan
 *This area will be updated as the content nears completion.*
