@@ -1,11 +1,4 @@
-
-## **Join TOPS Mailing List to hear about future opportunities:**
-
-**The next community feedback opportunity will be from 5 Aug through 20 Aug.** This period will focus on reveiw of the initial version of the module content. We are excited to share our process with you. More information soon!
-
-Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations on TOPS there.
-
-## Past Announcements
+## Announcements
 - 1 Aug 2022: AGU announces OpenCore [review](./opencore_sprint.md)
 - 28 June 2022: AGU announces OpenCore [Leads and Subject Matter Experts](./OpenCore_leads.md)
 - 25 July 2022: Community Forum on the OpenCore
