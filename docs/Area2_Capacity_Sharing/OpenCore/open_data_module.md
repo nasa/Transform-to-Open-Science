@@ -1,10 +1,10 @@
  
 # Module 2: Open Data
 
-# Learning Outcomes
+## Learning Outcomes
 By the end of this module, learners should feel comfortable creating a data management plan that follows FAIR principles, including assigning a license/copyright, metadata tagging, and assigning PIDs. Learners should also feel comfortable utilizing and assigning metadata.
 
-# Suggested Module Structure
+## Suggested Module Structure
 ### Open Data
 * Lesson 1: Introduction to Open Data
 * Lesson 2: Using Open Data
@@ -12,7 +12,7 @@ By the end of this module, learners should feel comfortable creating a data mana
 * Lesson 4: Sharing Open Data
 * Lesson 5: Community Stories - Open Data
  
-# Suggested Resources
+## Suggested Resources
 *Interested in exploring ‘Open Data’ while we develop the module? Here are some resources to get you started:*
 * FAIRsharing.org (2016). FAIR. The FAIR Principles. [doi.org/10.25504/FAIRsharing.WWI10U](https://fairsharing.org/FAIRsharing.WWI10U)
 * The Open Data Handbook. [http://opendatahandbook.org/guide/en/](http://opendatahandbook.org/guide/en/)
