@@ -25,11 +25,11 @@ Then we will break out into smaller groups to have an in-depth discussion of eac
 [Code of conduct](../Community_Forums/code_of_conduct.md)
 
 Tentative Agenda:
-| Time (ET) | Agenda Item | Speaker |
+| **Timestamp** | **Agenda Item** | **Speaker** |
 | ------------- | ------------- | ------------- |
-| 1:00 pm | Welcome and Review of Code of Conduct | Cynthia Hall |
-| 1:05 pm | TOPS updates  | Cynthia Hall |
-| 1:10 pm | Fun Word Art Activity | Cynthia Hall |
-| 1:15 pm | Intro to TOPS Open Science curriculum topics | Isabella Martinez |
-| 1:25 pm | Breakouts for each topic - tell us what you think! | TOPS Team |
-| 1:55 pm | Announcements and Next Steps | Cynthia Hall |
+| [00:00 - 03:15](https://youtu.be/BgvIbzRsX-M?t=0) | [Welcome and Review of Code of Conduct](https://youtu.be/BgvIbzRsX-M?t=14) | Cynthia Hall |
+| [03:15 - 06:05](https://youtu.be/BgvIbzRsX-M?t=195) | [TOPS updates](https://youtu.be/BgvIbzRsX-M?t=195)  | Cynthia Hall |
+| [06:05 - 08:18](https://youtu.be/BgvIbzRsX-M?t=365) | [Fun Word Art Activity](https://youtu.be/BgvIbzRsX-M?t=365) | Cynthia Hall |
+| [08:18 - 18:13](https://youtu.be/BgvIbzRsX-M?t=498) | [Intro to TOPS Open Science curriculum topics](https://youtu.be/BgvIbzRsX-M?t=498) | Isabella Martinez |
+| Not Recorded | Breakouts for each topic - tell us what you think! | TOPS Team |
+| Not Recorded | Announcements and Next Steps | Cynthia Hall |

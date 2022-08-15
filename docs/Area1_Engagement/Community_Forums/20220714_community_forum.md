@@ -19,9 +19,9 @@ Curricula Review - now until August 4:
 [Code of conduct](../Community_Forums/code_of_conduct.md)
 
 Agenda:
-| Time (ET) | Agenda Item | Speaker |
+| **Timestamp** | **Agenda Item** | **Speaker** |
 | ------------- | ------------- | ------------- |
-| 10:00 am | Welcome and Review of Code of Conduct | Cynthia Hall |
-| 10:05 am | TOPS OpenCore Curriculum overview  | Shelley Stall, OpenCore Content Leads |
-| 10:45 am | Process of Providing Feedback | Chris Erdmann, AGU |
-| 10:55 am | Announcements and Next Steps | Cynthia Hall |
+| [00:00 - 03:06](https://youtu.be/AzZjLTD-yb0?t=0) | [Welcome and Review of Code of Conduct](https://youtu.be/AzZjLTD-yb0?t=0) | Cynthia Hall |
+| [03:06 - 43:02](https://youtu.be/AzZjLTD-yb0?t=186) | [TOPS OpenCore Curriculum overview]()  | Shelley Stall, OpenCore Content Leads |
+| [43:02 - 57:02](https://youtu.be/AzZjLTD-yb0?t=2582) | [Process of Providing Feedback](https://youtu.be/AzZjLTD-yb0?t=2582) | Chris Erdmann, AGU |
+| [57:02 - 57:58](https://youtu.be/AzZjLTD-yb0?t=3423) | [Announcements and Next Steps](https://youtu.be/AzZjLTD-yb0?t=3423) | Cynthia Hall |
