@@ -2,7 +2,7 @@
 
 The purpose of the Transform to Open Science curriculum, the OpenCore, is to introduce NASA-funded scientists or future NASA-funded scientists to the benefits and principles of open science such that they can upskill and continue collaborating with NASA science activities. The OpenCore should help participants gain a nuanced **understanding** of the open science ethos and workflow, show participants the tools needed to follow an open science **process** and thus actively participante in open science communities, and help to familiarize participants with the **benefits** of open science to their research and beyond. 
 
-The following is a proposed structure to the OpenCore, to help reinforce these primary objectives.
+The following is a proposed structure for the OpenCore, to help reinforce these primary objectives.
 
 ### Ethos of Open Science
 * Lesson 1: Introduction to the Ethos of Open Science
