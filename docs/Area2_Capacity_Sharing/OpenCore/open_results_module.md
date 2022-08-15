@@ -2,10 +2,6 @@
 
 # Module 4: Open Results
 
-## We need your feedback on the OpenCore!
-
-To contribute to the building of the Open Results module, please refer to [these instructions](/docs/Area2_Capacity_Sharing/OpenCore/readme.md#your-feedback-is-needed).
-
 # Learning Outcomes
 By the end of this module, learners will have an in-depth understanding of how open science principles help with increasing the reproducibility and replicability of research, as well as guidelines by which to choose the best location to publish their research. Learners will have hands-on experience with creating a replicable, open science workflow and using a virtual research environment, and practice with some tools that make such a workflow possible.
 
