@@ -25,7 +25,7 @@ The following is a proposed structure to the OpenCore, to help reinforce these p
 * Sharing Open Data
 * Community Stories: Open Data
 
-### Open Softwwre
+### Open Software
 * Introduction to Open Software
 * Using Open Software
 * Making Open Software
