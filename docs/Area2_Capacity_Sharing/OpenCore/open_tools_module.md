@@ -10,7 +10,7 @@ By the end of this module, a learner will have gained hands-on experience workin
 * Lesson 2: Tools for Open Data
 * Lesson 3: Tools for Open Software
 * Lesson 4: Tools for Open Results
-* Lesson 5: Community Stories - Open Tools
+* Lesson 5: Community Stories, Resources and Policy
 
 ## Suggested Resources
 *Interested in exploring Tools & Resources for Open Science while we develop the module? Here are some resources to get you started:*
