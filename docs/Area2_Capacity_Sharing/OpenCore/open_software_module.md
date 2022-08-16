@@ -1,5 +1,5 @@
 
-# Module 3: Open Software 
+# Module 4: Open Software 
 
 ## Learning Outcomes
 By the end of this module, learners will understand the impact of open-source code, and have hands-on practice with choosing a license, creating a README, and uploading code to GitHub/GitLab. Learners will understand the importance of high-quality and documented code. Learners will discuss the impact of open-source software on open science and advancing equity in scientific fields.
