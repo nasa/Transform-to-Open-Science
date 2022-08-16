@@ -16,25 +16,26 @@ The following is a proposed structure for the OpenCore, to help reinforce these 
 * Lesson 2: Tools for Open Data
 * Lesson 3: Tools for Open Software
 * Lesson 4: Tools for Open Results
-* Lesson 5: Community Stories - Open Tools
+* Lesson 5: Community Stories, resources and policy
 
 ### Open Data
 * Lesson 1: Introduction to Open Data
 * Lesson 2: Using Open Data
 * Lesson 3: Making Open Data
 * Lesson 4: Sharing Open Data
-* Lesson 5: Community Stories - Open Data
+* Lesson 5: Community Stories, resources and policy
 
 ### Open Software
 * Lesson 1: Introduction to Open Software
 * Lesson 2: Using Open Software
 * Lesson 3: Making Open Software
 * Lesson 4: Sharing Open Software
-* Lesson 5: Community Stories - Open Software
+* Lesson 5: Community Stories, resources and policy
 
 ### Open Results
 * Lesson 1: Introduction to Open Results
 * Lesson 2: Using Open Results
 * Lesson 3: Making Open Results
 * Lesson 4: Sharing Open Results
-* Lesson 5: Community Stories - Open Results
+* Lesson 5: Community Stories, resources and policy
+
