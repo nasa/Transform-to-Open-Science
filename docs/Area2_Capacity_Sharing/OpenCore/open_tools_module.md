@@ -1,5 +1,5 @@
 
-# Module 5: Open Tools & Resources
+# Module 2: Open Tools & Resources
 
 ## Learning Outcomes
 By the end of this module, a learner will have gained hands-on experience working with different open science tools, databases/datasets, and policies. Learners should have been introduced to open science communities within their field of study.
