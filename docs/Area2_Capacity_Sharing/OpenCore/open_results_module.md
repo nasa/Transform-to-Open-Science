@@ -11,7 +11,7 @@ By the end of this module, learners will have an in-depth understanding of how o
 * Lesson 2: Using Open Results
 * Lesson 3: Making Open Results
 * Lesson 4: Sharing Open Results
-* Lesson 5: Community Stories - Open Results
+* Lesson 5: Community Stories, Resources and Policy
 
 ## Suggested Resources 
 *Interested in exploring ‘Open Results’ while we develop the module? Here are some resources to get you started:*
