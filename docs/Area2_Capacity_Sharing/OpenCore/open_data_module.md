@@ -1,5 +1,5 @@
  
-# Module 2: Open Data
+# Module 3: Open Data
 
 ## Learning Outcomes
 By the end of this module, learners should feel comfortable creating a data management plan that follows FAIR principles, including assigning a license/copyright, metadata tagging, and assigning PIDs. Learners should also feel comfortable utilizing and assigning metadata.
