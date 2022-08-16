@@ -10,7 +10,7 @@ By the end of this module, learners will be familiar with the definitions centra
 * Lesson 2: Basic Open Science Principles
 * Lesson 3: Open Science Communities
 * Lesson 4: Benefits and Challenges of Open Science
-* Lesson 5: Open Science Success Stories
+* Lesson 5: Community Stories, Resources and Policy
 
 ## Suggested Resources
 *Interested in exploring 'Ethos of Open Science' while we develop the module? Here are some resources to get you started:*
