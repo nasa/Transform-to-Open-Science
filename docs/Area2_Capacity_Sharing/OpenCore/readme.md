@@ -11,10 +11,11 @@ For the 2023 Year of Open Science, TOPS is developing strategic partnerships wit
 
 The five OpenCore modules will be:
 1. [Ethos of Open Science](./open_science_ethos_module.md)
+1. [Open Tools and Resources](./open_tools_module.md)
 2. [Open Data](./open_data_module.md)
 3. [Open Software](./open_software_module.md)
-4. [Open Results](./open_results_module.md)
-5. [Open Tools and Resources](./open_tools_module.md)
+1. [Open Results](./open_results_module.md)
+
 
 ## Learning Objectives
 
