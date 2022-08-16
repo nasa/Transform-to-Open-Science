@@ -10,7 +10,7 @@ By the end of this module, learners will understand the impact of open-source co
 * Lesson 2: Using Open Software
 * Lesson 3: Making Open Software
 * Lesson 4: Sharing Open Software
-* Lesson 5: Community Stories - Open Software
+* Lesson 5: Community Stories, Resources and Policy
 
 ## Suggested Resources
 *Interested in exploring 'Open Software' while we develop the module? Here are some resources to get you started:*

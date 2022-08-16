@@ -10,7 +10,7 @@ By the end of this module, learners should feel comfortable creating a data mana
 * Lesson 2: Using Open Data
 * Lesson 3: Making Open Data
 * Lesson 4: Sharing Open Data
-* Lesson 5: Policies & Resources
+* Lesson 5: Community Stories, Resources and Policy
  
 ## Suggested Resources
 *Interested in exploring ‘Open Data’ while we develop the module? Here are some resources to get you started:*
