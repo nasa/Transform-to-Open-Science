@@ -45,5 +45,9 @@ Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6
 This repository is used to openly share information about TOPS and the Year of Open Science. 
 Issues are used to collect tasks for development, and Markdown text documents for any planning documents that need to be developed.  This could include linking to other resources. Please feel free to submit an issue or fork the repository to make a contribution. 
 
+## Frequently Asked Questions
+
+We have collected frequently asked questions [here](./tops_faq.md). Please use the discussions channel on this GitHub to ask more questions if you have them!
+
 
 **We hope you will join us and champion open science!**
