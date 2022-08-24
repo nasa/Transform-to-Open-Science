@@ -3,9 +3,12 @@ The journey towards open science has been supported since 2013 with key policy c
 
 ## 2013 
 ### OSTP’s “The Holdren Memo”
-The [Increasing Access to the Results of Federally Funded Scientific Research](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) policy memorandum directed US Federal agencies with research and development expenditures above $100 million to develop public access plans (see below) to support increased public access to the results of this research. Dr. John Holdren responded directly to a *We The People* petition about the memo when it was released, and that can be read [here](https://petitions.obamawhitehouse.archives.gov/response/increasing-public-access-results-scientific-research/ ). A White House summary from 2016 about the ongoing impact of the memo can be found [here](https://obamawhitehouse.archives.gov/blog/2016/02/22/increasing-access-results-federally-funded-science ).
+The [Increasing Access to the Results of Federally Funded Scientific Research](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) policy memorandum directed US Federal agencies with research and development expenditures above $100 million to develop public access plans (see below) to support increased public access to the results of this research. Dr. John Holdren responded directly to a *We The People* petition about the memo when it was released, and that can be read [here](https://petitions.obamawhitehouse.archives.gov/response/increasing-public-access-results-scientific-research/). A White House summary from 2016 about the ongoing impact of the memo can be found [here](https://obamawhitehouse.archives.gov/blog/2016/02/22/increasing-access-results-federally-funded-science).
 
 ## 2014
+### DOE PAGES
+The DOE leverages its existing infrastructure from the [Scientific and Technical Information Program (STIP)](https://www.osti.gov/stip) to create an online portal, the Department of Energy Public Access Gateway for Energy and Science or [DOE PAGES](https://www.osti.gov/pages/faqs#doe-pages-overview), to make "peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze." A useful feature of PAGES is that it reconciles DOIs from DOE authors, selecting one as the "authoritative" source for all further citations. 
+
 **Department of Agriculture [public access plan](https://www.usda.gov/sites/default/files/documents/USDA-Public-Access-Implementation-Plan.pdf)**
 
 **Department of Energy [public access plan](https://www.energy.gov/sites/prod/files/2014/08/f18/DOE_Public_Access%20Plan_FINAL.pdf)**
