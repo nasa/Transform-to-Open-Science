@@ -46,6 +46,9 @@ The USDA's [Scientific Integrity Policy](https://www.usda.gov/directives/dr-1074
 As a result of NOAA's public access plan, its [Data and Publication Sharing Directive for NOAA Grants, Cooperative Agreements, and Contracts](https://nosc.noaa.gov/EDMC/PD.DSP.php) from 2012 is revised to impose requirements regarding the sharing of proposals as well as resaerch data in a timlely fashion  "both on NOAA Programs that issue grants and on grant recipients." Specifically, it required that "data that
 underlie the conclusions of peer-reviewed scientific publications be made available for discovery, retrieval, and analysis for free at the time of publication." This data is submitted to the NOAA National Data Centers for archiving. 
 
+### HHS AHRQ for Public Access Policy
+The Agency for Healthcare Research and Quality released an updated [Policy for Public Access to AHRQ-Funded Scientific Publications](https://grants.nih.gov/grants/guide/notice-files/not-hs-16-008.html) that required AHRQ-funded authors to "submit an electronic version of the author’s final peer-reviewed accepted manuscript to the National Library of Medicine's PubMed Central [(PMC)](https://www.ncbi.nlm.nih.gov/pmc/) upon acceptance by the journal."
+
 ### Public Access Plans
 * Department of Education [public access plan](https://ies.ed.gov/funding/pdf/EDPlanPolicyDevelopmentGuidanceforPublicAccess.pdf)
 * Department of Health and Human Services [public access plan](https://www.ahrq.gov/funding/policies/publicaccess/index.html) for Administration for Community Living Publications
@@ -77,8 +80,11 @@ The [Strategy for Data Management and Computing for Groundbreaking Science 2019-
 ### NASA Funding Released
 In 2020, NASA released its first announcements to support [open science](https://nspires.nasaprs.com/external/solicitations/solicitations!init.do#:~:text=E.7%20Support%20for%20Open%20Source%20Tools%2C%20Frameworks%2C%20and%20Libraries ).
 
-## DoD Data Strategy
-In further support of requirements for data management plans, the DoD released a [Data Strategy](https://media.defense.gov/2020/Oct/08/2002514180/-1/-1/0/DOD-DATA-STRATEGY.PDF). 
+### DoD Data Strategy
+In further support of requirements regarding data management plans, the DoD released a [Data Strategy](https://media.defense.gov/2020/Oct/08/2002514180/-1/-1/0/DOD-DATA-STRATEGY.PDF). 
+
+### HHS AHRQ Data Management Policy
+In further support of requirements in the the Public Access Policy, the Agency for Healthcare Research and Quality created a [Data Management Plan Policy](https://grants.nih.gov/grants/guide/notice-files/NOT-HS-20-011.html). This policy requires for applicants for AHRQ grants to include data management plans for "managing, storing and disseminating the primary data, samples, physical collections and other supporting materials created or gathered in the course of research funded by AHRQ."
 
 ## 2021
 ### NASA’s SPD-41
