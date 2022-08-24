@@ -12,11 +12,13 @@ The [Increasing Access to the Results of Federally Funded Scientific Research](h
 * National Aeronautics and Space Administration [public access plan](https://www.nasa.gov/sites/default/files/atoms/files/206985_2015_nasa_plan-for-web.pdf)
 
 ### DOE PAGES
-The DOE leverages its existing infrastructure from the [Scientific and Technical Information Program (STIP)](https://www.osti.gov/stip) to create an online portal, the Department of Energy Public Access Gateway for Energy and Science or [DOE PAGES](https://www.osti.gov/pages/faqs#doe-pages-overview), to make "peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze." A useful feature of PAGES is that it reconciles DOIs from DOE authors, selecting one as the "authoritative" source for all further citations. 
+The DOE leveraged its existing infrastructure from the [Scientific and Technical Information Program (STIP)](https://www.osti.gov/stip) to create an online portal, the Department of Energy Public Access Gateway for Energy and Science or [DOE PAGES](https://www.osti.gov/pages/faqs#doe-pages-overview), to make "peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze." A useful feature of PAGES is that it reconciles DOIs from DOE authors, selecting one as the "authoritative" source for all further citations. 
 
 ## 2015
 ### NIST Public Access to Results Policy
-NIST's [Managing Public Access to Results of Federally Funded Research Policy](https://www.nist.gov/system/files/documents/2018/06/19/final_p_5700.pdf) states that NIST will "promote the deposit of scientific data arising from unclassified research and programs...free of charge in publicly accessible database." This policy does not apply to Standard Reference Data, which NIST has the authority to license. NIST data and results can be found in the following online locations:
+NIST's [Managing Public Access to Results of Federally Funded Research Policy](https://www.nist.gov/system/files/documents/2018/06/19/final_p_5700.pdf) stated that NIST will "promote the deposit of scientific data arising from unclassified research and programs...free of charge in publicly accessible database." This policy does not apply to Standard Reference Data, which NIST has the authority to license. Release of the policy was accompanied by guidance on [Managing Public Access to Results of Funded Research](https://www.nist.gov/system/files/documents/2019/11/08/final_o_5701_ver_2.pdf).
+
+NIST data and results can be found in the following online locations:
   * [NIST website](https://www.nist.gov/publications)
   * Peer-reviewed papers are in [PMC](https://www.ncbi.nlm.nih.gov/pmc/funder/nist/)
   * NIST Technical series and other papers not subject to peer-review are in [govinfo](https://www.govinfo.gov/collection/nist)
@@ -47,9 +49,16 @@ NIST's [Managing Public Access to Results of Federally Funded Research Policy](h
 ### USDA's Scientific Integrity Policy 
 The USDA's [Scientific Integrity Policy](https://www.usda.gov/directives/dr-1074-001) or DR 1074-001 is designed to "ensure the highest level of integrity in all aspects of the Department’s and USDA agencies’ involvement with scientific and technological processes, research, analyses, and products" including the open, accessible and online distribution of all scientific data used to develop policy. 
 
+## 2017
+### NIST Releases Additional Guidance
+In November of 2017, NIST released three, seperate directives to further clarify and provide resources regarding its public access policy. These are the [Guidance for Review of Data Management Plans Submitted with Applications and Proposals for NIST Funding for Scientific Research](https://www.nist.gov/system/files/documents/2021/01/11/final-g-5701-ver-2.pdf), the order on the [Preservation and Maintenance of Published Research Data](https://www.nist.gov/system/files/documents/2019/11/12/final_o_5702_1.pdf), and procedures on [Managing Public Access to External Research Funded by NIST](https://www.nist.gov/system/files/documents/2018/06/19/final_pr_5702.01_0.pdf). 
+
 ## 2018
 ### The OPEN Government Data Act
 Title II of Public Law 115-435, [Foundations for Evidence-Based Policymaking Act of 2018](https://www.govinfo.gov/content/pkg/PLAW-115publ435/pdf/PLAW-115publ435.pdf) requires for Federal agencies to publish their data online, and as open data. 
+
+## Guidance on Sharing Data Using NIST Infrastructure
+Further, clarifying guidance on how individual researchers or research groups should share non-NIST data used in NIST-funded research is released in [Guidance for Making Non-NIST Data Available Through NIST’s Data Management Infrastructure](https://www.nist.gov/system/files/documents/2018/06/19/final_g_5702_01.pdf).
 
 ## 2019
 ### NASA’s Strategy for Data Management and Computing
