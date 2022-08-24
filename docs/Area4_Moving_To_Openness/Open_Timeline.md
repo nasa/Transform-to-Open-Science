@@ -6,13 +6,13 @@ The journey towards open science has been supported since 2013 with key policy c
 The [Increasing Access to the Results of Federally Funded Scientific Research](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) policy memorandum directed US Federal agencies with research and development expenditures above $100 million to develop public access plans (see below) to support increased public access to the results of this research. Dr. John Holdren responded directly to a *We The People* petition about the memo when it was released, and that can be read [here](https://petitions.obamawhitehouse.archives.gov/response/increasing-public-access-results-scientific-research/). A White House summary from 2016 about the ongoing impact of the memo can be found [here](https://obamawhitehouse.archives.gov/blog/2016/02/22/increasing-access-results-federally-funded-science).
 
 ## 2014
+### DOE PAGES
+The DOE leveraged its existing infrastructure from the [Scientific and Technical Information Program (STIP)](https://www.osti.gov/stip) to create an online portal, the Department of Energy Public Access Gateway for Energy and Science or [DOE PAGES](https://www.osti.gov/pages/faqs#doe-pages-overview), to make "peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze." A useful feature of PAGES is that it reconciles DOIs from DOE authors, selecting one as the "authoritative" source for all further citations. 
+
 ### Public Access Plans
 * Department of Agriculture [public access plan](https://www.usda.gov/sites/default/files/documents/USDA-Public-Access-Implementation-Plan.pdf)
 * Department of Energy [public access plan](https://www.energy.gov/sites/prod/files/2014/08/f18/DOE_Public_Access%20Plan_FINAL.pdf)
 * National Aeronautics and Space Administration [public access plan](https://www.nasa.gov/sites/default/files/atoms/files/206985_2015_nasa_plan-for-web.pdf)
-
-### DOE PAGES
-The DOE leveraged its existing infrastructure from the [Scientific and Technical Information Program (STIP)](https://www.osti.gov/stip) to create an online portal, the Department of Energy Public Access Gateway for Energy and Science or [DOE PAGES](https://www.osti.gov/pages/faqs#doe-pages-overview), to make "peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze." A useful feature of PAGES is that it reconciles DOIs from DOE authors, selecting one as the "authoritative" source for all further citations. 
 
 ## 2015
 ### NIST Public Access to Results Policy
@@ -23,6 +23,9 @@ NIST data and results can be found in the following online locations:
   * Peer-reviewed papers are in [PMC](https://www.ncbi.nlm.nih.gov/pmc/funder/nist/)
   * NIST Technical series and other papers not subject to peer-review are in [govinfo](https://www.govinfo.gov/collection/nist)
   * NIST data is available through the [Science Data Portal](https://data.nist.gov/sdp/#/) and on [data.gov](https://www.data.gov/)
+
+### NOAA Public Access Policy
+Accompanying its public access plan, NOAA released a new policy on [Public Access Policy for Scholarly Publications](https://repository.library.noaa.gov/view/noaa/10171). This policy required NOAA publishers "to submit all digital NOAA research publications" to the "NOAA Central Library for inclusion in the [NOAA Institutional Repository](https://repository.library.noaa.gov/)." 
 
 ### Public Access Plans
 * National Institute of Standards and Technology [public access plan](https://www.nist.gov/open)
@@ -37,6 +40,13 @@ NIST data and results can be found in the following online locations:
 * National Science Foundation [public access plan](https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf)
 
 ## 2016
+### USDA's Scientific Integrity Policy 
+The USDA's [Scientific Integrity Policy](https://www.usda.gov/directives/dr-1074-001) or DR 1074-001 is designed to "ensure the highest level of integrity in all aspects of the Department’s and USDA agencies’ involvement with scientific and technological processes, research, analyses, and products" including the open, accessible and online distribution of all scientific data used to develop policy. 
+
+### Revised NOAA Data Sharing Policy
+As a result of NOAA's public access plan, its [Data and Publication Sharing Directive for NOAA Grants, Cooperative Agreements, and Contracts](https://nosc.noaa.gov/EDMC/PD.DSP.php) from 2012 is revised to impose requirements regarding the sharing of proposals as well as resaerch data in a timlely fashion  "both on NOAA Programs that issue grants and on grant recipients." Specifically, it required that "data that
+underlie the conclusions of peer-reviewed scientific publications be made available for discovery, retrieval, and analysis for free at the time of publication." This data is submitted to the NOAA National Data Centers for archiving. 
+
 ### Public Access Plans
 * Department of Education [public access plan](https://ies.ed.gov/funding/pdf/EDPlanPolicyDevelopmentGuidanceforPublicAccess.pdf)
 * Department of Health and Human Services [public access plan](https://www.ahrq.gov/funding/policies/publicaccess/index.html) for Administration for Community Living Publications
@@ -45,9 +55,6 @@ NIST data and results can be found in the following online locations:
 * Office of the Director of National Intelligence [public access plan](https://www.iarpa.gov/images/pdfs/ODNI_Public_Access_Plan_Sept_2016.pdf)
 * US Agency for International Development [public access plan](https://www.usaid.gov/sites/default/files/documents/15396/USAID_PublicAccessPlan.pdf)
 * US Geological Survey [public access plan](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/USGS-PublicAccessPlan-APPROVED-v1-03.pdf)
-
-### USDA's Scientific Integrity Policy 
-The USDA's [Scientific Integrity Policy](https://www.usda.gov/directives/dr-1074-001) or DR 1074-001 is designed to "ensure the highest level of integrity in all aspects of the Department’s and USDA agencies’ involvement with scientific and technological processes, research, analyses, and products" including the open, accessible and online distribution of all scientific data used to develop policy. 
 
 ## 2017
 ### NIST Releases Additional Guidance
