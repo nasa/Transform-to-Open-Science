@@ -9,6 +9,9 @@ The [Increasing Access to the Results of Federally Funded Scientific Research](h
 ### DOE PAGES
 The DOE leveraged its existing infrastructure from the [Scientific and Technical Information Program (STIP)](https://www.osti.gov/stip) to create an online portal, the Department of Energy Public Access Gateway for Energy and Science or [DOE PAGES](https://www.osti.gov/pages/faqs#doe-pages-overview), to make "peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze." A useful feature of PAGES is that it reconciles DOIs from DOE authors, selecting one as the "authoritative" source for all further citations. 
 
+### DoD Public Access Policy
+A precursor to the DoD's public access plan was the [Public Access to the Results of Department of Defense-Funded Research](https://discover.dtic.mil/wp-content/uploads/2018/06/memo_public_access_kendall_20140709.pdf) which directed all authors funded by the DoD to submit final, peer-reviewed journal manuscripts to [Defense Technical Information Center](https://discover.dtic.mil/).
+
 ### Public Access Plans
 * Department of Agriculture [public access plan](https://www.usda.gov/sites/default/files/documents/USDA-Public-Access-Implementation-Plan.pdf)
 * Department of Energy [public access plan](https://www.energy.gov/sites/prod/files/2014/08/f18/DOE_Public_Access%20Plan_FINAL.pdf)
@@ -18,11 +21,7 @@ The DOE leveraged its existing infrastructure from the [Scientific and Technical
 ### NIST Public Access to Results Policy
 NIST's [Managing Public Access to Results of Federally Funded Research Policy](https://www.nist.gov/system/files/documents/2018/06/19/final_p_5700.pdf) stated that NIST will "promote the deposit of scientific data arising from unclassified research and programs...free of charge in publicly accessible database." This policy does not apply to Standard Reference Data, which NIST has the authority to license. Release of the policy was accompanied by guidance on [Managing Public Access to Results of Funded Research](https://www.nist.gov/system/files/documents/2019/11/08/final_o_5701_ver_2.pdf).
 
-NIST data and results can be found in the following online locations:
-  * [NIST website](https://www.nist.gov/publications)
-  * Peer-reviewed papers are in [PMC](https://www.ncbi.nlm.nih.gov/pmc/funder/nist/)
-  * NIST Technical series and other papers not subject to peer-review are in [govinfo](https://www.govinfo.gov/collection/nist)
-  * NIST data is available through the [Science Data Portal](https://data.nist.gov/sdp/#/) and on [data.gov](https://www.data.gov/)
+NIST data and results can be found in the following online locations: [NIST website](https://www.nist.gov/publications), Peer-reviewed papers are in [PMC](https://www.ncbi.nlm.nih.gov/pmc/funder/nist/), NIST Technical series and other papers not subject to peer-review are in [govinfo](https://www.govinfo.gov/collection/nist), and NIST data is available through the [Science Data Portal](https://data.nist.gov/sdp/#/) and on [data.gov](https://www.data.gov/).
 
 ### NOAA Public Access Policy
 Accompanying its public access plan, NOAA released a new policy on [Public Access Policy for Scholarly Publications](https://repository.library.noaa.gov/view/noaa/10171). This policy required NOAA publishers "to submit all digital NOAA research publications" to the "NOAA Central Library for inclusion in the [NOAA Institutional Repository](https://repository.library.noaa.gov/)." 
@@ -67,6 +66,9 @@ Title II of Public Law 115-435, [Foundations for Evidence-Based Policymaking Act
 ## Guidance on Sharing Data Using NIST Infrastructure
 Further, clarifying guidance on how individual researchers or research groups should share non-NIST data used in NIST-funded research is released in [Guidance for Making Non-NIST Data Available Through NIST’s Data Management Infrastructure](https://www.nist.gov/system/files/documents/2018/06/19/final_g_5702_01.pdf).
 
+## DoD Scientific and Technical Information Program
+The latest version of the [DoD Scientific and Technical Information Program (STIP)](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320012p.pdf?ver=2018-12-17-130508-423) became available, providing regulations not only on the submission of publications to DTIC but also requiring Data Management Plans for all DoD-funded research. 
+
 ## 2019
 ### NASA’s Strategy for Data Management and Computing
 The [Strategy for Data Management and Computing for Groundbreaking Science 2019-2024](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/SDMWG_Full%20Document_v3.pdf) is released. It is designed to “enable transformational open science through continuous evolution of science data and computing systems for NASA’s Science Mission Directorate.” Part of this strategy, “to develop and implement capabilities to enable open science” is the predecessor to TOPS.
@@ -74,6 +76,9 @@ The [Strategy for Data Management and Computing for Groundbreaking Science 2019-
 ## 2020
 ### NASA Funding Released
 In 2020, NASA released its first announcements to support [open science](https://nspires.nasaprs.com/external/solicitations/solicitations!init.do#:~:text=E.7%20Support%20for%20Open%20Source%20Tools%2C%20Frameworks%2C%20and%20Libraries ).
+
+## DoD Data Strategy
+In further support of requirements for data management plans, the DoD released a [Data Strategy](https://media.defense.gov/2020/Oct/08/2002514180/-1/-1/0/DOD-DATA-STRATEGY.PDF). 
 
 ## 2021
 ### NASA’s SPD-41
@@ -85,3 +90,5 @@ In accordance with their public access plan, USDA releases DR 1020-006, [Public 
 Digital Scientific Research Data](https://www.usda.gov/sites/default/files/documents/dr-1020-006.pdf), requiring that all USDA "peer-reviewed, scholarly
 publications and digital scientific research data assets arising from unclassified scientific research" will be made "accessible to the public, to the extent practicable."
 
+# Other Resources
+The **University of Michigan** has a list fo all US federal agencies requiring data management plans [here](https://guides.lib.umich.edu/c.php?g=283277&p=1886863).
