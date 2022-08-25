@@ -148,4 +148,4 @@ Digital Scientific Research Data](https://www.usda.gov/sites/default/files/docum
 publications and digital scientific research data assets arising from unclassified scientific research" will be made "accessible to the public, to the extent practicable."
 
 # Other Resources
-The **University of Michigan** has a list fo all US federal agencies requiring data management plans [here](https://guides.lib.umich.edu/c.php?g=283277&p=1886863).
+* The **University of Michigan** has a partial list fo US federal agencies requiring data management plans [here](https://guides.lib.umich.edu/c.php?g=283277&p=1886863).
