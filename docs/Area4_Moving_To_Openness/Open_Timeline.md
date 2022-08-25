@@ -38,6 +38,15 @@ As part of the CDC's public access plan, [CDC Stacks](https://stacks.cdc.gov/) i
 ### HHS Guiding Principles
 In order to guide its operating divisions in creating public access plans in accordance with the Holdren Memo, HHS released [Guiding Principles and Common Approach for Enhancing Public Access to the Results of Research Funded by HHS Operating Divisions](https://www.hhs.gov/open/public-access-guiding-principles/index.html). There are two, primary components to this guidance: "The first relates to making the publications resulting from our funded research freely available to the public. The second relates to making the scientific data publicly available in digital formats."
 
+### NIH Policy Updates
+NIH completes updates to its [Public Access Policy](https://publicaccess.nih.gov/policy.htm), which ensures teh public has access to all published results of NIH-funded research via [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/). Details on submission methods can be found [here](https://publicaccess.nih.gov/submit_process.htm).
+
+### DOT Library
+As part of the Department of Transportation's public access plan, all authors funded by DOT are required to submit publications not specifically precluded by privacy, confidentiality, or security concerns to the [DOT National Transportation Library (NTL)](https://ntl.bts.gov/ntl) digital repository. 
+
+### NSF Increasing Access to the Results of Research
+NSF's robust public access plan, [Increasing Access to the Results of Research Funded by the National Science Foundation](https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf) and an accompanying [FAQ (last updated in 2018)](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18041&org=NSF) provide robust guidance for NSF-funded researchers on how to make their data and research accessible.  
+
 ### Public Access Plans
 * National Institute of Standards and Technology [public access plan](https://www.nist.gov/open)
 * National Oceanic and Atmospheric Administration [public access plan](https://repository.library.noaa.gov/view/noaa/10169)
@@ -93,6 +102,9 @@ The latest version of the [DoD Scientific and Technical Information Program (STI
 ## 2019
 ### NASA’s Strategy for Data Management and Computing
 The [Strategy for Data Management and Computing for Groundbreaking Science 2019-2024](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/SDMWG_Full%20Document_v3.pdf) is released. It is designed to “enable transformational open science through continuous evolution of science data and computing systems for NASA’s Science Mission Directorate.” Part of this strategy, “to develop and implement capabilities to enable open science” is the predecessor to TOPS.
+
+### VA Presentation of Research Results Directive
+The Department of Veterans Affairs issued Directive 1200.19, [Presentation of Research Results](https://www.va.gov/vhapublications/ViewPublication.asp?pub_ID=8364), directing al VA investigators to make available all peer-reviewed publications. This directives includes a requirement to deposit manuscripts in [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/).
 
 ## 2020
 ### NASA Funding Released
