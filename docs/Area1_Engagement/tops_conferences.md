@@ -15,13 +15,6 @@ Recurring TOPS Meetings
   
 Conferences and Workshops
 -----------------
-1. ESIP Summer
-    1. When: July 18-20
-    1. Description: Cynthia Hall will be participating as a panelist, along with Ryan McGranaghan and Mark Parsons, in the session, Building a Thriving Open Science Community. 
-    1. More information: [https://www.esipfed.org/meetings](https://www.esipfed.org/meetings)
-2. TOPS OpenCore Sprint Meeting
-    1. When: August 9-11
-    1. Description: Post-sprint meeting to finalize OpenCore curricula development
 3. FOSS4G
     1. When: Aug 22-28
     1. Description: Kevin Murphy will be attending and Cynthia Hall will be presenting NASA’s Transform to Open Science (TOPS) Initiative.
