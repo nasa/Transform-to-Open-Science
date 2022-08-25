@@ -20,7 +20,7 @@ Then we will break out into smaller groups to have an in-depth discussion of eac
 
 [What is Open Science? Word Art](https://doi.org/10.5281/zenodo.6986412)
 
-[Transcript of Main Session](./Community_Forums/20220811_transcript.md)
+[Transcript of Main Session](./Community_Forums/20220811_transcript.md) | [Anonymized Transcripts from Breakouts](https://doi.org/10.5281/zenodo.7023556)
 
 [Code of conduct](../Community_Forums/code_of_conduct.md)
 
