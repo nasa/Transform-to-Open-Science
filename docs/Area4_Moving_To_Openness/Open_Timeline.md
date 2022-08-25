@@ -147,5 +147,8 @@ In accordance with their public access plan, USDA releases DR 1020-006, [Public 
 Digital Scientific Research Data](https://www.usda.gov/sites/default/files/documents/dr-1020-006.pdf), requiring that all USDA "peer-reviewed, scholarly
 publications and digital scientific research data assets arising from unclassified scientific research" will be made "accessible to the public, to the extent practicable."
 
+### Breakthroughs for All
+On August 25, 2022 the White House released [Breakthroughs for All: Delivering Equitable Access to America’s Research](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) which makes publications and research funded by taxpayers publicly accessible, without an embargo or cost. All agencies are called to update their policies no later than December 31, 2025.
+
 # Other Resources
 * The **University of Michigan** has a partial list fo US federal agencies requiring data management plans [here](https://guides.lib.umich.edu/c.php?g=283277&p=1886863).
