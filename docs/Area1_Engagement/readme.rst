@@ -34,9 +34,9 @@ Community Meetings
 Recurring TOPS Meetings
 -----------------
 1. `TOPS Community Forums <./Community_Forums>`__
-    * When: August 11, 1PM EDT (UTC -4)
-    * Description: This forum will provide an overview of OpenCore, after which we will break out into smaller groups to have an in-depth discussion of each of the modules: Ethos of Open Science, Open Software, Open Data, Open Tools, and Open Results.  
-    * `Registration Link <https://go.nasa.gov/3PFGGWo>`__
+    * When: September 08, 1PM EDT (UTC -4)
+    * Description: This month we will be discussing open science within two NASA Divisions: Biological and Physical Sciences and Heliophysics with [Dr. Sam Gebre](https://twitter.com/SamGebre1) and [Dr. Ryan McGranaghan](https://twitter.com/AeroSciengineer). We will be asking for feedback on related open science activities in the other areas and looking at points where different domains' efforts could benefit and augment one another.   
+    * `Registration Link <https://go.nasa.gov/3crKGeY>`__
     * Submit Questions `here <https://nasa.cnf.io/sessions/kzbb/#!/dashboard>`__
   
 Conferences and Workshops
