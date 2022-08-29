@@ -10,6 +10,6 @@ A community of practice is defined as a group of people who share a craft or a p
     - Creating a new metric (altmetrics), that monitor online reader behavior, social media interactions, applied, social, and or economic uses of open science research as a new method of evaluating research impact
     - Developing an app where users can input short, text phrases and the query is artistically matched with and returns NASA imagery that matches the phrase or thought using machine learning/artificial intelligence
  - Engage with NASA’s Minority University Research and Engagement Program (MUREP)
- - Engage stakeholders through the ESIP Open Source Science Transformation Cluster
+ - Engage stakeholders through the [ESIP Open Source Science Transformation Cluster](https://wiki.esipfed.org/Open_Science_Cluster)
 ### TOPS Champions
 It is important to develop and maintain relationships once we’ve built them. TOPS Champions are empowered open science ambassadors that include scientists, staff, thought-leaders, community partners, academic institutions,NASA partners, and YOU! We can’t build a robust community without your help. If you want to be a TOPS Champion, contact us and [join our email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform)! 
