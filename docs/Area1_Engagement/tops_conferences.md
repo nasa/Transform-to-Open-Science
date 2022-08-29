@@ -9,8 +9,8 @@ Recurring TOPS Meetings
 -----------------
 1.[TOPS Community Forums](../Community_Forums)
     1. When: Second Thursday Every Month, 1-2 PM ET
-    1. Description: Our next community forum will be on Thursday, July 14, 2022 at 1 PM EDT (10 AM PDT). We will be joined by the OpenCore Curriculum Module Leads and Content Subject Matter Experts to discuss their recent work developing the lesson material and next steps towards advancing this work with the community.  
-    1. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdwvKbB1q2bB7Myeo1dX0eyT3-As0yO4CXZVWXTJhzu2XJitg/viewform)
+    1. Description: Our next community forum will be on Thursday, September 08, 2022 at 1 PM EDT (10 AM PDT). This month we will be discussing open science within two NASA Divisions: Biological and Physical Sciences and Heliophysics with Dr. Sam Gebre and Dr. Ryan McGranaghan. We will be asking for feedback on related open science activities in the other areas and looking at points where different domains' efforts could benefit and augment one another.  
+    1. Register [here](https://go.nasa.gov/3crKGeY)
     1. Submit Questions [here](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
   
 Conferences and Workshops
