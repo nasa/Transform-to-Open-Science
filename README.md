@@ -1,6 +1,7 @@
 # Announcements!
 - Open Science [stories](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Open-Science-Stories/readme.md)
 - 08 September, 2022: [Community Forum with Biological and Physical Sciences and Heliophysics](./docs/Area1_Engagement/Community_Forums/20220908_community_forum.md)
+- OSTP releases [Guidance to Make Federally Funded Research Freely Available Without Delay](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/)
 - OSTP releases [New Guidance to Ensure Federally Funded Research Data Equitably Benefits All of America](https://www.whitehouse.gov/ostp/news-updates/2022/05/26/new-guidance-to-ensure-federally-funded-research-data-equitably-benefits-all-of-america/)
 - [New Funding Opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
 - [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
