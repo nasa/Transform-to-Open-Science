@@ -2,6 +2,8 @@
 
 ## Plans
 
+02/2018 Europe/Funding Organzations [Plan S](https://www.coalition-s.org/). Research papers must be immediately free to read and published under a licence that allows anyone can download, reuse or republish the paper. 
+
 02/2020 Canada [Roadmap to Open Science](https://www.ic.gc.ca/eic/site/063.nsf/eng/h_97992.html)
 
 11/2021 UNESCO [Recommendation on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation)
