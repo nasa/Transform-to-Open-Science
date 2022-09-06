@@ -14,15 +14,11 @@ Then we will break out into smaller groups to have an in-depth discussion of eac
 
 **Date:** August 11, 2022, 1PM EDT (UTC -4)
 
-[Video Recording](https://www.youtube.com/watch?v=BgvIbzRsX-M)
-
-[Slides](https://doi.org/10.5281/zenodo.6983153)
-
-[What is Open Science? Word Art](https://doi.org/10.5281/zenodo.6986412)
-
-[Transcript of Main Session](./Community_Forums/20220811_transcript.md) | [Anonymized Transcripts from Breakouts](https://doi.org/10.5281/zenodo.7023556)
-
-[Code of conduct](../Community_Forums/code_of_conduct.md)
+- [Video Recording](https://www.youtube.com/watch?v=BgvIbzRsX-M)
+- [Slides](https://doi.org/10.5281/zenodo.6983153)
+- [What is Open Science? Word Art](https://doi.org/10.5281/zenodo.6986412)
+- [Transcript of Main Session](./Community_Forums/20220811_transcript.md) | [Anonymized Transcripts from Breakouts](https://doi.org/10.5281/zenodo.7023556)
+- [Code of conduct](../Community_Forums/code_of_conduct.md)
 
 Tentative Agenda:
 | **Timestamp** | **Agenda Item** | **Speaker** |
