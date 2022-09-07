@@ -27,9 +27,6 @@ Conferences and Workshops
     1. When: Nov 9-10
     1. Description: TOPS will be attending. Come see us!
     1. More Information: [https://www.githubuniverse.com/](https://www.githubuniverse.com/)
-6. TOPS Train the Trainers
-    1. When: Nov 14-18
-    1. Description: More information coming soon
 7. AGU Fall Meeting
     1. When: Dec 12-16
     1. Description: TOPS and AGU will be cohosting workshops on [OpenCore curricula](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore), will be available in the NASA booth. We will host an open science help desk and more. Join us! 
