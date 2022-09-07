@@ -15,19 +15,19 @@ Recurring TOPS Meetings
   
 Conferences and Workshops
 -----------------
-3. FOSS4G
+1. FOSS4G
     1. When: Aug 22-28
     1. Description: Kevin Murphy will be attending and Cynthia Hall will be presenting NASA’s Transform to Open Science (TOPS) Initiative.
     1. More Information: [https://foss4g.org/](https://foss4g.org/)
-4. SACNAS
+1. SACNAS
     1. When: Oct 27-29
     1. Description: Yvonne Ivey will be attending and providing information and resources on NASA's Transform to Open Science (TOPS) mission.
     1. Website: [https://www.sacnas.org/conference](https://www.sacnas.org/conference)
-5. Github Universe
+1. Github Universe
     1. When: Nov 9-10
     1. Description: TOPS will be attending. Come see us!
     1. More Information: [https://www.githubuniverse.com/](https://www.githubuniverse.com/)
-7. AGU Fall Meeting
+1. AGU Fall Meeting
     1. When: Dec 12-16
     1. Description: TOPS and AGU will be cohosting workshops on [OpenCore curricula](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore), will be available in the NASA booth. We will host an open science help desk and more. Join us! 
     1. More Information: [https://www.agu.org/Fall-Meeting](https://www.agu.org/Fall-Meeting)
