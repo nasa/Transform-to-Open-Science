@@ -39,7 +39,7 @@ Recurring TOPS Meetings
     * `Registration Link <https://go.nasa.gov/3crKGeY>`__
     * Submit Questions `here <https://nasa.cnf.io/sessions/kzbb/#!/dashboard>`__
   
-Conferences and Workshops
+Upcoming Conferences and Workshops
 -----------------
 1. AGU Fall Meeting
     * When: Dec 12-16
