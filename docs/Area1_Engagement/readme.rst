@@ -41,29 +41,7 @@ Recurring TOPS Meetings
   
 Conferences and Workshops
 -----------------
-1. ESIP Summer
-    * When: July 18-20
-    * Description: Cynthia Hall will be participating as a panelist, along with Ryan McGranaghan and Mark Parsons, in the session, Building a Thriving Open Science Community. 
-    * `More information <https://www.esipfed.org/meetings](https://www.esipfed.org/meetings>`__
-2. TOPS OpenCore Sprint Meeting
-    * When: August 9-11
-    * Description: Post-sprint meeting to finalize OpenCore curricula development
-3. FOSS4G
-    * When: Aug 22-28
-    * Description: Kevin Murphy will be attending and Cynthia Hall will be presenting NASA’s Transform to Open Science (TOPS) Initiative.
-    * `More Information <https://foss4g.org/>`__
-4. SACNAS
-    * When: Oct 27-29
-    * Description: Yvonne Ivey will be attending and providing information and resources on NASA's Transform to Open Science (TOPS) mission.
-    * `Website <https://www.sacnas.org/conference>`__
-5. Github Universe
-    * When: Nov 9-10
-    * Description: TOPS will be attending. Come see us!
-    * `More Information <https://www.githubuniverse.com/>`__
-6. TOPS Train the Trainers
-    * When: Nov 14-18
-    * Description: More information coming soon
-7. AGU Fall Meeting
+1. AGU Fall Meeting
     * When: Dec 12-16
     * Description: TOPS and AGU will be cohosting workshops on `OpenCore curricula <https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore>`__, will be available in the NASA booth. We will host an open science help desk and more. Join us! 
     * `More Information <https://www.agu.org/Fall-Meeting>`__
