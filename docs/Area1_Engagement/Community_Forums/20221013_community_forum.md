@@ -1,6 +1,6 @@
 # TOPS Community Forum - October 2022
 
-Join us this month to learn more about the new TOPS ROSES solicitation, TOPST
+Join us this month to learn more about future TOPS ROSES solicitation.
 
 **Date:** October 13, 2022, 1PM EDT (UTC -4)
 
