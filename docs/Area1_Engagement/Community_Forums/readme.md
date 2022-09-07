@@ -1,7 +1,7 @@
 # TOPS Monthly Forum
 
 ## Announcements
-
+* October 13 2022 [TOPS Community Forum](./20221013_community_forum.md). Public participation encouraged.
 * September 08 2022 [TOPS Community Forum](./20220908_community_forum.md). Public participation encouraged.
 
 ## Previous Forums
