@@ -35,4 +35,4 @@ Additional information about the module structure can be found on the [module st
 
 ## Course Incentives
 
-* Certification and/or NASA TOPS open science [badges](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area3_Incentives/badging.md)
+* Certification and/or NASA TOPS open science [badges](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area3_Incentives/readme.md)
