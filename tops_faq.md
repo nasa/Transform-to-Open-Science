@@ -53,6 +53,12 @@ This page contains a selection of questions and answers for the TOPS May 2022 co
   </details>
   
   <details>
+  <summary><h4>How does the OSTP Public Access Memorandum affect NASA's policies and activities related to Open Science?</h4></summary>
+  The 2022 memorandum titled, <a href = "https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/">Ensuring Free, Immediate, and Equitable Access to Federally Funded Research</a>, will take critical steps to achieve equitable delivery of Federally funded research results and data to all of America. This is a very exciting step in creating more equitable access to the incredible research NASA funds. Additionally, NASA plans to release an updated Scientific Information Policy, SPD-41a this Fall. This policy describes how scientific information (publications, data, and software produced as part of scientific research activities) produced from SMD funding is shared. The draft was released 11/2021: <a href = "https://science.nasa.gov/science-red/s3fs-public/atoms/files/draft_SMD-information-policy-v2.x.pdf">https://science.nasa.gov/researchers/science-data/science-information-policy.</a> .
+
+  </details>
+  
+  <details>
   <summary><h4>How will you enable open meetings? Will they all be virtual? Will funding be provided for volunteers to present at science meetings?</h4></summary>
   We are enabling open meetings by providing an option for virtual attendance, including the ability to submit questions. We have plans to expand participation at NASA science team meetings; please subscribe to our <a href = "https://go.nasa.gov/3Lwlb87">listserv</a> to hear more.
 
