@@ -4,11 +4,10 @@ Join us this month to delve into two NASA Science Mission Directorate Divisions:
 
 **Date:** September 08, 2022, 1PM EDT (UTC -4)
 
-[Registration](https://go.nasa.gov/3crKGeY)
-
-[Ask Questions](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
-
-[Code of conduct](../Community_Forums/code_of_conduct.md)
+- [Video Recording](https://www.youtube.com/watch?v=XIiMO-Ebx9g)
+- [Slides](https://doi.org/10.5281/zenodo.7062615)
+- [Jamboard Discussion](https://doi.org/10.5281/zenodo.7064804)
+- [Code of conduct](../Community_Forums/code_of_conduct.md)
 
 Tentative Agenda:
 | **Time (ET)** | **Agenda Item** | **Speaker** |
