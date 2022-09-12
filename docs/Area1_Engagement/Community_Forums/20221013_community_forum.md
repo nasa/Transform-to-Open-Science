@@ -4,6 +4,13 @@ This month we will be talking about and taking questions on the new funding oppo
 - Notice of Intent Due 11/10 
 - Proposals Due 12/8
 
+TOPST is seeks applications to support the following three activities:
+(1) Development of ScienceCore materials (see Section 3.1),
+(2) Implementation of summer schools (see Section 3.2.1), and
+(3) Virtual cohorts (see Section 3.2.2).
+
+We will discuss the requirements for each section, point out resources NASA has to help you write a good proposal, and answer questions.
+
 **Date:** October 13, 2022, 1PM EDT (UTC -4)
 
 [Registration](https://go.nasa.gov/3Bitx0G)
