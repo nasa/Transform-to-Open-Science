@@ -13,7 +13,7 @@ The CDC developed an operational policy [Public Access to CDC Funded Publication
 
 ## 2014
 ### DOE PAGES
-The DOE leveraged its existing infrastructure from the [Scientific and Technical Information Program (STIP)](https://www.osti.gov/stip) to create an online portal, the Department of Energy Public Access Gateway for Energy and Science or [DOE PAGES](https://www.osti.gov/pages/faqs#doe-pages-overview), to make "peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze." A useful feature of PAGES is that it reconciles DOIs from DOE authors, selecting one as the "authoritative" source for all further citations. 
+The Department of Energy Public Access Gateway for Energy and Science ([DOE PAGES](https://www.osti.gov/pages/)) is the DOE discovery tool, developed by the DOE Office of Scientific and Technical Information (OSTI), that makes peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze. DOE PAGES was developed to implement DOE’s [Public Access Plan](https://www.energy.gov/downloads/doe-public-access-plan) and offers free public access to the best available full-text version of DOE-funded scholarly publications - either the peer-reviewed, accepted manuscript or the published scientific journal article.
 
 ### DoD Public Access Policy
 A precursor to the DoD's public access plan was the [Public Access to the Results of Department of Defense-Funded Research](https://discover.dtic.mil/wp-content/uploads/2018/06/memo_public_access_kendall_20140709.pdf) which directed all authors funded by the DoD to submit final, peer-reviewed journal manuscripts to [Defense Technical Information Center](https://discover.dtic.mil/).
@@ -49,6 +49,9 @@ As part of the Department of Transportation's public access plan, all authors fu
 
 ### NSF Increasing Access to the Results of Research
 NSF's robust public access plan, [Increasing Access to the Results of Research Funded by the National Science Foundation](https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf) and an accompanying [FAQ (last updated in 2018)](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18041&org=NSF) provide robust guidance for NSF-funded researchers on how to make their data and research accessible.  
+
+###DOE Policy for Digital Research Data Management
+DOE released the DOE [Policy for Digital Research Data Management](https://www.energy.gov/datamanagement/doe-policy-digital-research-data-management-resources) as part of the implementation of DOE’s Public Access Plan. The policy requires that all funded research activities have an associated Data Management Plans. 
 
 ### Public Access Plans
 * National Institute of Standards and Technology [public access plan](https://www.nist.gov/open)
@@ -104,7 +107,14 @@ In November of 2017, NIST released three, seperate directives to further clarify
 ### FDA Staff Manual on Open Access
 In accordance to FDA's public access plan, a staff manual on [Access to Results of FDA-Funded Scientific Research](https://www.fda.gov/media/95135/download) was released, to provide resources to ensure transparency and maximum public access possible of FDA-funded research. APIs as well as data and research is available at [openFDA](https://open.fda.gov/).  
 
-## Administration for Community Living Public Access Plan Update
+### DOE CODE
+[DOE CODE](https://www.osti.gov/doecode/) is the software services platform and search tool for DOE-funded code, developed and maintained by DOE OSTI. DOE CODE provides functionality for collaboration, archiving, and discovery of scientific and business software. The tool was launched in 2017 to replace an earlier system and to help implement M-16-21 – Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software.
+
+### DOE OSTI Interagency DOI Service
+The [Interagency DOI Service](https://www.osti.gov/iad2/) is provided by DOE OSTI to other US government agencies that would like to assign DOIs to their research outputs. DOE OSTI provides administrative and technical support, a community of practice, and a submission platform to assigns and registers DOIs with DataCite to aid in citation, discovery, retrieval, and reuse. Through a DataCite Consortium, the service has been provide since 2017 and is done on a cost-reimbursable basis.
+
+
+### Administration for Community Living Public Access Plan Update
 HHS ACL updated its [public access plan](https://acl.gov/sites/default/files/about-acl/2017-12/ACLPublicAcccessPlan.pdf) to establish a mechanism for compliance with public access policy, make research and data more readily available to the public, and increase the use of ACL research results. 
 
 ## 2018
@@ -133,6 +143,10 @@ In further support of requirements regarding data management plans, the DoD rele
 
 ### HHS AHRQ Data Management Policy
 In further support of requirements in the the Public Access Policy, the Agency for Healthcare Research and Quality created a [Data Management Plan Policy](https://grants.nih.gov/grants/guide/notice-files/NOT-HS-20-011.html). This policy requires for applicants for AHRQ grants to include data management plans for "managing, storing and disseminating the primary data, samples, physical collections and other supporting materials created or gathered in the course of research funded by AHRQ."
+
+### US Government ORCID Consortium 
+DOE OSTI launched the [US Government ORCID Consortium](https://www.osti.gov/orcid-consortium/) in 2020 to bring together US government and DOE-affiliated organizations looking to use, adopt, and integrate with ORCID. The consortium is a mechanism for organizations to become ORCID members. DOE OSTI leads the consortium and provides administrative and technical support, as well as a community of practice. The consortium was developed to provide a community around sharing best practices, facilitating ORCID integrations, and helping with challenges, while decreasing costs.
+
 
 ## 2021
 ### NASA’s SPD-41
