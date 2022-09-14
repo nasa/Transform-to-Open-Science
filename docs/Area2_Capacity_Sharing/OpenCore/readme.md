@@ -31,8 +31,11 @@ The design is for a 12.5-hour course consisting of five, 2.5-hour modules that c
 Additional information about the module structure can be found on the [module structure page](./OpenCore_structure.md)
 
 # Course Enrollment and Teaching Event Plan
-*This area will be updated as the content nears completion.*
+## Upcoming Events
+* December 1, 2022: Open Ethos module launched at in-person workshops
+* April 1, 2023: Release of the OpenCore
+
+*Additional details will be added soon.*
 
 ## Course Incentives
-
 * Certification and/or NASA TOPS open science [badges](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area3_Incentives/readme.md)
