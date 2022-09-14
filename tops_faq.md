@@ -1,5 +1,5 @@
-<h2>TOPS FAQ</h2>
-This page contains a selection of questions and answers for the TOPS May 2022 community events that TOPS believes may benefit the wider community. Both the questions and responses have been edited for length and clarity; a full transcript of the event is available in our GitHub <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums">community forum</a> and <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Panels">community panel</a> pages.
+<h2>Transform to Open Science (TOPS) Frequently Asked Questions </h2>
+This page is a living document of the most common questions posed to the TOPS team. It is our hope that these answers will benefit the wider community. Further details can be found in the transcripts of our community events on our <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums">community forum</a> and <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Panels">community panel</a> pages.
 <h3>General Questions on TOPS</h3>
 <details> 
   <summary>
@@ -17,7 +17,6 @@ This page contains a selection of questions and answers for the TOPS May 2022 co
     <li> increase participation of underrepresented groups by two-fold. 
   </ol>
  For goal 1, we will know the exact amount of people completing the course thanks to registration. For goal 2, we plan to solicit proposals in 2023 for high risk, high reward, science projects, across all of NASA science (e.g., planetary, heliophysics, astrophysics, biological and physical sciences, and Earth science), that are open from inception. These projects will be required to follow open science best practices. We will be able to measure success by whether they achieve the goals stated in their proposals, and contribute to a major advance in their field. For goal 3, we have internal metrics that we hope to make public, and can track participation by under-represented communities on NASA science teams, funded proposals, committee, and review panels. While these specific metrics may allow us to see if we reach our stated goals, we need to be able to measure our progress against our objectives as well: increasing adoption of open science and increasing participation in science by historically excluded groups. That requires a more nuanced set of metrics that we are continuing to develop. 
-
 </details>
 
 <details>
@@ -43,32 +42,28 @@ This page contains a selection of questions and answers for the TOPS May 2022 co
   <details>
   <summary><h4>Is there a forum or mechanism to share experiences on open science with this community?</h4></summary>
   The TOPS GitHub is a great source of information, and is also a great way to share experiences and ask questions. The discussion can be found at <a href = "https://github.com/nasa/Transform-to-Open-Science/discussions">https://github.com/nasa/Transform-to-Open-Science/discussions</a> .
-
   </details>
   
   <details>
   <summary><h4>Where can I go to get more information on NASA open data policy?</h4></summary>
   Please refer to the official website at <a href = "https://science.nasa.gov/researchers/science-data/science-information-policy">https://science.nasa.gov/researchers/science-data/science-information-policy.</a> .
-
   </details>
   
   <details>
   <summary><h4>How does the OSTP Public Access Memorandum affect NASA's policies and activities related to Open Science?</h4></summary>
   The 2022 memorandum titled, <a href = "https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/">Ensuring Free, Immediate, and Equitable Access to Federally Funded Research</a>, will take critical steps to achieve equitable delivery of Federally funded research results and data to all of America. This is a very exciting step in creating more equitable access to the incredible research NASA funds. Additionally, NASA plans to release an updated Scientific Information Policy, SPD-41a this Fall. This policy describes how scientific information (publications, data, and software produced as part of scientific research activities) produced from SMD funding is shared. The draft was released 11/2021: <a href = "https://science.nasa.gov/science-red/s3fs-public/atoms/files/draft_SMD-information-policy-v2.x.pdf">https://science.nasa.gov/researchers/science-data/science-information-policy.</a> .
-
   </details>
   
   <details>
   <summary><h4>How will you enable open meetings? Will they all be virtual? Will funding be provided for volunteers to present at science meetings?</h4></summary>
   We are enabling open meetings by providing an option for virtual attendance, including the ability to submit questions. We have plans to expand participation at NASA science team meetings; please subscribe to our <a href = "https://go.nasa.gov/3Lwlb87">listserv</a> to hear more.
-
   </details>
 
 <details>
   <summary><h4>Where can we get TOPS stickers and pins?</h4></summary>
   You can visit us at conferences to find our latest educational and informational resources. We are also working on a distribution mechanism to share resources with the full community, so join our <a href = "https://go.nasa.gov/3Lwlb87">listserv</a> to stay tuned!
-
   </details>
+  
 <h3>Incentives and Recognition</h3>
 <details>
   <summary><h4>What are NASA's plans to make sure that the extra effort required to make work open is properly recognized?</h4></summary>
@@ -92,7 +87,12 @@ Many researchers adopt open science principles as they become familiar with them
   </details>
   
   <h3>Getting Involved</h3>
-    <details>
+  <details>
+  <summary><h4>Who can participate?</h4></summary>
+  Anyone with an interest in open science is welcome to participate in TOPS! <a href = "https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform">Sign up for the TOPS newsletter</a> to learn how to get involved and keep up-to-date with the latest TOPS activities.
+  </details>
+    
+  <details>
   <summary><h4>How can you become part of the Community Advisory Panel for TOPS?</h4></summary>
   The <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Panels/readme.md">Community Panel</a> for 2022 has been selected. However, each year we will have an open call for new members. Please continue to monitor the <a href = "https://github.com/nasa/Transform-to-Open-Science">GitHub</a> as all announcements will be provided there.
   </details>
@@ -116,3 +116,63 @@ Many researchers adopt open science principles as they become familiar with them
   <summary><h4>How can data scientists and machine learning experts help further open science?</h4></summary>
   There are open science principles that those working with code and data can incorporate into their work, even if it is not “traditional” scientific research. They can make the underlying data findable, accessible, interoperable and reusable (which is known as the <a href = "https://www.go-fair.org/fair-principles/">FAIR principles</a>). Any code which is developed should be as open as possible (e.g., open-source or white-listing); including the creation of clear documentation so that others can build on your work.
   </details>
+
+<h3>General Questions about Open Science</h3>
+<details> 
+  <summary><h4>What is open-source science (OSS)?</h4></summary>
+  Open-source science is a commitment to the open sharing of software, data, and knowledge (algorithms, papers, documents, ancillary information) from the start of research activities. The principles of OSS are to make publicly funded scientific research transparent, inclusive, accessible, and reproducible. OSS is enabled by advances in technology, including collaboration tools and cloud computing. More information is available from NASA's Science Mission Directorate (SMD) Policy Document <a href = "https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf">(SPD-41)</a> on science information policy.
+  </details>
+  
+  <details> 
+  <summary><h4>What is the difference between OSS and open science?</h4></summary>
+  <a href = "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020EA001562">Ramachandran et al.</a> define open science as “a collaborative culture enabled by technology that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding.” The primary difference is that open-source science commits to making the scientific process open from the start of research activities rather than making research results open once the research is complete and papers are published. The commitment to conduct research in the open supports greater participation in answering fundamental scientific questions and the use of publicly funded research, data, and analysis for societal benefit.
+  </details>
+  
+  <details> 
+  <summary><h4>What is the difference between OSS and open data?</h4></summary>
+ Open data are a critical component of open-source science. Other components of OSS include open documentation, publications, citizen science, challenges/prizes, open-source software, open peer review, open notebooks, and open educational resources among others.
+  </details>
+  
+  <details> 
+  <summary><h4>Is the lack of OSS a cultural or technical issue?</h4></summary>
+ Both. Open science is more than just the open sharing of data and code. It also is a cultural shift in the scientific process that encourages collaboration among people of diverse backgrounds, including scientific field, gender, location, ethnicity, and expertise. By removing barriers to participation in the scientific process, open-source science is inherently inclusive and collaborative. NASA’s vision is to use open science principles to expand participation in the scientific process, improve reproducibility, and accelerate scientific discovery for societal benefit. Technological considerations include use of existing investments in infrastructure and mechanisms for community contributions, while limiting the proliferation of unvalidated data.
+  </details>
+  
+  <details> 
+  <summary><h4>Does OSS mean free science?</h4></summary>
+ OOpen science is the commitment to the full, free, and open sharing of data, code and knowledge as early in the research process as possible. 
+In terms of activities related to NASA’s <a href = "https://science.nasa.gov/open-science">Open-Source Science Initiative</a>, <a href = "https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf">Science Mission Directorate</a> (SMD) Policy Document (SPD-41) consolidates existing guidance for the openness and accessibility of data, software, papers, and ancillary information resulting from SMD-funded efforts
+  </details>
+  
+   <details> 
+  <summary><h4>What is the first step to getting involved with open science?</h4></summary>
+ The first step is to support open-source science efforts within your communities. The <a href = "https://the-turing-way.netlify.app/welcome">Turing Way</a> is a community-driven guide that provides more details on how to design open projects. TOPS is developing an open science curriculum that will become available in late 2022. The <a href ="https://en.unesco.org/science-sustainable-future/open-science/recommendation">UNESCO recommendations</a> have detailed definitions and suggestions on areas of action to support open science.
+  </details>
+  
+   <details> 
+  <summary><h4>What incentives and disincentives are being used to encourage OSS?</h4></summary>
+ NASA awards funding based on the strength of the scientific ideas and the ability to advance those for societal benefit. Traditionally, the enterprise has awarded individuals, but without a focus on openness; incentives have been based on publishing papers in big-release journals. However, NASA will take the next year to shift incentive structures from what they have been in the past, to include incentivizing open science activities (eg. collaborations, team-building, open data, open software, and open-access publications). This shift requires NASA to engage with professional organizations, academia, etc. to make it happen and be appropriately recognized. It is important to note that this shift is not automatic but rather will require some experimentation to see what works and what does not. It is also imperative that NASA get feedback from the community to ensure the effectiveness and efficiency of its OSS efforts.
+  </details>
+  
+  <details> 
+  <summary><h4>How do I know that my code will not be taken without proper attribution?</h4></summary>
+ One of the principles of open science is proper attribution of previous work, collaborations, and knowledge used from various sources. Making your code open, appropriately licenced, and assigning it a DOI will help researchers track code being developed. The open development of code should make it easier to identify when people aren’t properly attributing their work. 
+  </details>
+  
+  <details> 
+  <summary><h4>Can you recommend some resources to help people develop their research using open science principles?</h4></summary>
+One of the goals of TOPS is to develop resources to help researchers, organizations, and citizen scientists do their work using open science practices and principles. TOPS is developing an open science curriculum that will become available in late 2022. <a href = "https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform">Please sign up for our newsletter to receive the latest updates!</a>.
+  </details>
+  
+   <details> 
+  <summary><h4>How can I advocate for open science?</h4></summary>
+A few ways to get started are: Make data non-proprietary and available in an open repository; Provide datasets in standardized formats and assign them DOIs; Develop open-source software and code, using best practices and rigorous version control, so that people can reuse it; Support community development and encourage reuse; Publish in open-access journals; Actively engage the public through storytelling (blogging, social media), hack-a-thons, and citizen science; and cite your data, software, and documentation.
+  </details>
+  
+  <h3>The Year of Open Science</h3>
+  <details> 
+  <summary><h4>What is the Year of Open Science?</h4></summary>
+  Transform to Open Science (TOPS) is a five-year initiative designed to support scientists, agencies, organizations, and communities as they transform to an inclusive culture of open science. Many TOPS activities will be focused around 2023 as NASA’s Year of Open Science. In partnership with major scientific organizations, the Year of Open Science is designed to spark change and inspire open science engagement through events and activities that will shift the current paradigm. 
+  </details>
+
+
