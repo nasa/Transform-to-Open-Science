@@ -1,6 +1,6 @@
 # Announcements!
 - [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Notice of Intent Due 11/10. Proposals Due 12/8!
-- October 13 2022 [TOPS Community Forum](./20221013_community_forum.md). Public participation encouraged.
+- October 13 2022 [TOPS Community Forum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums). Public participation encouraged.
 - Open Science [stories](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Open-Science-Stories/readme.md)
 - OSTP releases [Guidance to Make Federally Funded Research Freely Available Without Delay](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/)
 - OSTP releases [New Guidance to Ensure Federally Funded Research Data Equitably Benefits All of America](https://www.whitehouse.gov/ostp/news-updates/2022/05/26/new-guidance-to-ensure-federally-funded-research-data-equitably-benefits-all-of-america/)
