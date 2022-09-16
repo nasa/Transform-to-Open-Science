@@ -1,9 +1,16 @@
 # TOPS Community Panel October 2022
 
 **Where:** Public (Hybrid) meeting online and at NASA JPL in Pasadena, CA  
-**When:** 5-6 October 2022  
-**Questions?** We will add questions from the panel to our [FAQs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/engagement_faq.md)  
-**Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)  
+**When:** 5-6 October 2022
+
+**Registration:** Please [register](https://forms.gle/3BASj5BqAqwyprMQ8) to join us virtually.
+
+**Questions?** If you have questions, please submit them through our online [question tool](https://nasa.cnf.io/sessions/bx7z/#!/dashboard). We will try to address them during the meeting, but regardless all of the answers will be posted in our [FAQs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/engagement_faq.md).
+
+
+**Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)
+
+
 **Slides:** TBD \
 **Recordings:** TBD \
 **Transcripts:** TBD  
