@@ -2,7 +2,7 @@
 
 ## Announcements
 
-* October 5-6 2022 [TOPS Community Pael](./20221005_community_panel.md). Public participation encouraged.
+* October 5-6 2022 [TOPS Community Panel](./20221005_community_panel.md). Public participation encouraged.
 
 ## Previous Panels
 * May 2022 [TOPS Community Panel](./20220517_community_panel.md). 
