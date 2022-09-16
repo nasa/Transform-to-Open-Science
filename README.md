@@ -36,7 +36,7 @@ Open Science creates more advanced and inclusive research faster, builds a more 
 ## Overview Presentation
 Short presentation on TOPS initiative: 
 - Slides: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5621674.svg)](https://doi.org/10.5281/zenodo.5621674)
-- [Recording](https://www.youtube.com/watch?v=wtKHHe3m778&t=6977s&ab_channel=ScienceAtNASA) starts at 1:55:32.
+- [Recording](https://youtu.be/Gzg_xTEUOII?t=408) starts at 6:48.
 
 ## Join TOPS Mailing List
 Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations there.
