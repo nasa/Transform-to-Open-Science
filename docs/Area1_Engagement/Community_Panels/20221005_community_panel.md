@@ -4,8 +4,8 @@
 **When:** 5-6 October 2022  
 **Questions?** We will add questions from the panel to our [FAQs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/engagement_faq.md)  
 **Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)  
-**Slides:** TBD 
-**Recordings:** TBD
+**Slides:** TBD \
+**Recordings:** TBD \
 **Transcripts:** TBD  
 **Previous May 2022 Community Panel Summary:** [Executive Summary and Final Report on Zenodo](https://doi.org/10.5281/zenodo.6875090)
 
