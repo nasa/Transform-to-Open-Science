@@ -2,9 +2,10 @@
 
 ## Announcements
 
-We are pleased to announce that our 2022 Transform to Open Science Community Panel was a rousing success! We were thrilled to see everyone and have such fantastic discussions. If you missed it, not to worry. You can find the list of panelists, recordings, and transcripts below.
+* October 5-6 2022 [TOPS Community Panel](./20221005_community_panel.md). Public participation encouraged.
 
-## Resources
+## Previous Panels
+* May 2022 [TOPS Community Panel](./20220517_community_panel.md). 
 
 ### 2022 TOPS Community Panelists:
 
