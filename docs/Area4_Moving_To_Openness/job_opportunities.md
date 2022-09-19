@@ -10,3 +10,4 @@
 
 - [Lab Manager CIRES/Earth Lab, University of Colorado Boulder](https://jobs.colorado.edu/jobs/JobDetail/?jobId=41997)
 - [Postdoctoral Researcher CIRES/Earth Lab, University of Colorado Boulder](https://jobs.colorado.edu/jobs/JobDetail/CIRES-Earth-Lab-Post-Doctoral-Associate/36921)
+- [Open Science Lead, CarbonPlan](https://apply.workable.com/carbonplan/j/61E1AC0C31/)
