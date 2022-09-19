@@ -1,6 +1,6 @@
 ## Security
 
-The NASA Mission is to drive advances in science, technology, aeronautics, and space exploration to enhance knowledge, education, innovation, economic vitality and stewardship of the Earth. 
+The *NASA Mission* is to drive advances in science, technology, aeronautics, and space exploration to enhance knowledge, education, innovation, economic vitality and stewardship of the Earth. 
 A great deal of NASA work leverages information technology to capture, interpret, and appropriately share scientific knowledge in the furtherance of its Missions and Programs. NASA is committed to protecting the confidentiality (where appropriate), integrity, and availability of its information and information systems.
 
 NASA recognizes that external vulnerabilities can be discovered by anyone at any time and has issued this policy in order to provide clear guidelines to security researchers so that they feel comfortable reporting vulnerabilities they have discovered in good faith.
@@ -54,4 +54,4 @@ This policy further describes:
 
 • What to expect following a vulnerability report.
 
-**It is advised to thoroughly read and understand NASA's Vulnerability Dusclosure Policy before proceeding to report any issue to NASA.**
+**It is advised to thoroughly read and understand NASA's Vulnerability Disclosure Policy before proceeding to report any issue to NASA.**
