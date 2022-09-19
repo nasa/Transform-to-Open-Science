@@ -33,7 +33,7 @@ These areas are designed to increase awareness about open science, provide learn
    <details>
   <summary><h3>Strengthen</h3></summary>
   
-  An organization is ready to strengthen the Year of Open science if they have already begun to adopt open science principles into the workflow of their organization. An individual is ready to strengthen the Year of Open Science if they have already adopted a few open science practices. If you are ready to strengthen the year of open science, learn how to join us in <a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/tree/YOS_Cookbook_19Sept22/resources/open_science_cookbook">Strengthening the Year of Open Science</a>.
+  An organization is ready to strengthen the Year of Open science if they have already begun to adopt open science principles into the workflow of their organization. An individual is ready to strengthen the Year of Open Science if they have already adopted a few open science practices. If you are ready to strengthen the year of open science, learn how to join us in <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/resources">Strengthening the Year of Open Science</a>.
   
 
   </details>
