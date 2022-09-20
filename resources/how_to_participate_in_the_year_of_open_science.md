@@ -35,5 +35,7 @@ These areas are designed to increase awareness about open science, provide learn
     <b>For You:</b> You are an active and involved member of the open science community. You get excited when funders require that research be conducted openly, and find small ways of teaching others about open science whenever you speak to others about your research. We need you to strengthen the Year of Open Science by becoming an advocate for open science in your community and beyond. Join us in transforming towards open science and <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/resources">Strengthen the Year of Open Science</a>.<br>
     <br>
     <b>For Your Organization:</b> Your organization is ready to devote people, funds, and other resources to adopting open science throughout the organization. Your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions. Your organization is ready to help <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/resources">Strengthen the Year of Open Science</a>!<br>
+    <br>
+    <b>Conferences:</b> Does your organization host a conference? Navigate straight to our <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/resources/year_of_open_science_cookbook/conferences_for_the_year_of_open_science.md">Year of Open Science Conferences</a> cookbook to learn more about how TOPS wishes to work with you.
   </details>
 
