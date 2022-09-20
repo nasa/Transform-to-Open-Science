@@ -144,3 +144,6 @@ When setting a TOPS open science badge goal for your organization, we recommend 
 To help make this event a success, TOPS will provide organizations with the following support:
 * Additional information on the TOPS open science curriculum, which can be found on the GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md) and in the information from the [August community forum](/docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum.md). 
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
+
+## Engage at Conferences
+Wish to invite others to engage with the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Cookbook](/resources/year_of_open_science_cookbook/conferences_for_the_year_of_open_science.md) to earn how.
