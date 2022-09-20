@@ -195,5 +195,6 @@ What is the biggest challenge that your organization is poised to tackle? Consid
 To help make this event a success, TOPS will provide organizations with the following support:
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
-
+## Strengthen at Conferences
+Wish to feature the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Cookbook](/resources/year_of_open_science_cookbook/conferences_for_the_year_of_open_science.md) to learn how.
 
