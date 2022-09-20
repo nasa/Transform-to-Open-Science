@@ -76,3 +76,5 @@ When encouraging folks at your organization to join us at the next TOPS communit
 To help make this effort a success, TOPS will provide organizations with the following support:
 * Materials from each community forum, which can be found on our GitHub in the [Community Forums](/docs/Area1_Engagement/Community_Forums/readme.md) directory. 
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
+
+## Promote at Conferences
