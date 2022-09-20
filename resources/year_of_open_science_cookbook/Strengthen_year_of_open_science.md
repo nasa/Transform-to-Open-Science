@@ -3,7 +3,7 @@
 *If you are an open science practitioner or part of an organization committed to reflecting open science principles in your policy, funding, and governance, then TOPS invites you to join us in strengthening open science through your participation in the Year of Open science.*
 
 
-## Budget for Year of Open Science Activities {#budget-for-year-of-open-science-activities}
+## Budget for Year of Open Science Activities
 
 **What is it?**
 
@@ -16,20 +16,17 @@ This collaboration guide has examples of several Year of Open Science activities
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-
-
-
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 * Packet of engagement ideas for the Year of Open Science 
 
 
-## Contribute to the ScienceCore {#contribute-to-the-sciencecore}
+## Contribute to the ScienceCore
 
 **What is it?**
 
-Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. The core TOPS open science curriculum, [the OpenCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore), will provide beginners with important definitions, tools, resources and best practices. 
+Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. The core TOPS open science curriculum, [the OpenCore](/docs/Area2_Capacity_Sharing/OpenCore/readme.md), will provide beginners with important definitions, tools, resources and best practices. 
 
-To help scientists and researchers deepen their knowledge of open science practices in a particular field, gain advanced skills in data science or other research-enabling practices, and gain a more nuanced understanding of open science principles, TOPS aims to create the [ScienceCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/ScienceCore). 
+To help scientists and researchers deepen their knowledge of open science practices in a particular field, gain advanced skills in data science or other research-enabling practices, and gain a more nuanced understanding of open science principles, TOPS aims to create the [ScienceCore](/docs/Area2_Capacity_Sharing/ScienceCore/readme.md). 
 
 **How do I get started?**
 
@@ -38,14 +35,11 @@ TOPS has released a ROSES seeking contributors to the ScienceCore. Learn more in
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-
-
-
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 * Additional available assistance from the TOPS team is contained in Section 3.1 of [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init).
 
 
-## Develop Governance Frameworks and Policies to Support Open Science Action Plans {#develop-governance-frameworks-and-policies-to-support-open-science-action-plans}
+## Develop Governance Frameworks and Policies to Support Open Science Action Plans
 
 **What is it?**
 
@@ -53,29 +47,23 @@ There are several cultural and institutional barriers which have prevented the a
 
 **How do I get started?**
 
-The US federal government has [taken steps ](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/Open_Timeline.md)towards mandating the open sharing of publications and data produced by US government funding. Additionally, there are several [global policies](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/global_policies.md) supporting the move to open science. Organizations should begin by examining their own publication and data management policies and frameworks to ensure that they complement these. In some cases, organizations may need to provide greater detail or guidance than what exists in federal documents, to account for the needs and practices of a particular community or scientific field.
+The US federal government has [taken steps ](/docs/Area4_Moving_To_Openness/Open_Timeline.md)towards mandating the open sharing of publications and data produced by US government funding. Additionally, there are several [global policies](/docs/Area4_Moving_To_Openness/global_policies.md) supporting the move to open science. Organizations should begin by examining their own publication and data management policies and frameworks to ensure that they complement these. In some cases, organizations may need to provide greater detail or guidance than what exists in federal documents, to account for the needs and practices of a particular community or scientific field.
 
 **Basic Requirements**
 
 To develop policies which truly advance open science, we recommend the following:
-
-
-
-* In addition to examining the relevant [US Federal guidance](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/Open_Timeline.md) and [global guidance](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/global_policies.md), organizations should examine the practices of the most popular journals or publication venues for the researchers of their organization. Any conflicting guidance should be noted, and addressed in the frameworks created for your organization. 
+* In addition to examining the relevant [US Federal guidance](/docs/Area4_Moving_To_Openness/Open_Timeline.md) and [global guidance](/docs/Area4_Moving_To_Openness/global_policies.md), organizations should examine the practices of the most popular journals or publication venues for the researchers of their organization. Any conflicting guidance should be noted, and addressed in the frameworks created for your organization. 
 * The TOPS definition of open science includes opening data, software, results and methods; in addition to committing to principles of transparency, accessibility, inclusivity and reproducibility. Consider committing to a definition of open science at your organization, and build policies and frameworks that support it. 
 * Be sure to include your organization’s researchers and scientists in the process of creating new policies; hold listening sessions, town halls, or office hours in which those most affected by these policies can provide feedback, and perhaps reveal barriers to their adoption. 
 
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-
-
-
-* A list of open science resources to get started, while the curriculum is under development, and the TOPS open science curriculum itself (once released). Current information on the TOPS open science curriculum, which can be found on the GitHub in [Area2_Capacity_Sharing](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing). 
+* A list of open science resources to get started, while the curriculum is under development, and the TOPS open science curriculum itself (once released). Current information on the TOPS open science curriculum, which can be found on the GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md). 
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 
-## Host a Hackathon {#host-a-hackathon}
+## Host a Hackathon 
 
 **What is it?**
 
@@ -88,9 +76,6 @@ There are several resources available for organizations who have not hosted hack
 **Basic Requirements**
 
 A hackathon with a Year of Open Science theme should, at minimum:
-
-
-
 * Use open data when solving the presented challenges. 
 * Post all code generated by the hackathon openly, with as unrestrictive a license as possible. 
 * Collaborate on the hackathon as openly as possible, using open science frameworks such as [Open Science Framework](https://osf.io/). 
@@ -98,15 +83,12 @@ A hackathon with a Year of Open Science theme should, at minimum:
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-
-
-
 * TOPS will amplify your event on our listserv, via Twitter, and in our community forums.
 * A directory of NASA’s open data and open resources to search and use them. More information available on the pages of the [Open-Source Science Initiative](https://science.nasa.gov/open-science-overview) (OSSI).
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 
-## Host a Webinar on Using Your Organization’s Open Data or Open Software {#host-a-webinar-on-using-your-organization’s-open-data-or-open-software}
+## Host a Webinar on Using Your Organization’s Open Data or Open Software
 
 **What is it?**
 
@@ -119,10 +101,7 @@ Prior to scheduling the session, make sure to gather any instructions related to
 **Basic Requirements**
 
 To help make this event a success, we recommend the following:
-
-
-
-* If your organization has open data, open-source software, a preprint or open access server, and free resources for scientific analysis we recommend _not _trying to cover them all in a single webinar. Instead, consider putting on a webinar series, with each event focusing on one type of scientific information. Similarly, if your organization has multiple types of data, with special access instructions for each type, consider splitting that webinar into a multi-part series, too. 
+* If your organization has open data, open-source software, a preprint or open access server, and free resources for scientific analysis we recommend *not* trying to cover them all in a single webinar. Instead, consider putting on a webinar series, with each event focusing on one type of scientific information. Similarly, if your organization has multiple types of data, with special access instructions for each type, consider splitting that webinar into a multi-part series, too. 
 * Ensure that the instructions for accessing your organization’s open scientific information are easy to find. Clearly display any limitations to the usage of the data or software, and include instructions for citing the data and code of others. 
 * If possible, include a demo of using the data, software etc. during the webinar, and use  that to highlight those in your organization already engaged in open science.
 * Contact TOPS to amplify your event! We can send your event series to our listserv and amplify your Tweets.
@@ -130,14 +109,11 @@ To help make this event a success, we recommend the following:
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-
-
-
 * TOPS will amplify your event on our listserv, via Twitter, and in our community forums.
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 
-## Host a Summer School on Open Science  {#host-a-summer-school-on-open-science}
+## Host a Summer School on Open Science
 
 **What is it?**
 
@@ -150,18 +126,15 @@ More information on TOPS open science summer schools is contained in ROSES [F.14
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-
-
-
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
 * Additional available assistance from the TOPS team is contained in Section 3.2.1 of [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init).
 
 
-## Run an OpenCore Virtual Cohort {#run-an-opencore-virtual-cohort}
+## Run an OpenCore Virtual Cohort
 
 **What is it?**
 
-Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. As such, one of TOPS' priorities is to develop and launch an open science curriculum that includes important definitions, tools, resources and best practices. You can learn more about the TOPS curriculum on our GitHub in [Area2_Capacity_Sharing](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing). 
+Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. As such, one of TOPS' priorities is to develop and launch an open science curriculum that includes important definitions, tools, resources and best practices. You can learn more about the TOPS curriculum on our GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md). 
 
 TOPS is seeking solicitations for organizations who will organize and run “virtual cohorts” of learners to take the TOPS core open science curriculum (OpenCore).    
 
@@ -172,15 +145,12 @@ More information on TOPS OpenCore virtual cohorts is contained in ROSES [F.14 Tr
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-
-
-
-* Additional information on the TOPS open science curriculum, which can be found on the GitHub in [Area2_Capacity_Sharing](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing) and in the information from the [August community forum](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20220811_community_forum.md). 
+* Additional information on the TOPS open science curriculum, which can be found on the GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md) and in the information from the [August community forum](/docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum.md). 
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 * Additional available assistance from the TOPS team is contained in Section 3.2.2 of [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init).
 
 
-## Sponsor an Award  {#sponsor-an-award}
+## Sponsor an Award
 
 **What is it?**
 
@@ -193,9 +163,6 @@ Although the word “awards'' conjures images of a Nobel prize or an Oscar, smal
 **Basic Requirements**
 
 We suggest the following considerations when creating an open science award: 
-
-
-
 * The award should consider whether the person, team or project being recognized is transparent, accessible, inclusive and reproducible.
 * The award must consider individuals and teams with a diversity of experience, including diversity with respect to race, gender, geography, country of citizenship, academic background, profession, and areas of expertise.
 * The award should recognize at least one aspect of open science practice, this could include, but is not be limited to:
@@ -210,13 +177,10 @@ We suggest the following considerations when creating an open science award:
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-
-
-
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 
-## Sponsor a Grand Challenge  {#sponsor-a-grand-challenge}
+## Sponsor a Grand Challenge
 
 **What is it?**
 
@@ -224,18 +188,11 @@ To solve the biggest challenges faced in our world today–such as climate chang
 
 **How do I get started?**
 
-What is the biggest challenge that your organization is poised to tackle? Consider how open science could help solve that problem. Work with NASA to determine if our data, software or resources could help; then let’s talk! 
-
-**Basic Requirements**
-
-The success of….dependent on the completion of the following
+What is the biggest challenge that your organization is poised to tackle? Consider how open science could help solve that problem. Work with NASA to determine if our data, software or resources could help! 
 
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-
-
-
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 
