@@ -30,14 +30,19 @@ Here are some quick links that can help you get started:
 
 Community Meetings
 -----------------
+1. `TOPS Community Panels <./Community_Panels>`__
+    * When: October 5-6, 9-5PM PDT
+    * Description: This panel meeting will bring together leaders from the open science, open source software, and data science communities with the NASA TOPS team for a detailed review of TOPS plans. The meeting will be public and have tools for the public to submit questions.This meeting is open to all and free to attend virtually.
+    * `Registration Link to attend the Panel <https://forms.gle/3BASj5BqAqwyprMQ8>`__
+    * `Submit Questions for the Panel <https://nasa.cnf.io/sessions/bx7z/#!/dashboard>`__
 
 Recurring TOPS Meetings
 -----------------
 1. `TOPS Community Forums <./Community_Forums>`__
-    * When: September 08, 1PM EDT (UTC -4)
-    * Description: This month we will be discussing open science within two NASA Divisions: Biological and Physical Sciences and Heliophysics with [Dr. Sam Gebre](https://twitter.com/SamGebre1) and [Dr. Ryan McGranaghan](https://twitter.com/AeroSciengineer). We will be asking for feedback on related open science activities in the other areas and looking at points where different domains' efforts could benefit and augment one another.   
-    * `Registration Link <https://go.nasa.gov/3crKGeY>`__
-    * Submit Questions `here <https://nasa.cnf.io/sessions/kzbb/#!/dashboard>`__
+    * When: October 13, 1PM EDT (UTC -4)
+    * Description: Join us this month to hear more about the new funding opportunity: `F.14 Transform to OPen Science Training (TOPST) <https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init>`__. TOPST is seeking applications to support the following three activities: (1) Development of ScienceCore materials (2) Implementation of summer schools, and (3) Virtual cohorts. In the forum, we will discuss the requirements for each section, point out resources NASA has to help you write a good proposal, and answer questions.   
+    * `Registration Link <https://go.nasa.gov/3Bitx0G>`__
+    * `Submit Questions <https://nasa.cnf.io/sessions/kzbb/#!/dashboard>`__
   
 Upcoming Conferences and Workshops
 -----------------
