@@ -25,7 +25,7 @@ These areas are designed to increase awareness about open science, provide learn
   
    <details>
   <summary><h3>Engage</h3></summary>
-    testing 
+    Individuals and organizations who are looking to engage with  
   
 
   </details>
