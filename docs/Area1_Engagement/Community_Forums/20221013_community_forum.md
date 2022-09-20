@@ -4,7 +4,7 @@ This month we will be talking about and taking questions on the new funding oppo
 - Notice of Intent Due 11/10 
 - Proposals Due 12/8
 
-TOPST is seeks applications to support the following three activities:
+TOPST is seeking applications to support the following three activities:
 (1) Development of ScienceCore materials (see Section 3.1),
 (2) Implementation of summer schools (see Section 3.2.1), and
 (3) Virtual cohorts (see Section 3.2.2).
@@ -19,4 +19,10 @@ We will discuss the requirements for each section, point out resources NASA has 
 
 [Code of conduct](../Community_Forums/code_of_conduct.md)
 
-Tentative Agenda: Coming Soon
+Tentative Agenda:
+| **Time (ET)** | **Agenda Item** | **Speaker** |
+| ------------- | ------------- | ------------- |
+| 1:00 PM | Welcome and Review of Code of Conduct | Cynthia Hall |
+| 1:05 PM | F.14 Transform to OPen Science Training  | Yaitza Luna-Cruz  |
+| 1:35 PM | Open Q&A | Yaitza Luna-Cruz &  Chelle Gentemann |
+| 1:55 PM | Announcements and Next Steps | Cynthia Hall |
