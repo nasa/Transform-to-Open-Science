@@ -1,4 +1,5 @@
 ## Announcements
+- 21 Sept 2022: Open Call for Ethos of Open Science Review 
 - 1 Aug 2022: AGU announces OpenCore [review](./opencore_sprint.md)
 - 28 June 2022: AGU announces OpenCore [Leads and Subject Matter Experts](./OpenCore_leads.md)
 - 25 July 2022: Community Forum on the OpenCore
