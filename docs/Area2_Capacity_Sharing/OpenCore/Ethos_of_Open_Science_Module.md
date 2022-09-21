@@ -19,4 +19,4 @@ Please avoid:
 - Designing activities or assessments for modules or lessons
 - Definitions of words or terminology used.
 
-To submit your review, please submit your feedback directly in the document and submit here [https://docs.google.com/forms/d/1ZjXT4OWuXzLEXx-UrCeqbZSESMUnFio2kUqoFf9YHT8/prefill]. The review period will remain open until September 28, 2022. 
+To submit your review, please submit your feedback directly in the document and submit [here](https://docs.google.com/forms/d/1ZjXT4OWuXzLEXx-UrCeqbZSESMUnFio2kUqoFf9YHT8/prefill). The review period will remain open until September 28, 2022. 
