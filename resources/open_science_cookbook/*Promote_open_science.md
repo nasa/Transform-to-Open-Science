@@ -38,3 +38,10 @@ To encourage participation, the TOPS team leverages tools such as Jamboard, Ment
 ### Read These Open Science Resources
 TOPS is collecting a living list of open science [resources](/resources/open_science_cookbook/resource_list.md). Check it out and see what others have to say about getting started with open science! 
 </details>
+
+<details>
+           <summary><h2>For the Organization</h2></summary>
+
+If you represent an organization interested in integrating open science principles and practices into your organization, we invite you to begin with the list of ideas presented in the [Promote the Year of Open Science Cookbook](/resources/year_of_open_science_cookbook/Promote_year_of_open_science.md).
+           
+</details>
