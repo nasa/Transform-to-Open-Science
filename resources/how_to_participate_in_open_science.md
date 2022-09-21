@@ -1,11 +1,11 @@
-<h1>How to Participate in NASA’s Year of Open Science</h1>
+<h1>How to Get Started with Open Science</h1>
 <i>The Transform to Open Science (TOPS) mission is designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science.</i>
 
 <h2>Open Science</h2>
 Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
 
 <h2>NASA’s Transform to Open Science mission</h2>
-To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission and has declared 2023 as the Year Of Open Science. TOPS  is a $40 million, 5-year NASA Science Mission Directorate mission geared towards accelerating the adoption and understanding of open science. TOPS will focus on four areas of action—engagement, capacity sharing, incentives, and moving towards openness—to make progress against three goals:
+To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission and has declared 2023 as the Year of Open Science. TOPS  is a $40 million, 5-year NASA Science Mission Directorate mission geared towards accelerating the adoption and understanding of open science. TOPS will focus on four areas of action—engagement, capacity sharing, incentives, and moving towards openness—to make progress against three goals:
 <ol>
     <li> To accelerate major scientific discoveries
     <li> To increase understanding and adoption of open science
@@ -13,29 +13,14 @@ To help catalyze the move to open science and support changing cultural norms, N
 </ol>
 These areas are designed to increase awareness about open science, provide learning resources for those looking to deepen their understanding and usage of open science practices and principles, and to promote events that support transitioning to open science. By partnering and collaborating with other organizations, NASA will support and enable the scientific community to move towards open science. 
 
-<h4> The success of the Year of Open Science will be driven by the enthusiasm and level of engagement of partnering organizations, who can undertake any number of the discrete tasks listed below to promote, engage with, and strengthen the Year of Open Science! </h4>
-
- 
-
-
-
-# How to Get Started with Open Science
-
-## Open science communities
-- [Pangeo](https://pangeo.io/) - an open science community with a weekly community meeting that starts with a 15 min science talk. Meeting schedule is at the bottom of [this](https://pangeo.io/meeting-notes.html) page.
-- [Openscapes](https://www.openscapes.org/) - an open source community offering mentorship, teaching, coaching and community organizing centered around open data science
-           
-## Open software 
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - a great fun way to first get involved in open source software at any level.
-- Pick your favorite open source library, go to it's GitHub page, and click on 'issues'. You can search for `is:open label:"Good first issue"`. An example for [matplotlib](https://github.com/matplotlib/matplotlib/labels/Good%20first%20issue)                  
-
-## Social media
-- [Medium](https://medium.com/) - People post a lot of tutorials, news about new developments in data management, cloud, it is a great space to learn.
-- [Twitter](https://twitter.com/home) - Follow scientists/data/organizations and get a daily feed of all the latest developments in open science (eg. [OpenSci_News](https://twitter.com/OpenSci_News) #openscience #openaccess #opendata
-               
-## Open discussions
-- [Pangeo Discourse](https://discourse.pangeo.io/)
-- [TOPS Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions)
+<h2> Your Open Science Journey </h4>
+Research labs, scientific funding organizations, and individual researchers have known and discussed for many years how interdisciplinary and diverse teams are capable of advancing scientific progress. These groups and individuals began to advocate for inclusive labs and organizations, where data and scientific practice was equitable and accessible to people from different backgrounds, with differing levels of academic training, and with different lived experiences. Although they may not have called this movement toward diverse and accessible research "open science," these same principles of equity and inclusivity are core to the open science ethos.
+<br>
+Other researchers and organizations have come to advocate for open science through their experiences trying to access data, code, research methods, and publications through the course of their own scientific practice or funding apparatus. Frusturation with embargo periods, incomplete or unsorted data sets, non-replicable results, or code that is anything but user-friendly have all resulted in a movement for full transparency of research, from the idea inception through the pre-registration of studies to the final results via open-source code, public data-sets, and open-access publications. 
+<br>
+If you or your organization are involved with anything that has been mentioned above--diverse and inclusive labs and research teams, equitable funding of science, accessible and human-readable data, freely available methodology and results--or any of the other, myraid ways that scientific practice is moving towards openness; then welcome! You are already on your open science journey. Jump ahead to the sections on <b>Engage</b> and <b>Strengthen</b> to join TOPS in transforming resaerch culture towards open science. 
+<br> 
+If the vision painted above sounds like something you want to become invovled with, but you do not know how to begin, read on! The resources in <b>Promote</b> will invite you to identify how you can join us on the journey towards open science. 
 
 <details>
   <summary><h3>Promote</h3></summary>
