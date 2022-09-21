@@ -1,6 +1,5 @@
-<h1>NASA’s Year of Open Science</h1>
-<h2>Collaborator Guides</h2>
-The Transform to Open Science (TOPS) mission is designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science.
+<h1>How to Participate in NASA’s Year of Open Science</h1>
+<i>The Transform to Open Science (TOPS) mission is designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science.</i>
 
 <h2>Open Science</h2>
 Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
