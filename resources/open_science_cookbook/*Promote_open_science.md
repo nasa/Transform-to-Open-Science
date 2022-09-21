@@ -1,7 +1,8 @@
 # Promote Open Science
 *How to get started with open science and involved with TOPS.* 
 
-## For the Individual Contributors
+<details>
+           <summary><h2>For the Individual Contributor</h2></summary>
 My research team, lab or organization is not ready for open science but I want to adopt open science principles. How do I get started? 
 
 ### Join the TOPS Community Forums
@@ -36,3 +37,4 @@ To encourage participation, the TOPS team leverages tools such as Jamboard, Ment
 
 ### Read These Open Science Resources
 TOPS is collecting a living list of open science [resources](/resources/open_science_cookbook/resource_list.md). Check it out and see what others have to say about getting started with open science! 
+</details>
