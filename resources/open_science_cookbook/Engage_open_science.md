@@ -1,8 +1,10 @@
 # Engage with Open Science 
 After deepening your understanding of open science, existing policies or practices at your organization may seem as if they need to be updated. **Engage** with open science by asking the following questions. Collaborate with colleagues to consider the next steps that can be taken to adopt open science throughout your research practice or organization.
 
+Interested in entering into a dialogue with other organizations thinking about these same questions? Join the celebration of the Year of Open Science via the resources in the [Engage with the Year of Open Science Cookbook](/resources/year_of_open_science_cookbook/Engage_year_of_open_science.md)!
+
 ## What can organizations do to change their open science mindset? 
-In recent decades, the technological barriers to participating in open science have decreased, but barriers due to policy, bureaucracy, funding, and ]culture remain. Fully engaging with open science is thus dependent on individuals entering into dialogue with their institutions, universities, agencies and companies to identify changes--both small and large--which will support the move towards open science. 
+In recent decades, the technological barriers to participating in open science have decreased, but barriers due to policy, bureaucracy, funding, and culture remain. Fully engaging with open science is thus dependent on individuals entering into dialogue with their institutions, universities, agencies and companies to identify changes--both small and large--which will support the move towards open science. 
 
 Building on the work of others over the past several years, TOPS invites individuals, agencies, academic institutions and other organizations to examine the kind of science which they support and encourage, and move towards a more open framework. Join us in our journey, and encourage the pursuit of open scientific progress!  
 
@@ -124,3 +126,4 @@ Some recommendations are most appropriate for academic institutions to tackle, a
 * We invite academic institutions to read the work of [MIT’s Future of the Libraries Task Force](https://mitl.pubpub.org/pub/future-of-libraries/release/1) from 2016 and consider whether those recommendations, particularly those related to open access, are applicable to your library system.
 
   </details>
+
