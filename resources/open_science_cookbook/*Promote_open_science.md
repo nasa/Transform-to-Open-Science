@@ -35,4 +35,4 @@ To encourage participation, the TOPS team leverages tools such as Jamboard, Ment
 - [TOPS Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions)
 
 ### Read These Open Science Resources
-TOPS is collecting a living list of open science [resources](). Check it out and see what others have to say about getting started with open science! 
+TOPS is collecting a living list of open science [resources](/resources/open_science_cookbook/resource_list.md). Check it out and see what others have to say about getting started with open science! 
