@@ -27,7 +27,7 @@ To encourage participation, the TOPS team leverages tools such as Jamboard, Ment
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - a great fun way to first get involved in open source software at any level.
 - Pick your favorite open source library, go to it's GitHub page, and click on 'issues'. You can search for `is:open label:"Good first issue"`. An example for [matplotlib](https://github.com/matplotlib/matplotlib/labels/Good%20first%20issue)                  
 
-### Check out what the community so saying on Social media
+### Check-out What the Community is Saying on Social Media
 - [Medium](https://medium.com/) - People post a lot of tutorials, news about new developments in data management, cloud, it is a great space to learn.
 - [Twitter](https://twitter.com/home) - Follow scientists/data/organizations and get a daily feed of all the latest developments in open science (eg. [OpenSci_News](https://twitter.com/OpenSci_News) #openscience #openaccess #opendata
                
