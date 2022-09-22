@@ -1,10 +1,8 @@
 # Announcements!
+- [Ethos of Open Science Open For Public Comment](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/Ethos_of_Open_Science_Module.md) 
 - [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Notice of Intent Due 11/10. Proposals Due 12/8!
 - October 13 2022 [TOPS Community Forum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums). Public participation encouraged.
-- Open Science [stories](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Open-Science-Stories/readme.md)
-- OSTP releases [Guidance to Make Federally Funded Research Freely Available Without Delay](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/)
-- OSTP releases [New Guidance to Ensure Federally Funded Research Data Equitably Benefits All of America](https://www.whitehouse.gov/ostp/news-updates/2022/05/26/new-guidance-to-ensure-federally-funded-research-data-equitably-benefits-all-of-america/)
-- [New Funding Opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
+- NEW! Open Science [stories](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Open-Science-Stories/readme.md)
 - [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
 
 
@@ -16,7 +14,7 @@
 
 The world is changing rapidly. Everyday new problems emerge and it takes groundbreaking scientific discoveries to solve them. To stay ahead, the pace of science must accelerate and science needs to be even better, more accurate, and faster to enable the truly transformative breakthroughs that will help us thrive. Closed science, hoarding information and resources, silos of knowledge holds science back by limiting who can participate. We need more voices that work together and share knowledge and resources. Only then will we find new and better solutions. NASA's Transform to Open Science (TOPS) mission will allow us to create a scientific culture that is ready for 21st century challenges. Open Science will **broaden participation, increase accessibility to knowledge, and embrace new technologies** that can respond to these changes at scale. We hope you will join us in creating an open science infrastructure in your organization. TOPS will show you how! 
 
-## Goals
+## Strategic Objectives
 
 Open Science creates more advanced and inclusive research faster, builds a more just and equitable world, and ensures that minds from all walks of life can participate in science. TOPS is NASA’s ambitious plan to accelerate open science practices. It’s a 5 year journey that will  
 1. Accelerate major scientific discoveries 
