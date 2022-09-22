@@ -9,7 +9,7 @@ The OpenCore open science curriculum will introduce those beginning their open s
 
 Modules are described in more detail [here](./OpenCore_structure.md).
 
-The TOPS Open Science Module Subject Matter Experts and Leads have been hard at work over the last several months working on the OpenCore modules and we are excited to share the initial draft of the [”Ethos of Open Science” module for public comment](https://docs.google.com/document/d/16ZMLkU6w3dsbD0xe-m4QPRd4BQ2dd4fS/edit#heading=h.jnf62p6pzwaf). This initial comment phase will be open till Wednesday, September 28, 2022. 
+The TOPS Open Science Module Subject Matter Experts and Leads have been hard at work over the last several months working on the OpenCore modules and we are excited to share the initial draft of the [”Ethos of Open Science” module for public comment]. This initial comment phase will be open till Wednesday, September 28, 2022. 
 
 “Ethos of Open Science” is the first and only required module of the TOPS OpenCore curriculum. It is our expectation that Ethos of Open Science will be the most taught module. We hope for users to walk away from the course with an understanding of the best practices, community building, and inclusivity that are important to really advancing open science. We aim to create a new, inspired understanding of the importance of sharing knowledge, expanding participation in science, and opening up the entire research process so that we can ask the best questions and find the best answers.
 
@@ -24,4 +24,4 @@ The following criteria is requested, but not required:
 - Does anything need to be clarified? 
 - Is there any terminology that is confusing, problematic or misused?
 
-To access the module document please download [here](https://docs.google.com/document/d/16ZMLkU6w3dsbD0xe-m4QPRd4BQ2dd4fS/edit#heading=h.jnf62p6pzwaf). Once ready to submit your review, please submit your feedback directly in the document and submit [here](https://docs.google.com/forms/d/1ZjXT4OWuXzLEXx-UrCeqbZSESMUnFio2kUqoFf9YHT8/prefill). The review period will remain open until September 28, 2022. 
+To access the module document please download [here]. Once ready to submit your review, please submit here. The review period will remain open until September 28, 2022. 
