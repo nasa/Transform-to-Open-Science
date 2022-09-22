@@ -1,3 +1,5 @@
+# Ethos of Open Science Module For Public Comment Open
+
 The OpenCore open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts.The five OpenCore modules will be:
 - Ethos of Open Science
 - Open Tools and Resources
