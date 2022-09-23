@@ -4,7 +4,7 @@ NASA has declared 2023 as the Year of Open Science! The TOPS team will be partic
 
 **Three Easy Steps To Get Started**
 
-1. Check out the [TOPS conferences calendar](/docs/Area1_Engagement/tops_conferences.md#tops-priority-events-for-2023) to see where we already plan to be in 2023, 
+1. Check out the [TOPS conferences calendar](/docs/Area1_Engagement/Outreach/tops_conferences.md#tops-priority-events-for-2023) to see where we already plan to be in 2023, 
 2. Sign up for the [TOPS email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to receive our announcements about additions or changes to that list, and 
 3. Use this [contact form](https://forms.gle/Um3KpsZw2FHXpNju9) to set up a meeting to discuss needs and outcomes. 
 
