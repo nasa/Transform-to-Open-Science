@@ -3,7 +3,7 @@
 TOPS Engagement Strategy
 ==========================
 
-TOPS is made up of a small and passionate team that uses `inreach <./inreach.md>`__ and `outreach <./outreach.md>`__ strategies to `create community  <./creating_community.md>`__ and spark positive change towards open science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to The Year of Open Science kickoff in 2023. 
+TOPS is made up of a small and passionate team that uses `inreach <./Outreach/inreach.md>`__ and `outreach <./Outreach/outreach.md>`__ strategies to `create community  <./Outreach/creating_community.md>`__ and spark positive change towards open science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to The Year of Open Science kickoff in 2023. 
 
 We know that Open Science creates a more equitable system and broadens participation in science. Reducing barriers to entry for excluded, disenfranchised, and marginalized communities enables more diverse voices and areas of expertise to engage in scientific debate and take part in discovery and innovation. Leveraging more researchers will advance discovery, increase collaboration, and create new knowledge. All these things are essential for scientific discovery in the 21st century. 
 
@@ -12,11 +12,11 @@ The bottom line is that we have ambitious goals and need YOU and your organizati
 
 Here are some quick links that can help you get started:   
 
-- `Read our publications <./tops_publications.md>`__
+- `Read our publications <./Outreach/tops_publications.md>`__
 
 - Download our podcast (coming soon) 
 
-- `Find us at a conference <./tops_conferences.md>`__
+- `Find us at a conference <./Outreach/tops_conferences.md>`__
 
 - `Participate in a community forum <https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums>`__
 
