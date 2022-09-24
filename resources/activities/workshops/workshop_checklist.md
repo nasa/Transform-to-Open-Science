@@ -3,7 +3,7 @@
 - [ ] Determine all due dates for workshop proposals
 - [ ] Develop workshop proposal
 - [ ] Submit workshop proposal 
-- [ ] Workshop logistic checklist: to include dates, deadlines, locations, accessibility evaluation, any special considerations, AV equipment, promotional materials, food/beverages, other needs, etc.
+- [ ] Workshop [logistic checklist](./logistic_checklist.md)
 - [ ] Create agenda, post publicly, and plan for workshops including modules that will be taught and needs for given modules
 - [ ] Create and manage and track workshop event checklist
 - [ ] Create and manage and track instructor event checklist
