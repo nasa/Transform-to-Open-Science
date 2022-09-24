@@ -16,3 +16,6 @@ A TOPS workshop must meet the following requirements:
 - Must use The TOPS OpenCore or ScienceCore curriculum
 - Use The TOPS surveys to get evaluations
 - Abide by The TOPS Code of Conduct.
+
+
+Credit: https://carpentries.org/workshops/
