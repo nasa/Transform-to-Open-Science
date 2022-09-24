@@ -1,3 +1,5 @@
+# Workshop Checklist
+
 - [ ] Create a workshop event webpage
 - [ ] Set up management for all the workshop logistics, coordination, management, and tracking of all checklists and activities
 - [ ] Determine all due dates for workshop proposals
