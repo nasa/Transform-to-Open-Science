@@ -12,7 +12,7 @@ A [list](./federal_guidance.md) of open science guidance from the US Federal gov
 
 ## Global Guidance
 
-A [list](./global_guidance.md) of open science guidance from governments around the world that advances open science.
+A [list](./global_policies.md) of open science policies from governments around the world that advances open science.
 
 ## Funding Opportunities
 
