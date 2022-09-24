@@ -3,8 +3,8 @@
 - [ ] Determine all due dates for workshop proposals
 - [ ] Develop workshop proposal
 - [ ] Submit workshop proposal 
-- [ ] Workshop [logistic checklist](./logistic_checklist.md)
-- [ ] Create agenda, post publicly, and plan for workshops including modules that will be taught and needs for given modules
+- [ ] Workshop [logistic checklist](./logistics_checklist.md)
+- [ ] Create agenda, post on webpage or send to conference
 - [ ] Create and manage and track workshop event checklist
 - [ ] Create and manage and track instructor event checklist
 - [ ] Create and manage and track helper event checklist
