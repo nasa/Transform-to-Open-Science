@@ -15,4 +15,4 @@ Resources:
 - [student_conference](.\student_conference\readme.md)
 - [townhall](.\townhall\readme.md)
 - [train_the_trainer](.\train_th_trainer\readme.md)
-- [workshops](.\workshops\readme.md)
+- [workshops](./workshops/readme.md)
