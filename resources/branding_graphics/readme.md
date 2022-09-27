@@ -1,4 +1,4 @@
-# TOPS logos
+# TOPS graphics and icons
 
 NASA Transform to Open Science (TOPS) has logos and open science graphics that are all available through a Creative Commons 4.0 license. This means that you can share freely and adapt as long a appropriate credit is given.  
 
