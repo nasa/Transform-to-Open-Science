@@ -232,7 +232,7 @@ Conversion notes:
   <tr>
    <td>9:20am
    </td>
-   <td>TOPS Open Science Curriculum Update
+   <td>TOPS Open Science Curriculum Development Update
    </td>
    <td>AGU
    </td>
