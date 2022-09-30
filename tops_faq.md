@@ -159,7 +159,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   The initial version of OpenCore will be tailored to researchers and scientists interested in further exploring open science and receiving the NASA TOPS Open Science certification. OpenCore will be free and open for all regardless of disciplinary or education level.
   
   <h4>When will the curriculum be available and will the modules be accessible online for people to complete at their own pace?</h4>
-  OpenCore curricula will be available through the Open EdX platform in December 2022. We are looking to kick this off through the Year of Open Science soft launch at the American Geophysical Union 2022 Fall meeting, where we will host a series of in-person workshops. Note that you do not need to register for the Fall meeting to participate in the workshops. You can attend the workshops separately; by attending and completing the course, you will receive access to the AGU meeting for the remainder of the day. We will also have a cohort working through the virtual modules, which will remain available for you to complete at your own pace. We will be having the official Year of Open Science launch at the American Meteorological Society and American Astronomical Society January 2023 meetings.
+  OpenCore curricula will be available through the Open EdX platform in April 2023. We will be having the official Year of Open Science launch at the American Meteorological Society and American Astronomical Society January 2023 meetings.
   
   <h4>Do we have specific subject or scientific domains prioritized?</h4>
   TOPS is a NASA Science Mission Directorate initiative focused on ensuring an equal playing field for all scientists and researchers regardless of domain, tenure, or affiliation.
@@ -196,10 +196,10 @@ A few ways to get started are: Make data non-proprietary and available in an ope
  If you sign up and say you want to help, we'll find a role. We had a very difficult set of criteria for evaluating content experts. Our process for the selection of the module leads resulted in an incredibly diverse group. They're very passionately engaged and, while they will help guide the content coming together, they will by no means take full responsibility for that content. We need everyone to make sure that we didn't miss anything and to ensure that what we build makes sense to every discipline and in an international context. We do have a rigorous set of review criteria; for example, we really want the language we're using to be easily translatable, for the language we use to not be offensive to anyone. The management team will be responsible for keeping modules in sync, releasing version control, change management, all the things that come with that.
   
   <h4>Can subject matter experts volunteer to contribute to the course?</h4>
- Across all of the open science topics that we are hoping to highlight, there are experts with valuable experience and content. AGU invites everyone to participate in development of the curricula as a reviewer or a tester. 
+ Across all of the open science topics that we are hoping to highlight, there are experts with valuable experience and content. TOPS invites everyone to participate in development of the curricula as a reviewer or a tester. You can get more details by signing up for the TOPS email list on the main GitHub page.
   
   <h4>Is there a plan or standards about engaging and crediting organizations who contribute to the modules significantly?</h4>
- AGU has every intention of giving everyone credit for their contribution. One of the principles of open science is proper attribution of previous work, collaborations, and knowledge used from various sources. 
+ One of the principles of open science is proper attribution of previous work, collaborations, and knowledge used from various sources. The communnity development of OpenCore is a key TOPS value and we encourage all contributions. 
   
   </details>
   
