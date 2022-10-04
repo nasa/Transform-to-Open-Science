@@ -3,7 +3,7 @@
 TOPS Engagement Strategy
 ==========================
 
-TOPS is made up of a small and passionate team that uses `inreach <./inreach.md>`__ and `outreach <./outreach.md>`__ strategies to `create community  <./creating_community.md>`__ and spark positive change towards open science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to The Year of Open Science kickoff in 2023. 
+TOPS is made up of a small and passionate team that uses `inreach <./Outreach/inreach.md>`__ and `outreach <./Outreach/outreach.md>`__ strategies to `create community  <./Outreach/creating_community.md>`__ and spark positive change towards open science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to The Year of Open Science kickoff in 2023. 
 
 We know that Open Science creates a more equitable system and broadens participation in science. Reducing barriers to entry for excluded, disenfranchised, and marginalized communities enables more diverse voices and areas of expertise to engage in scientific debate and take part in discovery and innovation. Leveraging more researchers will advance discovery, increase collaboration, and create new knowledge. All these things are essential for scientific discovery in the 21st century. 
 
@@ -12,11 +12,11 @@ The bottom line is that we have ambitious goals and need YOU and your organizati
 
 Here are some quick links that can help you get started:   
 
-- `Read our publications <./tops_publications.md>`__
+- `Read our publications <./Outreach/tops_publications.md>`__
 
 - Download our podcast (coming soon) 
 
-- `Find us at a conference <./tops_conferences.md>`__
+- `Find us at a conference <./Outreach/tops_conferences.md>`__
 
 - `Participate in a community forum <https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums>`__
 
@@ -30,40 +30,23 @@ Here are some quick links that can help you get started:
 
 Community Meetings
 -----------------
+1. `TOPS Community Panels <./Community_Panels>`__
+    * When: October 5-6, 9-5PM PDT
+    * Description: This panel meeting will bring together leaders from the open science, open source software, and data science communities with the NASA TOPS team for a detailed review of TOPS plans. The meeting will be public and have tools for the public to submit questions.This meeting is open to all and free to attend virtually.
+    * `Registration Link to attend the Panel <https://forms.gle/3BASj5BqAqwyprMQ8>`__
+    * `Submit Questions for the Panel <https://nasa.cnf.io/sessions/bx7z/#!/dashboard>`__
 
 Recurring TOPS Meetings
 -----------------
 1. `TOPS Community Forums <./Community_Forums>`__
-    * When: September 08, 1PM EDT (UTC -4)
-    * Description: This month we will be discussing open science within two NASA Divisions: Biological and Physical Sciences and Heliophysics with [Dr. Sam Gebre](https://twitter.com/SamGebre1) and [Dr. Ryan McGranaghan](https://twitter.com/AeroSciengineer). We will be asking for feedback on related open science activities in the other areas and looking at points where different domains' efforts could benefit and augment one another.   
-    * `Registration Link <https://go.nasa.gov/3crKGeY>`__
-    * Submit Questions `here <https://nasa.cnf.io/sessions/kzbb/#!/dashboard>`__
+    * When: October 13, 1PM EDT (UTC -4)
+    * Description: Join us this month to hear more about the new funding opportunity: `F.14 Transform to OPen Science Training (TOPST) <https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init>`__. TOPST is seeking applications to support the following three activities: (1) Development of ScienceCore materials (2) Implementation of summer schools, and (3) Virtual cohorts. In the forum, we will discuss the requirements for each section, point out resources NASA has to help you write a good proposal, and answer questions.   
+    * `Registration Link <https://go.nasa.gov/3Bitx0G>`__
+    * `Submit Questions <https://nasa.cnf.io/sessions/kzbb/#!/dashboard>`__
   
-Conferences and Workshops
+Upcoming Conferences and Workshops
 -----------------
-1. ESIP Summer
-    * When: July 18-20
-    * Description: Cynthia Hall will be participating as a panelist, along with Ryan McGranaghan and Mark Parsons, in the session, Building a Thriving Open Science Community. 
-    * `More information <https://www.esipfed.org/meetings](https://www.esipfed.org/meetings>`__
-2. TOPS OpenCore Sprint Meeting
-    * When: August 9-11
-    * Description: Post-sprint meeting to finalize OpenCore curricula development
-3. FOSS4G
-    * When: Aug 22-28
-    * Description: Kevin Murphy will be attending and Cynthia Hall will be presenting NASA’s Transform to Open Science (TOPS) Initiative.
-    * `More Information <https://foss4g.org/>`__
-4. SACNAS
-    * When: Oct 27-29
-    * Description: Yvonne Ivey will be attending and providing information and resources on NASA's Transform to Open Science (TOPS) mission.
-    * `Website <https://www.sacnas.org/conference>`__
-5. Github Universe
-    * When: Nov 9-10
-    * Description: TOPS will be attending. Come see us!
-    * `More Information <https://www.githubuniverse.com/>`__
-6. TOPS Train the Trainers
-    * When: Nov 14-18
-    * Description: More information coming soon
-7. AGU Fall Meeting
+1. AGU Fall Meeting
     * When: Dec 12-16
     * Description: TOPS and AGU will be cohosting workshops on `OpenCore curricula <https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore>`__, will be available in the NASA booth. We will host an open science help desk and more. Join us! 
     * `More Information <https://www.agu.org/Fall-Meeting>`__

@@ -1,13 +1,13 @@
 # Announcements!
-- Open Science [stories](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Open-Science-Stories/readme.md)
-- 08 September, 2022: [Community Forum with Biological and Physical Sciences and Heliophysics](./docs/Area1_Engagement/Community_Forums/20220908_community_forum.md)
-- OSTP releases [Guidance to Make Federally Funded Research Freely Available Without Delay](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/)
-- OSTP releases [New Guidance to Ensure Federally Funded Research Data Equitably Benefits All of America](https://www.whitehouse.gov/ostp/news-updates/2022/05/26/new-guidance-to-ensure-federally-funded-research-data-equitably-benefits-all-of-america/)
-- [New Funding Opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
+- October 5-6 2022 [TOPS Public Community Panel](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Panels/20221005_community_panel.md). Public participation encouraged.
+- October 13 2022 [TOPS Community Forum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums). Public participation encouraged.
+- [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Notice of Intent Due 11/10. Proposals Due 12/8!
+
+- NEW! Open Science [stories](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Open-Science-Stories/readme.md)
 - [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
 
 
-<img align="right" src="https://github.com/nasa/Transform-to-Open-Science/blob/main/assets/logos/Tops_logo%404x.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
+<img align="right" src="https://github.com/nasa/Transform-to-Open-Science/blob/main/resources/branding_graphics/TOPS_Badge/For Screens (raster)/Tops_badge_PNG/Tops_badge_Original/Tops_badge_Original4x_cropped.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
 # Transform to Open Science (TOPS)
 
@@ -15,7 +15,7 @@
 
 The world is changing rapidly. Everyday new problems emerge and it takes groundbreaking scientific discoveries to solve them. To stay ahead, the pace of science must accelerate and science needs to be even better, more accurate, and faster to enable the truly transformative breakthroughs that will help us thrive. Closed science, hoarding information and resources, silos of knowledge holds science back by limiting who can participate. We need more voices that work together and share knowledge and resources. Only then will we find new and better solutions. NASA's Transform to Open Science (TOPS) mission will allow us to create a scientific culture that is ready for 21st century challenges. Open Science will **broaden participation, increase accessibility to knowledge, and embrace new technologies** that can respond to these changes at scale. We hope you will join us in creating an open science infrastructure in your organization. TOPS will show you how! 
 
-## Goals
+## Strategic Objectives
 
 Open Science creates more advanced and inclusive research faster, builds a more just and equitable world, and ensures that minds from all walks of life can participate in science. TOPS is NASA’s ambitious plan to accelerate open science practices. It’s a 5 year journey that will  
 1. Accelerate major scientific discoveries 
@@ -35,7 +35,7 @@ Open Science creates more advanced and inclusive research faster, builds a more 
 ## Overview Presentation
 Short presentation on TOPS initiative: 
 - Slides: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5621674.svg)](https://doi.org/10.5281/zenodo.5621674)
-- [Recording](https://www.youtube.com/watch?v=wtKHHe3m778&t=6977s&ab_channel=ScienceAtNASA) starts at 1:55:32.
+- [Recording](https://youtu.be/Gzg_xTEUOII?t=408) starts at 6:48.
 
 ## Join TOPS Mailing List
 Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations there.

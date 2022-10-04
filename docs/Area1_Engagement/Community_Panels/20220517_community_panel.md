@@ -1,5 +1,5 @@
 
-# TOPS Community Panel #1
+# TOPS Community Panel May 2022
 
 **Where:** Public (virtual) meeting  
 **When:** 17-19 May 2022, 12-3 EST (9-12 PST), each day.  

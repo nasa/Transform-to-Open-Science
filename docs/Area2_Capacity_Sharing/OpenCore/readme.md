@@ -1,13 +1,11 @@
 ## Announcements
-- 1 Aug 2022: AGU announces OpenCore [review](./opencore_sprint.md)
-- 28 June 2022: AGU announces OpenCore [Leads and Subject Matter Experts](./OpenCore_leads.md)
-- 25 July 2022: Community Forum on the OpenCore
+- 28 June 2022: OpenCore [Leads and Subject Matter Experts](./OpenCore_leads.md)
 
 # OpenCore Scope
 
-TOPS aims to meet everyone where they are at on their open science journey. While some members of our growing community may have practiced open science for many years, others may be trying to transition to a new way of conducting research or are students who are looking to begin their scientific careers. As such, TOPS' first priority is to develop the infrastructure to train 20,000 scientists and researchers as part of our five-year program. This open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts. TOPS will initially focus on developing the OpenCore, designed as five modules that mimic a scientific workflow.  
+TOPS aims to meet everyone where they are at on their open science journey. While some members of our growing community may have practiced open science for many years, others may be trying to transition to a new way of conducting research or are students who are looking to begin their scientific careers. As such, TOPS' first priority is to develop the infrastructure to train 20,000 scientists and researchers as part of our five-year program. This community-developed open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts. TOPS will initially focus on developing the OpenCore, designed as five modules that mimic a scientific workflow.  
 
-For the 2023 Year of Open Science, TOPS is developing strategic partnerships with large scientific associations to teach open science during large annual meetings, special science team summer schools, and other events. The vision for the TOPS OpenCore and other learning resources is for a CC-BY licensed online, open course, hosted on the OpenEDx platform, that can be used to train scientists and award NASA open science badges.
+For the 2023 Year of Open Science, TOPS is developing strategic partnerships with scientific associations to teach open science during large annual meetings, special science team summer schools, and other events. The vision for the TOPS OpenCore and other learning resources is for a CC-BY licensed online, open course, hosted on the OpenEDx platform, that can be used to train scientists and award NASA open science badges.
 
 The five OpenCore modules will be:
 1. [Ethos of Open Science](./open_science_ethos_module.md)
@@ -31,8 +29,11 @@ The design is for a 12.5-hour course consisting of five, 2.5-hour modules that c
 Additional information about the module structure can be found on the [module structure page](./OpenCore_structure.md)
 
 # Course Enrollment and Teaching Event Plan
-*This area will be updated as the content nears completion.*
+## Upcoming Events
+* December 1, 2022: Open Ethos module launched at in-person workshops
+* April 1, 2023: Release of the OpenCore
+
+*Additional details will be added soon.*
 
 ## Course Incentives
-
-* Certification and/or NASA TOPS open science [badges](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area3_Incentives/badging.md)
+* Certification and/or NASA TOPS open science [badges](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area3_Incentives/readme.md)

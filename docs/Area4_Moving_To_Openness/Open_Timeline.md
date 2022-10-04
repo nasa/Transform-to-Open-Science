@@ -13,13 +13,16 @@ The CDC developed an operational policy [Public Access to CDC Funded Publication
 
 ## 2014
 ### DOE PAGES
-The DOE leveraged its existing infrastructure from the [Scientific and Technical Information Program (STIP)](https://www.osti.gov/stip) to create an online portal, the Department of Energy Public Access Gateway for Energy and Science or [DOE PAGES](https://www.osti.gov/pages/faqs#doe-pages-overview), to make "peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze." A useful feature of PAGES is that it reconciles DOIs from DOE authors, selecting one as the "authoritative" source for all further citations. 
+The Department of Energy Public Access Gateway for Energy and Science ([DOE PAGES](https://www.osti.gov/pages/)) is the DOE discovery tool, developed by the DOE Office of Scientific and Technical Information (OSTI), that makes peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze. DOE PAGES was developed to implement DOE’s [Public Access Plan](https://www.energy.gov/downloads/doe-public-access-plan) and offers free public access to the best available full-text version of DOE-funded scholarly publications - either the peer-reviewed, accepted manuscript or the published scientific journal article.
 
 ### DoD Public Access Policy
 A precursor to the DoD's public access plan was the [Public Access to the Results of Department of Defense-Funded Research](https://discover.dtic.mil/wp-content/uploads/2018/06/memo_public_access_kendall_20140709.pdf) which directed all authors funded by the DoD to submit final, peer-reviewed journal manuscripts to [Defense Technical Information Center](https://discover.dtic.mil/).
 
 ### ODNI Open Government Plan
 The Office of the Director of National Intelligence lists all of its OpenGov initiatives [here](https://www.dni.gov/index.php/opengov), including the [Open Government Plan](https://www.dni.gov/files/documents/FOIA/ODNI_Open_Gov_Plan.pdf), and initiatives on Open Data, Records Mangement, Public Participation and Information Sharing. The public access plan, released in 2016, is [here](https://www.iarpa.gov/images/pdfs/ODNI_Public_Access_Plan_Sept_2016.pdf).
+
+### NIH Genomic Data Sharing Policy (GDS)
+NIH issues its [Genomic Data Sharing Policy](https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/), which expands the genome-wide association studies (GWAS) policy and promotes sharing, for research purposes, of large-scale human and non-human genomic data generated from NIH-funded research.
 
 ### Public Access Plans
 * Department of Agriculture [public access plan](https://www.usda.gov/sites/default/files/documents/USDA-Public-Access-Implementation-Plan.pdf)
@@ -42,13 +45,16 @@ As part of the CDC's public access plan, [CDC Stacks](https://stacks.cdc.gov/) i
 In order to guide its operating divisions in creating public access plans in accordance with the Holdren Memo, HHS released [Guiding Principles and Common Approach for Enhancing Public Access to the Results of Research Funded by HHS Operating Divisions](https://www.hhs.gov/open/public-access-guiding-principles/index.html). There are two, primary components to this guidance: "The first relates to making the publications resulting from our funded research freely available to the public. The second relates to making the scientific data publicly available in digital formats."
 
 ### NIH Policy Updates
-NIH completes updates to its [Public Access Policy](https://publicaccess.nih.gov/policy.htm), which ensures teh public has access to all published results of NIH-funded research via [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/). Details on submission methods can be found [here](https://publicaccess.nih.gov/submit_process.htm).
+NIH completes updates to its [Public Access Policy](https://publicaccess.nih.gov/policy.htm), which ensures the public has access to all published results of NIH-funded research via [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/). Details on submission methods can be found [here](https://publicaccess.nih.gov/submit_process.htm).
 
 ### DOT Library
 As part of the Department of Transportation's public access plan, all authors funded by DOT are required to submit publications not specifically precluded by privacy, confidentiality, or security concerns to the [DOT National Transportation Library (NTL)](https://ntl.bts.gov/ntl) digital repository. 
 
 ### NSF Increasing Access to the Results of Research
 NSF's robust public access plan, [Increasing Access to the Results of Research Funded by the National Science Foundation](https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf) and an accompanying [FAQ (last updated in 2018)](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18041&org=NSF) provide robust guidance for NSF-funded researchers on how to make their data and research accessible.  
+
+###DOE Policy for Digital Research Data Management
+DOE released the DOE [Policy for Digital Research Data Management](https://www.energy.gov/datamanagement/doe-policy-digital-research-data-management-resources) as part of the implementation of DOE’s Public Access Plan. The policy requires that all funded research activities have an associated Data Management Plans. 
 
 ### Public Access Plans
 * National Institute of Standards and Technology [public access plan](https://www.nist.gov/open)
@@ -65,6 +71,9 @@ NSF's robust public access plan, [Increasing Access to the Results of Research F
 ## 2016
 ### USDA's Scientific Integrity Policy 
 The USDA's [Scientific Integrity Policy](https://www.usda.gov/directives/dr-1074-001) or DR 1074-001 is designed to "ensure the highest level of integrity in all aspects of the Department’s and USDA agencies’ involvement with scientific and technological processes, research, analyses, and products" including the open, accessible and online distribution of all scientific data used to develop policy. 
+
+### HHS/NIH Final Rule for Clinical Trials Registration and Results Information Submission
+HHS/NIH issued the [Final Rule for Clinical Trials Registration and Results Information Submission](https://www.federalregister.gov/documents/2016/09/21/2016-22129/clinical-trials-registration-and-results-information-submission) (42 CFR Part 11) clarifying and expanding the registration and results information submission requirements for clinical trials of FDA-regulated drugs, biological products, and devices. This regulation takes effect in January 2017.
 
 ### Revised NOAA Data Sharing Policy
 As a result of NOAA's public access plan, its [Data and Publication Sharing Directive for NOAA Grants, Cooperative Agreements, and Contracts](https://nosc.noaa.gov/EDMC/PD.DSP.php) from 2012 is revised to impose requirements regarding the sharing of proposals as well as resaerch data in a timlely fashion  "both on NOAA Programs that issue grants and on grant recipients." Specifically, it required that "data that
@@ -104,7 +113,14 @@ In November of 2017, NIST released three, seperate directives to further clarify
 ### FDA Staff Manual on Open Access
 In accordance to FDA's public access plan, a staff manual on [Access to Results of FDA-Funded Scientific Research](https://www.fda.gov/media/95135/download) was released, to provide resources to ensure transparency and maximum public access possible of FDA-funded research. APIs as well as data and research is available at [openFDA](https://open.fda.gov/).  
 
-## Administration for Community Living Public Access Plan Update
+### DOE CODE
+[DOE CODE](https://www.osti.gov/doecode/) is the software services platform and search tool for DOE-funded code, developed and maintained by DOE OSTI. DOE CODE provides functionality for collaboration, archiving, and discovery of scientific and business software. The tool was launched in 2017 to replace an earlier system and to help implement M-16-21 – Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software.
+
+### DOE OSTI Interagency DOI Service
+The [Interagency DOI Service](https://www.osti.gov/iad2/) is provided by DOE OSTI to other US government agencies that would like to assign DOIs to their research outputs. DOE OSTI provides administrative and technical support, a community of practice, and a submission platform to assigns and registers DOIs with DataCite to aid in citation, discovery, retrieval, and reuse. Through a DataCite Consortium, the service has been provide since 2017 and is done on a cost-reimbursable basis.
+
+
+### Administration for Community Living Public Access Plan Update
 HHS ACL updated its [public access plan](https://acl.gov/sites/default/files/about-acl/2017-12/ACLPublicAcccessPlan.pdf) to establish a mechanism for compliance with public access policy, make research and data more readily available to the public, and increase the use of ACL research results. 
 
 ## 2018
@@ -116,6 +132,9 @@ Further, clarifying guidance on how individual researchers or research groups sh
 
 ### DoD Scientific and Technical Information Program
 The latest version of the [DoD Scientific and Technical Information Program (STIP)](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320012p.pdf?ver=2018-12-17-130508-423) became available, providing regulations not only on the submission of publications to DTIC but also requiring Data Management Plans for all DoD-funded research. 
+
+### NIH Strategic Plan for Data Science
+NIH issues its [Strategic Plan for Data Science](https://datascience.nih.gov/nih-strategic-plan-data-science), which provides a roadmap for modernizing the NIH-funded biomedical data science ecosystem. It outlines five overarching goals that address areas including data infrastructure and tools, workforce development, and sustainability.
 
 ## 2019
 ### NASA’s Strategy for Data Management and Computing
@@ -134,6 +153,16 @@ In further support of requirements regarding data management plans, the DoD rele
 ### HHS AHRQ Data Management Policy
 In further support of requirements in the the Public Access Policy, the Agency for Healthcare Research and Quality created a [Data Management Plan Policy](https://grants.nih.gov/grants/guide/notice-files/NOT-HS-20-011.html). This policy requires for applicants for AHRQ grants to include data management plans for "managing, storing and disseminating the primary data, samples, physical collections and other supporting materials created or gathered in the course of research funded by AHRQ."
 
+### NIH Policy for Data Management and Sharing
+NIH issues its [Policy for Data Management and Sharing](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html), which requires submission of a data management and sharing plan for all NIH-funded research and compliance with the approved plan. The plan will go into effect January 25, 2023.
+
+### US Government ORCID Consortium 
+DOE OSTI launched the [US Government ORCID Consortium](https://www.osti.gov/orcid-consortium/) in 2020 to bring together US government and DOE-affiliated organizations looking to use, adopt, and integrate with ORCID. The consortium is a mechanism for organizations to become ORCID members. DOE OSTI leads the consortium and provides administrative and technical support, as well as a community of practice. The consortium was developed to provide a community around sharing best practices, facilitating ORCID integrations, and helping with challenges, while decreasing costs.
+
+### NIH Preprint Pilot
+NIH launches its [Preprint Pilot](https://www.ncbi.nlm.nih.gov/pmc/about/nihpreprints/) to test the feasibility of providing access to pre-prints reporting on NIH-funded research on COVID-19 through PubMed Central and Pubmed. The pilot aims to explore approaches to increasing the discoverability of early NIH research results posted to [eligible preprint servers](https://www.ncbi.nlm.nih.gov/pmc/about/nihpreprints/#eligible).
+
+
 ## 2021
 ### NASA’s SPD-41
 NASA released the Scientific Information policy for the Science Mission Directorate (SMD) Policy Document 41 or [“SPD-41”](https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf ). This policy describes how any scientific information produced using funding from SMD is shared. Scientific information, in this case, includes publications, data, and software produced as part of scientific research activities.
@@ -149,6 +178,12 @@ publications and digital scientific research data assets arising from unclassifi
 
 ### Breakthroughs for All
 On August 25, 2022 the White House released [Breakthroughs for All: Delivering Equitable Access to America’s Research](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) which makes publications and research funded by taxpayers publicly accessible, without an embargo or cost. All agencies are called to update their policies no later than December 31, 2025.
+
+### Desirable Characteristics of Repositories
+NSTC issues [Desirable Characteristics of Repositories for Data Resulting from Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Desirable-Characteristics-of-Data-Repositories.pdf), which provides guidance on repository characteristics to help make data FAIR and promote equitable access.
+
+### Generalist Repository Ecosystem Initiative (GREI)
+NIH launches the [Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/news/nih-office-of-data-science-strategy-announces-new-initiative-to-improve-data-access), which brings together generalist repositories to collaborate on shared efforts to enhance the discoverability of NIH-funded data, including common metadata models, open metrics, and training for researchers.
 
 # Other Resources
 * The **University of Michigan** has a partial list fo US federal agencies requiring data management plans [here](https://guides.lib.umich.edu/c.php?g=283277&p=1886863).
