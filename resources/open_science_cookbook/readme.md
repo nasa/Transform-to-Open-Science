@@ -23,7 +23,7 @@ If the vision painted above sounds like something you want to become involved wi
 
   <details>
   <summary><h3>Promote</h3></summary>
-    Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog, or are taking a critical look at the diversity in your lab or research group and actively imagining how to make it more inclusive. Or perhaps all of this is new to you, and you are looking for a guidebook to put you on the right track. Navigate to the <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/resources/open_science_cookbook/*Promote_open_science.md">Promote Open Science</a> cookbook!<br>
+    Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog, or are taking a critical look at the diversity in your lab or research group and actively imagining how to make it more inclusive. Or perhaps all of this is new to you, and you are looking for a guidebook to put you on the right track. Navigate to the <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/resources/open_science_cookbook/Promote_open_science.md">Promote Open Science</a> cookbook!<br>
   </details>
   
   <details>
