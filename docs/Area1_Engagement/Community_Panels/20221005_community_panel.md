@@ -46,32 +46,44 @@ Conversion notes:
 
 **Logistics and Schedules:**
 
-**Day 1:**
+## Day 1: October 5th, 2022
 
 
 <table>
   <tr>
    <td><strong><em>Time (PT)</em></strong>
    </td>
-   <td><strong><em>Agenda Item</em></strong>
+   <td><strong><em>Agenda Item -10/5/22</em></strong>
    </td>
-   <td><strong><em>Description</em></strong>
+   <td><strong><em>Presenter</em></strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" ><strong><em>Day 1: TOPS Objectives and Year of Open Science Path Forward </em></strong>
    </td>
   </tr>
   <tr>
    <td>8:40am
    </td>
-   <td>Meet JPL front entrance, sign in, badging, escort to meeting
+   <td>Meet at JPL front entrance for badging and admittance
    </td>
-   <td>Chelle Gentemann
+   <td>Cynthia Hall
    </td>
   </tr>
   <tr>
    <td>9:00am
    </td>
-   <td>Introduction and Review of Code of Conduct
+   <td>Review of Agenda and Code of Conduct
    </td>
-   <td>Cynthia Hall
+   <td>Chelle Gentemann
+   </td>
+  </tr>
+  <tr>
+   <td>9:05am
+   </td>
+   <td>Introductions to Panelists
+   </td>
+   <td>Yvonne Ivey
    </td>
   </tr>
   <tr>
@@ -85,7 +97,23 @@ Conversion notes:
   <tr>
    <td>9:30am
    </td>
-   <td>TOPS Update 
+   <td>Welcome
+   </td>
+   <td>Kevin Murphy
+   </td>
+  </tr>
+  <tr>
+   <td>9:45am
+   </td>
+   <td><strong>Coffee Break</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>9:50am
+   </td>
+   <td>TOPS Update
    </td>
    <td>Yvonne Ivey
    </td>
@@ -93,7 +121,7 @@ Conversion notes:
   <tr>
    <td>10:00am
    </td>
-   <td>Spring Panel Feedback and Action Items Review and Discussion
+   <td>Building TOPS: Spring Panel Feedback and Actions
    </td>
    <td>Chelle Gentemann
    </td>
@@ -101,11 +129,13 @@ Conversion notes:
   <tr>
    <td>10:45am
    </td>
-   <td colspan="2" ><strong>Break: beverages and snacks</strong>
+   <td><strong>Coffee Break</strong>
+   </td>
+   <td>
    </td>
   </tr>
   <tr>
-   <td>11:00am 
+   <td>11:00am
    </td>
    <td>2023 Year of Open Science Activities and Partnerships
    </td>
@@ -113,15 +143,15 @@ Conversion notes:
    </td>
   </tr>
   <tr>
-   <td>11:30am
+   <td>11:30am 
    </td>
-   <td>Discussion: What gaps exist in the Year of Open Science plans and how can we address those gaps?
+   <td>Discussion: Gaps in the Year of Open Science Plans
    </td>
    <td>Isabella Martinez
    </td>
   </tr>
   <tr>
-   <td>12:00am
+   <td>12:00pm
    </td>
    <td><strong>Lunch</strong>
    </td>
@@ -129,31 +159,41 @@ Conversion notes:
    </td>
   </tr>
   <tr>
-   <td>1:15pm
+   <td>1:00pm
    </td>
-   <td colspan="2" >Community Resources Development
+   <td>Community Development
+   </td>
+   <td>Cynthia Hall and Isabella Martinez
    </td>
   </tr>
   <tr>
-   <td>1:30
+   <td>1:30pm
    </td>
-   <td>Discussion on Community Resources
+   <td>Discussion on Community Development
+   </td>
+   <td>Isabella Martinez
+   </td>
+  </tr>
+  <tr>
+   <td><strong>2:00pm</strong>
+   </td>
+   <td><strong>Dance Break</strong>
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>2:00pm
+   <td>2:05pm
    </td>
    <td>Tell us about what you are doing that we can work on together
    </td>
-   <td>
+   <td>Cynthia Hall
    </td>
   </tr>
   <tr>
    <td>3:00pm
    </td>
-   <td><strong>Break: beverages and snacks</strong>
+   <td><strong>Snack Break</strong>
    </td>
    <td>
    </td>
@@ -161,21 +201,29 @@ Conversion notes:
   <tr>
    <td>3:15pm
    </td>
-   <td>Tell us about what you are doing that we can work on together
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>4:00pm
-   </td>
    <td>GitHub Activity
    </td>
+   <td>Isabella Martinez
+   </td>
+  </tr>
+  <tr>
+   <td>4:10pm
+   </td>
+   <td><strong>Break</strong>
+   </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>4:55 pm
+   <td>4:15pm
+   </td>
+   <td>Framed Discussion
+   </td>
+   <td>All
+   </td>
+  </tr>
+  <tr>
+   <td>4:55pm
    </td>
    <td>End of Day Wrap Up
    </td>
@@ -183,9 +231,21 @@ Conversion notes:
    </td>
   </tr>
   <tr>
-   <td>6:30pm
+   <td>5:00pm
    </td>
-   <td>Group dinner in Pasadena
+   <td><strong>Day 1 of Panel Ends</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>6:00pm
+   </td>
+   <td><strong>Group Dinner in Pasadena: </strong>
+<p>
+Cafe Santorini
+<p>
+64 W Union St, Pasadena, CA 91103
    </td>
    <td>
    </td>
@@ -193,24 +253,29 @@ Conversion notes:
 </table>
 
 
-**Day 2:**
+
+## Day 2: October 6th, 2022
 
 
 <table>
   <tr>
    <td><strong><em>Time (PT)</em></strong>
    </td>
-   <td><strong><em>Agenda Item</em></strong>
+   <td><strong><em>Agenda Item -10/6/22</em></strong>
    </td>
-   <td><strong><em>Description</em></strong>
+   <td><strong><em>Presenter</em></strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" ><strong><em>Day 2: The Open Science Curriculum </em></strong>
    </td>
   </tr>
   <tr>
    <td>8:40am
    </td>
-   <td>Meet JPL front entrance, sign in, badging, escort to meeting
+   <td>Meet at JPL front entrance for badging and admittance
    </td>
-   <td>Chelle Gentemann
+   <td>Cynthia Hall
    </td>
   </tr>
   <tr>
@@ -218,29 +283,37 @@ Conversion notes:
    </td>
    <td>Introduction and Review of Code of Conduct
    </td>
-   <td>
+   <td>Chelle Gentemann
    </td>
   </tr>
   <tr>
    <td>9:10am
    </td>
-   <td>Icebreaker
+   <td>Honoraria Q&A
    </td>
-   <td>Cynthia Hall
+   <td>Annie Rattanaphone
    </td>
   </tr>
   <tr>
    <td>9:20am
    </td>
-   <td>TOPS Open Science Curriculum Development Update
+   <td>TOPS Open Science Curriculum Update
    </td>
    <td>AGU
    </td>
   </tr>
   <tr>
+   <td>9:45am
+   </td>
+   <td><strong>Coffee Break</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
    <td>9:50am
    </td>
-   <td>Discussion curriculum
+   <td>Curriculum Discussion (Part 1)
    </td>
    <td>AGU
    </td>
@@ -248,23 +321,23 @@ Conversion notes:
   <tr>
    <td>10:20am
    </td>
-   <td><strong>Break: beverages and snacks</strong>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>10:30am 
-   </td>
-   <td>Curriculum engagement and retention strategy
+   <td>Curriculum Engagement and Retention Strategy
    </td>
    <td>AGU
    </td>
   </tr>
   <tr>
-   <td>10:50am
+   <td>10:30am 
    </td>
-   <td>Discussion 
+   <td><strong>Coffee Break</strong>
+   </td>
+   <td>AGU
+   </td>
+  </tr>
+  <tr>
+   <td>10:45am
+   </td>
+   <td>Curriculum Discussion (Part 2) 
    </td>
    <td>AGU
    </td>
@@ -278,7 +351,7 @@ Conversion notes:
    </td>
   </tr>
   <tr>
-   <td>12:00am
+   <td>12:00pm
    </td>
    <td><strong>Lunch</strong>
    </td>
@@ -296,8 +369,10 @@ Conversion notes:
   <tr>
    <td>3:00pm
    </td>
-   <td colspan="2" ><strong>End of meeting</strong>
+   <td colspan="2" ><strong>End of Meeting</strong>
    </td>
   </tr>
 </table>
+
+
 
