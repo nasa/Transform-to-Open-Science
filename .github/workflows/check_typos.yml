@@ -1,0 +1,22 @@
+on:
+    push:
+        branches:
+            - main
+    pull_request:
+        branches:
+            - main
+
+name: Check typos
+jobs:
+    codespell:
+        name: Discover typos with codespell
+        runs-on: ubuntu-latest
+        strategy:
+            fail-fast: false
+        steps:
+          - uses: actions/checkout@v3
+          - uses: codespell-project/actions-codespell@master
+            with:
+              check_filenames: true
+              skip: "*.csv,*.geojson,*.json,*.yml*.js,*.html,*cff"
+              ignore_words_list: stip,leary
