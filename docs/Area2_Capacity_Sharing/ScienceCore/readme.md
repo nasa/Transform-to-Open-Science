@@ -6,7 +6,7 @@ The TOPS open science curriculum will be expanded to support researchers looking
 
 ## Module Descriptions
 
-The design calls for several, individual 2.5-hour moduels that focus on data science skills and domain-specific open science practies that could be taught in-person during large society meetings or during science team meetings, completed individually online, or completed via group-organized online events. 
+The design calls for several, individual 2.5-hour modules that focus on data science skills and domain-specific open science practices that could be taught in-person during large society meetings or during science team meetings, completed individually online, or completed via group-organized online events. 
 * Each course module will be a 2.5-hour interactive learning experience with slides, videos, quizzes, and activities. 
 * All content will be integrated into OpenedX 
 * All content will be assigned a CC0 or CC-BY license.

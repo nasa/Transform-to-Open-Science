@@ -26,7 +26,7 @@
 - Xarray python [Tutorial](https://unidata.github.io/python-training/workshop/XArray/xarray-introduction/)
 - Numpy python [Tutorial](https://numpy.org/devdocs/user/absolute_beginners.html)
 - Cartopy python [Tutorial](https://rabernat.github.io/research_computing_2018/maps-with-cartopy.html)
-- Python oceanography [Recources](https://scrapbox.io/pycoaj/oceanography)
+- Python oceanography [Resources](https://scrapbox.io/pycoaj/oceanography)
 - [Project Pythia (Pangeo)](https://projectpythia.org/)
 
 ## Existing Open Science MOOCs
