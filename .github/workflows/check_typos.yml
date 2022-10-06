@@ -8,21 +8,15 @@ on:
 
 name: Check typos
 jobs:
-    test-ubuntu:
+    codespell:
+        name: Discover typos with codespell
         runs-on: ubuntu-latest
         strategy:
             fail-fast: false
-            matrix:
-                python-version: [3.9]
         steps:
-            - uses: actions/checkout@v2
-            - name: Set up Python
-              uses: actions/setup-python@v2
-              with:
-                  python-version: ${{ matrix.python-version }}
-            - name: Install codespell
-              run: |
-                  pip install codespell
-            - name: Discover typos with codespell
-              run: codespell --skip="*.csv,*.geojson,*.json,*.yml*.js,*.html,*cff" --ignore-words-list="stip,leary"
-
+          - uses: actions/checkout@v3
+          - uses: codespell-project/actions-codespell@master
+            with:
+              check_filenames: true
+              skip: *.csv,*.geojson,*.json,*.yml*.js,*.html,*cff
+              ignore_words_list: stip,leary
