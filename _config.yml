@@ -1,0 +1,26 @@
+#######################################################################################
+# A default configuration that will be loaded for all jupyter books
+# See the documentation for help and more options: 
+# https://jupyterbook.org/customize/config.html
+
+#######################################################################################
+# Book settings
+title                       : Intro to Git and Jupyter - 3rd Jack Eddy Symposium  # The title of the book. Will be placed in the left navbar.
+author                      : Fernando Pérez # The author of the book
+copyright                   : "2022"  # Copyright year to be placed in the footer
+logo                        : logo.png  # A path to the book logo
+
+execute:
+  execute_notebooks: 'off'
+
+only_build_toc_files: true
+
+sphinx:
+  config:
+    exclude_patterns:
+      - README.md
+    myst_enable_extensions: 
+    - amsmath
+    - dollarmath
+    - html_image
+    - html_admonition
