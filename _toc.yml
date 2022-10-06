@@ -1,0 +1,15 @@
+format: jb-book
+root: index
+parts:
+- caption: TOPS Mission
+  chapters:
+  - file: docs/
+  - file: resources/
+- caption: More
+  chapters:
+  - file: docs/Area1_Engagement
+  - file: docs/Area2_Capacity_Sharing
+  - file: docs/Area3_Incentives
+  - file: docs/Area4_Moving_To_Openness
+
+ 
