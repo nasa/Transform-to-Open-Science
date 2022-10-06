@@ -137,7 +137,7 @@ Key Terms: open-source software, source vs. compiled code, permissive vs. non-pe
 **Lesson 4: Sharing Open Software**
 * Best practices for sharing open software including selecting a repository, creating a release, getting DOI from Zenodo
 * How to give credit when using open software 
-* How to use and grow softwares begun by others 
+* How to use and grow software begun by others 
 
 **Lesson 5: Community Stories, Resources and Policy**
 * Legal and security concerns

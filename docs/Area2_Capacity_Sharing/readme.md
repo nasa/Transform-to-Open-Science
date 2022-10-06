@@ -8,7 +8,7 @@ The TOPS curriculum will also be used to support researchers looking to engage w
 
 ## [OpenCore](./OpenCore/readme.md)  
 
-TOPS will initially focus on developing the [OpenCore](./OpenCore/readme.md), designed as five moduels that mimic a scientific workflow. The OpenCore aims to introduce learners to a nuanced understanding of open science, enabling participants to better understand an open science workflow from end to end. The focus of the curriculum will be on providing learners with a basic understanding of open science, its ethos and benefits, and how to actively participate in open science communities. 
+TOPS will initially focus on developing the [OpenCore](./OpenCore/readme.md), designed as five modules that mimic a scientific workflow. The OpenCore aims to introduce learners to a nuanced understanding of open science, enabling participants to better understand an open science workflow from end to end. The focus of the curriculum will be on providing learners with a basic understanding of open science, its ethos and benefits, and how to actively participate in open science communities. 
 
 Q&A about the OpenCore can be found in our TOPS [FAQ document](/tops_faq.md).
 

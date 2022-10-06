@@ -23,7 +23,7 @@ All participants in TOPS community forums are to:
 
 ### Unacceptable Behavior
 
-1. Harrassment, intimidation, or discrimination of any form
+1. Harassment, intimidation, or discrimination of any form
 2. Physical or verbal abuse of any participant
 3. Disruption of proceedings, panels and/or lightning talks
 4. Examples of unacceptable behaviors include but are not limited to:
