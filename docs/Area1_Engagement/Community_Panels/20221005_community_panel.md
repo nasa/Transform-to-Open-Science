@@ -3,16 +3,12 @@
 **Where:** Public (Hybrid) meeting online and at NASA JPL in Pasadena, CA  
 **When:** 5-6 October 2022
 
-**Registration:** Please [register](https://forms.gle/3BASj5BqAqwyprMQ8) to join us virtually.
-
-**Questions?** If you have questions, please submit them through our online [question tool](https://nasa.cnf.io/sessions/bx7z/#!/dashboard). We will try to address them during the meeting, but regardless all of the answers will be posted in our [FAQs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/engagement_faq.md).
-
+**Questions?** All of the answers to any posted questions will be posted in our [FAQs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/engagement_faq.md).
 
 **Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)
 
-
-**Slides:** TBD \
-**Recordings:** TBD \
+**[Slides](https://doi.org/10.5281/zenodo.7186496)** \
+**Recordings:** Day 1 Coming Soon | [Day 2](https://www.youtube.com/watch?v=G5M7vThQu0s) \
 **Transcripts:** TBD  
 **Previous May 2022 Community Panel Summary:** [Executive Summary and Final Report on Zenodo](https://doi.org/10.5281/zenodo.6875090)
 
