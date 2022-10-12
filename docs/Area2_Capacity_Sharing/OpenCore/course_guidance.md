@@ -2,7 +2,6 @@
 
 **In order for the Open Science courses to be successful, there will need to be variations between the live courses–either in-person or virtual–and online courses. The rest of this document lays out suggested guidelines for course instructors and creators to achieve this balance. **
 
-
 # **Online Course Blueprint**
 
 The online course, designed in Massive Online Open Course (MOOC) style, is central to the TOPS open science curriculum. The instructors of this course are also its creators, so the following tips shall be grounded in pedagogy for good MOOC creation, with additional resources available [here](https://docs.google.com/document/d/1p9S0NfetRsrLFE3_4vIojlTCnuVS9TCKPEtY4TYuMNQ/edit). 
@@ -12,33 +11,27 @@ The online course, designed in Massive Online Open Course (MOOC) style, is centr
 As a central goal of NASA’s TOPS and Open Source Science Initiative (OSSI) programs to educate 20k scientists in open science principles over five years, the open science MOOC shall need to be engaging and rewarding. Some core principles to keep in mind to achieve this are the following** **(grounded in suggestions from [Drake, J. O’Hara, M. Seeman, E. 2015](https://www.researchgate.net/publication/298712549_Five_principles_for_MOOC_design_With_a_case_study/link/59f939df0f7e9b553ec0d330/download) and [Bali, M. 2014](https://jolt.merlot.org/vol10no1/bali_0314.pdf)).
 
 
-
 * **Make the course meaningful**.** **
     * Clearly distinguish core concepts and tie examples back to reality  Motivate learners with tools and resources they can use in their own scientific studies. If possible, let them complete assignments using their own data-sets/examples. Design quizzes and other assessments to evaluate learning beyond “mere recall.” 
 * **Make the course engaging. **
-    * Keep lecture videos short and interspersed with prompts for discussion, videos of panels or other examples, concepts maps, pictures/visual aids, study guides and self-assessment quizzes. Use interactive tools such as Jamboard or Canva to encourage MOOC cohorts to engage with each other as they complete assignments. Use the TOPS [GitHub community board](https://github.com/nasa/Transform-to-Open-Science), slack, [Zenodo community spaces](https://zenodo.org/communities/), or other online forums to encourage interaction within and between cohorts. If possible, consider holding “office hours” with live instructors using video conferencing. 
+    * Avoid lecture videos, keep animations short and interspersed with prompts for discussion, concepts maps, pictures/visual aids, study guides and self-assessment quizzes. Use interactive tools such as Jamboard or Canva to encourage MOOC cohorts to engage with each other as they complete assignments. Use the TOPS [GitHub community board](https://github.com/nasa/Transform-to-Open-Science), slack, [Zenodo community spaces](https://zenodo.org/communities/), or other online forums to encourage interaction within and between cohorts. If possible, consider holding “office hours” with live instructors using video conferencing. 
 * **Design the course to be measurable. **
     * Take advantage of OpenEdEx analytics tools to verify learners are engaging with the material as expected. Understand how assignments will be graded and certification/badges awarded at the end.
     * See the section titled “Options to Earn Badge/Certification” in [this document](https://docs.google.com/document/d/10hIfNIkyWygW1uEJJs_hH4YMdAbfveiE0w5gZrGK9Q4/edit#heading=h.a4h08why1fai) for initial ideas.
 * **Design the course to be accessible. **
     * Consider language, internet bandwidth and time constraints when designing assignments. A core theme of the course is open access, so verify that all resources can be downloaded <span style="text-decoration:underline;">without institution access</span> to publications. Provide reading at various levels of academic rigor, to account for differences in education, scientific training, and professional role.
-* **Consider how conversations/discussion will be moderated and assignments graded. **
-    * Consider peer-grading as an alternative to instructor grading. Consider inviting learners to contribute to citizen science or public data science projects as part of their work. Decide on clear criteria for achieving the badge of each module that can be concretely measured, try to stay away from qualitative requirements. Additionally, have clear “netiquette” rules in place in online discussion spaces, and moderate discussions if possible. 
-
 
 # **Live Course Blueprint**
 
-There are two forms of live courses to consider: (1) In-person instruction at conferences, science team meetings and similar in which instructor and learners are in the same, physical space; and (2) Virtual instruction, hosted via Zoom, Microsoft Teams, or Webex in which instructors and learners are not in the same room, but the conversation is occurring live. The primary role of the instructor in these scenarios is to teach the content that was already collected for the MOOC. While some instructors may have been involved in the MOOC design, this is not necessarily the case, and instructors should take care to familiarize themselves with the MOOC content prior to planning their “class.” 
+There are two forms of live courses to consider: (1) In-person instruction at conferences, science team meetings and similar in which instructor and learners are in the same, physical space; and (2) Virtual instruction, hosted via video-conference tool in which instructors and learners are not in the same room, but the conversation is occurring live. The primary role of the instructor in these scenarios is to teach the content that was already collected for the MOOC. While some instructors may have been involved in the MOOC design, this is not necessarily the case, and instructors should take care to familiarize themselves with the MOOC content prior to planning their “class.” 
 
 Some overarching tips to instructors for both scenarios are the following:
-
-
 
 * Do _not_ feel obligated to include all the content for the MOOC into the time allotted. 
     * A course designed for 2.5 hours online has 2.5 hours of content that has been trimmed and edited to meet time constraints. Natural presenting will likely be unable to stick to such a tight window. Prioritize what is important for the community in which you are presenting, and point learners to the online resources for the rest. Consult with the Transform to OPen Science (TOPS) core team if more than a fourth of the content is being cut to ensure the learners are still meeting the basic requirements for the badge. 
 *  _Do _encourage participation in small groups.
     * Utilize breakout rooms in virtual settings, and arrange chairs when in-person to facilitate small discussion. Make sure to have people “report-out” to the main group. 
-    * Utilize the TOPS Github and Slack in both settings for asynchronous and continuous discussion
+    * Utilize the TOPS Github and 'chat' in both settings for asynchronous and continuous discussion
 * _Do_ encourage learners who know the material to assist others
     * Learners will likely be at different levels of proficiency with the technology described in this course. Encourage learners to volunteer what they know and ask those who are more familiar to assist the others. Provide alternative pathways for success to keep everyone engaged.  
 
@@ -53,12 +46,10 @@ As each module is intended to be 3 hours long (2.5 hrs of content, two 15-min br
 
 **Virtual Session Suggestions**
 
-For virtual but live sessions, using technology designed for use in large, online settings will be key to its success. Some suggestions are: 
-
-
+For virtual but live sessions, using technology designed for use in large, online settings will be key to its success. Some **suggestions** are: 
 
 * Prep break-out rooms and virtual whiteboards (e.g, Canva, Jamboard) for discussions. Have people add themselves to the virtual whiteboard as they join the session initially, to save some time in the middle
-* Break up the “sage on a stage” by sharing videos developed for the MOOC. Additionally, try to set up the virtual space so that the face of the instructor is centered on the screen along with any slides. 
+* Break up the “sage on a stage” by sharing animations or activities developed for the virtual course. Additionally, try to set up the virtual space so that the face of the instructor is centered on the screen along with any slides. 
 * Try to keep the “sage” bits short to keep interest. Have someone other than the main instructor monitor the chat in order to ask questions as they come up. Encourage participants to use the chat and raise hand feature. 
 * Use breakout rooms for discussion, and then have the smaller groups report out to the larger group. Have them fill a virtual white-board or a slide, to encourage deep thinking and provide a measurable mechanism for participation. 
 * Use interactive whiteboards or other learning tools in order to encourage participation _during_ the presentation, not just after. This can help keep some styles of learners engaged. 
