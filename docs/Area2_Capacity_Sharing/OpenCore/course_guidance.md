@@ -11,14 +11,14 @@ The online course, designed in Massive Online Open Course (MOOC) style, is centr
 As a central goal of NASA’s TOPS and Open Source Science Initiative (OSSI) programs to educate 20k scientists in open science principles over five years, the open science MOOC shall need to be engaging and rewarding. Some core principles to keep in mind to achieve this are the following** **(grounded in suggestions from [Drake, J. O’Hara, M. Seeman, E. 2015](https://www.researchgate.net/publication/298712549_Five_principles_for_MOOC_design_With_a_case_study/link/59f939df0f7e9b553ec0d330/download) and [Bali, M. 2014](https://jolt.merlot.org/vol10no1/bali_0314.pdf)).
 
 
-* **Make the course meaningful**.** **
+* **Make the course meaningful**
     * Clearly distinguish core concepts and tie examples back to reality  Motivate learners with tools and resources they can use in their own scientific studies. If possible, let them complete assignments using their own data-sets/examples. Design quizzes and other assessments to evaluate learning beyond “mere recall.” 
-* **Make the course engaging. **
+* **Make the course engaging**
     * Avoid lecture videos, keep animations short and interspersed with prompts for discussion, concepts maps, pictures/visual aids, study guides and self-assessment quizzes. Use interactive tools such as Jamboard or Canva to encourage MOOC cohorts to engage with each other as they complete assignments. Use the TOPS [GitHub community board](https://github.com/nasa/Transform-to-Open-Science), slack, [Zenodo community spaces](https://zenodo.org/communities/), or other online forums to encourage interaction within and between cohorts. If possible, consider holding “office hours” with live instructors using video conferencing. 
-* **Design the course to be measurable. **
+* **Design the course to be measurable**
     * Take advantage of OpenEdEx analytics tools to verify learners are engaging with the material as expected. Understand how assignments will be graded and certification/badges awarded at the end.
     * See the section titled “Options to Earn Badge/Certification” in [this document](https://docs.google.com/document/d/10hIfNIkyWygW1uEJJs_hH4YMdAbfveiE0w5gZrGK9Q4/edit#heading=h.a4h08why1fai) for initial ideas.
-* **Design the course to be accessible. **
+* **Design the course to be accessible**
     * Consider language, internet bandwidth and time constraints when designing assignments. A core theme of the course is open access, so verify that all resources can be downloaded <span style="text-decoration:underline;">without institution access</span> to publications. Provide reading at various levels of academic rigor, to account for differences in education, scientific training, and professional role.
 
 # **Live Course Blueprint**
