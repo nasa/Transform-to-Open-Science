@@ -23,7 +23,7 @@ The OpenCore aims to introduce learners to a nuanced understanding of open scien
 ### Researcher core open science skills 
 - Have an ORCID
 - Be aware of data management and software management plan resources
-- How to identify community accepted data and software repositories
+- How to find and identify community accepted data and software repositories
 - Know how to openly license and share FAIR data and get a DOI assigned to it  
 - Know how to apply a permissive license and share open-source software and get a DOI assigned to it
 - Understand how to hold open meetings
