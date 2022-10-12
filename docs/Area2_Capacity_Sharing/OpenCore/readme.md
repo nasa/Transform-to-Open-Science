@@ -19,6 +19,16 @@ The five OpenCore modules will be:
 
 The OpenCore aims to introduce learners to a nuanced understanding of open science, enabling participants to better understand an open science workflow from end to end. The focus of the curriculum will be on providing learners with a basic understanding of open science, its ethos and benefits, and how to actively participate in open science communities. The TOPS curriculum will also be used to support researchers looking to engage with NASA as NASA moves to adopt more open science requirements (e.g., Scientific Information Policy and ROSES opportunities). Scientists will need to acquire the new skills highlighted in the curriculum to participate in open science effectively and to demonstrate those skills when applying for NASA funding opportunities.
 
+
+### Researcher core open science skills 
+- Have an ORCID
+- Be aware of data management and software management plan resources
+- How to identify community accepted data and software repositories
+- Know how to openly license and share FAIR data and get a DOI assigned to it  
+- Know how to apply a permissive license and share open-source software and get a DOI assigned to it
+- Understand how to hold open meetings
+
+
 ## Module Structure
 
 The design is for a 12.5-hour course consisting of five, 2.5-hour modules that could be taught in-person during large society meetings or during science team meetings, completed individually online, or completed via group-organized online events. 
