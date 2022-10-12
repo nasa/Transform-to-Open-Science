@@ -1,12 +1,4 @@
-# **Beyond Open Science**
-
-In order to support learning and exploration of open science beyond the core course, additional modules will be created for Data Science and Discipline Specific Open Science (i.e., heliophysics, astrophysics, planetary science, earth science, and biological and physical sciences). Themes of equitable access to science, diversity in scientific research, and environmental justice shall be woven  throughout these modules. 
-
-The **Data Science** course shall consist of a 2.5 hour module that focuses on data science skills such as coding best practices, sharing code on GitHub, creating executable notebooks, accessing cloud data etc. As with the main course, the content should be formatted in such a way to allow for both online/independent instruction and in-person/live-virtual moderation.
-
-The **Discipline-Specific **courses shall assume learners have basic data science skills, and focus on applying those skills to a particular data-set or problem-type which is either (a) central, (b) exemplar, or (c) emergent to that discipline. Each module shall be no longer than 2.5 hours in length, but there may be multiple for each discipline, depending on the initiative of the NASA Center Detailees. 
-
-More information about the ROSES call for the expansion courses can be [found here](https://docs.google.com/document/d/1dyOIfRYF_TeLDsiWE4i2OulwbkarG5AT2Hz7BkIHHEU/edit#). 
+# OpenCore Curriculum guidance
 
 **In order for the Open Science courses to be successful, there will need to be variations between the live courses–either in-person or virtual–and online courses. The rest of this document lays out suggested guidelines for course instructors and creators to achieve this balance. **
 
