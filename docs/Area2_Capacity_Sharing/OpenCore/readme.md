@@ -33,7 +33,7 @@ The OpenCore aims to introduce learners to a nuanced understanding of open scien
 
 The design is for a 12.5-hour course consisting of five, 2.5-hour modules that could be taught in-person during large society meetings or during science team meetings, completed individually online, or completed via group-organized online events. 
 
-Additional information about the module structure can be found on the [module structure page](./OpenCore_structure.md)
+Additional information about the module [structure](./OpenCore_structure.md) and suggestions for [design](./course_guidance.md) are provided.
 
 ### Instructor-lead Workshop Materials
 For instructor-lead workshops (in-person and virtual), the materials will be organized as follows:
