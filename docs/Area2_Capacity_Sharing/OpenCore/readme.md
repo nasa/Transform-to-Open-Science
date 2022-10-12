@@ -24,8 +24,8 @@ The OpenCore aims to introduce learners to a nuanced understanding of open scien
 - Have an ORCID
 - Be aware of data management and software management plan best practices and resources
 - How to find and identify community accepted data and software repositories
-- Know how to openly license and share FAIR data and get a DOI assigned to it  
-- Know how to apply a permissive license and share open-source software and get a DOI assigned to it
+- Know how to openly license and share FAIR data and assign a DOI  
+- Know how to apply a permissive license and share open-source software and assign a DOI
 - Understand how to hold open meetings
 
 
