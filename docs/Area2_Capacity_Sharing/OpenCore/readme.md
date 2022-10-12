@@ -29,21 +29,50 @@ The OpenCore aims to introduce learners to a nuanced understanding of open scien
 - Understand how to hold open meetings
 
 
-## Module Structure
+## Curriculum
 
 The design is for a 12.5-hour course consisting of five, 2.5-hour modules that could be taught in-person during large society meetings or during science team meetings, completed individually online, or completed via group-organized online events. 
-* Each course module will be a 2.5-hour interactive learning experience with slides, videos, quizzes, and activities. 
-* All content will be integrated into OpenedX 
-* All content will be assigned a CC0 or CC-BY license.
 
 Additional information about the module structure can be found on the [module structure page](./OpenCore_structure.md)
 
+### Instructor-lead Workshop Materials
+For instructor-lead workshops (in-person and virtual), the materials will be organized as follows:
+* Each module is to be organized into five, 30-minute lessons for a total of 2.5 hours of content. We recommend scheduling the module for three hours and taking two, 15-minute breaks. 
+* Each lesson consists of slides with talking points 
+* Each lesson ends with an activity or quiz that can be completed by both in-person or virtual participants
+* All content will be assigned a CC0 or CC-BY license
+
+### Online Course Materials
+For online coursework, including the Open edX course, the materials will be organized as follows::
+* Each module is to be organized into five lessons, each approximately 30 minutes in length, for a total of 2.5 hours of content. All five modules, if taken together, will be 12.5 hours of content. 
+* Each lesson has content suitable for online learning, graphics, and/or animations.    
+* Each lesson ends with an activity or quiz that can be completed online and automatically graded
+* Every module except the “Ethos of Open Science” module will offer a “test-out” mechanism, such as a quiz, to allow for advanced learners to earn the credit for that module
+* Final content will be deployed on Open edX
+* All content will be assigned a CC0 or CC-BY license
+
+## Certification: (TBD) 
+
+There will be a certification process for in-person, virtual, and Open edX module completion. Initial details are [here](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area3_Incentives/readme.md)
+
+In order for the TOPS certification to be offered as part of in-person or virtual workshops, the following minimum requirements must be met.
+* The event must be registered with the TOPS team
+* Teach at least one module in full (Note: Although modules can stand alone, we recommend teaching Ethos of Open Science alongside your chosen module, as it provides the foundational understanding for Open Science practices and benefits to users.) 
+* Have at least one [certified](https://carpentries.org/instructors/) instructor or apply for a waiver (application link TBD)
+* Must use TOPS OpenCore curriculum materials
+* Survey course participants before and after completion, using a survey that TOPS will provide for your use 
+* Abide by the TOPS [Code of Conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md)
+
+## Anticipated Delivery Dates:
+12/1/2022: In-person / virtual workshop materials for Module 1: Ethos of Open Science \
+3/1/2022: Description of certification process for all modules \
+4/1/2022: In-person / virtual workshop materials and certification process for all modules \
+4/1/2022: MOOC and certification process \
+
 # Course Enrollment and Teaching Event Plan
 ## Upcoming Events
-* December 1, 2022: Open Ethos module launched at in-person workshops
-* April 1, 2023: Release of the OpenCore
+* December 10-13, 2022: Open Ethos module in-person workshops
+* January 7-12, 2022: Open Ethos module in-person workshops
 
 *Additional details will be added soon.*
 
-## Course Incentives
-* Certification and/or NASA TOPS open science [badges](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area3_Incentives/readme.md)
