@@ -1,6 +1,6 @@
 # OpenCore Curriculum guidance
 
-**In order for the Open Science courses to be successful, there will need to be variations between the live courses–either in-person or virtual–and online courses. The rest of this document lays out suggested guidelines for course instructors and creators to achieve this balance. **
+In order for the Open Science courses to be successful, there will need to be variations between the live courses–either in-person or virtual–and online courses. The rest of this document lays out suggested guidelines for course instructors and creators to achieve this balance.
 
 # **Online Course Blueprint**
 
