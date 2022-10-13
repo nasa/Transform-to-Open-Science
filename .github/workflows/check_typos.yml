@@ -19,4 +19,4 @@ jobs:
             with:
               check_filenames: true
               skip: "*.csv,*.geojson,*.json,*.yml*.js,*.html,*cff"
-              ignore_words_list: stip,leary
+              ignore_words_list: stip,leary,HSI
