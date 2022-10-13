@@ -6,6 +6,8 @@
      - Virtual cohorts (see Section 3.2.2).
 
 
+**More information on this solicitation can be found in the FAQ [here](/docs/Area4_Moving_To_Openness/TOPST/readme.md).**
+
 
 
 
