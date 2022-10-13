@@ -61,7 +61,7 @@ Yes, a for-profit can be the lead for a proposal to this solicitation. Please se
 
 **Is it possible to submit more than one proposal?**
 
-A: Each proposal is limited to a single topic, but any organization or PI may submit multiple proposals.
+Each proposal is limited to a single topic, but any organization or PI may submit multiple proposals.
 
 **If an organization submits more than one proposal, does it need to be for different elements of the call? Or can we have more than one proposal for the same element (for example, more than one proposal for ScienceCore, Summer Schools, or Virtual Cohorts)?**
 
@@ -75,9 +75,55 @@ This is the first time a solicitation of this scope has been released.  At this 
 
 The number of proposals selected will be dependent on the number and quality of proposals submitted and on the availability of funds.
 
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td><strong><em>ScienceCore </em>Curriculum</strong>
+   </td>
+   <td><strong>Summer Schools</strong>
+   </td>
+   <td><strong>Virtual Cohorts</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Total Budget</strong>
+   </td>
+   <td>**$1.3 million per year
+   </td>
+   <td>**$1.2 million per year
+   </td>
+   <td>**$400,000 per year
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Duration</strong>
+   </td>
+   <td>Max 2 years
+   </td>
+   <td>Max 3 years
+   </td>
+   <td>Max 3 years
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Number of Projects</strong>
+   </td>
+   <td>6 to 12
+   </td>
+   <td>3 to 4
+   </td>
+   <td>2 to 3
+   </td>
+  </tr>
+</table>
+
+**_Total budget divided across projects_
+
 **What would be an appropriate project start date?**
 
-A start date beginning sometime between May and June 2023 would be reasonable. Selection letters will be available ~mid-Feb. Projects might start earlier at their own risk of funds not being available. On average, it takes 3-6 months for funds to be available after selection letters. See Table below. 
+A start date beginning sometime between May and June 2023 would be reasonable. Selection letters will be available ~mid-Feb. Projects might start earlier at their own risk of funds not being available. On average, it takes 3-6 months for funds to be available after selection letters.
 
 **Is there any restriction on the number of Co-Investigators?**
 
