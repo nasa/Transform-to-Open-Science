@@ -24,7 +24,7 @@ Medium article ["The secret to writing a great NASA proposal"](https://medium.co
 
 Jet Propulsion Laboratory's Christina Richey's [Workshop on Proposal Writing: Tips and Tricks](https://www.nasa.gov/sites/default/files/atoms/files/richey_proposal_writing_seminar.pdf) information on the speakers can be found [here](https://research.howard.edu/sites/research.howard.edu/files/2021-05/NASA%20Proposal%20Writing%20Workshop-%20MUREP%202021.pdf)
 
-University of Colorado Boulder's [NASA Proposal Essentials](https://www.colorado.edu/ocg/prepare-proposals/proposal-essentials-sponsor/nasa-proposal-essentials) inlcuding how to get started, formatting do's and don't's and templates.
+University of Colorado Boulder's [NASA Proposal Essentials](https://www.colorado.edu/ocg/prepare-proposals/proposal-essentials-sponsor/nasa-proposal-essentials) including how to get started, formatting do's and don't's and templates.
 
 Arizona State University's presentation on [Start to Finish Writing NASA Proposals](https://sese.asu.edu/sites/default/files/williams_writing_nasa_proposals_0.pdf) and their Proposal Development Lifecycle [resources](https://research.arizona.edu/development/proposal-development)
 
