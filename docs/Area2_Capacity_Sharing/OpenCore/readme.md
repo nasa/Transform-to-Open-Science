@@ -67,7 +67,7 @@ In order for the TOPS certification to be offered as part of in-person or virtua
 1 Dec 2022: In-person / virtual workshop materials for Module 1: Ethos of Open Science \
 1 Mar 2023: Description of certification process for all modules \
 1 Apr 2023: In-person / virtual workshop materials and certification process for all modules \
-1 Apr 2023: MOOC and certification process \
+1 Apr 2023: MOOC and certification process 
 
 # Course Enrollment and Teaching Event Plan
 ## Upcoming Events
