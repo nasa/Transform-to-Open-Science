@@ -1,5 +1,7 @@
 # Funding Opportunites for Pursuing Open Science
 
+Proposal [guidance](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
+
 - 9 Sept 2022: NASA's Open Source Science Initiative ([OSSI](https://science.nasa.gov/open-science-overview)) welcomes proposals relevant to its goals to expand open science for the Science Mission Directorate. Application nformation can be found at this [link](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Optional Notice of Intent to Propose due 11/10/22. Proposals due 12/8/22. See the [TOPS Training FAQs](https://doi.org/10.5281/zenodo.7194641) for additional information. Proposals welcome for
      - Development of ScienceCore materials (see Section 3.1),
      - Implementation of summer schools (see Section 3.2.1), and
