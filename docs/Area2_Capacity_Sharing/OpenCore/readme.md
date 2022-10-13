@@ -56,7 +56,7 @@ For online coursework, including the Open edX course, the materials will be orga
 There will be a certification process for in-person, virtual, and Open edX module completion. Initial details are [here](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area3_Incentives/readme.md)
 
 In order for the TOPS certification to be offered as part of in-person or virtual workshops, the following minimum requirements must be met.
-* The event must be registered with the TOPS team
+* The event must be [registered](https://docs.google.com/forms/d/e/1FAIpQLSdKjStEuuefHpBKpwkGB6FRYD7U3rP5-t6C2zwe22_UaBFgRA/viewform) with the TOPS team
 * Teach at least one module in full (Note: Although modules can stand alone, we recommend teaching Ethos of Open Science alongside your chosen module, as it provides the foundational understanding for Open Science practices and benefits to users.) 
 * Have at least one [certified](https://carpentries.org/instructors/) instructor or apply for a waiver (application link TBD)
 * Must use TOPS OpenCore curriculum materials
