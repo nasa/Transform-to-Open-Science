@@ -26,8 +26,10 @@ TOPS is collecting a living list of open science resources! We have divided them
 
 ### Join an Open Science Community
 - [Pangeo](https://pangeo.io/) - an open science community with a weekly community meeting that starts with a 15 min science talk. Meeting schedule is at the bottom of [this](https://pangeo.io/meeting-notes.html) page.
+     - Related, is the Pangeo-Forge data sharing roadmap: https://github.com/pangeo-forge/roadmap.
 - [Openscapes](https://www.openscapes.org/) - an open source community offering mentorship, teaching, coaching and community organizing centered around open data science
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - a great fun way to first get involved in open source software at any level.               
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - a great fun way to first get involved in open source software at any level. 
+- The [Declaration on Research Assessment (DORA)](https://sfdora.org/) which recognizes the need to improve the ways in which researchers and the outputs of scholarly research are evaluated              
 
 ### Check-out What the Community is Saying
 - [Medium](https://medium.com/) - People post a lot of tutorials, news about new developments in data management, cloud, it is a great space to learn.
