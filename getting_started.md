@@ -15,19 +15,19 @@ All community members must abide by the code of conduct when engaging with TOPS,
 
 ## Code of Conduct
 The TOPS code of conduct can be found [here](https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md). Responses to code of conduct violations on this GitHub are based on the level of impact, which is tied to where the violation took place–either a comment, discussion post, or in a pull request (PR) to the repository. Code of conduct violations for the GitHub will be addressed in the following manner: 
-- First code of conduct violation 
-     - Participant: Comment removed + contacted by TOPS moderator
-     - Contributor: PR denied + contacted by TOPS moderator + banned from PRs for 90 days
-- Second code of conduct violation
-     - Participant: Comment removed + contacted by TOPS moderator + ban for 90 days from space where offense occurred
-     - Contributor: PR denied + contacted by TOPS moderator + permanent ban from GitHub and other TOPS digital communication 
-- Third code of conduct violation
-     - Participant: Comment removed + contacted by TOPS moderator + permanent ban from all TOPS spaces 
-     - Former Contributor: Contacted by TOPS moderator + permanent ban from all TOPS spaces 
-- Commit of Malicious Code
-     - Immediate and permanent ban from all TOPS spaces
-- Threat of violence against an individual or group 
-     - Immediate and permanent ban from all TOPS spaces 
+* First code of conduct violation 
+    * **Participant:** Comment removed + contacted by TOPS moderator
+    * **Contributor**:  PR not accepted and removed from GitHub + contacted by TOPS moderator
+* Second code of conduct violation
+    * **Participant:** Comment removed + contacted by TOPS moderator + ban for 90 days from space where offense occurred
+    * **Contributor:** PR not accepted and removed from GitHub + contacted by TOPS moderator + banned from PRs for 90 days
+* Third code of conduct violation
+    * **Participant**: Comment removed + contacted by TOPS moderator + permanent ban from all TOPS spaces 
+    * **Contributor**: PR not accepted and removed from GitHub + contacted by TOPS moderator + permanent ban from GitHub and other TOPS digital communication
+* Commit of Malicious Code
+    * Immediate and permanent ban from all TOPS spaces
+* Threat of violence against an individual or group
+    * Immediate and permanent ban from all TOPS spaces
 
 ## GitHub Basics
 There are three, major ways to contribute to the TOPS GitHub. 

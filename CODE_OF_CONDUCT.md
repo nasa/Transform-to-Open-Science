@@ -1,5 +1,17 @@
 # TOPS Code of Conduct
 
+## To Report a Code of Conduct Violation
+
+If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify a staff member.
+
+Notification should be done by contacting a staff person on site or by emailing Steve Crawford at
+ [steven.m.crawford@nasa.gov](mailto:steven.m.crawford@nasa.gov?subject=TOPS%20Code%20of%20Conduct%20Report) and Chelle Gentemann at [chelle.gentemann@nasa.gov](mailto:chelle.gentemann@nasa.gov?subject=TOPS%20Code%20of%20Conduct%20Report).
+
+All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
+
+Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety is advised to contact 911.
+
 ## Purpose
 
 A primary goal of Transform To Open Science is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion.
@@ -58,65 +70,66 @@ not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
  
 
-## Scope
+### Scope
 
 This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.  [In-person and virtual activities will also provide further guidance on appropriate conduct at those events.](./docs/Area1_Engagement/Community_Forums/code_of_conduct.md)
 
-## Reporting Guidelines
+### Key Definitions 
+* A **participant** is someone who has posted a comment or question on the TOPS GitHub, TOPS Slack, TOPS Google Drive documentation or chat features provided by TOPS to the community during an open meeting or community forum. Anyone who interacts with TOPS or OSSI is a participant. 
+* A **contributor** is an individual who has made a pull request or code commit to TOPS or OSSI official GitHubs which are part of the NASA environment. 
+* A **moderator** is either (1) someone who is appointed to monitor the chat and respond to questions, comments and incidents during a virtual or hybrid OSSI meeting, or (2) someone who has been given moderation access on GitHub. 
+    * [GitHub defines a moderator](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/roles-in-an-organization#organization-moderators) as “Moderators are organization members who, in addition to their permissions as members, are allowed to block and unblock non-member contributors, set interaction limits, and hide comments in public repositories owned by the organization.” GitHub moderators can hide comments, pull requests, and issues; block or unblock contributors; and limit interactions for certain users.
+    * GitHub resources for moderation can be[ found here](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/managing-moderators-in-your-organization#about-organization-moderators). 
 
-Instances of both acceptable or unacceptable behaviors may be reported to the 
-community organizers at [steven.m.crawford@nasa.gov](mailto:steven.m.crawford@nasa.gov?subject=TOPS%20Code%20of%20Conduct%20Report).
+### Enforcement Guidelines: Code of Conduct Violation Response Procedure
 
-All complaints will be reviewed and investigated promptly and fairly. 
+#### Summary 
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+* First code of conduct violation 
+    * **Participant:** Comment removed + contacted by TOPS moderator
+    * **Contributor**:  PR not accepted and removed from GitHub + contacted by TOPS moderator
+* Second code of conduct violation
+    * **Participant:** Comment removed + contacted by TOPS moderator + ban for 90 days from space where offense occurred
+    * **Contributor:** PR not accepted and removed from GitHub + contacted by TOPS moderator + banned from PRs for 90 days
+* Third code of conduct violation
+    * **Participant**: Comment removed + contacted by TOPS moderator + permanent ban from all TOPS spaces 
+    * **Contributor**: PR not accepted and removed from GitHub + contacted by TOPS moderator + permanent ban from GitHub and other TOPS digital communication
+* Commit of Malicious Code
+    * Immediate and permanent ban from all TOPS spaces
+* **Threat of violence against an individual or group**
+    * Immediate and permanent ban from all TOPS spaces
 
-## Enforcement Guidelines
+#### Full Text
+**Participants**
 
-Community leaders will follow these guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+1. If a participant makes a comment which is contrary to the Code of Conduct during any TOPS meeting, that comment will be removed promptly from the space. 
+     * A community moderator will, as soon as possible, contact the individual who posted the content. If needed, they will provide clarity around the nature of the violation, and an explanation of why the behavior was inappropriate. A public apology may be requested.
+     * The participant will be allowed to continue participating in other spaces, and during other meetings.
+     * If a participant makes additional comments during the same event and/or in the same digital space (e.g., discussion thread on GitHub or slack channel) prior to being contacted by a community moderator, the comment and the participant will be removed from the space, until a community moderator can contact them. 
+2. If a participant violates the Code of Conduct for a **second time**, they will be contacted by a community moderator and informed of a temporary ban from the digital and/or physical spaces in which the harm was perpetuated. 
+     * Temporary bans will extend only to the area in which the harm occurred (e.g., removed from Slack but not banned from community forums). 
+     * After 90 days, the participant may request to be included in that digital space again. Admission into the digital space will be determined by the TOPS team on a case-by-case basis. 
+3. If a participant violated the Code of Conduct a **third time, they will be <span style="text-decoration:underline;">permanently banned</span> and removed from all TOPS spaces**, including digital communication channels and community meetings.  
+     * A permanent ban includes avoiding interactions in community spaces as well as external channels like social media. 
+     * Depending on the severity of the infraction, a TOPS civil servant may be called upon to issue a statement to the community. 
+4. If a participant **seriously violates community standards**, such as threatening violence, they will be immediately and permanently removed from all TOPS spaces, and the harmful comment will be removed as quickly as possible. 
+     * A permanent ban includes avoiding interactions in community spaces as well as external channels like social media. 
+     * Depending on the severity of the infraction, a TOPS civil servant may be called upon to issue a statement to the community. 
 
-### 1. Correction
+**Contributors on GitHub**
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+1. If a contributor submits a pull request (PR) containing information which is contrary to the Code of Conduct that PR will be denied.
+     * A community moderator will, as soon as possible, contact the individual who posted the content. If needed, they will provide clarity around the nature of the violation, and an explanation of why the behavior was inappropriate.
+     * No other PRs by that participant will be accepted until the individual has been contacted by a TOPS community moderator. 
+2. If a contributor submits a PR which violates the Code of Conduct for a **second time**, they will be contacted by a community moderator and informed of a 90-day temporary ban from submitting pull requests. 
+     * Temporary bans will extend only to the area in which the harm occurred, in this case, no pull requests will be accepted for 90 days but the individual may continue to comment in Discussions, Issues, in Slack and attend virtual meetings. 
+     * After 90 days, the contributor’s pull requests will be accepted once again, subject to review by the TOPS GitHub team. 
+     * Depending on the severity of the infraction, a TOPS civil servant may be called upon to issue a statement to the community. 
+3. If a contributor submits a PR which violates the Code of Conduct for a **third time, they will be <span style="text-decoration:underline;">permanently banned</span> and removed from all TOPS spaces**, including digital communication channels and community meetings.  
+     * A permanent ban includes avoiding interactions in community spaces as well as external channels like social media. 
+     * Depending on the severity of the infraction, a TOPS civil servant may be called upon to issue a statement to the community.
+4. If a contributor **submits a pull request which is harmful to our digital spaces (e.g., malicious code), they will be immediately and permanently banned** from all TOPS digital spaces including but not limited to GitHub, slack and Google Drive. They will also not be permitted to participate in TOSP community meetings or forums. 
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
-
-### 2. Warning
-
-**Community Impact**: A violation through a single incident or series
-of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
-
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or disparagement of or aggression toward classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
 
 ## License and attribution
 
@@ -131,4 +144,10 @@ TOPS is greatly appreciative of the multiple sources that we drew from to build 
 * [The Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) 
 
 * Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+* [Contributor Covenant](https://www.contributor-covenant.org/) from Contributor-Covenant.org 
+
+* [The TTS Handbook](https://handbook.tts.gsa.gov/about-us/code-of-conduct/) from the General Services Administration
+
+* The archives of the [Ada Initiative ](https://adainitiative.org/) 
 
