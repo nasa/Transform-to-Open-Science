@@ -4,7 +4,10 @@ We're so glad you're interested in contributing to Transform to Open Science!
 
 Before contributing, in addition to reading our CONTRIBUTING guide (you are here), we also ask you to read our [LICENSE](https://github.com/nasa/Transform-to-Open-Science/blob/main/LICENSE.MD), our [README](https://github.com/reeseIngraham/Transform-to-Open-Science/blob/main/README.md), and our [Code of Conduct](https://github.com/reeseIngraham/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md).
 
-## Understanding Your Role
+## We Want Your Help!
+
+No, really, we do! Please come and participate in our community and help us tranform to open science together! 
+
 Depending on your level of interaction with TOPS and the TOPS GitHub, visitors to the site can be described as: 
 - A **community member**: anyone in the open science community who visits a TOPS site, utilizes TOPS online tools, or attends a TOPS event.
 - A **participant**: anyone who posts a comment or poses a question in the *GitHub Discussion Space*, reports a site bug or requests a new resource in *GitHub Issues*, or attends a TOPS event and utilizes any virtual chat features during that event. 
@@ -51,6 +54,31 @@ In the spirit of open source software, everyone is encouraged to help improve th
 - by writing code and documentation (**no pull request is too small**: fix typos, add code comments, clean up inconsistent whitespace)
 - by reviewing [pull requests](https://github.com/nasa/Transform-to-Open-Science/pulls).
 - by closing [issues](https://github.com/nasa/Transform-to-Open-Science/issues)
+
+## Make a change
+*This section is attributed to [NumFOCUS](https://github.com/numfocus/getting-started-with-open-source/blob/master/CONTRIBUTING.md) and [Adrienne Friend](https://github.com/adriennefriend/imposter-syndrome-disclaimer).*
+
+Once you've identified something you'd like to help with you're ready to make a change to the project repository!
+
+1. First, describe what you're planning to do as a comment to the issue, (and this might mean making a new issue).
+
+    [This blog](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) is a nice explanation of why putting this work in up front is so useful to everyone involved.
+
+2. Fork this repository to your profile.
+
+    You can now do whatever you want with this copy of the project. You won't mess up anyone else's work so you're super safe.
+
+    Make sure to [keep your fork up to date]( https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser) with the master repository.
+
+3. Make the changes you've discussed.
+
+    Try to keep the changes focused rather than changing lots of things at once. If you feel tempted to branch out then please *literally* branch out: create separate branches for different updates to make the next step much easier!
+
+4. Submit a pull request.
+
+    A member of the executive team will review your changes, have a bit of discussion and hopefully merge them in!  
+    
+    N.B. you don't have to be ready to merge to make a pull request! We encourage you to submit a pull request as early as you want to. They help us to keep track of progress and help you to get earlier feedback.
 
 #### Submit Great Issues
 * Before submitting a new [issue](https://github.com/nasa/Transform-to-Open-Science/issues), check to make sure [a similar issue isn't already open](https://github.com/nasa/Transform-to-Open-Science/issues?q=is%3Aopen+is%3Aissue). If one is, contribute to that issue thread with your feedback.
