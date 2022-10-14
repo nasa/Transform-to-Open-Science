@@ -14,15 +14,17 @@
 ## Open Science Training and Handbooks
 - The Turing Way [handbook](https://the-turing-way.netlify.app/welcome) to reproducible, ethical and collaborative data science
 - A [Guide](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EA001797) to Using GitHub for Developing and Versioning Data Standards and Reporting Formats
-- [Center for Open Science](https://osf.io/vkhbt/wiki/home/)
-- Open coding and data learning materials: [The Carpentries](https://carpentries.org/)
-- Openscapes open science mentorship [program](https://www.openscapes.org/)
+- [Center for Open Science](https://osf.io/vkhbt/wiki/home/) provides a single location for researchers to share their data, code, resources, and pre-prints as well as a variety of resources to enable that 
+- Open coding and data learning materials can be found on [The Carpentries'](https://carpentries.org/) website
 - Online resource [list](https://github.com/asoplata/open-science-resources)
 - [Python](https://prappleizer.github.io/index.html) for astronomers
 - [OpenScienceMOOC](https://opensciencemooc.eu/)
 - [Foster's Open Science Toolkit](https://www.fosteropenscience.eu/toolkit)
 - [TUDelft's](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/) Open Science Training
 - [Eurodoc Ambassador Training](http://eurodoc.net/ambassadors)
+
+## Mentorship
+- Openscapes open science mentorship [program](https://www.openscapes.org/)
 
 ## Open Science Publications
 *This reading list is organized following the structure of the TOPS [Open Science curriculum](/docs/Area2_Capacity_Sharing/OpenCore/readme.md).*
