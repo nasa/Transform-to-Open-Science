@@ -9,9 +9,8 @@
 
 ## Workshops, Classes, and Trainings
 - [The Carpentries](https://carpentries.org/) has a wide variety of workshops, including Plotting and Programming in Python, Programming with Python, Programming with R, and R for Reproducible Scientific Analysis as well as applied programming for a few scientific disciplines and community developed lessons. You can find their most up-to-date list of course offerings [here](https://carpentries.org/workshops-curricula/).
-- PyData has a library of [videos](https://www.youtube.com/user/PyDataTV) on a wide variety of datat science topics, including introductions to various coding languages. PyData is a project of [NumFOCUS](https://numfocus.org/). 
+- PyData has a library of [videos](https://www.youtube.com/user/PyDataTV) on a wide variety of data science topics, including introductions to various coding languages. PyData is a project of [NumFOCUS](https://numfocus.org/). 
 - The "quickstart" guide to [Pangeo](https://pangeo.io/quickstart.html), a "community platform for big data science" for the global scientific community
-- 
 
 
 ## Python Learning Resources
