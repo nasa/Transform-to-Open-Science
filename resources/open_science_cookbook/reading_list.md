@@ -1,6 +1,6 @@
 # TOPS Reading List
 
-*Some recommended open science reading spanning from official policy to publications to educational materials. If you are looking for resources to learn how to code, please check out [this list](/resources/open_science_cookbook/code_learning_resources.md).
+*Some recommended open science reading spanning from official policy to publications to educational materials. If you are looking for resources to learn how to code, please check out [this list](/resources/open_science_cookbook/code_learning_resources.md).*
 
 ## Open Science Policy and Government Recommendations
 - UNESCO 2021 [Recommendations on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation)
@@ -20,8 +20,8 @@
 - Online resource [list](https://github.com/asoplata/open-science-resources)
 - [Python](https://prappleizer.github.io/index.html) for astronomers
 - [OpenScienceMOOC](https://opensciencemooc.eu/)
-- [Foster](https://www.fosteropenscience.eu/toolkit)
-- [TUDelft](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/)
+- [Foster's Open Science Toolkit](https://www.fosteropenscience.eu/toolkit)
+- [TUDelft's](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/) Open Science Training
 - [Eurodoc Ambassador Training](http://eurodoc.net/ambassadors)
 
 ## Open Science Publications
