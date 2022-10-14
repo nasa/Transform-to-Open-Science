@@ -32,21 +32,3 @@ Please be specific about the **module/lesson/item (ex: Open Data/1/ii)** and pro
 ## **A note from the team about working openly…**
 
 We are inviting you to engage while the text is still in draft form.  You will see grammar and potentially spelling errors not normally encountered in a peer-review process.  Our copy editing step is later in August, so please focus on the content and not the fine tuning of the text. We truly appreciate your contributions at this stage.
-
-# OpenCore Sprint Schedule
-
-* Curriculum [Pre-sprint](./events/2022-06-03-opencore-presprint-report.md): 1 June - 26 June
-* Curriculum Sprint: 27 June - 1 July
-* Curriculum Harmonization: 5 July - 25 July
-* Content Review (*Community Participation Welcome*): 25 July - 20 Aug
-    * July 25: Module outlines open to the community
-    * Aug 5: Full module content open to the community
-* Adjudicate Reviewer Feedback, Phase 1: 28 July - 5 Aug
-* Post Sprint Meeting with TOPS Team + OpenCore SMEs: Aug 9 to Aug 11
-* Adjudicate Reviewer Feedback, Phase 2: 6 Aug - 20 Aug
-* Content Review by OpenCore SMEs + Copy Editing: 21 Aug - 31 Aug
-* Instructional Design: 1 Sept - 30 Sept
-* OpenEdx Module Content Review: 27 Sept - 30 Sept
-* Module Testing (*Community Participation Welcome*): 3 Oct - 14 Oct
-* Adjudicate Testing Feedback: 17 Oct - 28 Oct
-* Module Soft Launch: 28 Oct
