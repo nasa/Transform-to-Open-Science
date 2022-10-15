@@ -6,7 +6,7 @@ Before contributing, in addition to reading our CONTRIBUTING guide (you are here
 
 ## We Want Your Help!
 
-No, really, we do! Please come and participate in our community and help us tranform to open science together! 
+No, really, we do! Please come and participate in our community and help us transform to open science together! 
 
 Depending on your level of interaction with TOPS and the TOPS GitHub, visitors to the site can be described as: 
 - A **community member**: anyone in the open science community who visits a TOPS site, utilizes TOPS online tools, or attends a TOPS event.
