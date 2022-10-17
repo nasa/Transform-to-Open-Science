@@ -13,11 +13,16 @@ We will discuss the requirements for each section, point out resources NASA has 
 
 **Date:** October 13, 2022, 1PM EDT (UTC -4)
 
-[Registration](https://go.nasa.gov/3Bitx0G)
+- [Video Recording](https://www.youtube.com/watch?v=wTtmdWqUr1c)
+- [Slides](https://doi.org/10.5281/zenodo.7195790)
+- [TOPS Training FAQs](https://doi.org/10.5281/zenodo.7194641)
+- [Code of conduct](../Community_Forums/code_of_conduct.md)
 
-[Ask Questions](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
+Pre-proposal calls will be held Tuesday, October 25, 2022 and Thursday, November 3, 2022, 2-2:30 pm EST to provide interested parties with the opportunity to better understand the intent, scope, and selection criteria of the Transform to Open Science Training (Solicitation number NNH22ZDA001N-TOPST). This will be an open public question/answer period.
 
-[Code of conduct](../Community_Forums/code_of_conduct.md)
+You can attend this call in one of two ways: (i) Phone-in or (ii) Participate via WebEx. When using WebEx you can raise your hand via the chat room and follow up verbally, via chat when called upon, or just ask your questions by typing into the chat room. If you need the call in information or would like to add this to your own calendar, please download our [Meeting Calendar](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement).
+- October 25 [https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=m01280241e3f1332f4b1fb2ee300eed61](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=m01280241e3f1332f4b1fb2ee300eed61)
+- November 3 [https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=m181c65b8777425f168a872e988670173](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=m181c65b8777425f168a872e988670173)
 
 Tentative Agenda:
 | **Time (ET)** | **Agenda Item** | **Speaker** |
