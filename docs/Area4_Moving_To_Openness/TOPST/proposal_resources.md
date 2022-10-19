@@ -13,6 +13,7 @@
 
 ## Community Knowledge Sharing
 
+* The **Grants by Funder** website has examples of NASA proposals [here](https://www.ogrants.org/grants-02-funders.html#nasa) as well as tools for you to submit your completed grant for others to benefit from it [here](https://www.ogrants.org/add.html)
 * A great slide show on preparing a proposal [here](https://www.nasa.gov/sites/default/files/atoms/files/richey_proposal_writing_seminar.pdf)
 * Medium article ["The secret to writing a great NASA proposal"](https://medium.com/nasa-butterfly/how-to-write-a-great-nasa-proposal-2c6010faf7ab) by Chelle Gentemann
 * Jet Propulsion Laboratory's Christina Richey's [Workshop on Proposal Writing: Tips and Tricks](https://www.nasa.gov/sites/default/files/atoms/files/richey_proposal_writing_seminar.pdf) information on the speakers can be found [here](https://research.howard.edu/sites/research.howard.edu/files/2021-05/NASA%20Proposal%20Writing%20Workshop-%20MUREP%202021.pdf)
