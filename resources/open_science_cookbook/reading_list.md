@@ -20,12 +20,14 @@
 - Online resource [list](https://github.com/asoplata/open-science-resources)
 - [Python](https://prappleizer.github.io/index.html) for astronomers
 - [OpenScienceMOOC](https://opensciencemooc.eu/)
-- [Foster's Open Science Toolkit](https://www.fosteropenscience.eu/toolkit)
+- [Foster's Open Science Toolkit](https://www.fosteropenscience.eu/toolkit) and resources for [training](https://open-science-training-handbook.gitbook.io/book/examples-and-practical-guidance) others in open science 
 - [TUDelft's](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/) Open Science Training
 - [Eurodoc Ambassador Training](http://eurodoc.net/ambassadors)
 - UCSB's Open Science: Best Practices, Data Sovereignty and Co-production [book](https://learning.nceas.ucsb.edu/2022-03-assw/workshop-content.html)
 - [Community Best Practices guide](https://esipfed.github.io/esds-community-guide/) from ESDSWG
 - A video on the Reproducibility and Open Science in Astronomy from [ESO ROSA2022](https://www.youtube.com/watch?v=wBDFYYcfu6s)
+- A course devoted to equitable [data science](https://www.nceas.ucsb.edu/OSS) from UCSB
+- An introduction to open science [tutorial](https://www.complexityexplorer.org/courses/125-introduction-to-open-science) by Helena Miton 
 
 ## Mentorship
 - Openscapes open science mentorship [program](https://www.openscapes.org/)
