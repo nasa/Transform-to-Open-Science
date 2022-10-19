@@ -38,7 +38,7 @@ Additional information about the module [structure](./OpenCore_structure.md) and
 ### Instructor-lead Workshop Materials
 For instructor-lead workshops (in-person and virtual), the materials will be organized as follows:
 * Each module is to be organized into five, 30-minute lessons for a total of 2.5 hours of content. We recommend scheduling the module for three hours and taking two, 15-minute breaks. 
-* Each lesson consists of slides with talking points 
+* Each lesson has content suitable for in-person or virtual workshops (slides with talking points) 
 * Each lesson ends with an activity or quiz that can be completed by both in-person or virtual participants
 * All content will be assigned a CC0 or CC-BY license
 
