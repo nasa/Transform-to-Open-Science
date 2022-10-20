@@ -35,14 +35,14 @@ There are three, major ways to contribute to the TOPS GitHub.
   - To learn more about GitHub Discussions check out their [documentation](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions) 
 - **Suggest a change, addition, or deletion to what is already on the GitHub using [Issues](https://github.com/nasa/Transform-to-Open-Science/issues).** Issues can be about any TOPS plans, timelines, and content.
   - To learn more about GitHub Issues check out their [documentation](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
-- Become a contributor! [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository and [make commits](https://docs.github.com/en/get-started/quickstart/contributing-to-projects#making-and-pushing-changes) to add resources and additional materials. 
+- Become a contributor! [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository and [make commits](https://docs.github.com/en/get-started/quickstart/contributing-to-projects#making-and-pushing-changes) to add resources and additional materials. We’ve recorded a very short [how-to guide](https://www.youtube.com/watch?v=PHoScPeMWHI) if you need a hand to get started. 
 
 New to GitHub? Check out these getting started guides *[Getting Started with Git and GitHub: The Complete Beginner’s Guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)* and *[The Beginners Guide to Git and GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)*
                                                               
 # Transform to Open Science
 The Transform to Open Science (TOPS) mission is designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science. You can learn more about the mission on the [main repository readme](https://github.com/nasa/Transform-to-Open-Science#transform-to-open-science-tops). General Q&A about open science, TOPS, and our programs can be found in out [TOPS FAQ](/tops_faq.md) document.
 
-TOPS has four areas of action to help us reach our [goals](https://github.com/nasa/Transform-to-Open-Science#goals). Use the list below to navigate to the resources and supporting materials for each area.
+TOPS has four areas of action to help us reach our [goals](https://github.com/nasa/Transform-to-Open-Science#strategic-objectives). Use the list below to navigate to the resources and supporting materials for each area.
 - [Area 1: Engagement](/docs/Area1_Engagement/readme.rst) – Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
   - Access materials from our [community forums](/docs/Area1_Engagement/Community_Forums/readme.md)
   - Access materials from our [community panels](/docs/Area1_Engagement/Community_Panels/readme.md)
