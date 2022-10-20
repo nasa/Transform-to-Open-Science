@@ -1,3 +1,5 @@
+## Ready to [get started](/getting_started.md) Transforming towards Open Science?
+
 # Announcements!
 - October 25, 2022 - Public forum to ask questions about TOPST (join our email list for webex link)
 - November 3, 2022 - Public forum to ask questions about TOPST (join our email list for webex link)
