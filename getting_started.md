@@ -48,7 +48,7 @@ TOPS has four areas of action to help us reach our [goals](https://github.com/na
   - Access materials from our [community panels](/docs/Area1_Engagement/Community_Panels/readme.md)
   - [Read our outreach strategy](/docs/Area1_Engagement/outreach.md)
   - Be inspired by [open science stories](/docs/Area1_Engagement/Open-Science-Stories/readme.md)
-  - Find us at [conferences](/docs/Area1_Engagement/tops_conferences.md) and read our [publications](/docs/Area1_Engagement/tops_publications.md)
+  - Find us at [conferences](/docs/Area1_Engagement/Outreach/tops_conferences.md) and read our [publications](/docs/Area1_Engagement/Outreach/tops_publications.md)
 - [Area 2: Capacity sharing](/docs/Area2_Capacity_Sharing/readme.md) – Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
   - Learn more about the TOPS [open science curriculum](/docs/Area2_Capacity_Sharing/readme.md)
 - [Area 3: Incentives](/docs/Area3_Incentives/readme.md) – Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
@@ -57,3 +57,4 @@ TOPS has four areas of action to help us reach our [goals](https://github.com/na
   - Access a summary of all US federal action [advancing open science](/docs/Area4_Moving_To_Openness/federal_guidance.md) and a timeline of the resulting [policy actions](/docs/Area4_Moving_To_Openness/Open_Timeline.md)
   - Access a growing list of [global actions](/docs/Area4_Moving_To_Openness/global_policies.md) supporting open science
   - Find open science [funding](/docs/Area4_Moving_To_Openness/funding_opportunities.md) and [job](/docs/Area4_Moving_To_Openness/job_opportunities.md) opportunities
+  - Apply to the TOPS grant opportunity for Transform to Open Science Training, details can be found [here](/docs/Area4_Moving_To_Openness/TOPST/readme.md)
