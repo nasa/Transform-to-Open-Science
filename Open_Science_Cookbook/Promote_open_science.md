@@ -21,8 +21,8 @@ To encourage participation, the TOPS team leverages tools such as Jamboard, Ment
 ### Read These Open Science Resources
 TOPS is collecting a living list of open science resources! We have divided them into two documents to make it a bit easier to find what you need
            
-- The [reading list](/resources/open_science_cookbook/reading_list.md) contains information about existing open science trainings, guides for data science, and a list of open science publications referenced when creating the TOPS open science curriculum 
-- The [coding resources](/resources/open_science_cookbook/code_learning_resources.md) contains suggestions for documenting scientific software as well as getting started with coding           
+- The [reading list](/Open_Science_Cookbook/reading_list.md) contains information about existing open science trainings, guides for data science, and a list of open science publications referenced when creating the TOPS open science curriculum 
+- The [coding resources](/Open_Science_Cookbook/code_learning_resources.md) contains suggestions for documenting scientific software as well as getting started with coding. Ready to get a bit more granular? Here is a suggested checklist for open-source code [documentation](/Open_Science_Cookbook/software_citation_checklist.md).           
 
 ### Join an Open Science Community
 - [Pangeo](https://pangeo.io/) - an open science community with a weekly community meeting that starts with a 15 min science talk. Meeting schedule is at the bottom of [this](https://pangeo.io/meeting-notes.html) page.
@@ -42,6 +42,6 @@ TOPS is collecting a living list of open science resources! We have divided them
 <details>
            <summary><h2>For the Organization</h2></summary>
 
-If you represent an organization interested in integrating open science principles and practices into your organization, we invite you to begin with the list of ideas presented in the [Promote the Year of Open Science Cookbook](/resources/year_of_open_science_cookbook/Promote_year_of_open_science.md).
+If you represent an organization interested in integrating open science principles and practices into your organization, we invite you to begin with the list of ideas presented in the [Promote the Year of Open Science Cookbook](/Year_of_Open_Science_Cookbook/Promote_year_of_open_science.md).
            
 </details>

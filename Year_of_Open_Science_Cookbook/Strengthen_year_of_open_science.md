@@ -37,6 +37,7 @@ TOPS has released a ROSES seeking contributors to the ScienceCore. Learn more in
 To help make this event a success, TOPS will provide organizations with the following support:
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 * Additional available assistance from the TOPS team is contained in Section 3.1 of [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init).
+* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md) 
 
 
 ## Develop Governance Frameworks and Policies to Support Open Science Action Plans
@@ -128,6 +129,7 @@ More information on TOPS open science summer schools is contained in ROSES [F.14
 To help make this event a success, TOPS will provide organizations with the following support:
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
 * Additional available assistance from the TOPS team is contained in Section 3.2.1 of [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init).
+* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
 
 
 ## Run an OpenCore Virtual Cohort
@@ -148,6 +150,7 @@ To help make this event a success, TOPS will provide organizations with the foll
 * Additional information on the TOPS open science curriculum, which can be found on the GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md) and in the information from the [August community forum](/docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum.md). 
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 * Additional available assistance from the TOPS team is contained in Section 3.2.2 of [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init).
+* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
 
 
 ## Sponsor an Award
@@ -196,5 +199,5 @@ To help make this event a success, TOPS will provide organizations with the foll
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 ## Strengthen at Conferences
-Wish to feature the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Cookbook](/resources/year_of_open_science_cookbook/conferences_for_the_year_of_open_science.md) to learn how.
+Wish to feature the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Cookbook](//Year_of_Open_Science_Cookbook/conferences_for_the_year_of_open_science.md) to learn how.
 

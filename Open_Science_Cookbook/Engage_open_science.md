@@ -1,7 +1,7 @@
 # Engage with Open Science 
 *After deepening your understanding of open science, existing policies or practices at your organization may seem as if they need to be updated. **Engage** with open science by asking the following questions. Collaborate with colleagues to consider the next steps that can be taken to adopt open science throughout your research practice or organization.*
 
-Interested in entering into a dialogue with other organizations thinking about these same questions? Join the celebration of the Year of Open Science via the resources in the [Engage with the Year of Open Science Cookbook](/resources/year_of_open_science_cookbook/Engage_year_of_open_science.md)!
+Interested in entering into a dialogue with other organizations thinking about these same questions? Join the celebration of the Year of Open Science via the resources in the [Engage with the Year of Open Science Cookbook](/Year_of_Open_Science_Cookbook/Engage_year_of_open_science.md)!
 
 ## What can organizations do to change their open science mindset? 
 In recent decades, the technological barriers to participating in open science have decreased, but barriers due to policy, bureaucracy, funding, and culture remain. Fully engaging with open science is thus dependent on individuals entering into dialogue with their institutions, universities, agencies and companies to identify changes--both small and large--which will support the move towards open science. 
