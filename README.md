@@ -1,4 +1,4 @@
-## Ready to [get started](/getting_started.md) Transforming towards Open Science?
+## Ready to get started transforming towards open science with us? [Begin with our getting started guide!](/getting_started.md)
 
 # Announcements!
 - October 25, 2022 - Public forum to ask questions about TOPST (join our email list for webex link)
