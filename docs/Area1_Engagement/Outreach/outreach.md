@@ -1,7 +1,7 @@
 ### Community Development
 We can’t reach our goals solely through inreach efforts. To reach the broadest of communities, our TOPS team seeks to form equitable partnerships with academic institutions, non-profits, professional societies, and other government agencies. When working with others to build a vibrant equitable community, we define our goals and objectives for groups of community partners, focusing on the roles the community partners serve and potential ways we can collaborate. We co-create thoughtful calls of action and together develop a shared understanding and determine appropriate collaborations that will benefit all parties. 
 
-| ![CSCCE_CPM_Final_with-logo-01-1024x668.jpg](../../assets/github/CSCCE_CPM_Final_with-logo-01-1024x668.jpg) |
+| ![CSCCE_CPM_Final_with-logo-01-1024x668.jpg](./CSCCE_CPM_Final_with-logo-01-1024x668.jpg) |
 |:--:|
 | <b>Image courtesy of The Center for Scientific Collaboration and Community Engagement via [https://www.cscce.org/resources/cpm/](https://www.cscce.org/resources/cpm/)</b>|
 
