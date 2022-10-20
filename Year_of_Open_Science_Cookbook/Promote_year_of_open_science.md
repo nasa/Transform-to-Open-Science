@@ -68,7 +68,7 @@ Sign up for the [TOPS email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6
 **Basic Requirements**
 
 When encouraging folks at your organization to join us at the next TOPS community forum, be sure to mention:
-* TOPS’ mission goals and areas of action, a summary of which is [here](/resources/how_to_participate_in_the_year_of_open_science.md#nasas-transform-to-open-science-mission), and 
+* TOPS’ mission goals and areas of action, a summary of which is [here](https://github.com/nasa/Transform-to-Open-Science#what-we-do), and 
 * To join the listserv ([here](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform)).
 
 **TOPS Will Provide**
@@ -78,4 +78,4 @@ To help make this effort a success, TOPS will provide organizations with the fol
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
 
 ## Promote at Conferences
-Wish to promote the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Cookbook](/resources/year_of_open_science_cookbook/conferences_for_the_year_of_open_science.md) to learn how.
+Wish to promote the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Cookbook](/Year_of_Open_Science_Cookbook/conferences_for_the_year_of_open_science.md) to learn how.
