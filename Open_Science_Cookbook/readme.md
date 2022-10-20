@@ -23,18 +23,20 @@ If the vision painted above sounds like something you want to become involved wi
 
   <details>
   <summary><h3>Promote</h3></summary>
-    Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog, or are taking a critical look at the diversity in your lab or research group and actively imagining how to make it more inclusive. Or perhaps all of this is new to you, and you are looking for a guidebook to put you on the right track. Navigate to the <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/resources/open_science_cookbook/Promote_open_science.md">Promote Open Science</a> cookbook!<br>
+    Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog, or are taking a critical look at the diversity in your lab or research group and actively imagining how to make it more inclusive. Or perhaps all of this is new to you, and you are looking for a guidebook to put you on the right track. Navigate to the <a href="https://github.com/nasa/Transform-to-Open-Science/blob/main/Open_Science_Cookbook/Promote_open_science.md">Promote Open Science</a> cookbook!<br>
   </details>
+  
   
   <details>
   <summary><h3>Engage</h3></summary>
-    Are you familiar with open science practices and excited to learn more, and bring others on the journey with you? Perhaps you have attended hackathons and open science workshops in the past, assist others with metadata or the documentation of their code, or get excited when you see funding opportunities that involve data-sharing. Is your organization ready to tackle how to insert open science into its policy and governance models? You are already fully engaged in the open science community and we invite you to join us, and <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/resources/open_science_cookbook/Engage_open_science.md">Engage with Open Science</a>!<br>
+    Are you familiar with open science practices and excited to learn more, and bring others on the journey with you? Perhaps you have attended hackathons and open science workshops in the past, assist others with metadata or the documentation of their code, or get excited when you see funding opportunities that involve data-sharing. Is your organization ready to tackle how to insert open science into its policy and governance models? You are already fully engaged in the open science community and we invite you to join us, and <a href="https://github.com/nasa/Transform-to-Open-Science/blob/main/Open_Science_Cookbook/Engage_open_science.md">Engage with Open Science</a>!<br>
   </details>
+  
   
   <details>
   <summary><h3>Strengthen</h3></summary>
-    You are an active and involved member of the open science community. You get excited when funders require that research be conducted openly, and find small ways of teaching others about open science whenever you speak to others about your research. You are ready to be an advocate for moving towards open science within your organization. We need you to help us strengthen open science in your community and beyond. Our suggestions for how to do so are in <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/resources/open_science_cookbook/Strengthen_open_science.md">Strengthen Open Science</a>.<br>
+    You are an active and involved member of the open science community. You get excited when funders require that research be conducted openly, and find small ways of teaching others about open science whenever you speak to others about your research. You are ready to be an advocate for moving towards open science within your organization. We need you to help us strengthen open science in your community and beyond. Our suggestions for how to do so are in <a href="https://github.com/nasa/Transform-to-Open-Science/blob/main/Open_Science_Cookbook/Strengthen_open_science.md">Strengthen Open Science Cookbook. </a>.<br>
   </details>
 
 <h4>Conferences:</h4> 
-Does your organization host a conference? Navigate straight to our <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/resources/year_of_open_science_cookbook/conferences_for_the_year_of_open_science.md">Year of Open Science Conferences</a> cookbook to learn more about how TOPS wishes to work with you.
+Does your organization host a conference? Navigate straight to our <a href="https://github.com/nasa/Transform-to-Open-Science/blob/main/Year_of_Open_Science_Cookbook/conferences_for_the_year_of_open_science.md">Year of Open Science Conferences</a> cookbook to learn more about how TOPS wishes to work with you.
