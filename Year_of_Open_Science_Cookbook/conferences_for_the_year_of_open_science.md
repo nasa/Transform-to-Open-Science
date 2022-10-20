@@ -172,8 +172,8 @@ To help make this effort a success, TOPS will provide organizations with the fol
     * TOPS staff at the booth day(s) of event(s), to include answering questions, promoting the TOPS [open science curricula](/docs/Area2_Capacity_Sharing/readme.md), and providing information on other TOPS opportunities
 
 Other options for co-creation to strengthen the Year of Open Science can be found in the other sections of the Year of Open Science cookbook. Some of our favorties are 
-* [Create a new open science award](/resources/year_of_open_science_cookbook/Strengthen_year_of_open_science.md#sponsor-an-award)
-* [Recognize open science in your community](/resources/year_of_open_science_cookbook/Engage_year_of_open_science.md#highlight-open-science-in-your-organization)
-* [Host open science listening sessions at your conference](/resources/year_of_open_science_cookbook/Engage_year_of_open_science.md#host-a-listening-session)
-* Set an in-conference [open science badging goal](/resources/year_of_open_science_cookbook/Engage_year_of_open_science.md#set-a-tops-open-science-badge-goal)
+* [Create a new open science award](/Year_of_Open_Science_Cookbook/Strengthen_year_of_open_science.md#sponsor-an-award)
+* [Recognize open science in your community](/Year_of_Open_Science_Cookbook/Engage_year_of_open_science.md#highlight-open-science-in-your-organization)
+* [Host open science listening sessions at your conference](/Year_of_Open_Science_Cookbook/Engage_year_of_open_science.md#host-a-listening-session)
+* Set an in-conference [open science badging goal](/Year_of_Open_Science_Cookbook/Engage_year_of_open_science.md#set-a-tops-open-science-badge-goal)
 Have a novel idea for how to bring TOPS to your next event? [Contact us!](https://forms.gle/Um3KpsZw2FHXpNju9)
