@@ -1,6 +1,6 @@
 # TOPS Reading List
 
-*Some recommended open science reading spanning from official policy to publications to educational materials. If you are looking for resources to learn how to code, please check out [this list](/resources/open_science_cookbook/code_learning_resources.md).*
+*Some recommended open science reading spanning from official policy to publications to educational materials. If you are looking for resources to learn how to code, please check out [this list](/Open_Science_Cookbook/code_learning_resources.md).*
 
 ## Open Science Policy and Government Recommendations
 - UNESCO 2021 [Recommendations on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation)
