@@ -12,7 +12,7 @@ Mikulski Archive for Space Telescopes [(MAST)](https://science.nasa.gov/astrophy
 
 NASA Exoplanet Science Institute (NExScI): Tools and archives for the [exoplanet community](https://science.nasa.gov/astrophysics/astrophysics-data-centers/nasa-exoplanet-science-institute-nexsci/)
 
-NASA/IPAC Extragalactic Database (NED): [master list of extragalactic objects](https://science.nasa.gov/astrophysics/astrophysics-data-centers/nasa-ipac-extragalactic-database-ned/)
+NASA/IPAC Extragalactic Database (N.E.D.): [master list of extragalactic objects](https://science.nasa.gov/astrophysics/astrophysics-data-centers/nasa-ipac-extragalactic-database-ned/)
 
 NASA/IPAC Infrared Science Archive (IRSA): [Science products from NASA's infrared and submillimeter projects](https://science.nasa.gov/astrophysics/astrophysics-data-centers/nasa-ipac-infrared-science-archive/)
 
