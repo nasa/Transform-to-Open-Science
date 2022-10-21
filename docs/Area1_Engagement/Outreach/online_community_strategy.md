@@ -29,7 +29,7 @@ The TOPS Slack is primarily used to share the date, time, and location of open s
 
 # Open Science Stories Blog
 
-The purpose of the open science stories is to demonstrate the benefits of open science through examples from the NASA science community, and to provide examples of scientists who have overcome barriers and challenges in order to practice science openly. They are found [here](docs/Area1_Engagement/Open-Science-Stories/readme.md) and on the [science.nasa.gov blog](https://science.nasa.gov/open-science/transform-to-open-science/stories).
+The purpose of the open science stories is to demonstrate the benefits of open science through examples from the NASA science community, and to provide examples of scientists who have overcome barriers and challenges in order to practice science openly. They are found [here](/docs/Area1_Engagement/Open-Science-Stories/readme.md) and on the [science.nasa.gov blog](https://science.nasa.gov/open-science/transform-to-open-science/stories).
 
 
 # TOPS GitHub
