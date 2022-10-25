@@ -14,5 +14,9 @@ TOPST element solicits proposals for:
 * [Link to recording](https://www.youtube.com/watch?v=wTtmdWqUr1c)
 * [Link to deck](https://doi.org/10.5281/zenodo.7195790)
 
+10/25 office hours:
+[Link] to recording (coming soon)
+[Link] to transcript (coming soon)
+
 ## TOPST FAQ is [here](/docs/Area4_Moving_To_Openness/TOPST/TOPST_FAQ.md)
 *For general FAQs related to ROSES-2022 go [HERE](https://science.nasa.gov/researchers/sara/faqs#14).*
