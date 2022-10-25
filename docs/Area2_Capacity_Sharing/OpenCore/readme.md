@@ -8,11 +8,11 @@ TOPS aims to meet everyone where they are at on their open science journey. Whil
 For the 2023 Year of Open Science, TOPS is developing strategic partnerships with scientific associations to teach open science during large annual meetings, special science team summer schools, and other events. The vision for the TOPS OpenCore and other learning resources is for a CC-BY licensed online, open course, hosted on the OpenEDx platform, that can be used to train scientists and award NASA open science badges.
 
 The five OpenCore modules will be:
-1. [Ethos of Open Science](./open_science_ethos_module.md)
-1. [Open Tools and Resources](./open_tools_module.md)
-2. [Open Data](./open_data_module.md)
-3. [Open Software](./open_software_module.md)
-1. [Open Results](./open_results_module.md)
+1. [Ethos of Open Science](./modules/open_science_ethos_module.md)
+1. [Open Tools and Resources](./modules/open_tools_module.md)
+2. [Open Data](./modules/open_data_module.md)
+3. [Open Software](./modules/open_software_module.md)
+1. [Open Results](./modules/open_results_module.md)
 
 
 ## Learning Objectives
