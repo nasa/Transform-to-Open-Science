@@ -2,14 +2,15 @@
 
 Transform to Open Science Training or "TOPST" is a Research Opportunities in Space and Earth Science (ROSES) solicitation. TOPST is solicitation F.14 and can be found [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860824/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/F.14_TOPST_Amend46.pdf). 
 
-TOPST element solicits proposals for:
-(1)  The development of the [ScienceCore](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/ScienceCore/readme.md), a discipline specific scientific use cases curriculum, 
-(2) Implementation of Summer Schools to teach OpenCore, and 
-(3) Implementation of Virtual Cohorts to complete OpenCore. The training material as well as the design of the learning activities should be targeted to audiences from undergraduate students to established scientists and managers from all science disciplines supported by NASA’s Science Mission Directorate (SMD).  
+TOPST element solicits proposals for: 
 
-**Full details regarding TOPST can be learned from the October 13th TOPS Community Forum (link to be posted upon forum completion).**
-* Link to recording
-* Link to deck
+(1)  The development of the [ScienceCore](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/ScienceCore/readme.md), a discipline specific scientific use cases curriculum, 
+
+(2) Implementation of Summer Schools to teach OpenCore, and 
+
+(3) Implementation of Virtual Cohorts to complete OpenCore. 
+
+The training material as well as the design of the learning activities should be targeted to audiences from undergraduate students to established scientists and managers from all science disciplines supported by NASA’s Science Mission Directorate (SMD).  
 
 ## TOPST FAQ
 *For general FAQs related to ROSES-2022 go [HERE](https://science.nasa.gov/researchers/sara/faqs#14).*
@@ -22,7 +23,7 @@ TOPS has set itself the goal of meeting everyone where they are at in their open
 
 Summer Schools are meetings that are designed to train NASA’s SMD science teams in Open Science and to increase opportunities for participation in science team activities by a diverse community. The TOPS open science curriculum, [OpenCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing), will be taught during summer school. Since there are 5 OpenCore modules, each 2.5 hours, that must be taught, it may be a week-long meeting, with a module taught each morning and science team activities in the afternoon. Virtual Cohorts consist of individuals who are taking the OpenCore asynchronous online, but are seeking a community with which to discuss the information as well as ask questions. Virtual Cohorts will help online learners find that community, encourage completion of the online course, and help facilitate learning. Although Summer Schools can also be held virtually, they differ from Virtual Cohorts in that Summer Schools are taught by an instructor (or several instructors) in a “classroom” setting, in five sequential days. Virtual Cohorts are primarily self-paced, with group enrichment and discussion held periodically. 
 
-**Are there any requirements for the selection of summer school locations? **
+**Are there any requirements for the selection of summer school locations?**
 
 Priority will be placed on proposals that hold activities at or heavily involve non-R1 Historically Black Colleges and Universities (HBCU), Hispanic Serving Institutions (HSI) and Tribal Colleges and Universities (TCU) or have previously held similar activities that have documented participation and sustained engagement by underrepresented communities.
 
