@@ -1,6 +1,8 @@
 # Transform to Open Science (TOPS) Training Solicitation 
 
-Transform to Open Science Training or "TOPST" is a Research Opportunities in Space and Earth Science (ROSES) solicitation. TOPST is solicitation F.14 and can be found [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860824/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/F.14_TOPST_Amend46.pdf). Resources on proposal development are [here](./proposal_resources.md)
+Transform to Open Science Training or "TOPST" is a Research Opportunities in Space and Earth Science (ROSES) solicitation. TOPST is solicitation F.14 and can be found [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860824/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/F.14_TOPST_Amend46.pdf). 
+
+Resources on proposal development are available [here](./proposal_resources.md).
 
 TOPST element solicits proposals for:
 
@@ -8,7 +10,9 @@ TOPST element solicits proposals for:
 
 (2) Implementation of Summer Schools to teach OpenCore, and 
 
-(3) Implementation of Virtual Cohorts to complete OpenCore. The training material as well as the design of the learning activities should be targeted to audiences from undergraduate students to established scientists and managers from all science disciplines supported by NASA’s Science Mission Directorate (SMD).  
+(3) Implementation of Virtual Cohorts to complete OpenCore. 
+
+The training material as well as the design of the learning activities should be targeted to audiences from undergraduate students to established scientists and managers from all science disciplines supported by NASA’s Science Mission Directorate (SMD).  
 
 **Full details regarding TOPST can be learned from the October 13th TOPS Community Forum:**
 * [Link to recording](https://www.youtube.com/watch?v=wTtmdWqUr1c)
