@@ -63,5 +63,8 @@ We have collected frequently asked questions [here](./tops_faq.md). Please use t
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **We hope you will join us and champion open science!**
