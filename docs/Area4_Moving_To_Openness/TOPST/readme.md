@@ -17,7 +17,7 @@ The training material as well as the design of the learning activities should be
 **Full details regarding TOPST can be learned from the October 13th TOPS Community Forum:**
 * [Link to recording](https://www.youtube.com/watch?v=wTtmdWqUr1c)
 * [Link to deck](https://doi.org/10.5281/zenodo.7195790)
-* Other forum details availabe [here](/docs/Area1_Engagement/Community_Forums/20221013_community_forum.md)
+* Other forum details available [here](/docs/Area1_Engagement/Community_Forums/20221013_community_forum.md)
 
 10/25 office hours: \
 [Link] to recording (coming soon) \
