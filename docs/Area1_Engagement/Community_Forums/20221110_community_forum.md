@@ -1,7 +1,6 @@
 # TOPS Community Forum - November 2022
 
-This month we will focus on  how to develop a detailed proposal for submission to ROSES. More details coming.
-
+Join us November 10, 2022 for our TOPS Community Forum! By popular demand, we will focus on the ROSES F.14, TOPS Training program element. After holding some pre-proposal calls open to the public, we have received numerous questions; to address them, we will be reviewing the three components (ScienceCore, Summer Schools, and Virtual Cohorts), discussing the most frequently asked questions, and also answering any additional questions that you may have. Look forward to having you there. 
 
 **Date:** November 10, 2022, 1PM EDT (UTC -4)
 
