@@ -7,9 +7,9 @@
 
 **Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)
 
-**[Slides](https://doi.org/10.5281/zenodo.7186496)** \
-**Recordings: [Day 1](https://www.youtube.com/watch?v=EPn6ENVnEYk) | [Day 2](https://www.youtube.com/watch?v=G5M7vThQu0s)** (Note: there are some audio issues with Day 1)\
-**Transcripts:** [here](https://doi.org/10.5281/zenodo.7250862)  
+**Slides**  [here](https://doi.org/10.5281/zenodo.7186496) \
+**Recordings: [Day 1](https://www.youtube.com/watch?v=EPn6ENVnEYk) | [Day 2](https://www.youtube.com/watch?v=G5M7vThQu0s)** (Note: there are some audio issues with Day 1) \
+**Transcripts:** [here](https://doi.org/10.5281/zenodo.7250862)  \
 **Previous May 2022 Community Panel Summary:** [Executive Summary and Final Report on Zenodo](https://doi.org/10.5281/zenodo.6875090)
 2022 October report anticipated mid-Nov 2022
 
