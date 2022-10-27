@@ -1,6 +1,6 @@
 ## Ready to get started transforming towards open science with us? [Begin with our getting started guide!](/getting_started.md)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -107,6 +107,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/senya2"><img src="https://avatars.githubusercontent.com/u/45128147?v=4?s=100" width="100px;" alt="Senya Stein"/><br /><sub><b>Senya Stein</b></sub></a><br /><a href="#maintenance-senya2" title="Maintenance">🚧</a></td>
       <td align="center"><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=TSUNA36"><img src="https://avatars.githubusercontent.com/u/1802656?v=4?s=100" width="100px;" alt="Ting Sun"/><br /><sub><b>Ting Sun</b></sub></a><br /><a href="#maintenance-sunt05" title="Maintenance">🚧</a></td>
       <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt="All Contributors"/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#maintenance-all-contributors" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://github.com/SALONICONTRACTOR"><img src="https://avatars.githubusercontent.com/u/90577825?v=4?s=100" width="100px;" alt="SALONICONTRACTOR"/><br /><sub><b>SALONICONTRACTOR</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=SALONICONTRACTOR" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
