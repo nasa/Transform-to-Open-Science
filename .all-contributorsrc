@@ -14,6 +14,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "reeseIngraham",
+      "name": "Reese Ingraham",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39513784?v=4",
+      "profile": "https://github.com/reeseIngraham",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
