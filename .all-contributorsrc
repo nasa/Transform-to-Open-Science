@@ -82,6 +82,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "libcce",
+      "name": "Chris Erdmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3680365?v=4",
+      "profile": "https://www.michaeljfox.org/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
