@@ -190,6 +190,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "JonanOribe",
+      "name": "Jon Ander Oribe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11914201?v=4",
+      "profile": "https://www.quantum-mads.com/",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
