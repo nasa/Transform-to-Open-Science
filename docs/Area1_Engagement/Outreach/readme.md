@@ -13,11 +13,11 @@ These sessions will educate the public about NASA’s OSSI and the TOPS program 
 
 ### Come join us! 
 
-[October Community Forum on ROSES solicitation for TOPS Training](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20221013_community_forum.md) 
+[November Community Forum on ROSES solicitation for TOPS Training](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20221110_community_forum.md) 
 
-When: October 13, 2022, 1PM EDT (UTC -4)
+When: November 10, 2022, 1PM EDT (UTC -4)
 
-[Registration Link](https://go.nasa.gov/3Bitx0G)
+[Registration Link](https://go.nasa.gov/3TnVRVE)
 
 [Question Submission Link](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
 
@@ -25,5 +25,3 @@ When: October 13, 2022, 1PM EDT (UTC -4)
 The TOPS Community Panel is another way we create community and discover best practices for engagement. This event brings together leaders from the open science, open source software, and data science communities with the NASA TOPS team for a detailed review of TOPS plans and vibrant discussion.  Panelists review and provide input on NASA’s strategy for transitioning to open-source science. Feedback helps us shape engagement and community building practices for the Year of Open Science in 2023. Every April NASA will announce an opportunity to be a panelist. Community Panels are public and we have created  tools for the public to submit questions. Our May Community Panel is a virtual meeting and open to all. It is free to attend.
 
 When: October 5-6, 2022, 9:00 AM - 5:00 PM PST each day
-
-Interested in listening in to the presentations and panel discussions? [Register Here](https://forms.gle/3BASj5BqAqwyprMQ8). 
