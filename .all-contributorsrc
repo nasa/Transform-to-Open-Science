@@ -254,6 +254,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "tomchor",
+      "name": "Tomas Chor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13205162?v=4",
+      "profile": "https://tomchor.github.io/",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
