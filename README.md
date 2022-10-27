@@ -1,6 +1,6 @@
 ## Ready to get started transforming towards open science with us? [Begin with our getting started guide!](/getting_started.md)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -74,6 +74,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/nasa/Transform-to-Open-Science"><img src="https://avatars.githubusercontent.com/u/84465804?v=4?s=100" width="100px;" alt="Cynthia Hall"/><br /><sub><b>Cynthia Hall</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=chall-nasa" title="Code">💻</a> <a href="#ideas-chall-nasa" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center"><a href="https://github.com/nasacrawford"><img src="https://avatars.githubusercontent.com/u/88837638?v=4?s=100" width="100px;" alt="Steve Crawford"/><br /><sub><b>Steve Crawford</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=nasacrawford" title="Code">💻</a> <a href="#ideas-nasacrawford" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center"><a href="https://justingosses.com/"><img src="https://avatars.githubusercontent.com/u/11600445?v=4?s=100" width="100px;" alt="Justin Gosses"/><br /><sub><b>Justin Gosses</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/issues?q=author%3AJustinGOSSES" title="Bug reports">🐛</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://daniellegroenen.com"><img src="https://avatars.githubusercontent.com/u/89479247?v=4?s=100" width="100px;" alt="Danielle Groenen"/><br /><sub><b>Danielle Groenen</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=daniellegroenen" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
