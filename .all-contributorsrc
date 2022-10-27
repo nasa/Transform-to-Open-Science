@@ -227,6 +227,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "kwinkunks",
+      "name": "Matt Hall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1692372?v=4",
+      "profile": "http://www.agilescientific.com/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
