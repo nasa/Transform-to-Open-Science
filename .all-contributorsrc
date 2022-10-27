@@ -42,6 +42,16 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "chall-nasa",
+      "name": "Cynthia Hall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84465804?v=4",
+      "profile": "https://github.com/nasa/Transform-to-Open-Science",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
