@@ -1,6 +1,6 @@
 ## Ready to get started transforming towards open science with us? [Begin with our getting started guide!](/getting_started.md)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -95,6 +95,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Sierra-MC"><img src="https://avatars.githubusercontent.com/u/88336748?v=4?s=100" width="100px;" alt="Sierra V. Brown"/><br /><sub><b>Sierra V. Brown</b></sub></a><br /><a href="#maintenance-Sierra-MC" title="Maintenance">🚧</a> <a href="#content-Sierra-MC" title="Content">🖋</a></td>
+      <td align="center"><a href="https://batool-almarzouq.netlify.app/"><img src="https://avatars.githubusercontent.com/u/53487593?v=4?s=100" width="100px;" alt="Batool Almarzouq"/><br /><sub><b>Batool Almarzouq</b></sub></a><br /><a href="#maintenance-BatoolMM" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
