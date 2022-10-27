@@ -1,6 +1,6 @@
 ## Ready to get started transforming towards open science with us? [Begin with our getting started guide!](/getting_started.md)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -80,6 +80,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://www.michaeljfox.org/"><img src="https://avatars.githubusercontent.com/u/3680365?v=4?s=100" width="100px;" alt="Chris Erdmann"/><br /><sub><b>Chris Erdmann</b></sub></a><br /><a href="#content-libcce" title="Content">🖋</a></td>
       <td align="center"><a href="https://wetlands.io"><img src="https://avatars.githubusercontent.com/u/5016453?v=4?s=100" width="100px;" alt="Qiusheng Wu"/><br /><sub><b>Qiusheng Wu</b></sub></a><br /><a href="#content-giswqs" title="Content">🖋</a></td>
       <td align="center"><a href="http://slesa.com.np"><img src="https://avatars.githubusercontent.com/u/7830949?v=4?s=100" width="100px;" alt="Slesa Adhikari"/><br /><sub><b>Slesa Adhikari</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/issues?q=author%3Aslesaad" title="Bug reports">🐛</a></td>
+      <td align="center"><a href="https://github.com/selgebali"><img src="https://avatars.githubusercontent.com/u/23166543?v=4?s=100" width="100px;" alt="Sara"/><br /><sub><b>Sara</b></sub></a><br /><a href="#content-selgebali" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
