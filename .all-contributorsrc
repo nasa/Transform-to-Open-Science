@@ -23,6 +23,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "bello-mart-isabella",
+      "name": "Isabella Bello Martinez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108359421?v=4",
+      "profile": "https://zenodo.org/communities/tops",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
