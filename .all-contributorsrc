@@ -199,6 +199,16 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "Sierra-MC",
+      "name": "Sierra V. Brown",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88336748?v=4",
+      "profile": "https://github.com/Sierra-MC",
+      "contributions": [
+        "maintenance",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
