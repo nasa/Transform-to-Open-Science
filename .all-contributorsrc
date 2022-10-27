@@ -145,6 +145,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "hyperupcall",
+      "name": "Edwin Kofler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24364012?v=4",
+      "profile": "https://edwinkofler.com",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
