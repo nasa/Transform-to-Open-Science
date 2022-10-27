@@ -55,7 +55,6 @@ Issues are used to collect tasks for development, and Markdown text documents fo
 
 We have collected frequently asked questions [here](./tops_faq.md). Please use the discussions channel on this GitHub to ask more questions if you have them!
 
-
 **We hope you will join us and champion open science!**
 
 ## Contributors ✨
