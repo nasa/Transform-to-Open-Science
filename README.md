@@ -1,7 +1,4 @@
 ## Ready to get started transforming towards open science with us? [Begin with our getting started guide!](/getting_started.md)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
 - November 3, 2022 - [Public forum to ask questions about TOPST](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=m181c65b8777425f168a872e988670173)
@@ -59,6 +56,9 @@ We have collected frequently asked questions [here](./tops_faq.md). Please use t
 **We hope you will join us and champion open science!**
 
 ## Contributors ✨
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
