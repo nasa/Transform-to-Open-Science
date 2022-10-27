@@ -1,6 +1,6 @@
 ## Ready to get started transforming towards open science with us? [Begin with our getting started guide!](/getting_started.md)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -90,6 +90,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://www.linkedin.com/in/logankilpatrick/"><img src="https://avatars.githubusercontent.com/u/35577566?v=4?s=100" width="100px;" alt="Logan Kilpatrick "/><br /><sub><b>Logan Kilpatrick </b></sub></a><br /><a href="#content-logankilpatrick" title="Content">🖋</a></td>
       <td align="center"><a href="http://www.lisafederer.net"><img src="https://avatars.githubusercontent.com/u/7302608?v=4?s=100" width="100px;" alt="Lisa Federer"/><br /><sub><b>Lisa Federer</b></sub></a><br /><a href="#content-informationista" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/maxrjones"><img src="https://avatars.githubusercontent.com/u/14077947?v=4?s=100" width="100px;" alt="Max Jones"/><br /><sub><b>Max Jones</b></sub></a><br /><a href="#maintenance-maxrjones" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="http://tysonswetnam.com"><img src="https://avatars.githubusercontent.com/u/11527041?v=4?s=100" width="100px;" alt="Tyson L. Swetnam"/><br /><sub><b>Tyson L. Swetnam</b></sub></a><br /><a href="#maintenance-tyson-swetnam" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
