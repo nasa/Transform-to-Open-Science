@@ -1,6 +1,6 @@
 ## Ready to get started transforming towards open science with us? [Begin with our getting started guide!](/getting_started.md)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -88,6 +88,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://orcid.org/0000-0001-9488-1870"><img src="https://avatars.githubusercontent.com/u/465923?v=4?s=100" width="100px;" alt="Daniel Mietchen"/><br /><sub><b>Daniel Mietchen</b></sub></a><br /><a href="#maintenance-Daniel-Mietchen" title="Maintenance">🚧</a></td>
       <td align="center"><a href="https://edwinkofler.com"><img src="https://avatars.githubusercontent.com/u/24364012?v=4?s=100" width="100px;" alt="Edwin Kofler"/><br /><sub><b>Edwin Kofler</b></sub></a><br /><a href="#maintenance-hyperupcall" title="Maintenance">🚧</a></td>
       <td align="center"><a href="https://www.linkedin.com/in/logankilpatrick/"><img src="https://avatars.githubusercontent.com/u/35577566?v=4?s=100" width="100px;" alt="Logan Kilpatrick "/><br /><sub><b>Logan Kilpatrick </b></sub></a><br /><a href="#content-logankilpatrick" title="Content">🖋</a></td>
+      <td align="center"><a href="http://www.lisafederer.net"><img src="https://avatars.githubusercontent.com/u/7302608?v=4?s=100" width="100px;" alt="Lisa Federer"/><br /><sub><b>Lisa Federer</b></sub></a><br /><a href="#content-informationista" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
