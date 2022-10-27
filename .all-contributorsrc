@@ -118,6 +118,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "abhilipsasahoo03",
+      "name": "Abhilipsa Sahoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80174214?v=4",
+      "profile": "https://github.com/abhilipsasahoo03",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
