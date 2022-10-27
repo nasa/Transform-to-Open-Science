@@ -4,7 +4,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
-- November 3, 2022 - [Public forum to ask questions about TOPST](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=m181c65b8777425f168a872e988670173)
+- November 3, 2022 | 2PM ET - [Public forum to ask questions about TOPST](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=m181c65b8777425f168a872e988670173)
+- November 10, 2022 | 1PM ET - [TOPS Community Forum](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20221110_community_forum.md), reviewing TOPST components and answering frequently asked questions.
 - [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Notice of Intent Due 11/10. Proposals Due 12/8!
 - Open Science funding [opportunities](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/funding_opportunities.md)
 - Proposal [guidance](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
