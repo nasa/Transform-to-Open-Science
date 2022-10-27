@@ -127,6 +127,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "danielskatz",
+      "name": "Daniel S. Katz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2913845?v=4",
+      "profile": "https://github.com/danielskatz",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
