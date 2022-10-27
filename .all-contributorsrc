@@ -100,6 +100,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "slesaad",
+      "name": "Slesa Adhikari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7830949?v=4",
+      "profile": "http://slesa.com.np",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,

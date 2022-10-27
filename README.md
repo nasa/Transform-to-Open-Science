@@ -1,6 +1,6 @@
 ## Ready to get started transforming towards open science with us? [Begin with our getting started guide!](/getting_started.md)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -79,6 +79,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="http://daniellegroenen.com"><img src="https://avatars.githubusercontent.com/u/89479247?v=4?s=100" width="100px;" alt="Danielle Groenen"/><br /><sub><b>Danielle Groenen</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=daniellegroenen" title="Code">💻</a></td>
       <td align="center"><a href="https://www.michaeljfox.org/"><img src="https://avatars.githubusercontent.com/u/3680365?v=4?s=100" width="100px;" alt="Chris Erdmann"/><br /><sub><b>Chris Erdmann</b></sub></a><br /><a href="#content-libcce" title="Content">🖋</a></td>
       <td align="center"><a href="https://wetlands.io"><img src="https://avatars.githubusercontent.com/u/5016453?v=4?s=100" width="100px;" alt="Qiusheng Wu"/><br /><sub><b>Qiusheng Wu</b></sub></a><br /><a href="#content-giswqs" title="Content">🖋</a></td>
+      <td align="center"><a href="http://slesa.com.np"><img src="https://avatars.githubusercontent.com/u/7830949?v=4?s=100" width="100px;" alt="Slesa Adhikari"/><br /><sub><b>Slesa Adhikari</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/issues?q=author%3Aslesaad" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
