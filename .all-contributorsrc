@@ -245,6 +245,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "hamogu",
+      "name": "Hans Moritz Günther",
+      "avatar_url": "https://avatars.githubusercontent.com/u/498688?v=4",
+      "profile": "http://space.mit.edu/home/guenther/",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
