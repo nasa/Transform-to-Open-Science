@@ -8,7 +8,7 @@ The Transform to Open Science (TOPS) team knows that we are only a small part of
 These resources are for you!
 
 Resources:
-- [TOPS graphics and other branding materials](/branding_and_graphics/readme.md)
+- [TOPS graphics and other branding materials](./branding_and_graphics/readme.md)
 - [booth](./booth/readme.md)
 - [keynote](./keynote/readme.md)
 - [panel](./panel/readme.md)
