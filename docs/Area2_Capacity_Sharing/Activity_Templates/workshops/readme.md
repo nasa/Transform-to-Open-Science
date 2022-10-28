@@ -1,4 +1,4 @@
-# Organizing a workshop
+# Organizing a Workshop
 
 *Workshops that teach about open science can be organized everywhere! Are you attending a conference and want to organize a TOPS workshop? We can help!*
 
