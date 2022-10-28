@@ -1,6 +1,15 @@
 # Example Session Description
 ### Word Limit: 250 Words
 
-Over the past few, paradigm-shifting years we have learned valuable lessons as a scientific community: that we are stronger together, we must uplift one another in order to achieve scientific progress, and success is dependent upon working together. Open science, opening up the scientific process from idea inception to result, increases access to knowledge and expands opportunities for new voices to participate. Sharing the data, code, and knowledge associated with the scientific process lowers barriers to entry for historically-underrepresented communities, enables findings to be more easily reproduced, and generates new knowledge at scale. Success, however, depends on all of us working to change the paradigms and frameworks from which we operate.
+Open science begins with shared access to data, software, resources, and results. Yet, openness that advances science is not a pure product of technology, it is a product of practices, norms, and community behavior around technology. Just as new technology requires designing new workflows, it is important to deliberately design community dynamics that are welcoming to a diverse community and strategically directs support to include marginalized groups. 
 
-Numerous researchers have created an open science ecosystem that led to innovative quality products and services and has changed the cultural norms around science. In this innovation session, hear from members of the open science community of practice as to how producing research that is more accessible, inclusive, and reproducible has been transformative whether at the inception of an idea to the dissemination of the final results. 
+While recent advances have reduced many of the technological barriers, others remain. Many scientists are still unable to contribute because of outdated institutional policies around sharing information, a lack of support to transition towards openness, or they lack open science skills. 
+
+To catalyze and support change, NASA is leading these efforts and championing a new initiative, the Open-Source Science Initiative (OSSI). A key component of OSSI is Transform to Open Science (TOPS) and NASA’s decree declaring 2023 as the Year of Open Science, a global initiative to spark change and shift the current paradigm. 
+
+Over the next 5 years, TOPS will:
+- Increase understanding and adoption of open science principles and techniques in the science community
+- Accelerate major scientific discoveries 
+- Broaden participation by historically-underrepresented communities 
+
+Faster, better, and transformative breakthroughs in science are possible and open science will help us find them. 
