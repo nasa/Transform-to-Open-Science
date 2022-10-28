@@ -14,6 +14,6 @@ Designer: Tanner Boeger, tannerboeger@me.com
 
 License: CCA 4.0
 
-DOI: https://doi.org/10.5281/zenodo.5225076
+DOI:  https://doi.org/10.5281/zenodo.7262103
 
 
