@@ -1,18 +1,22 @@
-# Organizing open science activities
+# Organizing Open Science Activities
 
-TOPS welcomes you to organize and run your own activities. Activities that teach about open science can be organized anywhere! 
-- Are you attending a conference and want to organize a TOPS activitie? 
-- Do you want to organize an activity at your institutions or center or science team? 
+The Transform to Open Science (TOPS) team knows that we are only a small part of a larger movement towards open science. Anyone can bring open science to their community by elevating open science best practices, principles, and successes in public forums, lab meetings, conference sessions, and anywhere else we gather. If you are interested in sharing open science at your next event but...
+- Are unsure where to start,
+- Would like TOPS or a member of the TOPS community to join you, or
+- Want an example of successfully submitted talks...
 
-We can help!
+These resources are for you!
 
 Resources:
+- [TOPS graphics and other branding materials](./branding_and_graphics/readme.md)
 - [booth](./booth/readme.md)
 - [keynote](./keynote/readme.md)
 - [panel](./panel/readme.md)
 - [presentation](./presentation/readme.md)
-- [session](./session/readme.md)
 - [student_conference](./student_conference/readme.md)
-- [townhall](./townhall/readme.md)
-- [train_the_trainer](./train_the_trainer/readme.md)
+- [townhall or session](./townhall/readme.md)
 - [workshops](./workshops/readme.md)
+
+To access our general open science resources including suggested trainings, publications, and like-minded organizations, head to our [Open Science Cookbook](/Open_Science_Cookbook/readme.md). 
+
+Interested in activities to elevate the Year of Open Science? You can find those in your [Year of Open Science Cookbook](/Year_of_Open_Science_Cookbook/readme.md).
