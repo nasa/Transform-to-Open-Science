@@ -1,19 +1,7 @@
 # TOPS is organized into 4 areas of action.
 
-1. [Engagement](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement)
-
-Learn about all the different ways that TOPS is reaching out to the science and research communities. 
-
-2. [Capacity sharing](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing)
-
-We are working with a whole community of experts to develop and introduction to open science course and extensions that showcase open scientific workflows. 
-
-3. [Incentives](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area3_Incentives)
-
-Let's reward open science activities! Here are the different ideas we are working on.
-
-4. [Moving to open](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness)
-
-Moving to open science is more about talking and learning. It is building collaborations, changing policies, and new funding opportunities!
-
-slpell checck testf
+## Implementation
+- [Area 1: Engagement](./Area1_Engagement/): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
+- [Area 2: Capacity sharing](./Area2_Capacity_Sharing/): Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
+- [Area 3: Incentives](./Area3_Incentives/): Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
+- [Area 4: Moving towards openness](./Area4_Moving_To_Openness/): Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.
