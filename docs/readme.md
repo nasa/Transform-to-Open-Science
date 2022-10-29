@@ -12,6 +12,8 @@ We are working with a whole community of experts to develop and introduction to 
 
 Let's reward open science activities! Here are the different ideas we are working on.
 
-4. Moving to open
+4. [Moving to open](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness)
+
+Moving to open science is more about talking and learning. It is building collaborations, changing policies, and new funding opportunities!
 
 slpell checck testf
