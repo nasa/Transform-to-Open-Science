@@ -18,5 +18,5 @@ jobs:
           - uses: codespell-project/actions-codespell@master
             with:
               check_filenames: true
-              skip: "*.csv,*.geojson,*.json,*.yml,*.js,*.html,*.cff,*.ai,*.pdf"
+              skip: "*.yml,*.cff,*.ai,*.pdf"
               ignore_words_list: stip,leary,hsi
