@@ -188,5 +188,8 @@ NSTC issues [Desirable Characteristics of Repositories for Data Resulting from F
 ### Generalist Repository Ecosystem Initiative (GREI)
 NIH launches the [Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/news/nih-office-of-data-science-strategy-announces-new-initiative-to-improve-data-access), which brings together generalist repositories to collaborate on shared efforts to enhance the discoverability of NIH-funded data, including common metadata models, open metrics, and training for researchers.
 
+### Anticipated release ~Nov NASA new scientific information policy SPD-41a
+Details added upon release. 
+
 # Other Resources
 * The **University of Michigan** has a partial list of US federal agencies requiring data management plans [here](https://guides.lib.umich.edu/c.php?g=283277&p=1886863).
