@@ -22,7 +22,7 @@ A precursor to the DoD's public access plan was the [Public Access to the Result
 This plan is issued in response to the Holdren memo. This plan expanded the breadth of NASA’s open-access culture to include data and publications for all of the scientific research that the NASA sponsors.
 
 ### ODNI Open Government Plan
-The Office of the Director of National Intelligence lists all of its OpenGov initiatives [here](https://www.dni.gov/index.php/opengov), including the [Open Government Plan](https://www.dni.gov/files/documents/FOIA/ODNI_Open_Gov_Plan.pdf), and initiatives on Open Data, Records Management, Public Participation and Information Sharing. The public access plan, released in 2016, is [here](https://www.iarpa.gov/images/pdfs/ODNI_Public_Access_Plan_Sept_2016.pdf).
+The Office of the Director of National Intelligence lists all of its OpenGov initiatives [here](https://www.dni.gov/index.php/opengov), including the [Open Government Plan](https://www.dni.gov/files/documents/FOIA/ODNI_Open_Gov_Plan.pdf), and initiatives on Open Data, Records Management, Public Participation and Information Sharing. 
 
 ### NIH Genomic Data Sharing Policy (GDS)
 NIH issues its [Genomic Data Sharing Policy](https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/), which expands the genome-wide association studies (GWAS) policy and promotes sharing, for research purposes, of large-scale human and non-human genomic data generated from NIH-funded research.
