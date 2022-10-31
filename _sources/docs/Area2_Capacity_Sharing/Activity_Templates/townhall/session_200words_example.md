@@ -1,0 +1,6 @@
+# Example Session Description
+## Word Limit: 200 Words
+
+Over the past few, paradigm-shifting years we have learned valuable lessons as a scientific community: that we are stronger together, we must uplift one another in order to achieve scientific progress, and success is dependent upon working together. Open science, opening up the scientific process from idea inception to result, increases access to knowledge and expands opportunities for new voices to participate. Sharing the data, code, and knowledge associated with the scientific process lowers barriers to entry for historically-underrepresented communities, enables findings to be more easily reproduced, and generates new knowledge at scale. Success, however, depends on all of us working to change the paradigms and frameworks from which we operate.
+
+Numerous researchers have created an open science ecosystem that led to innovative quality products and services and has changed the cultural norms around science. In this innovation session, hear from members of the open science community of practice as to how producing research that is more accessible, inclusive, and reproducible has been transformative whether at the inception of an idea to the dissemination of the final results. 
