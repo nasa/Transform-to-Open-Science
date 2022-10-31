@@ -36,7 +36,7 @@ The design is for a 12.5-hour course consisting of five, 2.5-hour modules that c
 Additional information about the module [structure](./OpenCore_structure.md) and suggestions for [design](./course_guidance.md) are provided.
 
 ### Course Creation
-For the workshop and online course materials, Open edX has many [partners](https://openedx.org/marketplace-all/) that specialize in working with subject matter experts to create online courses. To train 20,000 scientists, the MOOC will need to be engaging and interactive, similiar to [Elements of AI](https://www.elementsofai.com/), with animations rather than videos of people. Using animations rather than videos will make the MOOC easier to translate into additional languages.
+For the workshop and online course materials, Open edX has many [partners](https://openedx.org/marketplace-all/) that specialize in working with subject matter experts to create online courses. To train 20,000 scientists, the MOOC will need to be engaging and interactive, similar to [Elements of AI](https://www.elementsofai.com/), with animations rather than videos of people. Using animations rather than videos will make the MOOC easier to translate into additional languages.
 
 ### Instructor-lead Workshop Materials
 For instructor-lead workshops (in-person and virtual), the materials will be organized as follows:
