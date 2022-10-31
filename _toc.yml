@@ -4,7 +4,8 @@ parts:
 - caption: TOPS Mission
   chapters:
   - file: docs/
-  - file: resources/
+  - file: Open_Science_Cookbook/
+  - file: Year_of_Open_Science_Cookbook/
 - caption: More
   chapters:
   - file: docs/Area1_Engagement
