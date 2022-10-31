@@ -1,9 +1,3 @@
-#######################################################################################
-# A default configuration that will be loaded for all jupyter books
-# See the documentation for help and more options: 
-# https://jupyterbook.org/customize/config.html
-
-#######################################################################################
 # Book settings
 title                       : NASA's Transform to Open Science Mission  # The title of the book. Will be placed in the left navbar.
 author                      : TOPS Community # The author of the book
@@ -17,47 +11,6 @@ only_build_toc_files        : true
 execute:
   execute_notebooks: 'off'
 
-#######################################################################################
-# Parse and render settings
-parse:
-  myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
-    # - amsmath
-    - colon_fence
-    # - deflist
-    - dollarmath
-    # - html_admonition
-    # - html_image
-    - linkify
-    # - replacements
-    # - smartquotes
-    - substitution
-    - tasklist
-  myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
-  myst_dmath_double_inline: true  # Allow display math ($$) within an inline context
-
-#######################################################################################
-# HTML-specific settings
-html:
-  favicon                   : ""  # A path to a favicon image
-  use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
-  use_repository_button     : false  # Whether to add a link to your repository button
-  use_issues_button         : false  # Whether to add an "open an issue" button
-  use_multitoc_numbering    : true   # Continuous numbering across parts/chapters
-  extra_navbar              : Powered by <a href="https://jupyterbook.org">Jupyter Book</a>  # Will be displayed underneath the left navbar.
-  extra_footer              : ""  # Will be displayed underneath the footer.
-  google_analytics_id       : ""  # A GA id that can be used to track book views.
-  home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
-  baseurl                   : ""  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
-  comments:
-    hypothesis              : false
-    utterances              : false
-  announcement              : "" # A banner announcement at the top of the site.
-
-#######################################################################################
-# LaTeX-specific settings
-latex:
-  latex_engine              : pdflatex  # one of 'pdflatex', 'xelatex' (recommended for unicode), 'luatex', 'platex', 'uplatex'
-  use_jupyterbook_latex     : true # use sphinx-jupyterbook-latex for pdf builds as default
 
 
 sphinx:
