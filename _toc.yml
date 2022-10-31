@@ -1,16 +1,16 @@
 format: jb-book
 root: index
 parts:
-- caption: TOPS Mission
+- caption: TOPS Mission project documentation
   chapters:
   - file: docs/
-  - file: Open_Science_Cookbook/
-  - file: Year_of_Open_Science_Cookbook/
-- caption: More
-  chapters:
-  - file: docs/Area1_Engagement
-  - file: docs/Area2_Capacity_Sharing
-  - file: docs/Area3_Incentives
-  - file: docs/Area4_Moving_To_Openness
-
+    sections:
+    - file: docs/Area1_Engagement
+    - file: docs/Area2_Capacity_Sharing
+    - file: docs/Area3_Incentives
+    - file: docs/Area4_Moving_To_Openness
+- caption: TOPS Open Science Cookbook
+- file: Open_Science_Cookbook/
+- caption: TOPS Year of Open Science Cookbook
+- file: Year_of_Open_Science_Cookbook/
  
