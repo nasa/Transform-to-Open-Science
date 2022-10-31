@@ -7,7 +7,7 @@ TOPS has a variety of materials that you can bring to your next booth.
 - If you are interested in using pins and stickers the TOPS team has ordered, you can contact us [through this form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit).
 
 ## How do I plan for my own booth? 
-Setting up a booth for the first time can seem like a daunting task. Luckily, all conferences have a team of professionals who are ready to answer your questions, including those about pricing plans, the do's and don'ts of the conference space, and the optimal location for your booth on the conference floor. While specifics vary from conference to conference, TOPS has created [this guide](.booth/booth_checklist.md) to get you started. 
+Setting up a booth for the first time can seem like a daunting task. Luckily, all conferences have a team of professionals who are ready to answer your questions, including those about pricing plans, the do's and don'ts of the conference space, and the optimal location for your booth on the conference floor. While specifics vary from conference to conference, TOPS has created [this guide](./booth_checklist.md) to get you started. 
 
 ## TOPS Plans to Be at the Following Conferences in 2023
 
