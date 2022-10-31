@@ -35,6 +35,9 @@ The design is for a 12.5-hour course consisting of five, 2.5-hour modules that c
 
 Additional information about the module [structure](./OpenCore_structure.md) and suggestions for [design](./course_guidance.md) are provided.
 
+### Course Creation
+For the workshop and online course materials, Open edX has many [partners](https://openedx.org/marketplace-all/) that specialize in working with subject matter experts to create online courses. To train 20,000 scientists, the MOOC will need to be engaging and interactive, similiar to [Elements of AI](https://www.elementsofai.com/), with animations rather than videos of people. Using animations rather than videos will make the MOOC easier to translate into additional languages.
+
 ### Instructor-lead Workshop Materials
 For instructor-lead workshops (in-person and virtual), the materials will be organized as follows:
 * Each module is to be organized into five, 30-minute lessons for a total of 2.5 hours of content. We recommend scheduling the module for three hours and taking two, 15-minute breaks. 
@@ -50,6 +53,16 @@ For online coursework, including the Open edX course, the materials will be orga
 * Every module except the “Ethos of Open Science” module will offer a “test-out” mechanism, such as a quiz, to allow for advanced learners to earn the credit for that module
 * Final content will be deployed on Open edX
 * All content will be assigned a CC0 or CC-BY license
+
+### Open edX platform
+For the MOOC, Open edX has many [partners](https://openedx.org/marketplace-all/) that specialize in customizing and deploying an Open edX platform. 
+* login users and display badges or certifications
+* track user engagement
+* auto-grading of questions
+* certification
+* data analytics
+* mobile-ready
+* 10,000+ users, autoscaling
 
 ## Certification: (TBD) 
 
