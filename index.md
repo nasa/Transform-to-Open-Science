@@ -7,7 +7,7 @@
 - [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
 
 
-<img align="right" src="https://github.com/nasa/Transform-to-Open-Science/blob/main/resources/branding_graphics/TOPS_Badge/For Screens (raster)/Tops_badge_PNG/Tops_badge_Original/Tops_badge_Original4x_cropped.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
+<img align="right" src="[.docs/Area1_Engagement/branding_graphics/TOPS_Badge/For Screens (raster)/Tops_badge_PNG/Tops_badge_Original/Tops_badge_Original4x_cropped.png](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png)" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
 # Transform to Open Science (TOPS)
 
