@@ -1,20 +1,15 @@
 root: index
-parts:
-  - caption: Introduction
-    chapters:
-      sections:
-      - file: CODE_OF_CONDUCT
-      - file: CONTRIBUTING
-      - file: getting_started
-      - file: README
-      - file: SECURITY
-      - file: tops_faq
 entries:
+- file: CODE_OF_CONDUCT
+- file: CONTRIBUTING
+- file: getting_started
+- file: README
+- file: SECURITY
+- file: tops_faq
 - file: docs/readme
   entries:
-  - file: docs/Area1_Engagement/contactus
+  - file: docs/Area1_Engagement/readme
     entries:
-    - file: docs/Area1_Engagement/readme
     - file: docs/Area1_Engagement/branding_graphics/readme
     - file: docs/Area1_Engagement/Community_Forums/20221110_community_forum
       entries:
@@ -120,4 +115,3 @@ entries:
   - file: Year_of_Open_Science_Cookbook/Promote_year_of_open_science
   - file: Year_of_Open_Science_Cookbook/readme
   - file: Year_of_Open_Science_Cookbook/Strengthen_year_of_open_science
-
