@@ -1,16 +1,119 @@
-format: jb-book
 root: index
-parts:
-- caption: TOPS Mission
-  chapters:
-  - file: docs/
-  - file: Open_Science_Cookbook/
-  - file: Year_of_Open_Science_Cookbook/
-- caption: More
-  chapters:
-  - file: docs/Area1_Engagement
-  - file: docs/Area2_Capacity_Sharing
-  - file: docs/Area3_Incentives
-  - file: docs/Area4_Moving_To_Openness
+entries:
+- file: CODE_OF_CONDUCT
+- file: CONTRIBUTING
+- file: getting_started
+- file: README
+- file: SECURITY
+- file: tops_faq
+- file: docs/readme
+  entries:
+  - file: docs/Area1_Engagement/contactus
+    entries:
+    - file: docs/Area1_Engagement/readme
+    - file: docs/Area1_Engagement/branding_graphics/readme
+    - file: docs/Area1_Engagement/Community_Forums/20221110_community_forum
+      entries:
+      - file: docs/Area1_Engagement/Community_Forums/code_of_conduct
+      - file: docs/Area1_Engagement/Community_Forums/readme
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220512_community_forum
+        entries:
+        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220609_community_forum
+        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220714_community_forum
+        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220714_July_Forum_Responses
+        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum
+        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220908_community_forum
+        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20221013_community_forum
+    - file: docs/Area1_Engagement/Community_Panels/20220517_community_panel
+      entries:
+      - file: docs/Area1_Engagement/Community_Panels/20221005_community_panel
+      - file: docs/Area1_Engagement/Community_Panels/readme
+    - file: docs/Area1_Engagement/Hackathons/readme
+      entries:
+      - file: docs/Area1_Engagement/Hackathons/Grace_Hopper_Day/readme
+    - file: docs/Area1_Engagement/Open-Science-Stories/OpenCore_SME_Why-I-Practice-Open-Science
+      entries:
+      - file: docs/Area1_Engagement/Open-Science-Stories/readme
+    - file: docs/Area1_Engagement/Outreach/inreach
+      entries:
+      - file: docs/Area1_Engagement/Outreach/online_community_strategy
+      - file: docs/Area1_Engagement/Outreach/outreach
+      - file: docs/Area1_Engagement/Outreach/readme
+      - file: docs/Area1_Engagement/Outreach/tops_conferences
+      - file: docs/Area1_Engagement/Outreach/tops_publications
+  - file: docs/Area2_Capacity_Sharing/readme
+    entries:
+    - file: docs/Area2_Capacity_Sharing/Activity_Templates/readme
+      entries:
+      - file: docs/Area2_Capacity_Sharing/Activity_Templates/booth/readme
+      - file: docs/Area2_Capacity_Sharing/Activity_Templates/branding_and_graphics/readme
+      - file: docs/Area2_Capacity_Sharing/Activity_Templates/keynote/readme
+        entries:
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/keynote/TOPS_keynote_example1
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/keynote/TOPS_keynote_example2
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/keynote/TOPS_keynote_example3
+      - file: docs/Area2_Capacity_Sharing/Activity_Templates/panel/panel_example
+        entries:
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/panel/panel_example_short
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/panel/readme
+      - file: docs/Area2_Capacity_Sharing/Activity_Templates/presentation/readme
+      - file: docs/Area2_Capacity_Sharing/Activity_Templates/student_conference/readme
+      - file: docs/Area2_Capacity_Sharing/Activity_Templates/townhall/readme
+        entries:
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/townhall/session_200words_example
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/townhall/session_250words_example
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/townhall/townhall_example
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/townhall/townhall_example2
+      - file: docs/Area2_Capacity_Sharing/Activity_Templates/workshops/logistics_checklist
+        entries:
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/workshops/readme
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/workshops/workshop_abstract_example
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/workshops/workshop_checklist
+    - file: docs/Area2_Capacity_Sharing/OpenCore/course_guidance
+      entries:
+      - file: docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads
+      - file: docs/Area2_Capacity_Sharing/OpenCore/opencore_sprint
+      - file: docs/Area2_Capacity_Sharing/OpenCore/OpenCore_structure
+      - file: docs/Area2_Capacity_Sharing/OpenCore/readme
+      - file: docs/Area2_Capacity_Sharing/OpenCore/events/2022-06-03-opencore-presprint-report
+      - file: docs/Area2_Capacity_Sharing/OpenCore/images/image_location
+      - file: docs/Area2_Capacity_Sharing/OpenCore/modules/Ethos_of_Open_Science_Module
+        entries:
+        - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_data_module
+        - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_results_module
+        - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_science_ethos_module
+        - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_software_module
+        - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_tools_module
+    - file: docs/Area2_Capacity_Sharing/ScienceCore/readme
+  - file: docs/Area3_Incentives/badging_motivation
+    entries:
+    - file: docs/Area3_Incentives/micro-badging_details
+    - file: docs/Area3_Incentives/readme
+  - file: docs/Area4_Moving_To_Openness/federal_guidance
+    entries:
+    - file: docs/Area4_Moving_To_Openness/funding_opportunities
+    - file: docs/Area4_Moving_To_Openness/global_policies
+    - file: docs/Area4_Moving_To_Openness/job_opportunities
+    - file: docs/Area4_Moving_To_Openness/Open_Science
+    - file: docs/Area4_Moving_To_Openness/Open_Timeline
+    - file: docs/Area4_Moving_To_Openness/readme
+    - file: docs/Area4_Moving_To_Openness/TOPST/NASA_open_data
+      entries:
+      - file: docs/Area4_Moving_To_Openness/TOPST/proposal_resources
+      - file: docs/Area4_Moving_To_Openness/TOPST/readme
+      - file: docs/Area4_Moving_To_Openness/TOPST/TOPST_FAQ
+- file: Open_Science_Cookbook/code_learning_resources
+  entries:
+  - file: Open_Science_Cookbook/Engage_open_science
+  - file: Open_Science_Cookbook/Promote_open_science
+  - file: Open_Science_Cookbook/reading_list
+  - file: Open_Science_Cookbook/readme
+  - file: Open_Science_Cookbook/software_citation_checklist
+  - file: Open_Science_Cookbook/Strengthen_open_science
+- file: Year_of_Open_Science_Cookbook/conferences_for_the_year_of_open_science
+  entries:
+  - file: Year_of_Open_Science_Cookbook/Engage_year_of_open_science
+  - file: Year_of_Open_Science_Cookbook/Promote_year_of_open_science
+  - file: Year_of_Open_Science_Cookbook/readme
+  - file: Year_of_Open_Science_Cookbook/Strengthen_year_of_open_science
 
- 

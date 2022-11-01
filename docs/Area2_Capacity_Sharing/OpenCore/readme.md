@@ -3,7 +3,7 @@
 
 # OpenCore Scope
 
-TOPS aims to meet everyone where they are at on their open science journey. While some members of our growing community may have practiced open science for many years, others may be trying to transition to a new way of conducting research or are students who are looking to begin their scientific careers. As such, TOPS' first priority is to develop the infrastructure to train 20,000 scientists and researchers as part of our five-year program. This community-developed open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts. TOPS will initially focus on developing the OpenCore, designed as five modules that mimic a scientific workflow.  
+TOPS aims to meet everyone where they are at on their open science journey. While some members of our growing community may have practiced open science for many years, others may be trying to transition to a new way of conducting research or are students who are looking to begin their scientific careers. As such, TOPS' first priority is to develop the infrastructure to train 20,000 scientists and researchers as part of our five-year program. This [community-developed](./OpenCore_leads.md) open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts. TOPS will initially focus on developing the OpenCore, designed as five modules that mimic a scientific workflow.  
 
 For the 2023 Year of Open Science, TOPS is developing strategic partnerships with scientific associations to teach open science during large annual meetings, special science team summer schools, and other events. The vision for the TOPS OpenCore and other learning resources is for a CC-BY licensed online, open course, hosted on the OpenEDx platform, that can be used to train scientists and award NASA open science badges.
 
@@ -35,6 +35,9 @@ The design is for a 12.5-hour course consisting of five, 2.5-hour modules that c
 
 Additional information about the module [structure](./OpenCore_structure.md) and suggestions for [design](./course_guidance.md) are provided.
 
+### Course Creation
+For the workshop and online course materials, Open edX has many [partners](https://openedx.org/marketplace-all/) that specialize in working with subject matter experts to create online courses. To train 20,000 scientists, the MOOC will need to be engaging and interactive, similar to [Elements of AI](https://www.elementsofai.com/), with animations rather than videos of people. Using animations rather than videos will make the MOOC easier to translate into additional languages.
+
 ### Instructor-lead Workshop Materials
 For instructor-lead workshops (in-person and virtual), the materials will be organized as follows:
 * Each module is to be organized into five, 30-minute lessons for a total of 2.5 hours of content. We recommend scheduling the module for three hours and taking two, 15-minute breaks. 
@@ -50,6 +53,16 @@ For online coursework, including the Open edX course, the materials will be orga
 * Every module except the “Ethos of Open Science” module will offer a “test-out” mechanism, such as a quiz, to allow for advanced learners to earn the credit for that module
 * Final content will be deployed on Open edX
 * All content will be assigned a CC0 or CC-BY license
+
+### Open edX platform
+For the MOOC, Open edX has many [partners](https://openedx.org/marketplace-all/) that specialize in customizing and deploying an Open edX platform. 
+* login users and display badges or certifications
+* track user engagement
+* auto-grading of questions
+* certification
+* data analytics
+* mobile-ready
+* 10,000+ users, autoscaling
 
 ## Certification: (TBD) 
 
