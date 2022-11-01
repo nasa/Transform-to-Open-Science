@@ -1,4 +1,4 @@
-root: index
+root: readme
 entries:
 - file: CODE_OF_CONDUCT
 - file: CONTRIBUTING
