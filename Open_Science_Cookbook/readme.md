@@ -40,3 +40,9 @@ If the vision painted above sounds like something you want to become involved wi
 
 <h4>Conferences:</h4> 
 Does your organization host a conference? Navigate straight to our <a href="https://github.com/nasa/Transform-to-Open-Science/blob/main/Year_of_Open_Science_Cookbook/conferences_for_the_year_of_open_science.md">Year of Open Science Conferences</a> cookbook to learn more about how TOPS wishes to work with you.
+
+#### Read These Open Science Resources:
+TOPS is collecting a living list of open science resources! We have divided them into two documents to make it a bit easier to find what you need
+           
+- The [reading list](/Open_Science_Cookbook/reading_list.md) contains information about existing open science trainings, guides for data science, and a list of open science publications referenced when creating the TOPS open science curriculum 
+- The [coding resources](/Open_Science_Cookbook/code_learning_resources.md) contains suggestions for documenting scientific software as well as getting started with coding. Ready to get a bit more granular? Here is a suggested checklist for open-source code [documentation](/Open_Science_Cookbook/software_citation_checklist.md).   
