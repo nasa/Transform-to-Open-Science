@@ -1,5 +1,6 @@
-## Ready to get started transforming towards open science with us? [Begin with our getting started guide!](/getting_started.md)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+## Ready to get started transforming towards open science with us? 
+[Begin with our getting started guide!](/getting_started.md) \
+Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -13,7 +14,7 @@
 - [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
 
 
-<img align="right" src="https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
+<img align="right" src="./docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
 # Transform to Open Science (TOPS)
 
