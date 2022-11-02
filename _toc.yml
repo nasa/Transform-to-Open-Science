@@ -1,12 +1,13 @@
 root: index
 entries:
-- file: CODE_OF_CONDUCT
-- file: CONTRIBUTING
-- file: getting_started
-- file: README
-- file: SECURITY
-- file: tops_faq
 - file: docs/readme
+  entries:
+  - file: CODE_OF_CONDUCT
+  - file: CONTRIBUTING
+  - file: getting_started
+  - file: README
+  - file: SECURITY
+  - file: tops_faq
   entries:
   - file: docs/Area1_Engagement/readme
     entries:
