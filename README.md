@@ -1,8 +1,8 @@
 # Introduction
 
-Ready to get started transforming towards open science with us? 
-
 Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Open-Science/]()
+
+Ready to get started transforming towards open science with us? 
 
 [Begin with our getting started guide!](./getting_started.md) 
 
