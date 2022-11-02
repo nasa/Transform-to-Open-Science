@@ -1,11 +1,11 @@
-<h1>Open Science Cookbook</h1>
+# Open Science Cookbook
 
 How to Get Started with Open Science</h1>
 
-<h2>What is Open Science?</h2>
+## What is Open Science?
 Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
 
-<h2>NASA’s Transform to Open Science mission</h2>
+## NASA’s Transform to Open Science mission
 To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission and has declared 2023 as the Year of Open Science. TOPS  is a $40 million, 5-year NASA Science Mission Directorate mission geared towards accelerating the adoption and understanding of open science. TOPS will focus on four areas of action—engagement, capacity sharing, incentives, and moving towards openness—to make progress against three goals:
 <ol>
     <li> To accelerate major scientific discoveries
@@ -14,7 +14,7 @@ To help catalyze the move to open science and support changing cultural norms, N
 </ol>
 These areas are designed to increase awareness about open science, provide learning resources for those looking to deepen their understanding and usage of open science practices and principles, and to promote events that support transitioning to open science. By partnering and collaborating with other organizations, NASA will support and enable the scientific community to move towards open science. 
 
-<h2> Your Open Science Journey </h4>
+## Your Open Science Journey
 Research labs, scientific funding organizations, and individual researchers have known and discussed for many years how interdisciplinary and diverse teams are capable of advancing scientific progress. These groups and individuals began to advocate for inclusive labs and organizations, where data and scientific practice was equitable and accessible to people from different backgrounds, with differing levels of academic training, and with different lived experiences. Although they may not have called this movement toward diverse and accessible research "open science," these same principles of equity and inclusivity are core to the open science ethos.<br>
 <br>
 Other researchers and organizations have come to advocate for open science through their experiences trying to access data, code, research methods, and publications through the course of their own scientific practice or funding apparatus. Frustration with embargo periods, incomplete or unsorted data sets, non-replicable results, or code that is anything but user-friendly have all resulted in a movement for full transparency of research, from the idea inception through the pre-registration of studies to the final results via open-source code, public data-sets, and open-access publications.<br> 
