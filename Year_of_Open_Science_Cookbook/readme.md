@@ -1,4 +1,7 @@
-<h1>How to Participate in NASA’s Year of Open Science</h1>
+<h1>Year of Open Science Cookbook<\h1>
+
+How to Participate in NASA’s Year of Open Science:
+
 <i>The Transform to Open Science (TOPS) mission is designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science.</i>
 
 <h2>Open Science</h2>
