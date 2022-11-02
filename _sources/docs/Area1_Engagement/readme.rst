@@ -1,6 +1,6 @@
 .. _meeting-notes:
 
-TOPS Engagement Strategy
+Engagement Strategy
 ==========================
 
 TOPS is made up of a small and passionate team that uses `inreach <./Outreach/inreach.md>`__ and `outreach <./Outreach/outreach.md>`__ strategies to `create community  <./Outreach/readme.md>`__ and spark positive change towards open science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to The Year of Open Science kickoff in 2023. 
