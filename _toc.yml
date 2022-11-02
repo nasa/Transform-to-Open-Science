@@ -64,17 +64,17 @@ entries:
         - file: docs/Area2_Capacity_Sharing/Activity_Templates/townhall/session_250words_example
         - file: docs/Area2_Capacity_Sharing/Activity_Templates/townhall/townhall_example
         - file: docs/Area2_Capacity_Sharing/Activity_Templates/townhall/townhall_example2
-      - file: docs/Area2_Capacity_Sharing/Activity_Templates/workshops/logistics_checklist
+      - file: docs/Area2_Capacity_Sharing/Activity_Templates/workshops/readme
         entries:
-        - file: docs/Area2_Capacity_Sharing/Activity_Templates/workshops/readme
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/workshops/logistics_checklist
         - file: docs/Area2_Capacity_Sharing/Activity_Templates/workshops/workshop_abstract_example
         - file: docs/Area2_Capacity_Sharing/Activity_Templates/workshops/workshop_checklist
-    - file: docs/Area2_Capacity_Sharing/OpenCore/course_guidance
+    - file: docs/Area2_Capacity_Sharing/OpenCore/readme
       entries:
       - file: docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads
       - file: docs/Area2_Capacity_Sharing/OpenCore/opencore_sprint
       - file: docs/Area2_Capacity_Sharing/OpenCore/OpenCore_structure
-      - file: docs/Area2_Capacity_Sharing/OpenCore/readme
+      - file: docs/Area2_Capacity_Sharing/OpenCore/course_guidance
       - file: docs/Area2_Capacity_Sharing/OpenCore/events/2022-06-03-opencore-presprint-report
       - file: docs/Area2_Capacity_Sharing/OpenCore/images/image_location
       - file: docs/Area2_Capacity_Sharing/OpenCore/modules/Ethos_of_Open_Science_Module
@@ -89,30 +89,30 @@ entries:
     entries:
     - file: docs/Area3_Incentives/micro-badging_details
     - file: docs/Area3_Incentives/readme
-  - file: docs/Area4_Moving_To_Openness/federal_guidance
+  - file: docs/Area4_Moving_To_Openness/readme
     entries:
     - file: docs/Area4_Moving_To_Openness/funding_opportunities
     - file: docs/Area4_Moving_To_Openness/global_policies
     - file: docs/Area4_Moving_To_Openness/job_opportunities
     - file: docs/Area4_Moving_To_Openness/Open_Science
     - file: docs/Area4_Moving_To_Openness/Open_Timeline
-    - file: docs/Area4_Moving_To_Openness/readme
-    - file: docs/Area4_Moving_To_Openness/TOPST/NASA_open_data
+    - file: docs/Area4_Moving_To_Openness/federal_guidance
+    - file: docs/Area4_Moving_To_Openness/TOPST/readme
       entries:
       - file: docs/Area4_Moving_To_Openness/TOPST/proposal_resources
-      - file: docs/Area4_Moving_To_Openness/TOPST/readme
+      - file: docs/Area4_Moving_To_Openness/TOPST/NASA_open_data
       - file: docs/Area4_Moving_To_Openness/TOPST/TOPST_FAQ
-- file: Open_Science_Cookbook/code_learning_resources
+- file: Open_Science_Cookbook/readme
   entries:
   - file: Open_Science_Cookbook/Engage_open_science
   - file: Open_Science_Cookbook/Promote_open_science
-  - file: Open_Science_Cookbook/reading_list
-  - file: Open_Science_Cookbook/readme
-  - file: Open_Science_Cookbook/software_citation_checklist
   - file: Open_Science_Cookbook/Strengthen_open_science
-- file: Year_of_Open_Science_Cookbook/conferences_for_the_year_of_open_science
+  - file: Open_Science_Cookbook/reading_list
+  - file: Open_Science_Cookbook/code_learning_resources
+  - file: Open_Science_Cookbook/software_citation_checklist
+- file: Year_of_Open_Science_Cookbook/readme
   entries:
+  - file: Year_of_Open_Science_Cookbook/conferences_for_the_year_of_open_science
   - file: Year_of_Open_Science_Cookbook/Engage_year_of_open_science
   - file: Year_of_Open_Science_Cookbook/Promote_year_of_open_science
-  - file: Year_of_Open_Science_Cookbook/readme
   - file: Year_of_Open_Science_Cookbook/Strengthen_year_of_open_science
