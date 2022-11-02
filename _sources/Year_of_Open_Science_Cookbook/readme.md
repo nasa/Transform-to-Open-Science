@@ -1,4 +1,4 @@
-<h1>Year of Open Science Cookbook<\h1>
+<h1>Year of Open Science Cookbook</h1>
 
 How to Participate in NASA’s Year of Open Science:
 
