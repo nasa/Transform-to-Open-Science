@@ -1,13 +1,14 @@
-<h1>Year of Open Science Cookbook</h1>
+# Year of Open Science Cookbook
 
 How to Participate in NASA’s Year of Open Science:
 
 <i>The Transform to Open Science (TOPS) mission is designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science.</i>
 
-<h2>Open Science</h2>
+## Open Science 
 Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
 
-<h2>NASA’s Transform to Open Science mission</h2>
+## NASA’s Transform to Open Science mission
+
 To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission and has declared 2023 as the Year Of Open Science. TOPS  is a $40 million, 5-year NASA Science Mission Directorate mission geared towards accelerating the adoption and understanding of open science. TOPS will focus on four areas of action—engagement, capacity sharing, incentives, and moving towards openness—to make progress against three goals:
 <ol>
     <li> To accelerate major scientific discoveries
