@@ -14,31 +14,31 @@ entries:
     - file: docs/Area1_Engagement/branding_graphics/readme
     - file: docs/Area1_Engagement/Community_Forums/20221110_community_forum
       entries:
-      - file: docs/Area1_Engagement/Community_Forums/code_of_conduct
       - file: docs/Area1_Engagement/Community_Forums/readme
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220512_community_forum
         entries:
+        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220512_community_forum
         - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220609_community_forum
         - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220714_community_forum
         - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220714_July_Forum_Responses
         - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum
         - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220908_community_forum
         - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20221013_community_forum
-    - file: docs/Area1_Engagement/Community_Panels/20220517_community_panel
+        - file: docs/Area1_Engagement/Community_Forums/code_of_conduct
+    - file: docs/Area1_Engagement/Community_Panels/readme
       entries:
       - file: docs/Area1_Engagement/Community_Panels/20221005_community_panel
-      - file: docs/Area1_Engagement/Community_Panels/readme
+      - file: docs/Area1_Engagement/Community_Panels/20220517_community_panel
     - file: docs/Area1_Engagement/Hackathons/readme
       entries:
       - file: docs/Area1_Engagement/Hackathons/Grace_Hopper_Day/readme
-    - file: docs/Area1_Engagement/Open-Science-Stories/OpenCore_SME_Why-I-Practice-Open-Science
+    - file: docs/Area1_Engagement/Open-Science-Stories/readme
       entries:
-      - file: docs/Area1_Engagement/Open-Science-Stories/readme
-    - file: docs/Area1_Engagement/Outreach/inreach
+      - file: docs/Area1_Engagement/Open-Science-Stories/OpenCore_SME_Why-I-Practice-Open-Science
+    - file: docs/Area1_Engagement/Outreach/readme
       entries:
       - file: docs/Area1_Engagement/Outreach/online_community_strategy
       - file: docs/Area1_Engagement/Outreach/outreach
-      - file: docs/Area1_Engagement/Outreach/readme
+      - file: docs/Area1_Engagement/Outreach/inreach
       - file: docs/Area1_Engagement/Outreach/tops_conferences
       - file: docs/Area1_Engagement/Outreach/tops_publications
   - file: docs/Area2_Capacity_Sharing/readme
@@ -52,10 +52,10 @@ entries:
         - file: docs/Area2_Capacity_Sharing/Activity_Templates/keynote/TOPS_keynote_example1
         - file: docs/Area2_Capacity_Sharing/Activity_Templates/keynote/TOPS_keynote_example2
         - file: docs/Area2_Capacity_Sharing/Activity_Templates/keynote/TOPS_keynote_example3
-      - file: docs/Area2_Capacity_Sharing/Activity_Templates/panel/panel_example
+      - file: docs/Area2_Capacity_Sharing/Activity_Templates/panel/readme
         entries:
         - file: docs/Area2_Capacity_Sharing/Activity_Templates/panel/panel_example_short
-        - file: docs/Area2_Capacity_Sharing/Activity_Templates/panel/readme
+        - file: docs/Area2_Capacity_Sharing/Activity_Templates/panel/panel_example
       - file: docs/Area2_Capacity_Sharing/Activity_Templates/presentation/readme
       - file: docs/Area2_Capacity_Sharing/Activity_Templates/student_conference/readme
       - file: docs/Area2_Capacity_Sharing/Activity_Templates/townhall/readme
@@ -85,10 +85,10 @@ entries:
         - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_software_module
         - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_tools_module
     - file: docs/Area2_Capacity_Sharing/ScienceCore/readme
-  - file: docs/Area3_Incentives/badging_motivation
+  - file: docs/Area3_Incentives/readme
     entries:
     - file: docs/Area3_Incentives/micro-badging_details
-    - file: docs/Area3_Incentives/readme
+    - file: docs/Area3_Incentives/badging_motivation
   - file: docs/Area4_Moving_To_Openness/readme
     entries:
     - file: docs/Area4_Moving_To_Openness/funding_opportunities
