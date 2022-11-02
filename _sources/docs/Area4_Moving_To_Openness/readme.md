@@ -1,4 +1,4 @@
-# TOPS Moving towards Open Science
+# Moving towards Open Science
 
 We welcome pull requests adding to these timelines or suggesting new timelines!
 
