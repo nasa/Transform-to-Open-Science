@@ -1,4 +1,4 @@
-# TOPS Learning Resources
+# Capacity Sharing
 
 TOPS aims to meet everyone where they are at on their open science journey. While some members of our growing community may have practiced open science for many years, others may be trying to transition to a new way of conducting research or are students who are looking to begin their scientific careers. As such, TOPS' first priority is to develop the infrastructure to train **20,000** scientists and researchers as part of our five-year program. This open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts. 
 
