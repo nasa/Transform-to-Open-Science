@@ -1,6 +1,6 @@
 # Introduction
 
-## Ready to get started transforming towards open science with us? 
+Ready to get started transforming towards open science with us? 
 
 [Begin with our getting started guide!](./getting_started.md) 
 
