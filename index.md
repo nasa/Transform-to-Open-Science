@@ -2,9 +2,7 @@
 
 Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
 
-Ready to get started transforming towards open science with us? 
-
-[Begin with our getting started guide!](./getting_started.md) 
+Ready to get started transforming towards open science with us? Get started [here!](./getting_started.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
