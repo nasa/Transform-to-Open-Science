@@ -1,4 +1,4 @@
-# TOPS is organized into 4 areas of action.
+# Learn more about TOPS activities
 
 ## Implementation
 - [Area 1: Engagement](./Area1_Engagement/): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
