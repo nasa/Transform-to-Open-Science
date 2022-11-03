@@ -1,10 +1,8 @@
 # Introduction
 
-Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Open-Science/]()
+Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
 
-Ready to get started transforming towards open science with us? 
-
-[Begin with our getting started guide!](./getting_started.md) 
+Ready to get started transforming towards open science with us? Get started [here!](./getting_started.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
@@ -12,11 +10,11 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 
 # Announcements!
 - November 3, 2022 | 2PM ET - [Public forum to ask questions about TOPST](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=m181c65b8777425f168a872e988670173)
-- November 10, 2022 | 1PM ET - [TOPS Community Forum](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20221110_community_forum.md), reviewing TOPST components and answering frequently asked questions.
+- November 10, 2022 | 1PM ET - [TOPS Community Forum](./docs/Area1_Engagement/Community_Forums/20221110_community_forum.md), reviewing TOPST components and answering frequently asked questions.
 - [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Notice of Intent Due 11/10. Proposals Due 12/8!
-- Open Science funding [opportunities](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/funding_opportunities.md)
-- Proposal [guidance](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
-- NEW! Open Science [stories](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Open-Science-Stories/readme.md)
+- Open Science funding [opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
+- Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
+- NEW! Open Science [stories](./docs/Area1_Engagement/Open-Science-Stories/readme.md)
 - [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
 
 
@@ -40,10 +38,10 @@ Open Science creates more advanced and inclusive research faster, builds a more 
 2023 is the Year Of Open Science, a NASA initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) community coordinates efforts designed to rapidly transform agencies, organizations, and communities.*
 
 ## Implementation
-- [Area 1: Engagement](./docs/Area1_Engagement/): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
-- [Area 2: Capacity sharing](./docs/Area2_Capacity_Sharing/): Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
-- [Area 3: Incentives](./docs/Area3_Incentives/): Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
-- [Area 4: Moving towards openness](./docs/Area4_Moving_To_Openness/): Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.
+- [Area 1: Engagement](./docs/Area1_Engagement/readme.md): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
+- [Area 2: Capacity sharing](./docs/Area2_Capacity_Sharing/readme.md): Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
+- [Area 3: Incentives](./docs/Area3_Incentives/readme.md): Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
+- [Area 4: Moving towards openness](./docs/Area4_Moving_To_Openness/readme.md): Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.
  
 ## Overview Presentation
 Short presentation on TOPS initiative: 
