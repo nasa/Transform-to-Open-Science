@@ -11,29 +11,6 @@ entries:
   entries:
   - file: docs/Area1_Engagement/readme
     entries:
-    - file: docs/Area1_Engagement/branding_graphics/readme
-    - file: docs/Area1_Engagement/Community_Forums/20221110_community_forum
-      entries:
-      - file: docs/Area1_Engagement/Community_Forums/readme
-        entries:
-        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220512_community_forum
-        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220609_community_forum
-        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220714_community_forum
-        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220714_July_Forum_Responses
-        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum
-        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220908_community_forum
-        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20221013_community_forum
-        - file: docs/Area1_Engagement/Community_Forums/code_of_conduct
-    - file: docs/Area1_Engagement/Community_Panels/readme
-      entries:
-      - file: docs/Area1_Engagement/Community_Panels/20221005_community_panel
-      - file: docs/Area1_Engagement/Community_Panels/20220517_community_panel
-    - file: docs/Area1_Engagement/Hackathons/readme
-      entries:
-      - file: docs/Area1_Engagement/Hackathons/Grace_Hopper_Day/readme
-    - file: docs/Area1_Engagement/Open-Science-Stories/readme
-      entries:
-      - file: docs/Area1_Engagement/Open-Science-Stories/OpenCore_SME_Why-I-Practice-Open-Science
     - file: docs/Area1_Engagement/Outreach/readme
       entries:
       - file: docs/Area1_Engagement/Outreach/online_community_strategy
@@ -41,6 +18,25 @@ entries:
       - file: docs/Area1_Engagement/Outreach/inreach
       - file: docs/Area1_Engagement/Outreach/tops_conferences
       - file: docs/Area1_Engagement/Outreach/tops_publications
+    - file: docs/Area1_Engagement/Open-Science-Stories/readme
+      entries:
+      - file: docs/Area1_Engagement/Open-Science-Stories/OpenCore_SME_Why-I-Practice-Open-Science
+      entries:
+    - file: docs/Area1_Engagement/Community_Forums/readme
+      entries:
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220512_community_forum
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220609_community_forum
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220714_community_forum
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220908_community_forum
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20221013_community_forum
+      - file: docs/Area1_Engagement/Community_Forums/20221110_community_forum
+      - file: docs/Area1_Engagement/Community_Forums/code_of_conduct
+    - file: docs/Area1_Engagement/Community_Panels/readme
+      entries:
+      - file: docs/Area1_Engagement/Community_Panels/20220517_community_panel
+      - file: docs/Area1_Engagement/Community_Panels/20221005_community_panel
+    - file: docs/Area1_Engagement/branding_graphics/readme
   - file: docs/Area2_Capacity_Sharing/readme
     entries:
     - file: docs/Area2_Capacity_Sharing/Activity_Templates/readme
@@ -104,13 +100,13 @@ entries:
       - file: docs/Area4_Moving_To_Openness/TOPST/TOPST_FAQ
 - file: Open_Science_Cookbook/readme
   entries:
-  - file: Open_Science_Cookbook/Engage_open_science
   - file: Open_Science_Cookbook/Promote_open_science
+  - file: Open_Science_Cookbook/Engage_open_science
   - file: Open_Science_Cookbook/Strengthen_open_science  
 - file: Year_of_Open_Science_Cookbook/readme
   entries:
-  - file: Year_of_Open_Science_Cookbook/Engage_year_of_open_science
   - file: Year_of_Open_Science_Cookbook/Promote_year_of_open_science
+  - file: Year_of_Open_Science_Cookbook/Engage_year_of_open_science
   - file: Year_of_Open_Science_Cookbook/Strengthen_year_of_open_science
-  - file: Year_of_Open_Science_Cookbook/conferences_for_the_year_of_open_science
+- file: Year_of_Open_Science_Cookbook/conferences_for_the_year_of_open_science
 
