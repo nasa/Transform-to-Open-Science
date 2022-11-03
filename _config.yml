@@ -10,8 +10,16 @@ only_build_toc_files        : true
 
 execute:
   execute_notebooks: 'off'
+  home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
 
-
+#######################################################################################
+# HTML-specific settings
+html:
+#  google_analytics_id       : "UA-148221575-1"  # A GA id that can be used to track book views.
+  home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
+  use_repository_button     : true
+  use_edit_page_button      : true
+  use_issues_button         : true
 
 sphinx:
   config:
