@@ -1,6 +1,6 @@
 # Introduction
 
-Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Open-Science/]()
+Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
 
 Ready to get started transforming towards open science with us? 
 
