@@ -1,5 +1,7 @@
+<img align="right" src="Communities_CynthiaHall.png" width="300" alt="image showing domaine, community, and practice">
+
+
 ## Creating Community: Our Ground Game
-<img align="right" src="/docs/Area1_Engagement/Outreach/Communities_CynthiaHall.png" style="width:175px;height:194px;">
 Open Science is built on community. Central to its success is diversity, inclusivity, accessibility and equity. NASA’s Transform to Open Science (TOPS) efforts can’t be successful without working with diverse communities. When we learn from each other, we all come out stronger. 
 
 
