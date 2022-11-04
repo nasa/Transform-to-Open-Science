@@ -1,5 +1,5 @@
 
-# TOPS Community Panel May 2022
+# May 2022 Community Panel
 
 **Where:** Public (virtual) meeting  
 **When:** 17-19 May 2022, 12-3 EST (9-12 PST), each day.  
@@ -12,10 +12,8 @@
 
 Each day we will present TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
 
-
 [Please also take a moment to review our Code of Conduct here](../../../CODE_OF_CONDUCT.md)
 
-  
 Links to presentations will be added the morning of the event. 
 
 <table>
