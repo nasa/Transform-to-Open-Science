@@ -3,8 +3,8 @@
 TOPS Community Panel reviews and provides input on NASA’s strategy for transitioning to open-source science. The panel meeting will bring together leaders from the open science, open source software, and data science communities with the NASA TOPS team for a detailed review of TOPS plans. The meeting will be public and have tools for the public to submit questions
 
 ## Panels
-* October 2022 [TOPS Community Panel](./20221005_community_panel.md). 
-* May 2022 [TOPS Community Panel](./20220517_community_panel.md). 
+* October 2022 [Panel](20221005_community_panel.md). 
+* May 2022 [Panel](20220517_community_panel.md). 
 
 ## 2022 TOPS Community Panelists:
 
