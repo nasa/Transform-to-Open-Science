@@ -23,6 +23,9 @@ entries:
       - file: docs/Area1_Engagement/Open-Science-Stories/OpenCore_SME_Why-I-Practice-Open-Science
     - file: docs/Area1_Engagement/Community_Forums/readme
     - file: docs/Area1_Engagement/Community_Panels/readme
+      entries:
+      - file: docs/Area1_Engagement/Community_Panels/20221005_community_panel
+      - file: docs/Area1_Engagement/Community_Panels/20220517_community_panel
     - file: docs/Area1_Engagement/branding_graphics/readme
   - file: docs/Area2_Capacity_Sharing/readme
     entries:
