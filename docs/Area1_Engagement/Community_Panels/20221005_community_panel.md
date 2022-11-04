@@ -1,4 +1,4 @@
-# TOPS Community Panel October 2022
+# October 2022 Community Panel 
 
 **Where:** Public (Hybrid) meeting online and at NASA JPL in Pasadena, CA  
 **When:** 5-6 October 2022
@@ -18,33 +18,9 @@ NASA’s Transform to Open Science (TOPS) mission is being designed to support t
 
 [Please also take a moment to review our Code of Conduct here](../../../CODE_OF_CONDUCT.md)
 
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.719 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Thu Sep 15 2022 17:23:30 GMT-0700 (PDT)
-* Source doc: Untitled document
-* Tables are currently converted to HTML tables.
------>
-
-
 **Logistics and Schedules:**
 
 ## Day 1: October 5th, 2022
-
 
 <table>
   <tr>
