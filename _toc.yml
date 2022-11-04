@@ -22,19 +22,7 @@ entries:
       entries:
       - file: docs/Area1_Engagement/Open-Science-Stories/OpenCore_SME_Why-I-Practice-Open-Science
     - file: docs/Area1_Engagement/Community_Forums/readme
-      entries:
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220512_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220609_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220714_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220908_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20221013_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/20221110_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/code_of_conduct
     - file: docs/Area1_Engagement/Community_Panels/readme
-      entries:
-      - file: docs/Area1_Engagement/Community_Panels/20220517_community_panel
-      - file: docs/Area1_Engagement/Community_Panels/20221005_community_panel
     - file: docs/Area1_Engagement/branding_graphics/readme
   - file: docs/Area2_Capacity_Sharing/readme
     entries:
