@@ -33,6 +33,6 @@ These areas are designed to increase awareness about open science, provide learn
 
 **For Your Organization:** Your organization is ready to devote people, funds, and other resources to adopting open science throughout the organization. Your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions. Your organization is ready to help [Strengthen the Year of Open Science](./Strengthen_year_of_open_science.md)!
 
-### Conferences: 
+### Conferences 
 Does your organization host a conference? Navigate straight to our [Year of Open Science Conferences](./conferences_for_the_year_of_open_science.md) cookbook to learn more about how TOPS wishes to work with you.
 
