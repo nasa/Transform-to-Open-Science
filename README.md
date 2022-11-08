@@ -59,7 +59,10 @@ Issues are used to collect tasks for development, and Markdown text documents fo
 
 ## Frequently Asked Questions
 
-We have collected frequently asked questions [here](./tops_faq.md). Please use the discussions channel on this GitHub to ask more questions if you have them! You can also [reach out to us using our contact form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit).
+We have collected frequently asked questions [here](./tops_faq.md). Please use the discussions channel on this GitHub to ask more questions if you have them! 
+
+## Contact Us
+You can [reach out to us using our contact form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit)!
 
 **We hope you will join us and champion open science!**
 
