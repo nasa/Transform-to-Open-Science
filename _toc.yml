@@ -22,19 +22,24 @@ entries:
       entries:
       - file: docs/Area1_Engagement/Open-Science-Stories/OpenCore_SME_Why-I-Practice-Open-Science
     - file: docs/Area1_Engagement/Community_Forums/readme
-    entries:
-      - file: docs/Area1_Engagement/Community_Forums/20221110_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20221013_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220908_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220714_community_forum
+      entries:
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220512_community_forum
       - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220609_community_forum
-      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220512_community_forum    
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220714_community_forum
+        entries:
+        - docs/Area1_Engagement/Community_Forums/2022_Forums/20220714_July_Forum_Responses
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum
+        entries:
+        - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_transcript
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20220908_community_forum
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20221013_community_forum
+      - file: docs/Area1_Engagement/Community_Forums/2022_Forums/20221110_community_forum  
     - file: docs/Area1_Engagement/Community_Panels/readme
       entries:
       - file: docs/Area1_Engagement/Community_Panels/20221005_community_panel
       - file: docs/Area1_Engagement/Community_Panels/20220517_community_panel
     - file: docs/Area1_Engagement/branding_graphics/readme
+    - file: docs/Area1_Engagement/contactus
   - file: docs/Area2_Capacity_Sharing/readme
     entries:
     - file: docs/Area2_Capacity_Sharing/Activity_Templates/readme
@@ -99,6 +104,10 @@ entries:
 - file: Open_Science_Cookbook/readme
   entries:
   - file: Open_Science_Cookbook/Promote_open_science
+    entries:
+    - file: Open_Science_Cookbook/reading_list
+    - file: Open_Science_Cookbook/code_learning_resources
+    - file: Open_Science_Cookbook/software_citation_checklist
   - file: Open_Science_Cookbook/Engage_open_science
   - file: Open_Science_Cookbook/Strengthen_open_science  
 - file: Year_of_Open_Science_Cookbook/readme
