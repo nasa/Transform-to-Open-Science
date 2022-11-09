@@ -25,3 +25,7 @@ The training material as well as the design of the learning activities should be
 
 ## TOPST FAQ is [here](/docs/Area4_Moving_To_Openness/TOPST/TOPST_FAQ.md)
 *For general FAQs related to ROSES-2022 go [HERE](https://science.nasa.gov/researchers/sara/faqs#14).*
+
+## Additional Proposal Resources
+* Look [here](./NASA_open_data.md) for information on NASA's open data archives
+* Look [here](./proposal_resources.md) for a curated list of guides, examples, and templates
