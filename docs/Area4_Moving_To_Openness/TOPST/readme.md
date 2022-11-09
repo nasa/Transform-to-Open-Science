@@ -23,7 +23,7 @@ The training material as well as the design of the learning activities should be
 [Link] to recording (coming soon) \
 [Link] to transcript (coming soon)
 
-## TOPST FAQ is [here](/docs/Area4_Moving_To_Openness/TOPST/TOPST_FAQ.md)
+## TOPST FAQ is [here](https://doi.org/10.5281/zenodo.7194641).
 *For general FAQs related to ROSES-2022 go [HERE](https://science.nasa.gov/researchers/sara/faqs#14).*
 
 ## Additional Proposal Resources
