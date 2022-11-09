@@ -8,91 +8,11 @@ NASA has declared 2023 as the Year of Open Science! The TOPS team will be partic
 2. Sign up for the [TOPS email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to receive our announcements about additions or changes to that list, and 
 3. Use this [contact form](https://forms.gle/Um3KpsZw2FHXpNju9) to set up a meeting to discuss needs and outcomes. 
 
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td>NASA TOPS Booth
-   </td>
-   <td>Session Proposal
-   </td>
-   <td>Town Hall
-   </td>
-   <td>Panel
-   </td>
-   <td>OpenCore Workshops
-   </td>
-   <td>Plenary or Keynote
-   </td>
-   <td>Student/ ECR Conference
-   </td>
-   <td>Open Science Theme
-   </td>
-  </tr>
-  <tr>
-   <td>Promote
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Engage
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Strengthen
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-  </tr>
-</table>
-
-
+|            | NASA TOPS Booth | Town Hall | Panel | OpenCore Workshops | Plenary or Keynote | Student/ECR Conference | Open Science Theme |
+| ---------- | --------------- | --------- | ----- | ------------------ | ------------------ | ---------------------- | ------------------ |
+| Promote    | X               | X         |       |                    |                    |                        |                    |
+| Engage     | X               | X         | X     | X                  |                    |                        |                    |
+| Strengthen | X               | X         | X     | X                  | X                  | X                      | X                  |
 
 ## Promote
 
