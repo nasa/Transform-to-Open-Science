@@ -6,7 +6,7 @@ My research team, lab or organization is not ready for open science but I want t
 
 ### Join the TOPS Community Forums
 
-The TOPS community forums are monthly exchanges of about an hour in length which are open to the public. Anyone who has joined the TOPS [listserv](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) receives an invitation to register for upcoming forums, with an announcement also posted on the [TOPS GitHub](https://github.com/nasa/Transform-to-Open-Science#announcements). Forum recordings and slides and posted in the [TOPS GitHub](/docs/Area1_Engagement/Community_Forums/readme.md). In cases where recordings are not taken, transcriptions will be made available, if possible.
+The TOPS community forums are monthly exchanges of about an hour in length which are open to the public. Anyone who has joined the TOPS [listserv](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) receives an invitation to register for upcoming forums. Forum recordings and slides and posted in the [TOPS GitHub](/docs/Area1_Engagement/Community_Forums/readme.md). In cases where recordings are not taken, transcriptions will be made available, if possible.
 
 The purpose of the Community Forums is to invite members of the community to become aware of and engage in conversation about upcoming events and recent progress on TOPS initiatives directly from the TOPS team. Further, these events can be leveraged to collect feedback from the community on TOPS core areas and activities, such as the OpenCore, the Year of Open Science, and upcoming conference presentations etc. The community forum will also likely be leveraged for specific topics in the future, such as a “workshop” on responding to ROSES or an introduction to SMD-specific open science policy. 
 
@@ -21,8 +21,8 @@ To encourage participation, the TOPS team leverages tools such as Jamboard, Ment
 ### Read These Open Science Resources
 TOPS is collecting a living list of open science resources! We have divided them into two documents to make it a bit easier to find what you need
            
-- The [reading list](/Open_Science_Cookbook/reading_list.md) contains information about existing open science trainings, guides for data science, and a list of open science publications referenced when creating the TOPS open science curriculum 
-- The [coding resources](/Open_Science_Cookbook/code_learning_resources.md) contains suggestions for documenting scientific software as well as getting started with coding. Ready to get a bit more granular? Here is a suggested checklist for open-source code [documentation](/Open_Science_Cookbook/software_citation_checklist.md).           
+- The [reading list](./reading_list.md) contains information about existing open science trainings, guides for data science, and a list of open science publications referenced when creating the TOPS open science curriculum 
+- The [coding resources](./code_learning_resources.md) contains suggestions for documenting scientific software as well as getting started with coding. Ready to get a bit more granular? Here is a suggested checklist for open-source code [documentation](./software_citation_checklist.md).           
 
 ### Join an Open Science Community
 - [Pangeo](https://pangeo.io/) - an open science community with a weekly community meeting that starts with a 15 min science talk. Meeting schedule is at the bottom of [this](https://pangeo.io/meeting-notes.html) page.
@@ -37,11 +37,6 @@ TOPS is collecting a living list of open science resources! We have divided them
 - [Pangeo Discourse](https://discourse.pangeo.io/)
 - [TOPS Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions)
            
-</details>
-
-<details>
-           <summary><h2>For the Organization</h2></summary>
+## For the Organization
 
 If you represent an organization interested in integrating open science principles and practices into your organization, we invite you to begin with the list of ideas presented in the [Promote the Year of Open Science Cookbook](/Year_of_Open_Science_Cookbook/Promote_year_of_open_science.md).
-           
-</details>

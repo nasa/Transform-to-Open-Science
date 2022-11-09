@@ -1,4 +1,4 @@
-# Learn more about TOPS activities
+# Learn More About TOPS Activities
 
 ## Implementation
 - [Area 1: Engagement](./Area1_Engagement/): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.

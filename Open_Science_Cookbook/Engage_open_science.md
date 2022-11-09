@@ -8,8 +8,16 @@ In recent decades, the technological barriers to participating in open science h
 
 Building on the work of others over the past several years, TOPS invites individuals, agencies, academic institutions and other organizations to examine the kind of science which they support and encourage, and move towards a more open framework. Join us in our journey, and encourage the pursuit of open scientific progress!  
 
-<details>
-  <summary><h3>Sources and Recommended Reading</h3></summary>
+### We Recommend Everyone Begin Here
+We invite all our partners to read and adapt the recommendations from the National Academies of Sciences, Engineering, and Medicine workshop in 2021, “Developing a Toolkit for Fostering Open Science Practices: Proceedings of a Workshop.” Which can be found at [https://doi.org/10.17226/26308](https://doi.org/10.17226/26308). 
+
+In particular, the Toolkit Materials in Appendix C provide resources for:
+* Drafting an institution statement of support for open science methods and practices (pages 33 to 45)
+* Examples of successful and impactful open science work such as the Human Genome Project and the COVID-19 Open Research Dataset (pages 36 to 39)
+* A sample template and rubric for assessing a grant/job application for adherence to open science principles (pages 46 to 69)
+* A series of short primers on various open-science topics (pages 70 to 92)
+
+### Sources and Recommended Reading
 
 Sources and inspiration for the following suggestions were curated from the work presented in the following publications. Thank you to the contributors, authors, and editors of these reports for sharing the power of open science with the world.
 
@@ -25,23 +33,12 @@ Articles are arranged chronologically and then alphabetically by author/authorin
 * UNESCO. 2021. UNESCO Recommendation on Open Science. [https://en.unesco.org/science-sustainable-future/open-science/recommendation](https://en.unesco.org/science-sustainable-future/open-science/recommendation) 
 * Martin S. Hagger (2022) Developing an open science ‘mindset’, Health Psychology and Behavioral Medicine, 10:1, 1-21, DOI: 10.1080/21642850.2021.2012474. [https://doi.org/10.1080/21642850.2021.2012474](https://doi.org/10.1080/21642850.2021.2012474)  
 * Miedema, Frank 2022. Open Science: The Very Idea. Utrecht, The Netherlands: Springer Nature. [https://doi.org/10.1007/978-94-024-2115-6](https://doi.org/10.1007/978-94-024-2115-6)
-</details>
-
-### We Recommend Everyone Begin Here
-We invite all our partners to read and adapt the recommendations from the National Academies of Sciences, Engineering, and Medicine workshop in 2021, “Developing a Toolkit for Fostering Open Science Practices: Proceedings of a Workshop.” Which can be found at [https://doi.org/10.17226/26308](https://doi.org/10.17226/26308). 
-
-In particular, the Toolkit Materials in Appendix C provide resources for:
-* Drafting an institution statement of support for open science methods and practices (pages 33 to 45)
-* Examples of successful and impactful open science work such as the Human Genome Project and the COVID-19 Open Research Dataset (pages 36 to 39)
-* A sample template and rubric for assessing a grant/job application for adherence to open science principles (pages 46 to 69)
-* A series of short primers on various open-science topics (pages 70 to 92)
 
 ### Recommendations for Government Organizations, Academic Institutions, and NGOs
 Recommendations are grouped by theme, with recommended reading or places where more information can be found included where it may be helpful. 
 
-<details>
-  <summary><h4>Research Products & Data</h4></summary>
-  
+#### Research Products & Data
+
 * Consider the data held in trust by your organization. 
     * Where can researchers find your data? What is your process/method for releasing data? Can portions of it be anonymized such that it can be shared? Is the process for requesting access to your data clear? How fast is the data request process and how often do you go through the process of releasing data? Does your organization have practices around pre-registration and archiving? Are these practices well-known and front-of-mind?
     * [Registry of Research Data Repositories](https://www.re3data.org/) is an example site for finding open databases 
@@ -61,12 +58,8 @@ Recommendations are grouped by theme, with recommended reading or places where m
     * Can this code be made publicly available via GitHub, BitBucket or other mechanisms? 
     * Consider how much of the work of your group ought to be kept “closed” and how much can be made available to advance the work of others, particularly young professionals and early career researchers.
   
-</details>
+#### Metrics & Incentives
 
-<details>
-  
-  <summary><h4>Metrics & Incentives</h4></summary>
-  
 * If your organization conducts research, consider the metrics used when evaluating professors, researchers, lab assistants etc. for promotions and opportunities. 
     * What do these metrics *actually* measure? Do these metrics account for historic bias, institutional bias, or other inclusivity or accessibility considerations? Do these metrics account for time and effort spent on research that ultimately produced null and/or negative results? 
     * Explore using alternative metrics that value transparency, reproducibility, replicability, and access. In particular, consider metrics which reflect readability and accessibility of software, code, and data, to encourage and reward researchers who spend time and resources on data science principles 
@@ -79,11 +72,9 @@ Recommendations are grouped by theme, with recommended reading or places where m
 * It is the suggestion of the [National Academy of Sciences](https://doi.org/10.17226/26308https://doi.org/10.17226/26308) that organizations which are committed to moving towards and advocating for open science should consider the language which is used not only in grants and calls for proposals, but also in prompts for cover letters and resumes, to ensure that the ethos of open science is consistently present. 
     * For example, are applicants for a job asked about their commitment to open science in their recent work? Are post-docs encouraged to make their data open when conducting their work? 
     * An excellent resource on this topic can be found in the [National Academies of Sciences, Engineering, and Medicine. 2021. Developing a Toolkit for Fostering Open Science Practices: Proceedings of a Workshop. Washington, DC: The National Academies Press](https://doi.org/10.17226/26308). 
-  
-</details>
 
-<details>
-  <summary><h4>Engaging in Research & Training</h4></summary>
+
+#### Engaging in Research & Training
 
 * What is the “signaling language” used in grant applications, job postings, and descriptions of research conducted at your organization? 
     * Does this language imply open or closed science practice? Consider updating language where appropriate. 
@@ -105,17 +96,13 @@ Recommendations are grouped by theme, with recommended reading or places where m
     * Who can use them? Are they open to all or only to a certain group? 
     * Consider creating a pathway for community members–particularly high schoolers, study teams organized via libraries, Girl and Boy Scouts, YMCAs, and other organized youth groups–to be able to apply to use these spaces.
 * Does your organization have a structured mentoring program for early career researchers? If not, consider creating one. If one already exists, consider incorporating themes of open science into the program.
-    
-    </details>
 
 ### Additional Recommendations for Academic Institutions
 
 Some recommendations are most appropriate for academic institutions to tackle, as they relate to academic coursework. We have listed a few of these here, and additionally invite those interested to explore the [Open-Access recommendations by MIT](https://mitl.pubpub.org/pub/future-of-libraries/release/1).
 
-<details>
-  
-  <summary><h4>Academic Recommendations</h4></summary>
-  
+#### Academic Recommendations
+
 * Are both undergraduate and graduate students required to learn about proper statistical analysis and inference? 
     * In particular, do your students understand common problems with statistical analysis which can lead to a lack of accessibility, replicability, and/or reproducibility of the results (e.g., p-hacking, cherry-picking)? 
     * Consider making such knowledge a central tenet of STEM courses at both the undergraduate and graduate levels. 
@@ -124,6 +111,3 @@ Some recommendations are most appropriate for academic institutions to tackle, a
     * Consider if your institution may benefit from adjusting the metrics for success in these situations, to include time and incentive for researchers to fully engage with the people most closely affected–either directly or indirectly–by their work. 
     * On a related note, are STEM majors and those pursuing graduate studies in STEM encouraged to study other languages and/or cultures? Are the requirements for a major structured in such a way that they have room in their schedules to pursue those interests? Studying other languages can be a great way to begin to understand the motivations of another community. Next time you review requirements, consider this: what do the requirements of these majors teach students about what is important? 
 * We invite academic institutions to read the work of [MIT’s Future of the Libraries Task Force](https://mitl.pubpub.org/pub/future-of-libraries/release/1) from 2016 and consider whether those recommendations, particularly those related to open access, are applicable to your library system.
-
-  </details>
-
