@@ -1,6 +1,6 @@
 # TOPS Science Curriculum: ScienceCore
 
-The TOPS open science curriculum will be expanded to support researchers looking to engage with NASA as NASA moves to adopt more open science requirements (*e.g.*, [Scientific Information Policy](https://science.nasa.gov/researchers/science-data/science-information-policy) and [ROSES](https://science.nasa.gov/researchers/sara/grant-solicitations) opportunities). In addition to the skills highlighted in the [OpenCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore), scientists will need to grow skills specific to their area of study. Potential ScienceCore topics are data science, using cloud computing resources, how to share biological samples, or how to utilize MakerSpaces or shared labs.
+The TOPS open science curriculum will be expanded to support researchers looking to engage with NASA as NASA moves to adopt more open science requirements (*e.g.*, [Scientific Information Policy](https://science.nasa.gov/researchers/science-data/science-information-policy) and [ROSES](https://science.nasa.gov/researchers/sara/grant-solicitations) opportunities). In addition to the skills highlighted in the [OpenCore](/docs/Area2_Capacity_Sharing/OpenCore), scientists will need to grow skills specific to their area of study. Potential ScienceCore topics are data science, using cloud computing resources, how to share biological samples, or how to utilize MakerSpaces or shared labs.
 
 **TOPS is still developing the plan and incentive structure for the ScienceCore. If you have any ideas, utilize the GitHub discussion space and share them with us!**
 
@@ -16,4 +16,4 @@ The design calls for several, individual 2.5-hour modules that focus on data sci
 
 ## Course Incentives
 
-* Certification and/or NASA TOPS open science [badges](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area3_Incentives/badging.md)
+* Certification and/or NASA TOPS open science [badges](/docs/Area3_Incentives/badging_motivation.md)

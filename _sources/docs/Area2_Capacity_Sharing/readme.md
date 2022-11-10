@@ -6,12 +6,12 @@ For the 2023 Year of Open Science, TOPS is developing strategic partnerships wit
 
 The TOPS curriculum will also be used to support researchers looking to engage with NASA as NASA moves to adopt more open science requirements (*e.g.*, [Scientific Information Policy](https://science.nasa.gov/researchers/science-data/science-information-policy) and [ROSES](https://science.nasa.gov/researchers/sara/grant-solicitations) opportunities). Scientists will need to acquire the new skills highlighted in the curriculum to participate in open science effectively and to demonstrate those skills when applying for NASA funding opportunities.  
 
-## [OpenCore](./OpenCore/readme.md)  
+## OpenCore
 
 TOPS will initially focus on developing the [OpenCore](./OpenCore/readme.md), designed as five modules that mimic a scientific workflow. The OpenCore aims to introduce learners to a nuanced understanding of open science, enabling participants to better understand an open science workflow from end to end. The focus of the curriculum will be on providing learners with a basic understanding of open science, its ethos and benefits, and how to actively participate in open science communities. 
 
 Q&A about the OpenCore can be found in our TOPS [FAQ document](/tops_faq.md).
 
-## [ScienceCore](./ScienceCore/readme.md)
+## ScienceCore
 
 Once scientists have been introduced to core open science skills, they may be interested in exploring domain specific curriculum such as data science, using computing resources, or how to conduct open science in a particular field. This information will be built into the [ScienceCore](./ScienceCore/readme.md). For some learners, it is these domain specific modules that may attract them to learning more about open science. 

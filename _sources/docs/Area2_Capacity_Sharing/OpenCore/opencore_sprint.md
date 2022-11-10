@@ -1,4 +1,4 @@
-# **Contribute to the OpenCore!**
+# To Contribute to the OpenCore
 
 We are seeking your feedback on the [draft objectives and outlines](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines) for the five (5) OpenCore modules: 
 
@@ -8,7 +8,7 @@ We are seeking your feedback on the [draft objectives and outlines](https://gith
 * Open Results
 * Open Tools and Resources
 
-## **Your Feedback is Needed!**
+## Your Feedback is Needed!
 
 OpenCore module [objective and outline](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines) review period: **Now through 4 August 2022**
 
@@ -22,7 +22,7 @@ There are two ways to provide your feedback.
 
 We adhere to the [AGU Code of Conduct:](https://www.agu.org/Plan-for-a-Meeting/AGUMeetings/Meetings-Resources/Meetings-code-of-conduct#:~:text=About%20the%20code%20of%20conduct%20American%20Geophysical%20Union,or%20event%2C%20whether%20in%20public%20or%20private%20facilities.). As you consider your feedback please be respectful. To report a concern, please contact AGU Ethics, ethics@agu.org. 
 
-## We specifically are in need of your feedback on: 
+### We specifically are in need of your feedback on: 
 
 1. **Missing concepts for Open Science beginners**
 2. **Incorrect concepts, or updated leading practices**

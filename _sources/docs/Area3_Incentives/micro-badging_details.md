@@ -1,7 +1,9 @@
-### Abstract 
+# Why do digital micro-badging?
+
+### The Bottom Line Up Front
 After searching through all badge-issuing organizations which are certified by IMS–rather than just claiming to follow the open badge standard without formal verification of such–it is recommended that TOPS choose [Badgr](https://info.badgr.com/) as the micro-badging and digital badging organization of TOPS. GitHub does not support digital badges that meet the open badge standard at this time; however, [GitHub shields](https://github.com/badges/awesome-badges) can be leveraged to award those who contribute code to TOPS, either through the open software module or some other avenue. 
 
-# Why do digital micro-badging?
+## Introduction
 The awarding of micro-badges or micro-credentials refers to the emerging practice of recognizing specific skills or qualifications of employees, students, or community members. The terms “micro-badges” and “micro-credentials” are used rather interchangeably online, although the TOPS team prefers the term micro-badges since they can be awarded for completing a project (e.g., creating a phone app) in addition to working towards a certification. Unlike a list of skills someone adds to their LinkedIn or resume, micro-badges can be traced to the issuer–whether it be a university or an independent organization–which serves as a verification of the skills that have been earned.  
 
 Although specific practices vary depending on the awarding organizations, there are a few common themes that help to distinguish micro-badges from other types of awards:
@@ -17,14 +19,14 @@ To make the micro-badge a valid, digital badge, there are a few additional requi
 * To qualify as an **Open Badge**, the digital badge must conform to a standard from [IMS Global Learning Consortium](https://www.imsglobal.org/activity/digital-badges) that is designed to make the badge portable, transparent and uniform across issuers 
 If learners have been awarded a badge from an organization, they can easily check to see if the open badge is valid by using tools such as [Badge Check](https://badgecheck.io/) which is provided by the badge-issuing site Badgr. IMS Global Learning Consortium answers common questions about the Open Badge standard [here](https://openbadges.org/about/faq).
  
-# Recommendations for OpenCore Micro-badging
+## Recommendations for OpenCore Micro-badging
 As discussed below, it is the aim of TOPS to award learners participating in the open science core curriculum (“OpenCore”) a digital badge for completing each module. As such, the digital award for the completion of a single module is a *micro-badge*, and the digital object earned as a result of accumulating all five OpenCore micro-badges is the *badge* (or “grand badge.”) 
 
 In the spirit of open science, it is recommended that TOPS micro-badges and badges conform to the IMS Open Badge standard as described by IMS Global Learning Consortium on their [open badge specifications page](https://www.imsglobal.org/technical-resources?field_technical_resource_tid=3796&field_technical_activity_nid=49886). The open badge standard is already created to maximize portability and transparency, and should enable learners to provide their employers, universities and funding groups with evidence–in the form of the badge’s metadata–that they have the open science skills described in each module. 
 
 In the spirit of building community, it is further suggested that TOPS make an effort to provide those who have earned micro-badges and the OpenCore badge with physical objects that represent the achievement, in addition to the digital object. This could include a certification which can be printed, in addition to the digital badge, and pins or stickers which can be collected from TOPS or AGU at conferences. 
 
-## Recommended Badging Services
+### Recommended Badging Services
 The following organizations offer digital badging services which comply with the (a) Open Badge standard, (b) have been certified as compliant by [IMS](https://site.imsglobal.org/certifications?page=2&refinementList%5Bstandards_lvlx%5D%5B0%5D=Open%20Badges), and (c) integrate with [OpenEdx](https://edx.readthedocs.io/projects/edx-installing-configuring-and-running/en/latest/configuration/enable_badging.html#specify-a-badge-generator-other-than-badgr-server). Any additional reasons for using these services are indicated below, and they are listed in order of preference: 
 * [Badgr](https://info.badgr.com/): Most widely cited and used of the certified badge-issuing companies
   * [Certification](https://site.imsglobal.org/certifications/concentric-sky/badgr#cert_pane_nid_410864)
@@ -43,15 +45,15 @@ The following organizations offer digital badging services which comply with the
   * Used by [MIT and Forbes](https://www.hylandcredentials.com/), but not nearly as popular as Badgr and Credly
   * Claim to be [easily shared](https://www.hylandcredentials.com/product) but documentation is not readily available 
 
-## What About GitHub? 
+### What About GitHub? 
 GitHub achievement badges are **not** digital badges and, unfortunately, cannot be transferred to other platforms such as LinkedIn or other virtual resumes sites. (To avoid confusion, we shall call them GitHub *shields* moving forward.) GitHub achievement shields are based on contribution to a shared repository, and often have requirements based on a certain number of commits or lines of code. Although fun to display on GitHub, these do not meet the required standards on embedded metadata to be an open badge.  
 
 If we want to create a duplicate of our Open Software micro-badge on GitHub, that can be done using one of the services described in the [Badges Readme](https://github.com/badges/awesome-badges). In short, those who complete the open software assessment (whatever form it may take), can submit code to a shared repository to receive the GitHub TOPS open software shield. Earning the micro-badge, will be integrated with the OpenEdx course. Once TOPS has transitioned to a full-fledged Github Pages/Jekyll site, the shields can be embedded in a user’s profile. Linking the shields to the micro-badges could be done by individual users by linking the profile of their digital badge to the shield.
 
-### Options for Earning a GitHub Shield
+#### Options for Earning a GitHub Shield
 The primary purpose of GitHub shields is to provide visitors to a repository with an easy way to view and understand the metadata of that repository. For example, suggested shields from [shields.io](https://github.com/badges/shields) include the release number, number of downloads per month, the “chrome stability”, or the “static code analysis grade.” Shields can also be awarded for those who commit to particular repositories or perform certain, [recognized actions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) on GitHub. One of the most visible examples of a badge award for committing is the [Mars 2020 Helicopter Achievement](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-achievement), which awarded the shield to anyone who committed code to the project. 
 
-# Where can I find more information on micro-badging?
+## Where can I find more information on micro-badging?
 The entities doing micro-badging are varied and there is a lot of information available, here are a few resources:
 * IMS Global Learning Consortium provides a [variety of resources](https://www.imsglobal.org/activity/digital-badges)for helping to build an Open Badge
 * Mark C. Pena writing for Forbes makes the case for why businesses ought to adopt micro-badging as a tool for retention in [“Small But Mighty: Why Micro-Credentials Are Huge For The Future Of Work.”](https://www.forbes.com/sites/markcperna/2021/10/05/small-but-mighty-why-micro-credentials-are-huge-for-the-future-of-work/?sh=730355d1302b)
@@ -62,9 +64,8 @@ The entities doing micro-badging are varied and there is a lot of information av
 * Wikipedia has a good summary on the [history of the open badge standard](https://en.wikipedia.org/wiki/Mozilla_Open_Badges)
 * EDUCAUSE summarizes a study on the benefits of micro-credentials such as Micro-Masters or Nano-Degrees to learners in the piece [“MOOC-Based Alternative Credentials: What’s the Value for the Learner”](https://er.educause.edu/articles/2019/6/mooc-based-alternative-credentials-whats-the-value-for-the-learner) 
 
-## Examples of Micro-Badging as Certificates
+### Examples of Micro-Badging as Certificates
 The following three examples demonstrate the use of open, digital badges in place of traditional job certification. 
 * The [Clinical Data Interchange Standards Consortium (CDISC)](https://www.cdisc.org/education/cdisc-standards-certification) requires members to take an exam that demonstrates proficiency in tabulating clinical research data. 
 * [Unionlearn](https://www.unionlearn.org.uk/) is a UK trade union learning platform that supports apprenticeships and other learning opportunities, including brushing up on skills such as math and literacy. They [offer several badges](https://www.unionlearn.org.uk/digital-badges-skillcheck), each requiring the member to take an online 25-question assessment, and score at least 10 correct. 
 * The [Institute of Leadership and Management](https://www.institutelm.com/) awards an initial badge just for joining the community. They then award additional badges [based on experience](https://www.institutelm.com/what-we-do/membership/membership-grade.html) or by upgrading the initial Community badge by completing at least two of their [Dimensions of Leadership courses](https://www.institutelm.com/learning/leadership-framework.html).
-
