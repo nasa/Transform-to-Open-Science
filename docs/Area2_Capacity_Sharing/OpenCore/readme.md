@@ -1,11 +1,8 @@
-## Announcements
-- 28 June 2022: OpenCore [Leads and Subject Matter Experts](./OpenCore_leads.md)
-
-# OpenCore Scope
+# TOPS Open Science Core Curriculum: OpenCore
 
 TOPS aims to meet everyone where they are at on their open science journey. While some members of our growing community may have practiced open science for many years, others may be trying to transition to a new way of conducting research or are students who are looking to begin their scientific careers. As such, TOPS' first priority is to develop the infrastructure to train 20,000 scientists and researchers as part of our five-year program. This [community-developed](./OpenCore_leads.md) open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices from subject matter experts. TOPS will initially focus on developing the OpenCore, designed as five modules that mimic a scientific workflow.  
 
-For the 2023 Year of Open Science, TOPS is developing strategic partnerships with scientific associations to teach open science during large annual meetings, special science team summer schools, and other events. The vision for the TOPS OpenCore and other learning resources is for a CC-BY licensed online, open course, hosted on the OpenEDx platform, that can be used to train scientists and award NASA open science badges.
+For the 2023 Year of Open Science, TOPS is developing strategic partnerships with scientific associations to teach open science during large annual meetings, special science team summer schools, and other events. The vision for the TOPS OpenCore and other learning resources is for a CC-BY licensed online, open course, hosted on the OpenEDx platform, that can be used to train scientists and award NASA open science badges. 
 
 The five OpenCore modules will be:
 1. [Ethos of Open Science](./modules/open_science_ethos_module.md)
@@ -14,6 +11,7 @@ The five OpenCore modules will be:
 3. [Open Software](./modules/open_software_module.md)
 1. [Open Results](./modules/open_results_module.md)
 
+**Content for the OpenCore modules has been curated by our incredible [Open Science Subject Matter Experts](./OpenCore_leads.md).**
 
 ## Learning Objectives
 

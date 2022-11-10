@@ -1,11 +1,9 @@
-## Online Community Strategy
+# Online Community Strategy
 
-**Purpose of Document**
-
-This document will be used by the Transform to Open Science (TOPS) team to strategize and set a procedure for building an online community utilizing a transmedia engagement strategy. 
+The following describes the Transform to Open Science (TOPS) team's strategy and proposed process for building an online community. 
 
 
-# Community Forums
+## Community Forums
 
 The TOPS community forums are monthly exchanges of about an hour in length which are open to the public. Anyone who has joined the TOPS [listserv](https://github.com/nasa/Transform-to-Open-Science#join-tops-mailing-list) receives an invitation to register for upcoming forums, with an announcement also posted on the [TOPS GitHub](https://github.com/nasa/Transform-to-Open-Science#announcements). Forum recordings and slides and posted in the [TOPS GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums). In cases where recordings are not taken, transcriptions will be made available, if possible.
 
@@ -20,19 +18,19 @@ The TOPS team is committed to making these events as accessible as possible, and
 To encourage participation, the TOPS team leverages tools such as Jamboard, Mentimeter, and the chat during meetings. Participants are also encouraged to send in questions prior to the meeting, as well as utilize the chat during the event. Although the community forum events allow the community to see members of the TOPS Core team speak, it is scheduled during the weekday and during work hours, which limits who can attend. Furthermore, these events only occur monthly, requiring some other avenue of communication to be leveraged to preserve community engagement throughout the month.  
 
 
-# TOPS Slack
+## TOPS Slack
 
 TOPS Slack is used for project coordination among NASA civil servants and scientists already involved in open science at NASA, and by collaborators such as the OpenCore SMEs and TOPS panel members.
 
 The TOPS Slack is primarily used to share the date, time, and location of open science events occurring at NASA and beyond. As such, Slack is utilized primarily as a coordination and information-sharing platform, and is not being actively used for reinforcing and building community. 
 
 
-# Open Science Stories Blog
+## Open Science Stories Blog
 
 The purpose of the open science stories is to demonstrate the benefits of open science through examples from the NASA science community, and to provide examples of scientists who have overcome barriers and challenges in order to practice science openly. They are found [here](/docs/Area1_Engagement/Open-Science-Stories/readme.md) and on the [science.nasa.gov blog](https://science.nasa.gov/open-science/transform-to-open-science/stories).
 
 
-# TOPS GitHub
+## TOPS GitHub
 
 The TOPS GitHub is primarily used for information sharing. The different “areas” are aligned with TOPS areas of action, and contain recommendations for engagement, curriculum formation, and broadening participation in open science at NASA. 
 
@@ -48,12 +46,11 @@ Content and discussions must also be actively moderated to:
 * Response to questions and concerns
 * Integrate comments into future content 
 
-# Twitter
+## Twitter
 
 Our goal on social media is to not just share announcements and amazing and compelling open science stories, but do so in a way that is understandable and connects the public to our content. That's our philosophy when we use social media. We hope to show people the importance of open science and  demonstrate how it can benefit their lives. 
 
-
-# General Community Building Tips
+## General Community Building Tips
 
 Preliminary online research suggests the following about building an online community:
 * Diverse content is needed. An online space must have “more than blog posts,” and invite newcomers to engage with content beyond reading. Polls and moderated discussions can help create a collaborative atmosphere. Here are some s[uggestions](https://community.mightynetworks.com/posts/free-guide-1k-great-community-questions?ai=60a4ec40-079b-4465-aa8d-8a1a2780406e&_ga=2.39007715.1977069232.1660244631-20294202.1660244631) for discussion questions.

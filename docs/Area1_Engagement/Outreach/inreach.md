@@ -1,4 +1,5 @@
-## Inreach
+## TOPS Collaborations Within NASA
+The following are key elements of TOPS' strategy for engagement within the NASA community or TOPS' "inreach" strategy.
 ### Communities of Practice
 A community of practice is defined as a group of people who share a craft or a profession, in this case, those participating in or advocating for open-source science within and outside of NASA. To develop a community of practice in NASA, TOPS will build awareness and acceptance of the benefits of collaborative open-source science. Our team will:
  - Create a vibrant digital community through GitHub
