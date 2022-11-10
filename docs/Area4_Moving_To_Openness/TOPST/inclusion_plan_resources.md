@@ -5,7 +5,7 @@ ROSES-2022 introduced the [requirement](https://science.nasa.gov/researchers/sar
 ## NASA Resource List
 * NASA held an Inclusion Plan Best Practices Workshop from November 1–2, 2022. Videos and slides from that meeting will be posted [here](https://www.hou.usra.edu/meetings/inclusionplan2022/)
 * The team behind F.10, Payloads and Research Investigations on the Surface of the Moon (PRISM), created their own list of resources, which can be found [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=897663/solicitationId=%7B8401954E-7021-F7A4-02D2-3F3F37643BCA%7D/viewSolicitationDocument=1/F.10%20PRISM3_InclusionPlan_Resources.pdf)
-* NASA's strategic plan for Diversity, Equity, Inclusion and Accessiblity can be found [here](https://www.nasa.gov/sites/default/files/atoms/files/nasa_deia_strategic_plan-fy22-fy26-final_tagged.pdf), NASA's metrics can be found on page 20 to 25
+* NASA's strategic plan for Diversity, Equity, Inclusion and Accessibility can be found [here](https://www.nasa.gov/sites/default/files/atoms/files/nasa_deia_strategic_plan-fy22-fy26-final_tagged.pdf), NASA's metrics can be found on page 20 to 25
 * Additional resources will soon be posted on the NASA website at [https://science.nasa.gov/researchers/inclusion](https://science.nasa.gov/researchers/inclusion)
 * For those interested in why NASA is requiring inclusion plans, review of the process is [here](https://baas.aas.org/pub/2022i028/release/1)
 
