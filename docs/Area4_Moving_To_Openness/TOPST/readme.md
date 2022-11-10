@@ -30,3 +30,5 @@ The training material as well as the design of the learning activities should be
 * Look [here](./NASA_open_data.md) for information on NASA's open data archives
 * Look [here](./proposal_resources.md) for a curated list of guides, examples, and templates
 * Look [here](./inclusion_plan_resources.md) for a list of resources to guide the creation of Inclusion Plans
+* Look [here](https://science.nasa.gov/researchers/dual-anonymous-peer-review) for information on the Dual Anonymous Peer Review process
+* Look [here](./TOPST_proposal_elements.md) for information on the Open-Source Science Development Plan and Equal Access Plan 
