@@ -29,3 +29,4 @@ The training material as well as the design of the learning activities should be
 ## Additional Proposal Resources
 * Look [here](./NASA_open_data.md) for information on NASA's open data archives
 * Look [here](./proposal_resources.md) for a curated list of guides, examples, and templates
+* Look [here](./inclusion_plan_resources.md) for a list of resources to guide the creation of Inclusion Plans
