@@ -8,7 +8,7 @@ TOPS welcomes you to organize and run your own workshop. Please connect with any
 
 Start with our [workshop checklist](./logistics_checklist.md) and [logistic reminders](./logistics_checklist.md). Thank you to the Carpentries and their [workshops](https://carpentries.org/workshops/) for getting us started! 
 
-# What are the requirements for a TOPS workshop?
+## What are the requirements for a TOPS workshop?
 
 A TOPS workshop must meet the following requirements:
 

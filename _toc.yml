@@ -80,11 +80,11 @@ parts:
     - file: docs/Area2_Capacity_Sharing/OpenCore/images/image_location
     - file: docs/Area2_Capacity_Sharing/OpenCore/modules/Ethos_of_Open_Science_Module
       sections:
-      - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_data_module
-      - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_results_module
       - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_science_ethos_module
-      - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_software_module
       - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_tools_module
+      - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_data_module
+      - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_software_module
+      - file: docs/Area2_Capacity_Sharing/OpenCore/modules/open_results_module
   - file: docs/Area2_Capacity_Sharing/ScienceCore/readme
 - caption: Area 3 - Incentives  
   chapters:
