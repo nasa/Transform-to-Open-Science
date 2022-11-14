@@ -40,7 +40,7 @@ NASA prefers all communications to be in English.
 
 ## Policy
 
-NASA follows the principle of [Vulnerability Disclosure Policy]("https://www.nasa.gov/vulnerability-disclosure-policy").
+NASA follows the principle of [Vulnerability Disclosure Policy](https://www.nasa.gov/vulnerability-disclosure-policy).
 
 This vulnerability disclosure policy facilitates NASA’s awareness of otherwise unknown vulnerabilities. This policy is intended to give security researchers clear guidelines for conducting vulnerability discovery and disclosure activities to help NASA meet its objectives, and to convey how to submit discovered vulnerabilities to NASA.
 
