@@ -57,12 +57,12 @@ Issues are used to collect tasks for development, and Markdown text documents fo
 
 ## How to deploy the book
 
-#### Step 1 (Recommended)
-Create a virtual enviroment with <b>py -m venv env</b> and activate with <b>env\Scripts\activate (Windows)</b> or <b>source env/bin/activate (MacOS)</b>
-#### Step 2
-Install dependencies running <b>pip3 install -r book-requirements.txt</b>
-Build the book using <b>jupyter-book build .</b>
-Open <b>_build/html/index.html</b> on you browser
+- Step 1 (Recommended)
+  - Create a virtual enviroment with <b>py -m venv env</b> and activate with <b>env\Scripts\activate (Windows)</b> or <b>source env/bin/activate (MacOS)</b>
+- Step 2
+  - Install dependencies running <b>pip3 install -r book-requirements.txt</b>
+  - Build the book using <b>jupyter-book build .</b>
+  - Open <b>_build/html/index.html</b> on you browser
 
 ## Frequently Asked Questions
 
