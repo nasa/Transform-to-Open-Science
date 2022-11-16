@@ -46,7 +46,7 @@ Upcoming Conferences and Workshops
     * Description: TOPS will be hosting workshops on `OpenCore curricula <https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore>`__, will be available in the NASA booth, will have several townhalls and several innovation and oral sessions. Join us! 
     * `More Information <https://www.agu.org/Fall-Meeting>`__
     
-Go `here <./Outreach/2023_conferences_table.md>`__ for our full list of 2023 meetings 
+Go `here <./Outreach/2023_conferences_table.md>`__ for our full list of 2023 meetings. 
 
 Meetings Calendar
 -----------------
