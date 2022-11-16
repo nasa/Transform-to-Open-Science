@@ -55,6 +55,16 @@ Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6
 This repository is used to openly share information about TOPS and the Year of Open Science. 
 Issues are used to collect tasks for development, and Markdown text documents for any planning documents that need to be developed.  This could include linking to other resources. Please feel free to submit an issue or fork the repository to make a contribution. 
 
+## How to deploy the book
+
+- Step 1 (Recommended)
+  - Create a virtual environment with <b>py -m venv env</b> 
+  - Activate with <b>env\Scripts\activate (Windows)</b> or <b>source env/bin/activate (MacOS)</b>
+- Step 2
+  - Install dependencies running <b>pip3 install -r book-requirements.txt</b>
+  - Build the book using <b>jupyter-book build .</b>
+  - Open <b>_build/html/index.html</b> on you browser
+
 ## Frequently Asked Questions
 
 We have collected frequently asked questions [here](./tops_faq.md). Please use the discussions channel on this GitHub to ask more questions if you have them! 
