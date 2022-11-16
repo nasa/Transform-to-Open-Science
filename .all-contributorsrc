@@ -313,6 +313,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "paigem",
+      "name": "Paige Martin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26591824?v=4",
+      "profile": "http://paigem.github.io",
+      "contributions": [
+        "code",
+        "ideas",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
