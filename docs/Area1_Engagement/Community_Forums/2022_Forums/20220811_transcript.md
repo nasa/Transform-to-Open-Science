@@ -1,3 +1,5 @@
+# TOPS Community Forum - August 2022 transcript
+
 00:00:05:39 - 00:00:31:13
 Cynthia Hall
 So with regards to our code of conduct, we want to empower people, provide outstanding open science. And so this requires us to have an open exchange of ideas that are balanced by thoughtful guidelines, and it would be impossible for us to list everything that could create a more welcoming space for everyone. And we know this team will find ways to include colleagues that we haven't even thought of.
