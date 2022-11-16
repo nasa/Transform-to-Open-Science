@@ -3,7 +3,7 @@
 Approximately once a month, we hold a public meeting where we discuss parts of the TOPS mission, have guests who discuss their open science activities, or just talk about open science. We try to keep it interactive, with lots of questions and discussion. Come join us! Public participation always encouraged!
 
 ## Next Forum
-* November 10 2022 [Forum](./20221110_community_forum.md). 
+* November 10 2022 [Forum](./2022_Forums/20221110_community_forum.md). 
 
 ## Previous Forums
 
