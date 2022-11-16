@@ -1,5 +1,7 @@
 # TOPS Priority Conferences 2023
 
+Sync your calendar to ours using Google Calendar! [GCAL](https://calendar.google.com/calendar/embed?), [ICAL](https://calendar.google.com/calendar/ical/tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com/public/basic.ics)
+
 |Date |Conference |City |SMD Division | 
 | - | - | - | - |
 |Dec 12 - 16, 2022 | American Geophysical Union (AGU) Fall Meeting | Chicago, IL | BPS, Planetary, Helio, Earth, Astro | 
