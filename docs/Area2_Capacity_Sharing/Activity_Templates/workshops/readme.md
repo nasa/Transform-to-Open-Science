@@ -6,9 +6,9 @@ Here is all you need for a self-organized workshop.
 
 TOPS welcomes you to organize and run your own workshop. Please connect with any of our trained instructors(TBD) who can teach the workshop. First, please notify us that you intend to organize a workshop by registering your workshop here(TBD). Most workshops will teach one or more modules from OpenCore.
 
-Start with our [workshop checklist](./logistics_checklist.md) and [logistic reminders](./logistics_checklist.md). Thank you to the Carpentries and their https://carpentries.org/workshops/ for getting us started! 
+Start with our [workshop checklist](./logistics_checklist.md) and [logistic reminders](./logistics_checklist.md). Thank you to the Carpentries and their [workshops](https://carpentries.org/workshops/) for getting us started! 
 
-# What are the requirements for a TOPS workshop?
+## What are the requirements for a TOPS workshop?
 
 A TOPS workshop must meet the following requirements:
 

@@ -1,26 +1,27 @@
-## TOPS Priority Events for 2023
+# TOPS Priority Events for 2023
 
-These are the events where TOPS will be holding 2023 Year of Open Science workshops, sessions, and other events.
+Sync your calendar to ours using Google Calendar! [GCAL](https://calendar.google.com/calendar/embed?), [ICAL](https://calendar.google.com/calendar/ical/tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com/public/basic.ics)
 
-Community Meetings
------------------
+|Date |Conference |City |SMD Division | 
+| - | - | - | - |
+|Dec 12 - 16, 2022 | American Geophysical Union (AGU) Fall Meeting | Chicago, IL | BPS, Planetary, Helio, Earth, Astro | 
+| Jan 8 - 12, 2023 | American Meteorological Society (AMS) | Denver, CO | Helio, Earth |
+| March 2 - 5, 2023 |American Association for the Advancement of Science (AAAS) Meeting | Washington, DC | BPS, Planetary, Helio, Earth, Astro |
+| March 13 - 17, 2023 | Lunar and Planetary Science Conference (LPSC) | Houston, TX | PDS |
+| April 23 - 28, 2023 | European Geoscience Union (EGU) | Vienna, Austria | BPS, Planetary, Helio, Earth, Astro |
+| June 4 - 8, 2023 | American Astronomical Society (AAS) Summer Meeting | Albuquerque, NM | Planetary, Helio, Astro |
+| July 16 - 21, 2023 | International Geoscience and Remote Sensing Symposium (IGARSS) | Pasadena, CA | Earth |
+| Oct 12 - 14, 2023 | Society of Asian Scientists and Engineers (SASE) National Convention | Atlanta, GA | HUGs |
+| Oct 19 - 21, 2023 | American Indian Science and Engineering Society | Spokane, WA | HUGs |
+| Oct 26 - 28, 2023 | Society for the Advancement of Chicanos and Native Americans in Science (SACNAS) | Portland, OR | HUGs |
+| Nov 9 - 12, 2023 | American Society for Gravitational and Space Research (ASGSR) | Houston, TX | BPS |
+| Dec 11 - 15, 2023 | American Geophysical Union (AGU) Fall | San Francisco, CA | BPS, Planetary, Helio, Earth, Astro |
 
-Recurring TOPS Meetings
------------------
-1. [TOPS Community Forums](../Community_Forums) 
-- When: Second Thursday Every Month, 1-2 PM ET 
-- Description: Our next community forum will be on Thursday, November 10, 2022 at 1 PM EDT (10 AM PDT). By popular demand, we will focus on the F.14, TOPS Training program element. After holding some pre-proposal calls open to the public, we have received numerous questions; to address them, we will be reviewing the three components (ScienceCore, Summer Schools, and Virtual Cohorts), discussing the most frequently asked questions, and also answering any additional questions that you may have. Look forward to having you there.
-- Register [here](https://go.nasa.gov/3TnVRVE) 
-- Submit Questions [here](https://nasa.cnf.io/sessions/kzbb/#!/dashboard) 
-  
-Conferences and Workshops
------------------
-1. AGU Fall Meeting
-    1. When: Dec 12-16
-    1. Description: TOPS will be hosting workshops on [OpenCore curricula](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore), will be available in the NASA booth, will hold several townhalls and several innovation and oral sessions. Join us! 
-    1. More Information: [https://www.agu.org/Fall-Meeting](https://www.agu.org/Fall-Meeting)
+#### Acronyms
+* BPS = Biological and Physical Sciences Division
+* Planetary = Planetary Sciences Division 
+* Helio = Heliophysics Division
+* Earth = Earth Science Division
+* Astro = Astrophysics Division
+* HUGs = Historically Underrepresented Groups
 
-Meetings Calendar
------------------
-
-A Google Calendar has been setup with these reoccurring times [GCAL](https://calendar.google.com/calendar/embed?), [ICAL](https://calendar.google.com/calendar/ical/tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com/public/basic.ics)

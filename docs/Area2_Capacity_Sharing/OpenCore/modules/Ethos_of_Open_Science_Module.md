@@ -7,7 +7,7 @@ The OpenCore open science curriculum will introduce those beginning their open s
 - Open Software
 - Open Results
 
-Modules are described in more detail [here](./OpenCore_structure.md).
+Modules are described in more detail [here](../OpenCore_structure.md).
 
 The TOPS Open Science Module Subject Matter Experts and Leads have been hard at work over the last several months working on the OpenCore modules and we are excited to share the initial draft of the [”Ethos of Open Science” module for public comment]. This initial comment phase will be open till Wednesday, September 28, 2022. 
 

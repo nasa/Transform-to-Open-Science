@@ -5,11 +5,11 @@ Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Op
 Ready to get started transforming towards open science with us? Get started [here!](./getting_started.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
-- [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Notice of Intent Due 11/10. Proposals Due 12/8!
+- [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Proposals Due 12/8!
 - Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
 - Open Science funding [opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
 - NEW! Open Science [stories](./docs/Area1_Engagement/Open-Science-Stories/readme.md)
@@ -104,7 +104,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center"><a href="https://orcid.org/0000-0001-9488-1870"><img src="https://avatars.githubusercontent.com/u/465923?v=4?s=100" width="100px;" alt="Daniel Mietchen"/><br /><sub><b>Daniel Mietchen</b></sub></a><br /><a href="#maintenance-Daniel-Mietchen" title="Maintenance">🚧</a></td>
       <td align="center"><a href="https://edwinkofler.com"><img src="https://avatars.githubusercontent.com/u/24364012?v=4?s=100" width="100px;" alt="Edwin Kofler"/><br /><sub><b>Edwin Kofler</b></sub></a><br /><a href="#maintenance-hyperupcall" title="Maintenance">🚧</a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/logankilpatrick/"><img src="https://avatars.githubusercontent.com/u/35577566?v=4?s=100" width="100px;" alt="Logan Kilpatrick "/><br /><sub><b>Logan Kilpatrick </b></sub></a><br /><a href="#content-logankilpatrick" title="Content">🖋</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/logankilpatrick/"><img src="https://avatars.githubusercontent.com/u/35577566?v=4?s=100" width="100px;" alt="Logan Kilpatrick "/><br /><sub><b>Logan Kilpatrick </b></sub></a><br /><a href="#content-logankilpatrick" title="Content">🖋</a> <a href="#maintenance-logankilpatrick" title="Maintenance">🚧</a></td>
       <td align="center"><a href="http://www.lisafederer.net"><img src="https://avatars.githubusercontent.com/u/7302608?v=4?s=100" width="100px;" alt="Lisa Federer"/><br /><sub><b>Lisa Federer</b></sub></a><br /><a href="#content-informationista" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/maxrjones"><img src="https://avatars.githubusercontent.com/u/14077947?v=4?s=100" width="100px;" alt="Max Jones"/><br /><sub><b>Max Jones</b></sub></a><br /><a href="#maintenance-maxrjones" title="Maintenance">🚧</a></td>
       <td align="center"><a href="http://tysonswetnam.com"><img src="https://avatars.githubusercontent.com/u/11527041?v=4?s=100" width="100px;" alt="Tyson L. Swetnam"/><br /><sub><b>Tyson L. Swetnam</b></sub></a><br /><a href="#maintenance-tyson-swetnam" title="Maintenance">🚧</a></td>
@@ -125,6 +125,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=TSUNA36"><img src="https://avatars.githubusercontent.com/u/1802656?v=4?s=100" width="100px;" alt="Ting Sun"/><br /><sub><b>Ting Sun</b></sub></a><br /><a href="#maintenance-sunt05" title="Maintenance">🚧</a></td>
       <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt="All Contributors"/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#maintenance-all-contributors" title="Maintenance">🚧</a></td>
       <td align="center"><a href="https://github.com/SALONICONTRACTOR"><img src="https://avatars.githubusercontent.com/u/90577825?v=4?s=100" width="100px;" alt="SALONICONTRACTOR"/><br /><sub><b>SALONICONTRACTOR</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=SALONICONTRACTOR" title="Code">💻</a></td>
+      <td align="center"><a href="http://paigem.github.io"><img src="https://avatars.githubusercontent.com/u/26591824?v=4?s=100" width="100px;" alt="Paige Martin"/><br /><sub><b>Paige Martin</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=paigem" title="Code">💻</a> <a href="#ideas-paigem" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-paigem" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
