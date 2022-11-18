@@ -21,7 +21,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install -r book-requirements.txt
+        pip install -r book-requirements-Linux-macOs.txt
     # Build the book
     - name: Build the book
       run: |
