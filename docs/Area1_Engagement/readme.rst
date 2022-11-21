@@ -20,7 +20,7 @@ Here are some quick links that can help you get started:
 
 - `Participate in a community forum <https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums>`__
 
-- Read our success stories (coming soon) 
+- `Read our success stories <https://science.nasa.gov/open-science/transform-to-open-science/stories>`__
 
 - Partnerships (coming soon) 
 
