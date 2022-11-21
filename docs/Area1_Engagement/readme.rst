@@ -26,6 +26,6 @@ Here are some quick links that can help you get started:
 
 - `Show your love for open science <https://www.canva.com/design/DAE_9KAimo4/HGjINSG0FYnFPfjxHUTcIQ/edit>`__
 
-- Get yourself or someone some TOPS educational materials (coming soon)
+- `Get yourself or someone some TOPS educational materials </docs/Area2_Capacity_Sharing/Activity_Templates/readme.md>`__
 
 
