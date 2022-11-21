@@ -2,7 +2,7 @@
 
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog, or are taking a critical look at the diversity in your lab or research group and actively imagining how to make it more inclusive. Or perhaps all of this is new to you! **[Section 1: Promote Open Science](./Your_Open_Science_Journey.md#section-1-promote-open-science)** will set you on the right path. 
 
-Or are you familiar with open science practices and excited to learn more, and bring others on the journey with you? Perhaps you have attended hackathons and open science workshops in the past, assist others with metadata or the documentation of their code, or get excited when you see funding opportunities that involve data-sharing. Feel free to skip to **[Section 2: Engage with Open Science](.Your_Open_Science_Journey.md#section-2-engage-with-open-science)** to get the most out of this guide.
+Or are you familiar with open science practices and excited to learn more, and bring others on the journey with you? Perhaps you have attended hackathons and open science workshops in the past, assist others with metadata or the documentation of their code, or get excited when you see funding opportunities that involve data-sharing. Feel free to skip to **[Section 2: Engage with Open Science](./Your_Open_Science_Journey.md#section-2-engage-with-open-science)** to get the most out of this guide.
 
 ## Are You Ready to Begin Your Journey Towards Open Science? 
 
