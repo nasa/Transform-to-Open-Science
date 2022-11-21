@@ -2,6 +2,8 @@
 
 *You understand the principles of open science, and have adopted some open science practices in your research. Your organization wants to host listening sessions or town halls, or hold open meetings and send out surveys, to understand how they can lower barriers to open science via updated policy or adjusted governance models. You are participating in the [year of open science](/Year_of_Open_Science_Cookbook/Engage_year_of_open_science.md)! You and your organization are on the path to **strengthening** open science. It is time to think big!*  
 
+You are an active and involved member of the open science community. You get excited when funders require that research be conducted openly, and find small ways of teaching others about open science whenever you speak to others about your research. You are ready to be an advocate for moving towards open science within your organization. We need you to help us strengthen open science in your community and beyond.
+
 ## Join TOPS in "Transforming"
 To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission. As part of that mission, NASA has decreed that [**2023 as the Year Of Open Science**](/Year_of_Open_Science_Cookbook/readme.md). But it does not stop there. TOPS is a growing, global initiative rooted in community values that aims to spark change and inspire broad open science engagement. Through TOPS [four areas of action](https://github.com/nasa/Transform-to-Open-Science#implementation), the mission will increase awareness about open science, provide learning resources, and host and co-host events to support a cultural transition to open science. 
 
