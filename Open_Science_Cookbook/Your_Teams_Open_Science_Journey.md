@@ -40,7 +40,7 @@ This can seem like a daunting task, but any amount of openness, such as putting 
 * For data or research produced *by* your organization: 
     * In what languages is the research available? Are bilingual researchers encouraged to apply for funding? Or, better yet, publish in multiple languages? 
     * Consider adding extensions to your databases, publication sites, or other methods of sharing data to allow for easy translation into other languages. 
-* Does yoru team develop software or other code artifacts/products? 
+* Does your team develop software or other code artifacts/products? 
     * Can this code be made publicly available via GitHub, BitBucket or other mechanisms? 
     * Consider how much of the work of your group ought to be kept “closed” and how much can be made available to advance the work of others, particularly young professionals and early career researchers.
   
