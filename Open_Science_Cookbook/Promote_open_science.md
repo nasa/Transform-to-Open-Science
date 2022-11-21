@@ -1,5 +1,6 @@
 # Promote Open Science
 *How to get started with open science and involved with TOPS.* 
+Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog, or are taking a critical look at the diversity in your lab or research group and actively imagining how to make it more inclusive. Or perhaps all of this is new to you, and you are looking for a guidebook to put you on the right track.
 
 ## For the Individual Contributor
 My research team, lab or organization is not ready for open science but I want to adopt open science principles. How do I get started? 
