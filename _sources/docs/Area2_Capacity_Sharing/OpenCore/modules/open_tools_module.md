@@ -19,7 +19,6 @@ By the end of this module, a learner will have gained hands-on experience workin
 * Candela et al. (2013). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81. [doi.org/10.2481/dsj.GRDI-013](http://doi.org/10.2481/dsj.GRDI-013)
 * Open Science Framework. The promise of Open Science collaboration. [osf.io](https://osf.io/vmrgu/wiki/home/)
 * [Leiden Manifesto](http://www.leidenmanifesto.org/) and the [San Francisco Declaration on Research Assessment (DORA)](https://sfdora.org/)
-* A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch. [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing)
 * Bolick et al. (2017). How open access is crucial to the future of science. [doi.org/10.1002/jwmg.21216](https://doi.org/10.1002/jwmg.21216) (_comment by authors: rebuttal article written in the Journal of Wildlife Management after a misleading / fear mongering article about OA_)
 * Clyburne-Sherin (FSCI2017). Advocating for transparency policies - a toolkit for researchers, staff, and librarians. [Github.com](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)
 * Blog about JupyterLab: [https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/)
