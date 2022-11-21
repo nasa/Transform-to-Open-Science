@@ -1,4 +1,4 @@
-# The TOPS Open Science Guide
+# TOPS' Guide to Open Science
 
 We can all take actions, both big and small, to promote open science in our own work, in how our team's are run, and how our organization's make policy and funding decisions. This living guidebook is here to point our community members towards some of our favorite open science resources, as well as some we have gathered ourselves. 
 
@@ -22,13 +22,13 @@ If you, your team, or your organization want to become involved (or deepen your 
 
 * We are so glad that you are here on the road to open science with us!*
 
- ### How We Organized our Resources
+ ### Let's Get Started!
  
-Are you curious about adopting open science for yourself? Start with [Your Open Science Journey](./Your_Open_Science_Journey.md) to get access to advice for individuals. 
+Are you curious about adopting open science for **yourself?** Start with [Your Open Science Journey](./Your_Open_Science_Journey.md) to get access to advice for individuals. 
 
-Do you lead a team looking to integrate open science practices in your lab or group? Jump ahead to [Your Team's Open Science Journey](./Your_Teams_Open_Science_Journey.md) for tips and tricks for open science teams.
+Do you lead a team looking to integrate open science practices in **your lab or group**? Jump ahead to [Your Team's Open Science Journey](./Your_Teams_Open_Science_Journey.md) for tips and tricks for open science teams.
 
-Are you a leader in an organization--whether it be an academic institution, government agency, non-profit group or private industry--who is looking to adopt open science principles in your policy, funding, or distribution of research? We've curated some resources for [Your Organization's Open Science Journey](./Your_Organizations_Open_Science_Journey.md) to get you started! 
+Are you a **leader in an organization**--whether it be an academic institution, government agency, non-profit group or private industry--who is looking to adopt open science principles in your policy, funding, or distribution of research? We've curated some resources for [Your Organization's Open Science Journey](./Your_Organizations_Open_Science_Journey.md) to get you started! 
 
 ### Read These Open Science Resources:
 TOPS is collecting a living list of open science resources! We have divided them into two documents to make it a bit easier to find what you need
