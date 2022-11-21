@@ -4,7 +4,7 @@ Are you just beginning your open science journey? Perhaps you have only just beg
 
 Or are you familiar with open science practices and excited to learn more, and bring others on the journey with you? Perhaps you have attended hackathons and open science workshops in the past, assist others with metadata or the documentation of their code, or get excited when you see funding opportunities that involve data-sharing. Feel free to skip to **[Section 2: Engage with Open Science](./Your_Open_Science_Journey.md#section-2-engage-with-open-science)** to get the most out of this guide.
 
-## Are You Ready to Begin Your Journey Towards Open Science? 
+## Are you ready to begin your journey towards open science? 
 
 ## Section 1: Promote Open Science
 
