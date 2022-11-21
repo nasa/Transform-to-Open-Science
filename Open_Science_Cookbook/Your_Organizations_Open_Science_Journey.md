@@ -73,7 +73,7 @@ Once an ‘open science plan’ is developed, ideally it is shared publicly alon
 ### Discuss Your Policies and Practices
 It can be a bit difficult to know when to begin when you are updating existing operating procedures to include open science. Using [these guiding documents](./Your_Organizations_Open_Science_Journey.md#citing-our-sources) we have put together a list of "food for thought" questions to discuss with leaders, colleagues, and stakeholders 
 
-#### Discuss Your Organization's Research and Data Products
+#### Discuss: Research and Data Products
 * Consider the data held in trust by your organization. 
     * Where can researchers find your data? What is your process/method for releasing data? Can portions of it be anonymized such that it can be shared? Is the process for requesting access to your data clear? How fast is the data request process and how often do you go through the process of releasing data? Does your organization have practices around pre-registration and archiving? Are these practices well-known and front-of-mind?
     * [Registry of Research Data Repositories](https://www.re3data.org/) is an example site for finding open databases 
@@ -93,7 +93,7 @@ It can be a bit difficult to know when to begin when you are updating existing o
     * Can this code be made publicly available via GitHub, BitBucket or other mechanisms? 
     * Consider how much of the work of your group ought to be kept “closed” and how much can be made available to advance the work of others, particularly young professionals and early career researchers.
   
-#### Metrics & Incentives
+#### Discuss: Metrics and Incentives
 
 * If your organization conducts research, consider the metrics used when evaluating professors, researchers, lab assistants etc. for promotions and opportunities. 
     * What do these metrics *actually* measure? Do these metrics account for historic bias, institutional bias, or other inclusivity or accessibility considerations? Do these metrics account for time and effort spent on research that ultimately produced null and/or negative results? 
@@ -109,7 +109,7 @@ It can be a bit difficult to know when to begin when you are updating existing o
     * An excellent resource on this topic can be found in the [National Academies of Sciences, Engineering, and Medicine. 2021. Developing a Toolkit for Fostering Open Science Practices: Proceedings of a Workshop. Washington, DC: The National Academies Press](https://doi.org/10.17226/26308). 
 
 
-#### Engaging in Research & Training
+#### Discuss: Representation, Mentoring & Training
 
 * What is the “signaling language” used in grant applications, job postings, and descriptions of research conducted at your organization? 
     * Does this language imply open or closed science practice? Consider updating language where appropriate. 
