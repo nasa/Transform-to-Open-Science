@@ -30,8 +30,8 @@ Do you lead a team looking to integrate open science practices in **your lab or 
 
 Are you a **leader in an organization**--whether it be an academic institution, government agency, non-profit group or private industry--who is looking to adopt open science principles in your policy, funding, or distribution of research? We've curated some resources for [Your Organization's Open Science Journey](./Your_Organizations_Open_Science_Journey.md) to get you started! 
 
-### Read These Open Science Resources:
-TOPS is collecting a living list of open science resources! We have divided them into two documents to make it a bit easier to find what you need
+### Recommended Reading
+No matter where you are in your journey, we recommend the following publications, videos, and tutorials:
            
 - The [reading list](./reading_list.md) contains information about existing open science trainings, guides for data science, and a list of open science publications referenced when creating the TOPS open science curriculum 
 - The [coding resources](./code_learning_resources.md) contains suggestions for documenting scientific software as well as getting started with coding. Ready to get a bit more granular? Here is a suggested checklist for open-source code [documentation](./software_citation_checklist.md).   
