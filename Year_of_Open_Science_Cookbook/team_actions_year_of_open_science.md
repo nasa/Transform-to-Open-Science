@@ -1,6 +1,6 @@
 # Team Actions for the Year of Open Science
 
-*Individuals and organizations excited to deepen their understanding of open science and ready to begin making open science resources and learning accessible to others are called to engage with the Year of Open Science!*
+If you team is ready to celebrate open science together, consider the team participation activities below!
 
 ## Highlight Your Team's Open Science Experts
 
