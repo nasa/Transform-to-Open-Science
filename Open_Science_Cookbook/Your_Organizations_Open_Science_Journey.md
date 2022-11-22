@@ -6,7 +6,7 @@ Building on the work of others over the past several years, TOPS invites individ
 
 Suggestions for how to get those in your organization excited about open science, as well as how to have some tough discussions about policy, are in **[Section 1: Engage with Open Science](./Your_Organizations_Open_Science_Journey.md#section-1-engage-with-open-science)**.
 
-Interested in learning how you can collaborate with TOPS? Jump ahead to **[Section 2: Collaborate with TOPS](./Your_Organizations_Open_Science_Journey.md#section-1-strengthen-open-science)**.
+Interested in learning how you can collaborate with TOPS? Jump ahead to **[Section 2: Collaborate with TOPS](./Your_Organizations_Open_Science_Journey.md#section-2-collaborate-with-tops)**.
 
 ## Is your entire organization ready to embark on an open science journey? 
 
