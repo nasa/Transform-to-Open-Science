@@ -1,4 +1,4 @@
-# Promote the Year of Open Science
+# Individual Actions for the Year of Open Science
 *Individuals and organizations at the start of their open science journey can be a part of NASA's Year of Open Science by promoting the Year of Open Science!*
 
 ## Contribute to TOPS Open Science Success Stories
