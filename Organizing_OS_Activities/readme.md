@@ -19,4 +19,4 @@ Resources:
 
 To access our general open science resources including suggested trainings, publications, and like-minded organizations, head to our [Open Science Guide](/Open_Science_Cookbook/readme.md). 
 
-Interested in activities to elevate the Year of Open Science? You can find those in your [Year of Open Science Collaboration Guide](/Year_of_Open_Science_Cookbook/readme.md).
+Interested in activities to elevate the Year of Open Science? You can find those in your [Year of Open Science Collaboration Guide](/Year_of_Open_Science_Guide/readme.md).
