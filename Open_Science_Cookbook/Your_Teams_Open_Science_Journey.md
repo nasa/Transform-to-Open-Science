@@ -44,3 +44,5 @@ This can seem like a daunting task, but any amount of openness, such as putting 
     * Can this code be made publicly available via GitHub, BitBucket or other mechanisms? 
     * Consider how much of the work of your group ought to be kept “closed” and how much can be made available to advance the work of others, particularly young professionals and early career researchers.
   
+## Get Involved in the Year of Open Science
+Ready to talk to others about your open science journey? Excited to learn more about open science at NASA? [Join in](/Year_of_Open_Science_Cookbook/readme.md) on the activities for 2023 the Year of Open Science!
