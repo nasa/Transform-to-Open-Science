@@ -1,4 +1,4 @@
-# Engage with the Year of Open Science
+# Team Action for the Year of Open Science
 
 *Individuals and organizations excited to deepen their understanding of open science and ready to begin making open science resources and learning accessible to others are called to engage with the Year of Open Science!*
 
