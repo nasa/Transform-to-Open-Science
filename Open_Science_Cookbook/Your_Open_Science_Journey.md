@@ -127,4 +127,4 @@ To help make this effort a success, TOPS will provide organizations with the fol
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
 
 ### Promote at Conferences
-Wish to promote the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Cookbook](/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md) to learn how.
+Wish to promote the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Guide](/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md) to learn how.
