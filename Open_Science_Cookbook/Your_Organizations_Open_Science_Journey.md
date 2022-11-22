@@ -12,6 +12,19 @@ Ready to have some tough discussions and set new policy? Jump ahead to **[Sectio
 
 ## Section 1: Engage with Open Science
 
+### Highlight Open Science in Your Organization
+Consider your organization’s current open science practice: do researchers use or share open-source code, are pre-prints encouraged or required, is data added to a database or are studies pre-registered? What policies are in place regarding sharing code, instrument data, user surveys, methodology and results? How about instructions regarding licenses and copyrights? 
+
+Those beginning their open science journey often worry that they aren’t truly engaging in “open science” if they are unable to practice openness in every way. At TOPS, we believe it is better to get started and do what you can, than let perfect be the enemy of progress. Show those at your organization how you are beginning an open science journey, by making it easier for everyone to find and access the relevant resources and policies.   
+
+**Get Started** 
+
+Start by examining official policies that are already in place, including any that mention pre-registration, pre-prints, open access, code, data, research artifacts, publication, licenses, copyrights, meta-data, persistent digital identifiers, digital object identifiers, and/or collaboration. Collect the relevant policies in one location and, if possible, write a “directory” to passages in these policies that align with open science principles. Next, examine any “unofficial” policies; what are the research norms at your organization? Can any be updated to be more inclusive, equitable, accessible, or transparent? Address some of these, as appropriate, in a statement that accompanies the new open science directory.  
+
+When highlighting how your organization is already engaging in open science, you are doing more than just sharing projects that were done according to open science principles; you are also giving those just beginning their open science journey a model to follow. Therefore, to ensure the success of these researchers, we recommend the following be included in the blog, web-page, or meeting in which you list the relevant policies and practices:
+* Directory of organizational policies which include open science principles 
+* Examples (provide links) of publications that followed the open science policies that you are highlighting. The projects chosen may not be good examples of every open science principle, and that is okay! Describe what was done well, and point to the relevant organizational practice and/or policy. 
+
 ### Join the TOPS Movement
 To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission. As part of that mission, NASA has decreed that [**2023 as the Year Of Open Science**](/Year_of_Open_Science_Cookbook/readme.md). But it does not stop there. TOPS is a growing, global initiative rooted in community values that aims to spark change and inspire broad open science engagement. Through TOPS [four areas of action](https://github.com/nasa/Transform-to-Open-Science#implementation), the mission will increase awareness about open science, provide learning resources, and host and co-host events to support a cultural transition to open science. 
 
