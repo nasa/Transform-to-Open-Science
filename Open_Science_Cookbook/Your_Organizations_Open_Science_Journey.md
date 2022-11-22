@@ -329,3 +329,4 @@ TOPS is seeking solicitations for organizations who will organize and run “vir
 
 More information on TOPS OpenCore virtual cohorts is contained in ROSES [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.2. Please refer to the official solicitation for additional details.
 * Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md) are available. 
+
