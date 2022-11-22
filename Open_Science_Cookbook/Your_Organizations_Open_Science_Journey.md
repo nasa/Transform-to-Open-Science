@@ -159,3 +159,6 @@ Recommendations for this page were pulled from the following publications. Thank
 * UNESCO. 2021. UNESCO Recommendation on Open Science. [https://en.unesco.org/science-sustainable-future/open-science/recommendation](https://en.unesco.org/science-sustainable-future/open-science/recommendation) 
 * Martin S. Hagger (2022) Developing an open science ‘mindset’, Health Psychology and Behavioral Medicine, 10:1, 1-21, DOI: 10.1080/21642850.2021.2012474. [https://doi.org/10.1080/21642850.2021.2012474](https://doi.org/10.1080/21642850.2021.2012474)  
 * Miedema, Frank 2022. Open Science: The Very Idea. Utrecht, The Netherlands: Springer Nature. [https://doi.org/10.1007/978-94-024-2115-6](https://doi.org/10.1007/978-94-024-2115-6)
+
+## Get Involved in the Year of Open Science
+Ready to talk to others about your organization's open science journey? Excited to learn more about open science at NASA? [Join in](/Year_of_Open_Science_Cookbook/readme.md) on the activities for 2023 the Year of Open Science!
