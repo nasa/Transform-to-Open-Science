@@ -1,4 +1,4 @@
-# Strengthening the Year of Open Science
+# Organization Actions for the Year of Open Science
 
 *If you are an open science practitioner or part of an organization committed to reflecting open science principles in your policy, funding, and governance, then TOPS invites you to join us in strengthening open science through your participation in the Year of Open science.*
 
