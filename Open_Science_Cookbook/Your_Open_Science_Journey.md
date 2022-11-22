@@ -44,3 +44,6 @@ TOPS is collecting a living list of open science resources! You can find the lat
 
 ### Get Started with Open-Source Code
 We have collected tutorials for getting started with open-source coding in our [coding resources page](./code_learning_resources.md). In addition to general resources, there are links to specific tips for documenting scientific software as well as getting started with coding. Ready to get a bit more granular? Here is a suggested checklist for your own open-source code [documentation](./software_citation_checklist.md). 
+
+### Get Involved in the Year of Open Science
+Ready to talk to others about your open science journey? Excited to learn more about open science at NASA? [Join in](/Year_of_Open_Science_Cookbook/readme.md) on the activities for 2023 the Year of Open Science!
