@@ -1,7 +1,6 @@
 # Organization Actions for the Year of Open Science
 
-*If you are an open science practitioner or part of an organization committed to reflecting open science principles in your policy, funding, and governance, then TOPS invites you to join us in strengthening open science through your participation in the Year of Open science.*
-
+Are you a leader of an organization who is committed to transforming the research culture to one of open science? The following suggested activities can help get you started!
 
 ## Budget for Year of Open Science Activities
 
@@ -18,27 +17,6 @@ This collaboration guide has examples of several Year of Open Science activities
 To help make this event a success, TOPS will provide organizations with the following support:
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 * Packet of engagement ideas for the Year of Open Science 
-
-
-## Contribute to the ScienceCore
-
-**What is it?**
-
-Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. The core TOPS open science curriculum, [the OpenCore](/docs/Area2_Capacity_Sharing/OpenCore/readme.md), will provide beginners with important definitions, tools, resources and best practices. 
-
-To help scientists and researchers deepen their knowledge of open science practices in a particular field, gain advanced skills in data science or other research-enabling practices, and gain a more nuanced understanding of open science principles, TOPS aims to create the [ScienceCore](/docs/Area2_Capacity_Sharing/ScienceCore/readme.md). 
-
-**How do I get started?**
-
-TOPS has released a ROSES seeking contributors to the ScienceCore. Learn more in [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.1. Please refer to the official solicitation for additional details.
-
-**TOPS Will Provide**
-
-To help make this event a success, TOPS will provide organizations with the following support:
-* Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
-* Additional available assistance from the TOPS team is contained in Section 3.1 of [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init).
-* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md) 
-
 
 ## Develop Governance Frameworks and Policies to Support Open Science Action Plans
 
@@ -60,7 +38,7 @@ To develop policies which truly advance open science, we recommend the following
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-* A list of open science resources to get started, while the curriculum is under development, and the TOPS open science curriculum itself (once released). Current information on the TOPS open science curriculum, which can be found on the GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md). 
+* Description of Open Science Action plans are available in the [TOPS' Open Science Guide](/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.md)
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 
@@ -113,46 +91,6 @@ To help make this event a success, TOPS will provide organizations with the foll
 * TOPS will amplify your event on our listserv, via Twitter, and in our community forums.
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
-
-## Host a Summer School on Open Science
-
-**What is it?**
-
-Science team summer schools are five-day workshops, hosted by various partner and collaborator organizations in the months of June, July and August. During these weeks, members of a science team dive deeply into a particular topic, allowing time for training, discussion and ideation. 
-
-**How do I get started?**
-
-More information on TOPS open science summer schools is contained in ROSES [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.2. Please refer to the official solicitation for additional details.
-
-**TOPS Will Provide**
-
-To help make this event a success, TOPS will provide organizations with the following support:
-* Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
-* Additional available assistance from the TOPS team is contained in Section 3.2.1 of [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init).
-* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
-
-
-## Run an OpenCore Virtual Cohort
-
-**What is it?**
-
-Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. As such, one of TOPS' priorities is to develop and launch an open science curriculum that includes important definitions, tools, resources and best practices. You can learn more about the TOPS curriculum on our GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md). 
-
-TOPS is seeking solicitations for organizations who will organize and run “virtual cohorts” of learners to take the TOPS core open science curriculum (OpenCore).    
-
-**How do I get started?**
-
-More information on TOPS OpenCore virtual cohorts is contained in ROSES [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.2. Please refer to the official solicitation for additional details.
-
-**TOPS Will Provide**
-
-To help make this event a success, TOPS will provide organizations with the following support:
-* Additional information on the TOPS open science curriculum, which can be found on the GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md) and in the information from the [August community forum](/docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum.md). 
-* Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
-* Additional available assistance from the TOPS team is contained in Section 3.2.2 of [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init).
-* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
-
-
 ## Sponsor an Award
 
 **What is it?**
@@ -201,3 +139,40 @@ To help make this event a success, TOPS will provide organizations with the foll
 ## Strengthen at Conferences
 Wish to feature the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Cookbook](//Year_of_Open_Science_Cookbook/conferences_for_the_year_of_open_science.md) to learn how.
 
+## Contribute to the ScienceCore
+
+**What is it?**
+
+Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. The core TOPS open science curriculum, [the OpenCore](/docs/Area2_Capacity_Sharing/OpenCore/readme.md), will provide beginners with important definitions, tools, resources and best practices. 
+
+To help scientists and researchers deepen their knowledge of open science practices in a particular field, gain advanced skills in data science or other research-enabling practices, and gain a more nuanced understanding of open science principles, TOPS aims to create the [ScienceCore](/docs/Area2_Capacity_Sharing/ScienceCore/readme.md). 
+
+**How do I get started?**
+
+TOPS has released a ROSES seeking contributors to the ScienceCore. Learn more in [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.1. Please refer to the official solicitation for additional details.
+* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md) are available. 
+
+
+## Host a Summer School on Open Science
+
+**What is it?**
+
+Science team summer schools are five-day workshops, hosted by various partner and collaborator organizations in the months of June, July and August. During these weeks, members of a science team dive deeply into a particular topic, allowing time for training, discussion and ideation. 
+
+**How do I get started?**
+
+More information on TOPS open science summer schools is contained in ROSES [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.2. Please refer to the official solicitation for additional details.
+* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md) are available. 
+
+## Run an OpenCore Virtual Cohort
+
+**What is it?**
+
+Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. As such, one of TOPS' priorities is to develop and launch an open science curriculum that includes important definitions, tools, resources and best practices. You can learn more about the TOPS curriculum on our GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md). 
+
+TOPS is seeking solicitations for organizations who will organize and run “virtual cohorts” of learners to take the TOPS core open science curriculum (OpenCore).    
+
+**How do I get started?**
+
+More information on TOPS OpenCore virtual cohorts is contained in ROSES [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.2. Please refer to the official solicitation for additional details.
+* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md) are available. 
