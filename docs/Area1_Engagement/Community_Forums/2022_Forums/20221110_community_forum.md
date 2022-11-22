@@ -4,8 +4,11 @@ Join us November 10, 2022 for our TOPS Community Forum! By popular demand, we wi
 
 **Date:** November 10, 2022, 1PM EDT (UTC -4)
 
-[Registration](https://go.nasa.gov/3TnVRVE)
 
-[Ask Questions](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
+[Video Recording](https://www.youtube.com/watch?v=qAhDVhPKrwM)
+
+
+[Slides](https://doi.org/10.5281/zenodo.7311818)
+
 
 [Code of conduct](../Community_Forums/code_of_conduct.md)
