@@ -8,6 +8,8 @@ Suggestions for how to get those in your organization excited about open science
 
 Interested in learning how you can collaborate with TOPS? Jump ahead to **[Section 2: Collaborate with TOPS](./Your_Organizations_Open_Science_Journey.md#section-2-collaborate-with-tops)**.
 
+Already know you want TOPS at your organization's next big meeting? Check out the [conferences guide for 2023](/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md).
+
 ## Is your entire organization ready to embark on an open science journey? 
 
 ## Section 1: Engage with Open Science
