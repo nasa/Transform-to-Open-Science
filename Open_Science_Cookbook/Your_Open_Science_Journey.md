@@ -50,7 +50,7 @@ Ready to talk to others about your open science journey? Excited to learn more a
 
 Ready to celebrate open science with NASA? Read on to learn about individual participation opportunties! 
 
-## Contribute to TOPS Open Science Success Stories
+### Contribute to TOPS Open Science Success Stories
 
 **What is it?**
 
@@ -76,7 +76,7 @@ TOPS will provide organizations with the following support:
 * TOPS can also provide the list of questions used when writing the initial Open Science Stories at [https://science.nasa.gov/open-science/transform-to-open-science/stories](https://science.nasa.gov/open-science/transform-to-open-science/stories) 
 
 
-## Encourage Participation in the TOPS Open Science Curriculum
+### Encourage Participation in the TOPS Open Science Curriculum
 
 **What is it?**
 
@@ -104,7 +104,7 @@ To help make this effort a success, TOPS will provide organizations with the fol
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 
-## Encourage Your Community to join the TOPS Open Meetings
+### Encourage Your Community to join the TOPS Open Meetings
 
 **What is it?**
 
@@ -126,5 +126,5 @@ To help make this effort a success, TOPS will provide organizations with the fol
 * Materials from each community forum, which can be found on our GitHub in the [Community Forums](/docs/Area1_Engagement/Community_Forums/readme.md) directory. 
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
 
-## Promote at Conferences
+### Promote at Conferences
 Wish to promote the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Cookbook](/Year_of_Open_Science_Cookbook/conferences_for_the_year_of_open_science.md) to learn how.
