@@ -28,11 +28,14 @@ The training material as well as the design of the learning activities should be
 * NASA's definition of open science can be found [here](/docs/Area4_Moving_To_Openness/Open_Science.md)
 
 ## Related Recordings
-**Full details regarding TOPST can be learned from the October 13th TOPS Community Forum:**
-* [Link to recording](https://www.youtube.com/watch?v=wTtmdWqUr1c)
-* [Link to deck](https://doi.org/10.5281/zenodo.7195790)
-* Other forum details available [here](/docs/Area1_Engagement/Community_Forums/20221013_community_forum.md)
+**Full details regarding TOPST can be learned from the October 13th and November 10th TOPS Community Forum:**
+* [Link to recording - October](https://www.youtube.com/watch?v=wTtmdWqUr1c)
+* [Link to deck - October](https://doi.org/10.5281/zenodo.7195790)
+* Other forum details available at [October 2022 Community Forum](/docs/Area1_Engagement/Community_Forums/2022_Forums/20221013_community_forum.md)
+* [Link to recording - November](https://www.youtube.com/watch?v=qAhDVhPKrwM)
+* [Link to deck - November](https://doi.org/10.5281/zenodo.7311818)
+* Other forum details available at [November 2022 Community Forum](/docs/Area1_Engagement/Community_Forums/2022_Forums/20221110_community_forum.md)
 
 Office hours: \
-[Link] to recording (coming soon) \
-[Link] to transcript (coming soon)
+[October 25 Video Recording](https://www.youtube.com/watch?v=LFwQj8vuRFI) \
+[November 3 Video Recording](https://www.youtube.com/watch?v=VbrGPoKbtJU)
