@@ -2,6 +2,8 @@
 
 *The following curated list of materials have been gathered to assist applicants with the NASA proposal process for Research Opportunities in Space and Earth Sciences (ROSES). All community members are welcome to submit a pull request to add resources which they have found valuable.*
 
+**NEW: SETI Institute's Proposal Writing Seminar is available [online](https://www.youtube.com/watch?v=FdnnUpWBlrk)!**
+
 ## Guidance and Resources Created by NASA and NASA Centers
 
 * ROSES [FAQ](https://science.nasa.gov/researchers/sara/faqs) 
@@ -10,6 +12,7 @@
 * NASA Procurement [Regulations and Guidance](https://www.nasa.gov/offices/procurement/gpc/regulations_and_guidance)
 * NASA [Guidebook for Proposers](https://www.nasa.gov/sites/default/files/atoms/files/nasa_guidebook_for_proposers-feb_2022_tagged.pdf) Responding to a NASA Notice of Funding Opportunity
 * Guidelines for preparing dual-anonymous proposals [here](https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=896942&solicitationId={AB776446-03A8-4C24-845D-2E5A2ADA2D5A}&viewSolicitationDocument=1)
+* SETI Institute ROSES 2019 Proposal Writing Seminar is available [here](https://www.youtube.com/watch?v=FdnnUpWBlrk)
 
 ## Community Knowledge Sharing
 

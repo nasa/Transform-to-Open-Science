@@ -1,3 +1,0 @@
-# Example Short Panel Submission
-
-Transform to Open Science (TOPS) is a new NASA Science Mission Directorate program designed to spark a cultural shift to collaborative, inclusive science. Open science increases access to knowledge and expands opportunities for new voices to participate. Sharing the data, code, results, and knowledge associated with the scientific process lowers barriers to entry for historically-underrepresented communities, enables findings to be more easily reproduced, and generates new knowledge at scale. Through this session panel, we will showcase success stories in the planetary sciences, real-world examples of how open science practices have empowered and enabled scientists to carry out successful research projects.
