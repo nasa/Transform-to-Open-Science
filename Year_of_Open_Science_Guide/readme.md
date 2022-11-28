@@ -18,7 +18,7 @@ These areas are designed to increase awareness about open science, provide learn
 
 **NASA - along with like-minded agencies across the USA government - has declared 2023 the Year of Open Science to celebrate the benefits and successes of open science, and inspire more scientists to join the movement. Ultimately, the success of the Year of Open Science will be driven by collaborations with individuals, teams, and organizations who are ready to transform the culture of federal research into one that celebrates openness, and inclusion!**
 
-### For Individuals Who Want to Get Invovled
+### For Individuals Who Want to Get Involved
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us in the Year of Open Science! 
 
 If you are excited to learn and encourage others to learn about open science as part of the Year of Open Science, then we invite you to explore how to [Individual Actions for the Year of Open Science](/Open_Science_Cookbook/Your_Open_Science_Journey.md#section-2-collaborate-with-tops)!
