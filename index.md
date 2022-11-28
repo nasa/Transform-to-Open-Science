@@ -9,7 +9,6 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
-# Announcements!
 - [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Notice of Intent Due 11/10. Proposals Due 12/8!
 - Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
 - Open Science funding [opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
