@@ -31,6 +31,7 @@
 
 ## Mentorship
 - Openscapes open science mentorship [program](https://www.openscapes.org/)
+- The [Research Software Alliance](https://www.researchsoft.org/#) has monthly meetings focused on advancing tools for and usage of open-source software for research, more information is [here](https://www.researchsoft.org/events/2022-06/)
 
 ## Podcasts
 - Open Update is Liberate Science’s weekly digest on what’s been going on in the open science space! [Listen here](https://anchor.fm/open-update)
@@ -65,6 +66,8 @@
 * An example of tagging and sharing data from Harvard University,[ DataTags](https://privacytools.seas.harvard.edu/datatags)
 * Computer, vol. 55 The Four Opens: Open Source Beyond the Code. June 2022, pp. 81-84, vol. 55. [DOI: 10.1109/MC.2022.3164124](https://doi.ieeecomputersociety.org/10.1109/MC.2022.3164124)
 * Lowenberg, D. (2022). Recognizing Our Collective Responsibility in the Prioritization of Open Data Metrics. Harvard Data Science Review, 4(3). [https://doi.org/10.1162/99608f92.c71c3479](https://doi.org/10.1162/99608f92.c71c3479)
+* Science, Digital; Goodey, Gregory; Hahnel, Mark; Zhou, Yuanchun; Jiang, Lulu; Chandramouliswaran, Ishwar; et al. (2022): The State of Open Data 2022. Digital Science. Report. [https://doi.org/10.6084/m9.figshare.21276984.v5](https://digitalscience.figshare.com/articles/report/The_State_of_Open_Data_2022/21276984)
+* [FAIR Data case studies](https://www.sheffield.ac.uk/openresearch/faircasestudies) by the University of Sheffield
 
 **Open Software**
 * Ince et al. (2012). The case for open computer programs. [doi.org/10.1038/nature10836](https://www.nature.com/articles/nature10836)
