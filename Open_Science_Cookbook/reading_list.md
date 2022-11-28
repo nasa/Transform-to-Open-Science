@@ -4,6 +4,8 @@
 
 ## Open Science Policy and Government Recommendations
 - UNESCO 2021 [Recommendations on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation)
+     - Update: The [recording](https://www.youtube.com/watch?v=jCOhwbYmITA) and a [summary report](https://unesdoc.unesco.org/ark:/48223/pf0000383807.locale=en) of the second meeting of the *UNESCO Recommendation on Open Science* held on 26 September 2022
+     - You may find the recordings and reports from all the Working Group meetings on UNESCO's [Open Science webpage](https://www.unesco.org/en/natural-sciences/open-science/implementation#open-science-working-groups)
 - NASEM 2018 [Open Science by Design](https://www.nap.edu/catalog/25116/open-science-by-design-realizing-a-vision-for-21st-century)
 - NASEM 2018 [Best Practices for a Future Open Code Policy for NASA Space Science](https://www.nationalacademies.org/our-work/best-practices-for-a-future-open-code-policy-for-nasa-space-science)
 - NASEM 2021 [Developing a Toolkit for Fostering Open Science Practices: Proceedings of a Workshop](https://www.nationalacademies.org/our-work/developing-a-toolkit-for-fostering-open-science-practices-a-workshop)
