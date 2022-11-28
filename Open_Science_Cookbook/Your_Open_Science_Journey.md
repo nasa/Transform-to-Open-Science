@@ -48,7 +48,7 @@ Ready to talk to others about your open science journey? Excited to learn more a
            
 ## Section 2: Collaborate With TOPS
 
-Ready to celebrate open science with NASA? Read on to learn about individual participation opportunties! 
+Ready to celebrate open science with NASA? Read on to learn about individual participation opportunities! 
 
 ### Contribute to TOPS Open Science Success Stories
 
