@@ -14,15 +14,11 @@ Here are some quick links that can help you get started:
 
 - `Read our publications <./Outreach/tops_publications.md>`__
 
-- Download our podcast (coming soon) 
-
 - `Find us at a conference <./Outreach/tops_conferences.md>`__
 
 - `Participate in a community forum <https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums>`__
 
 - `Read our success stories <https://science.nasa.gov/open-science/transform-to-open-science/stories>`__
-
-- Partnerships (coming soon) 
 
 - `Show your love for open science <https://www.canva.com/design/DAE_9KAimo4/HGjINSG0FYnFPfjxHUTcIQ/edit>`__
 

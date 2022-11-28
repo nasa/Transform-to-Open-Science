@@ -10,4 +10,4 @@ TOPS has a variety of materials that you can bring to your next booth.
 Setting up a booth for the first time can seem like a daunting task. Luckily, all conferences have a team of professionals who are ready to answer your questions, including those about pricing plans, the do's and don'ts of the conference space, and the optimal location for your booth on the conference floor. While specifics vary from conference to conference, TOPS has created [this guide](./booth_checklist.md) to get you started. 
 
 ### Join TOPS in 2023! 
-To see where TOPS will be in 2023, check out our conference table [here](/docs/Area1_Engagement/Outreach/2023_conferences_table.md).
+To see where TOPS will be in 2023, check out our conference table [here](/docs/Area1_Engagement/Outreach/tops_conferences.md).

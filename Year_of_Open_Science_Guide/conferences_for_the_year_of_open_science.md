@@ -14,6 +14,8 @@ NASA has declared 2023 as the Year of Open Science! The TOPS team will be partic
 | Engage     | X               | X         | X     | X                  |                    |                        |                    |
 | Strengthen | X               | X         | X     | X                  | X                  | X                      | X                  |
 
+Activities for collaborating on open science conferences with TOPS have been organized into three levels, depending on the level of involvement: Promote, Engage and Strengthen. Read on to learn more!
+
 ## Promote
 
 Help us promote TOPS, advocate for open science, and inspire researchers to practice open science by inviting members of the TOPS team to do *Promotion* at your next conference! These opportunities include:
