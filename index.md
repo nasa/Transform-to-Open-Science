@@ -22,39 +22,24 @@ Open Science creates more advanced and inclusive research faster, builds a more 
 2. Broaden participation by historically excluded communities 
 3. Increase understanding and adoption of open science principles and techniques 
 
+### Learn More About Our Implementation Plan in the Following Areas
+- [Engagement](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/readme.md): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
+- [Capacity Sharing](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md): Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
+- [Incentives](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area3_Incentives/readme.md): Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
+- [Moving Towards Openness](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/readme.md): Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.
+
 ## TOPS and the Year of Open Science
 
 2023 is the Year Of Open Science, a NASA initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) community coordinates efforts designed to rapidly transform agencies, organizations, and communities.*
 
-## Implementation
-- [Area 1: Engagement](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/readme.md): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
-- [Area 2: Capacity sharing](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md): Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
-- [Area 3: Incentives](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area3_Incentives/readme.md): Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
-- [Area 4: Moving towards openness](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/readme.md): Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.
- 
-## Overview Presentation
-Short presentation on TOPS initiative: 
-- Slides: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5621674.svg)](https://doi.org/10.5281/zenodo.5621674)
-- [Recording](https://youtu.be/Gzg_xTEUOII?t=408) starts at 6:48.
-
 ## Join TOPS Mailing List
 Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations there.
-
- 
-## Repository
-
-This repository is used to openly share information about TOPS and the Year of Open Science. 
-Issues are used to collect tasks for development, and Markdown text documents for any planning documents that need to be developed.  This could include linking to other resources. Please feel free to submit an issue or fork the repository to make a contribution. 
-
-## Frequently Asked Questions
-
-We have collected frequently asked questions [here](./tops_faq.md). Please use the discussions channel on this GitHub to ask more questions if you have them!
 
 **We hope you will join us and champion open science!**
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people who have contributed to our [GitHub repository](https://github.com/nasa/Transform-to-Open-Science) ([emoji key](https://allcontributors.org/docs/en/emoji-key). Learn how you can become a contributor [here](/CONTRIBUTING.md).):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
