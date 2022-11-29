@@ -24,5 +24,5 @@
 - Cartopy python [Tutorial](https://rabernat.github.io/research_computing_2018/maps-with-cartopy.html)
 - Python oceanography [Resources](https://scrapbox.io/pycoaj/oceanography)
 - [Project Pythia (Pangeo)](https://projectpythia.org/)
-- Scientific [python](https://projectpythia.org/)
+- [Scientific Python](https://scientific-python.org/)
 
