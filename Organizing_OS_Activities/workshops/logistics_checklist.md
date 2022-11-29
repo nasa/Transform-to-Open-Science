@@ -1,4 +1,6 @@
-# Logistics
+# Logistics Checklist
+
+Wondering what you need to decide before you get started with your workshop? Here is what we suggest! More information on NASA SMD workshop guidance will be added soon.
 
 - [ ] Due Dates / Deadlines
 - [ ] Location
