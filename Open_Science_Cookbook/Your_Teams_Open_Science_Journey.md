@@ -6,7 +6,7 @@ Looking to inspire your team-mates to also adopt open science? Or are you ready 
 
 Looking to join TOPS activities in the Year of Open Science and beyond? Skip ahead to **[Section 2: Team Collaborations with TOPS](./Your_Teams_Open_Science_Journey.md#section-2-team-collaborations-with-tops)**
 
-## Is your team ready to embark on a journey towards open science? 
+**Is your team ready to embark on a journey towards open science?**
 
 ## Section 1: Engage With Open Science
 
@@ -43,13 +43,9 @@ This can seem like a daunting task, but any amount of openness, such as putting 
     * Consider how much of the work of your group ought to be kept “closed” and how much can be made available to advance the work of others, particularly young professionals and early career researchers.
   
 ### Get Involved in the Year of Open Science
-Ready to talk to others about your open science journey? Excited to learn more about open science at NASA? [Join in](/Year_of_Open_Science_Cookbook/readme.md) on the activities for 2023 the Year of Open Science!
+Ready to talk to others about your open science journey? Excited to learn more about open science at NASA? [Join in](/Year_of_Open_Science_Guide/readme.md) on the activities for 2023 the Year of Open Science!
 
 ## Section 2: Team Collaborations with TOPS
-
-# Team Actions for the Year of Open Science
-
-If you team is ready to celebrate open science together, consider the team participation activities below!
 
 ### Highlight Your Team's Open Science Experts
 
@@ -73,12 +69,12 @@ When highlighting your team’s open science experts, you are doing more than ju
 * Links to the open code, data, or publication archives of your organization. 
 * Links to the publication, license, and/or copyright policies of your organization. 
 
-You may also want to consider providing information on the data management plans and publication policies of any federal organizations who contribute to your team's funding. Links to many of those policies can be found on the TOPS GitHub at [Open Timeline](/docs/Area4_Moving_To_Openness/Open_Timeline.md). 
+You may also want to consider providing information on the data management plans and publication policies of any federal organizations who contribute to your team's funding. Links to many of those policies can be found on the TOPS GitHub at [Open Timeline](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/Open_Timeline.md). 
 
 **TOPS Will Provide**
 
 To help make this effort a success, TOPS will provide organizations with the following support:
-* Resources on getting started with open science, which can be found in the open science curriculum pages at [Capacity Sharing: OpenCore](/docs/Area2_Capacity_Sharing/OpenCore/readme.md).
+* Resources on getting started with open science, which can be found in the open science curriculum pages at [Capacity Sharing: OpenCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md).
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 
@@ -110,7 +106,7 @@ To help the listening session be successful, we recommend the following:
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-* Resources on getting started with open science, which can be found in the open science curriculum pages at [Capacity Sharing: OpenCore](/docs/Area2_Capacity_Sharing/OpenCore/readme.md).
+* Resources on getting started with open science, which can be found in the open science curriculum pages at [Capacity Sharing: OpenCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md).
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 
@@ -118,7 +114,7 @@ To help make this event a success, TOPS will provide organizations with the foll
 
 **What is it?**
 
-Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. As such, one of TOPS' priorities is to develop and launch an open science curriculum that includes important definitions, tools, resources and best practices. You can learn more about the TOPS curriculum on our GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md). Grab a few team members and walk through our curriculum together, and let us know how we can improve.
+Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. As such, one of TOPS' priorities is to develop and launch an open science curriculum that includes important definitions, tools, resources and best practices. You can learn more about the TOPS curriculum on [our GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md). Grab a few team members and walk through our curriculum together, and let us know how we can improve.
 
 **How do I get started?**
 
@@ -129,13 +125,13 @@ Join the [TOPS email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYF
 When encouraging your team to participate as testers in the TOPS Open Science curriculum, be sure to mention:
 * TOPS’ goal to train 20,000 scientists, 
 * The fast-pass option for those already familiar with open science, and 
-* The badging structure (Why badging? Learn more at [Micro-Badging Details on the TOPS GitHub](/docs/Area3_Incentives/micro-badging_details.md)). 
+* The badging structure (Why badging? Learn more at [Micro-Badging Details on the TOPS GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area3_Incentives/micro-badging_details.md)). 
 
 **TOPS Will Provide**
 
 To help make this effort a success, TOPS will provide organizations with the following support:
 * The open science curriculum for testing, once available, as well as instructions for how to provide feedback
-* Additional information on the TOPS open science curriculum, which can be found on the GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md) and in the information from the [August community forum](/docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum.md). 
+* Additional information on the TOPS open science curriculum, which can be found on [the GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md) and in the information from the [August community forum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum.md). 
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 
@@ -143,7 +139,7 @@ To help make this effort a success, TOPS will provide organizations with the fol
 
 **What is it?**
 
-To complement its [open science curriculum](/docs/Area2_Capacity_Sharing/readme.md), TOPS is creating a series of TOPS digital micro-badges, which can be earned by either completing open science activities or the modules of the TOPS open science curriculum. Participants who complete all five modules will also earn the TOPS open science badge. Additional, supporting information on the TOPS badging program can be found on our GitHub, in [Micro-Badging Details](/docs/Area3_Incentives/micro-badging_details.md).
+To complement its [open science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md), TOPS is creating a series of TOPS digital micro-badges, which can be earned by either completing open science activities or the modules of the TOPS open science curriculum. Participants who complete all five modules will also earn the TOPS open science badge. Additional, supporting information on the TOPS badging program can be found on our GitHub, in [Micro-Badging Details](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area3_Incentives/micro-badging_details.md).
 
 Teams can encourage one another to support the Year of Open Science by setting a team “badging goal,” and conduct a targeted communications campaign to reach that goal by the end of 2023.    
 
@@ -166,7 +162,7 @@ When setting a TOPS open science badge goal for your organization, we recommend 
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-* Additional information on the TOPS open science curriculum, which can be found on the GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md) and in the information from the [August community forum](/docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum.md). 
+* Additional information on the TOPS open science curriculum, which can be found on [the GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md) and in the information from the [August community forum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum.md). 
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 ### Engage at Conferences
