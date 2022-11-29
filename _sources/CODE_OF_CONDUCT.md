@@ -72,7 +72,7 @@ decisions when appropriate.
 
 ### Scope
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.  [In-person and virtual activities will also provide further guidance on appropriate conduct at those events.](./docs/Area1_Engagement/Community_Forums/code_of_conduct.md)
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. In-person and virtual activities will also provide further guidance on appropriate conduct at those events.
 
 ### Key Definitions 
 * A **participant** is someone who has posted a comment or question on the TOPS GitHub, TOPS Slack, TOPS Google Drive documentation or chat features provided by TOPS to the community during an open meeting or community forum. Anyone who interacts with TOPS or OSSI is a participant. 

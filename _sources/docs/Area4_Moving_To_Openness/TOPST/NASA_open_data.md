@@ -28,7 +28,7 @@ Ames Life Sciences Data Archive (ALSDA): [official repository](https://www.nasa.
 
 GeneLab: Open Science for Life in Space: an [entirely open-access resource](https://genelab.nasa.gov/) where scientists can upload, download, search, share, analyze, and visualize omics data from spaceflight and analog experiments. For more information, please go [here](https://science.nasa.gov/biological-physical/data).
  
-Space Biology Biospecimen Sharing Program (BSP): [collects non-human biospecimens and coordinates dissections]([https://www.nasa.gov/ames/research/space-biosciences/isc-bsp](https://science.nasa.gov/biological-physical/space-biology-biospecimen-sharing-program)) to maximize the scientific return of high-quality tissues from spaceflight and ground biological investigations. 
+Space Biology Biospecimen Sharing Program (BSP): [collects non-human biospecimens and coordinates dissections](https://www.nasa.gov/ames/research/space-biosciences/isc-bsp) to maximize the scientific return of high-quality tissues from spaceflight and ground biological investigations. 
 
 NASA Biological Institutional Scientific Collection (NBISC): [biorepository](https://www.nasa.gov/ames/research/space-biosciences/isc-bsp) of non-human samples from NASA-funded spaceflight investigations. Samples not utilized by primary investigations are made available through an open science approach via the [LSDA Biospecimen Portal](https://lsda.jsc.nasa.gov/Biospecimen).
 
