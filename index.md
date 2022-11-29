@@ -1,14 +1,6 @@
-# Introduction
+# Transform to Open Science (TOPS)
 
-Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
-
-Ready to get started transforming towards open science with us? Get started [here!](./getting_started.md) 
-
-Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-# Announcements!
+## Announcements!
 - [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Notice of Intent Due 11/10. Proposals Due 12/8!
 - Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
 - Open Science funding [opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
@@ -17,8 +9,6 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 
 
 <img align="right" src="./docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
-
-# Transform to Open Science (TOPS)
 
 ## What We Do
 
