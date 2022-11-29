@@ -17,7 +17,7 @@ A TOPS workshop must meet the following requirements:
      - [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/on-learning-and-training)
      - [Complexity Explorer Introduction to Open science](https://www.complexityexplorer.org/courses/125-introduction-to-open-science)
      - [Train the Trainer Seminar](https://youtu.be/RbeY0dXER6g), which is not specific to open science but provides guidance for how to lead a training 
-- Must use The TOPS [OpenCore](/docs/Area2_Capacity_Sharing/OpenCore/readme.md) or [ScienceCore](/docs/Area2_Capacity_Sharing/ScienceCore/readme.md) curriculum
+- Must use The TOPS [OpenCore](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md) or [ScienceCore](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/ScienceCore/readme.md) curriculum
 - Use the TOPS surveys to help us evaluate the curriculum content. Contact us [using this form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit) to get the latest survey.
 - Abide by the TOPS Code of Conduct, which is found [here](/CODE_OF_CONDUCT.md).
 

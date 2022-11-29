@@ -39,7 +39,7 @@
 - Open Update is Liberate Science’s weekly digest on what’s been going on in the open science space! [Listen here](https://anchor.fm/open-update)
 
 ## Open Science Publications
-*This reading list is organized following the structure of the TOPS [Open Science curriculum](/docs/Area2_Capacity_Sharing/OpenCore/readme.md).*
+*This reading list is organized following the structure of the TOPS [Open Science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md).*
 
 **Ethos of Open Science**
 * Dominik, M., Nzweundji, J.G., Ahmed, N., Carnicelli, S., Mat Jalaluddin, N.S., Fernandez Rivas, D., Narita, V., Enany, S. and Rios Rojas, C., 2022. Open Science – For Whom?. Data Science Journal, 21(1), p.1. [DOI: http://doi.org/10.5334/dsj-2022-001](http://doi.org/10.5334/dsj-2022-001)

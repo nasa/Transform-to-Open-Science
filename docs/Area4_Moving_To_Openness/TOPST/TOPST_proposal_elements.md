@@ -1,5 +1,5 @@
-# TOPST Proposal Elements: Open-Science Development Plans and Equal Access Plans
-TOPST requires both an Open-Source Science Development Plan (replaces the Data Management Plan) and an Equal Access Plan. We provide more information on both below. 
+# TOPST Proposal Elements
+TOPST requires both an **Open-Source Science Development Plan** (replaces the Data Management Plan) and an **Equal Access Plan**. We provide more information on both below. 
 
 ## Open-Source Science Development Plan
 * Proposals must submit an Open-Source Science Development Plan that describes how project materials will be openly available. 
