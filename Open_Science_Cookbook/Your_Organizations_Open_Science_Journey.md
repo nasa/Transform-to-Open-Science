@@ -10,7 +10,7 @@ Interested in learning how you can collaborate with TOPS? Jump ahead to **[Secti
 
 Already know you want TOPS at your organization's next big meeting? Check out the [conferences guide for 2023](/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md).
 
-## Is your entire organization ready to embark on an open science journey? 
+**Is your entire organization ready to embark on an open science journey?** 
 
 ## Section 1: Engage with Open Science
 
@@ -28,7 +28,7 @@ When highlighting how your organization is already engaging in open science, you
 * Examples (provide links) of publications that followed the open science policies that you are highlighting. The projects chosen may not be good examples of every open science principle, and that is okay! Describe what was done well, and point to the relevant organizational practice and/or policy. 
 
 ### Join the TOPS Movement
-To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission. As part of that mission, NASA has decreed that [**2023 as the Year Of Open Science**](/Year_of_Open_Science_Cookbook/readme.md). But it does not stop there. TOPS is a growing, global initiative rooted in community values that aims to spark change and inspire broad open science engagement. Through TOPS [four areas of action](https://github.com/nasa/Transform-to-Open-Science#implementation), the mission will increase awareness about open science, provide learning resources, and host and co-host events to support a cultural transition to open science. 
+To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission. As part of that mission, NASA has decreed that [**2023 as the Year Of Open Science**](https://github.com/nasa/Transform-to-Open-Science/blob/main/Year_of_Open_Science_Guide/readme.md). But it does not stop there. TOPS is a growing, global initiative rooted in community values that aims to spark change and inspire broad open science engagement. Through TOPS [four areas of action](https://github.com/nasa/Transform-to-Open-Science#implementation), the mission will increase awareness about open science, provide learning resources, and host and co-host events to support a cultural transition to open science. 
 
 **Through collaboration with other organizations, NASA will support and enable the scientific community to move towards open science.** The following list of planned activities represents the areas in which TOPS aims to take action to transform towards open science. If you and your organization are ready to add your strength--via your people, resources, and work--to this transformation, we invite you to join us in these areas of action. 
 
@@ -82,7 +82,7 @@ UNESCO also [provided guidance](https://en.unesco.org/science-sustainable-future
 The US federal government has [taken steps ](/docs/Area4_Moving_To_Openness/Open_Timeline.md)towards mandating the open sharing of publications and data produced by US government funding. Additionally, there are several [global policies](/docs/Area4_Moving_To_Openness/global_policies.md) supporting the move to open science. Organizations should begin by examining their own publication and data management policies and frameworks to ensure that they complement these. In some cases, organizations may need to provide greater detail or guidance than what exists in federal documents, to account for the needs and practices of a particular community or scientific field.
 
 To develop policies which truly advance open science, we recommend the following:
-* In addition to examining the relevant [US Federal guidance](/docs/Area4_Moving_To_Openness/Open_Timeline.md) and [global guidance](/docs/Area4_Moving_To_Openness/global_policies.md), organizations should examine the practices of the most popular journals or publication venues for the researchers of their organization. Any conflicting guidance should be noted, and addressed in the frameworks created for your organization. 
+* In addition to examining the relevant [US Federal guidance](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/Open_Timeline.md) and [global guidance](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/global_policies.md), organizations should examine the practices of the most popular journals or publication venues for the researchers of their organization. Any conflicting guidance should be noted, and addressed in the frameworks created for your organization. 
 * The TOPS definition of open science includes opening data, software, results and methods; in addition to committing to principles of transparency, accessibility, inclusivity and reproducibility. Consider committing to a definition of open science at your organization, and build policies and frameworks that support it. 
 * Be sure to include your organization’s researchers and scientists in the process of creating new policies; hold listening sessions, town halls, or office hours in which those most affected by these policies can provide feedback, and perhaps reveal barriers to their adoption. 
 
@@ -149,7 +149,7 @@ It can be a bit difficult to know when to begin when you are updating existing o
     * Research that produces data? (And do the requirements maintain that the data must be properly assigned metadata and be made available alongside the results OR prior to the results being published OR in a publicly accessible database so that others may use it?)  
     * Research in which the primary result is code or software development? 
 * Does your organization provide training in open science practices such as the use of open databases, or the sharing of open-source software? How about training in bias and anti-bias practices both in the distribution of funding, and in the interpretation of research results (e.g., data dredging, p-hacking and HARK-ing)? 
-    * Consider adopting and adapting the [TOPS Open Science curriculum](/docs/Area2_Capacity_Sharing/OpenCore/readme.md), the work of the European Union’s [FOSTER project](https://www.fosteropenscience.eu/toolkit) or/and what has been done by the [Berkeley Initiative for Transparency in the Social Sciences (BITSS)](https://www.bitss.org/resource-library/) to your needs and incentivizing funded researchers to learn more about open science. 
+    * Consider adopting and adapting the [TOPS Open Science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md), the work of the European Union’s [FOSTER project](https://www.fosteropenscience.eu/toolkit) or/and what has been done by the [Berkeley Initiative for Transparency in the Social Sciences (BITSS)](https://www.bitss.org/resource-library/) to your needs and incentivizing funded researchers to learn more about open science. 
 * Does your organization have access to makerspaces? 
     * Who can use them? Are they open to all or only to a certain group? 
     * Consider creating a pathway for community members–particularly high schoolers, study teams organized via libraries, Girl and Boy Scouts, YMCAs, and other organized youth groups–to be able to apply to use these spaces.
@@ -298,9 +298,9 @@ To help make this event a success, TOPS will provide organizations with the foll
 
 **What is it?**
 
-Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. The core TOPS open science curriculum, [the OpenCore](/docs/Area2_Capacity_Sharing/OpenCore/readme.md), will provide beginners with important definitions, tools, resources and best practices. 
+Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. The core TOPS open science curriculum, [the OpenCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md), will provide beginners with important definitions, tools, resources and best practices. 
 
-To help scientists and researchers deepen their knowledge of open science practices in a particular field, gain advanced skills in data science or other research-enabling practices, and gain a more nuanced understanding of open science principles, TOPS aims to create the [ScienceCore](/docs/Area2_Capacity_Sharing/ScienceCore/readme.md). 
+To help scientists and researchers deepen their knowledge of open science practices in a particular field, gain advanced skills in data science or other research-enabling practices, and gain a more nuanced understanding of open science principles, TOPS aims to create the [ScienceCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/ScienceCore/readme.md). 
 
 **How do I get started?**
 
@@ -323,7 +323,7 @@ More information on TOPS open science summer schools is contained in ROSES [F.14
 
 **What is it?**
 
-Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. As such, one of TOPS' priorities is to develop and launch an open science curriculum that includes important definitions, tools, resources and best practices. You can learn more about the TOPS curriculum on our GitHub in [Area2_Capacity_Sharing](/docs/Area2_Capacity_Sharing/readme.md). 
+Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. As such, one of TOPS' priorities is to develop and launch an open science curriculum that includes important definitions, tools, resources and best practices. You can learn more about the TOPS curriculum on [our GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md). 
 
 TOPS is seeking solicitations for organizations who will organize and run “virtual cohorts” of learners to take the TOPS core open science curriculum (OpenCore).    
 
