@@ -1,4 +1,4 @@
-# Transform to Open Science (TOPS) Training Solicitation 
+# TOPS Training Solicitation 
 
 Transform to Open Science Training or "TOPST" is a Research Opportunities in Space and Earth Science (ROSES) solicitation. TOPST is solicitation F.14 and can be found [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860824/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/F.14_TOPST_Amend46.pdf). 
 
