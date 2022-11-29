@@ -1,4 +1,4 @@
-# Transform to Open Science (TOPS) Frequently Asked Questions
+# Frequently Asked Questions
 This page is a living document of the most common questions posed to the TOPS team. It is our hope that these answers will benefit the wider community. Further details can be found in the transcripts of our community events on our <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums">community forum</a> and <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Panels">community panel</a> pages.
 
 <details> 
