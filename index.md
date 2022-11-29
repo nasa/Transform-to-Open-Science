@@ -1,4 +1,5 @@
-# Transform to Open Science (TOPS)
+# Transform to Open Science 
+Welcome to the open science guide for Transform to Open Science (TOPS), a NASA Open-Source Science Initiative mission.
 
 ## Announcements!
 - [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Proposals Due 12/8!
