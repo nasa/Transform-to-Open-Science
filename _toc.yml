@@ -38,6 +38,7 @@ parts:
       sections:
       - file: Organizing_OS_Activities/panel/panel_example_short
       - file: Organizing_OS_Activities/panel/panel_example
+      - file: Organizing_OS_Activities/panel/panel_checklist
     - file: Organizing_OS_Activities/presentation/readme
       sections:
       - file: Organizing_OS_Activities/presentation/presentation_checklist
