@@ -131,7 +131,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 4. If a contributor **submits a pull request which is harmful to our digital spaces (e.g., malicious code), they will be immediately and permanently banned** from all TOPS digital spaces including but not limited to GitHub, slack and Google Drive. They will also not be permitted to participate in TOSP community meetings or forums. 
 
 
-## License and attribution
+## Attributions
 
 TOPS is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
 
@@ -151,3 +151,4 @@ TOPS is greatly appreciative of the multiple sources that we drew from to build 
 
 * The archives of the [Ada Initiative ](https://adainitiative.org/) 
 
+**The license for this repository is available [here](./LICENSE.md).**
