@@ -2,7 +2,7 @@
 This page is a living document of the most common questions posed to the TOPS team. It is our hope that these answers will benefit the wider community. Further details can be found in the transcripts of our community events on our <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums">community forum</a> and <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Panels">community panel</a> pages.
 
 <details> 
-  <summary><h3>General Questions about Open Science</h3></summary>
+  <summary><span style="font-size:x-large;">General Questions about Open Science</span></summary>
 
   <h4>What is open-source science (OSS)?</h4>
   Open-source science is a commitment to the open sharing of software, data, and knowledge (algorithms, papers, documents, ancillary information) from the start of research activities. The principles of OSS are to make publicly funded scientific research transparent, inclusive, accessible, and reproducible. OSS is enabled by advances in technology, including collaboration tools and cloud computing. More information is available from NASA's Science Mission Directorate (SMD) Policy Document <a href = "https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf">(SPD-41)</a> on science information policy.
@@ -53,7 +53,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
 </details> 
 
 <details> 
-  <summary><h3>General Questions about TOPS</h3></summary>
+  <summary><span style="font-size:x-large;">General Questions about TOPS</span></summary>
   <h4>NASA TOPS is a $40M mission over 5 years. How will those funds be spent?</h4>
   TOPS is across all of NASA’s Science Mission Directorate (SMD). The majority of the funding is to support training activities to help the SMD community learn about Open Sciences. This includes training that is tailored to the needs of the scientific communities of SMD. Opportunities will be announced that are available to all directorates and the different directorates are participating in the design and development of the project. 
  
@@ -108,7 +108,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   </details>
   
   <details> 
-  <summary><h3>Incentives and Recognition for Open Science</h3></summary>
+  <summary><span style="font-size:x-large;">Incentives and Recognition for Open Science</span></summary>
   <h4>What are NASA's plans to make sure that the extra effort required to make work open is properly recognized?</h4></summary>
  There are different ways to recognize effort. First, there is financial recognition. If research is open from inception, and openness has been planned and budgeted for at the proposal stage, then being open isn’t a substantial extra effort. So, with regards to cost, the effort will be recognized by funding it in the budget. Then there is professional recognition. If one put in the effort to be open, one should certainly be recognized. There is already a lot of evidence that by being open, science has more impact and more citations. But we are planning additional specific activities to incentivize and recognize open science activities. Further, TOPS is working with partners to create awards specifically created to recognize scientific achievements in open science.
   
@@ -124,7 +124,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   </details>
   
   <details> 
-  <summary><h3>Getting Involved in TOPS</h3></summary>
+  <summary><span style="font-size:x-large;">Getting Involved in TOPS</span></summary>
   
   <h4>Who can participate?</h4>
   Anyone with an interest in open science is welcome to participate in TOPS! <a href = "https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform">Sign up for the TOPS newsletter</a> to learn how to get involved and keep up-to-date with the latest TOPS activities.
@@ -147,7 +147,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
 </details> 
   
   <details> 
-  <summary><h3>The TOPS Open Science Curriculum</h3></summary>
+  <summary><span style="font-size:x-large;">The TOPS Open Science Curriculum</span></summary>
   
   <h4>What is the plan for the translation of the open science curriculum into other languages?</h4>
   TOPS will be releasing competitive NASA funding opportunities for add-ons to this curriculum, such as discipline-specific modules or using data in the cloud. How to effectively use different compute environments could be part of such an extension.
@@ -204,7 +204,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   </details>
   
   <details>
-  <summary><h3>The Year of Open Science</h3></summary>
+  <summary><span style="font-size:x-large;">The Year of Open Science</span></summary>
   
   <h4>What is the Year of Open Science?</h4>
   Transform to Open Science (TOPS) is a five-year initiative designed to support scientists, agencies, organizations, and communities as they transform to an inclusive culture of open science. Many TOPS activities will be focused around 2023 as NASA’s Year of Open Science. In partnership with major scientific organizations, the Year of Open Science is designed to spark change and inspire open science engagement through events and activities that will shift the current paradigm. 
