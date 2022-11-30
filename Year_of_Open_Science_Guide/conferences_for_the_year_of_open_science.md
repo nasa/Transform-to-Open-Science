@@ -30,7 +30,7 @@ To help make this effort a success, TOPS will provide organizations with the fol
 * **Booth**
     * Submission of at least a 10x10 foot booth request
     * Content resources for attendees, to be shared from the booth
-    * TOPS staff at the booth day(s) of event(s), to include answering questions, promoting the TOPS [open science curricula](/docs/Area2_Capacity_Sharing/readme.md), and providing information on other TOPS opportunities
+    * TOPS staff at the booth day(s) of event(s), to include answering questions, promoting the TOPS [open science curricula](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md), and providing information on other TOPS opportunities
 *  **Oral/Poster Presentation**
     * Submission of session with a theme relevant to event
     * Invitation to attendees to submit abstracts
@@ -91,7 +91,7 @@ To help make this effort a success, TOPS will provide organizations with the fol
     * Identification and invitation of speakers
     * TOPS staff meet-and-greets with the students or ECRs
     * Support of a small, career-focused booth with information resources for attendees 
-    * TOPS staff at the booth day(s) of event(s), to include answering questions, promoting the TOPS [open science curricula](/docs/Area2_Capacity_Sharing/readme.md), and providing information on other TOPS opportunities
+    * TOPS staff at the booth day(s) of event(s), to include answering questions, promoting the TOPS [open science curricula](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md), and providing information on other TOPS opportunities
 
 Other options for co-creation to strengthen the Year of Open Science can be found in the other sections of the Year of Open Science cookbook. Some of our favorties are 
 * [Create a new open science award](/Year_of_Open_Science_Cookbook/Strengthen_year_of_open_science.md#sponsor-an-award)

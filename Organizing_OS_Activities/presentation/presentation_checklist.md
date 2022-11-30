@@ -1,6 +1,6 @@
 # Presentation Checklist
 
-Planning on giving a presentation? We've curated a checklist to help you put together your **slides**! Looking for tips on giving the talk? Head over to the [keynote checklist](./keynote/keynote_checklist.md). 
+Planning on giving a presentation? We've curated a checklist to help you put together your **slides**! Looking for tips on giving the talk? Head over to the [keynote checklist](../keynote/keynote_checklist.md). 
 
 The focus of this checklist is tips on creating a great slide deck that will support the story you are telling your audience. The tricky part is to balance "captivating" with "accessible." Slides with too many words aren't great, but slides with an over-complicated graphic could just as easily lose your audience. Color coding can convey a lot of information, but certain color schemes are hard to see for those with visual impairments.  
 
