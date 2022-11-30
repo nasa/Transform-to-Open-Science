@@ -2,7 +2,7 @@
 title                       : NASA's Transform to Open Science Mission  # The title of the book. Will be placed in the left navbar.
 author                      : TOPS Community # The author of the book
 copyright                   : "CC-BY"  # Copyright year to be placed in the footer
-logo                        : ./docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png  
+logo                        : https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
 # Auto-exclude files not in the toc
@@ -36,12 +36,4 @@ sphinx:
     - dollarmath
     - html_image
     - html_admonition
-    - colon_fence
-    - deflist
-    - fieldlist
-    - linkify
-    - replacements
-    - smartquotes
-    - strikethrough
-    - substitution
     - tasklist
