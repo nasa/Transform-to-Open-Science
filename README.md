@@ -5,7 +5,7 @@ Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Op
 Ready to get started transforming towards open science with us? Get started [here!](./getting_started.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -127,6 +127,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/SALONICONTRACTOR"><img src="https://avatars.githubusercontent.com/u/90577825?v=4?s=100" width="100px;" alt="SALONICONTRACTOR"/><br /><sub><b>SALONICONTRACTOR</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=SALONICONTRACTOR" title="Code">💻</a></td>
       <td align="center"><a href="http://paigem.github.io"><img src="https://avatars.githubusercontent.com/u/26591824?v=4?s=100" width="100px;" alt="Paige Martin"/><br /><sub><b>Paige Martin</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=paigem" title="Code">💻</a> <a href="#ideas-paigem" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-paigem" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/peternewman"><img src="https://avatars.githubusercontent.com/u/6216436?v=4?s=100" width="100px;" alt="Peter Newman"/><br /><sub><b>Peter Newman</b></sub></a><br /><a href="#maintenance-peternewman" title="Maintenance">🚧</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://bsipocz.github.io/"><img src="https://avatars.githubusercontent.com/u/6788290?v=4?s=100" width="100px;" alt="Brigitta Sipőcz"/><br /><sub><b>Brigitta Sipőcz</b></sub></a><br /><a href="#maintenance-bsipocz" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>

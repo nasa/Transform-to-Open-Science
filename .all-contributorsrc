@@ -334,6 +334,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "bsipocz",
+      "name": "Brigitta Sipőcz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6788290?v=4",
+      "profile": "https://bsipocz.github.io/",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
