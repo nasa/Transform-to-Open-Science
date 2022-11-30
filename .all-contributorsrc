@@ -1,6 +1,7 @@
 {
   "files": [
-    "README.md"
+    "README.md",
+    "index.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -342,6 +343,15 @@
       "profile": "https://bsipocz.github.io/",
       "contributions": [
         "maintenance"
+      ]
+    },
+    {
+      "login": "natashabatalha",
+      "name": "Natasha Batalha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6554465?v=4",
+      "profile": "http://natashabatalha.github.io",
+      "contributions": [
+        "content"
       ]
     }
   ],
