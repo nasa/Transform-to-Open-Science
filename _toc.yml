@@ -4,11 +4,10 @@ parts:
 - caption: About TOPS
   chapters:
   - file: tops_faq
+  - file: CONTRIBUTING
     sections:
-    - file: CONTRIBUTING
     - file: LICENSE
     - file: CODE_OF_CONDUCT
-    - file: SECURITY
 - caption: TOPS' Guide to Open Science  
   chapters:
   - file: Open_Science_Cookbook/readme
