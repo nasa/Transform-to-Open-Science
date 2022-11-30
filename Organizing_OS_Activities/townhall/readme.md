@@ -1,4 +1,4 @@
-# Organize a TOPS Townhall Event
+# Organize a TOPS Town Hall Event
 *Want to host a town hall about open science or invite TOPS to participate at your next event? Here is how!*
 
 - Examples of successful town hall submissions are provided in this [folder](https://github.com/nasa/Transform-to-Open-Science/blob/main/Organizing_OS_Activities/townhall).
