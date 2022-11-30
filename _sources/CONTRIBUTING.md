@@ -2,7 +2,7 @@
 
 This page is your one-stop shop for uncovering the many resources for open science that are on the TOPS GitHub! Read on to learn more about how to use our GitHub, how to engage with TOPS and participate in the Year of Open Science, and identify resources to help you, your research team, and your organization get started with open science.
 
-Before contributing, please read our [LICENSE](./LICENSE.MD) and our [Code of Conduct](./CODE_OF_CONDUCT.md). A summary of the code of conduct is also below.
+Before contributing, please read our [LICENSE](./LICENSE.md) and our [Code of Conduct](./CODE_OF_CONDUCT.md). A summary of the code of conduct is also below.
 
 ## We Want Your Help!
 
@@ -96,3 +96,5 @@ This project constitutes a work of the United States Government and is not subje
 All contributions to this project will be released under the CC0
 dedication. By submitting a pull request, you are agreeing to comply
 with this waiver of copyright interest.
+
+More information is available in our [LICENSE](./LICENSE.md).
