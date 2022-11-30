@@ -31,7 +31,7 @@ and Developmental Disabilities]([https://guideinc.org](https://guideinc.org/wp-c
 - [ ] One Month Before the Event
      - [ ] More event promotion (send out the registration form again)
      - [ ] If appropriate, create a press kit or materials to go on your organization's website 
-     - [ ] Verify that your event is an acessible as possible: does the event space need ramps? Will everyone be able to hear the speaker or read the slides? If virtual, will closed captioning be available? 
+     - [ ] Verify that your event is an accessible as possible: does the event space need ramps? Will everyone be able to hear the speaker or read the slides? If virtual, will closed captioning be available? 
 - [ ] Two Weeks Before the Event: Send out an event reminder, post any supporting materials online  
 - [ ] Two Days Before the Event: Send out an event reminder, flag event on your socials
 - [ ] Have the event!
