@@ -61,7 +61,7 @@ Issues are used to collect tasks for development, and Markdown text documents fo
   - Create a virtual environment with <b>py -m venv env</b> 
   - Activate with <b>env\Scripts\activate (Windows)</b> or <b>source env/bin/activate (MacOS)</b>
 - Step 2
-  - Install dependencies running <b>pip3 install -r book-requirements.txt</b>
+  - Install dependencies running <b>pip3 install -r book-requirements-Linux-macOS.txt</b> or <b>pip3 install -r book-requirements-Windows.txt</b> having in mind your Operating System
   - Build the book using <b>jupyter-book build .</b>
   - Open <b>_build/html/index.html</b> on you browser
 
