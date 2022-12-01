@@ -9,8 +9,8 @@ Here are a few videos we recommend:
 * A brief crash-course in using PowerPoint to the fullest by Science Infographics is [here](https://www.youtube.com/watch?v=Hp7Id3Yb9XQ&t=1767s). This video is five-minutes long and has some great suggestions for using animations, shape tools, and other PowerPoint tricks to create a minimalist but informative talk. Google Slides has many of the same features, making the video fairly versatile. 
 
 Here is some recommended reading:
-* [Elie Diner](https://www.slide-talk.com/goal-slidetalk/), a science writer, has an entire blog about scientific presentations which begins [here](https://www.slide-talk.com/how-to-make-a-good-science-presentation/)
-* Kevin D. Lafferty from the US Geological Survey, UC Santa Barbara but a cheat sheet together [here](https://parasitology.msi.ucsb.edu/sites/parasitology.msi.ucsb.edu/files/docs/publications/How%20to%20give%20a%20scientific%20presentation_0.pdf)
+* [Elie Diner](https://www.slide-talk.com/goal-slidetalk/), a science writer, has an entire blog about scientific presentations which begins [here](https://www.slide-talk.com/how-to-make-a-good-science-presentation/).
+* Kevin D. Lafferty from the US Geological Survey, UC Santa Barbara but a cheat sheet together [here](https://parasitology.msi.ucsb.edu/sites/parasitology.msi.ucsb.edu/files/docs/publications/How%20to%20give%20a%20scientific%20presentation_0.pdf).
 * The University of Colorado Boulder and Perkins School for the Blind both have resources on how to ensure you are creating slides which are accessible check them out [here](https://www.colorado.edu/digital-accessibility/resources/understanding-powerpoint-accessibility) and [here](https://www.perkins.org/resource/how-create-accessible-powerpoints/). 
 
 Finally, David Nichols has created [a tool](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40) to help check if your color palette is color-blind friendly! We recommend reading the article as well as the tool itself. 

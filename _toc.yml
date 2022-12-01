@@ -51,7 +51,6 @@ parts:
       - file: Organizing_OS_Activities/townhall/townhall_checklist
     - file: Organizing_OS_Activities/workshops/readme
       sections:
-      - file: Organizing_OS_Activities/workshops/logistics_checklist
       - file: Organizing_OS_Activities/workshops/workshop_abstract_example
       - file: Organizing_OS_Activities/workshops/workshop_checklist
 - caption: Year of Open Science 

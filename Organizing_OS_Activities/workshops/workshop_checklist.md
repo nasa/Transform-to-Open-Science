@@ -1,11 +1,13 @@
 # Workshop Checklist
 
+Ready to host a workshop? We've put together a to-do list of essentials and a logistics reminders to get you started. 
+
+## Workshop To-Do List
 - [ ] Create a workshop event webpage
 - [ ] Set up management for all the workshop logistics, coordination, management, and tracking of all checklists and activities
 - [ ] Determine all due dates for workshop proposals
 - [ ] Develop workshop proposal
 - [ ] Submit workshop proposal 
-- [ ] Workshop [logistic checklist](./logistics_checklist.md)
 - [ ] Create agenda, post on webpage or send to conference
 - [ ] Create and manage and track workshop event checklist
 - [ ] Create and manage and track instructor event checklist
@@ -20,3 +22,16 @@
 - [ ] Create strategy document for each conference and execute pre and post workshop surveys
 - [ ] Complete an after-action Review: Deliver Report to TOPS including attendance demographics, outcomes, feedbacks, synopsis, compilation of any requests for followup meetings, and impact summary
 - [ ] Coordination of all follow contact with attendees
+
+## Logistics Reminders
+
+- [ ] Due Dates / Deadlines
+- [ ] Location
+- [ ] Accessibility evaluation
+- [ ] Other special considerations
+- [ ] AV equipment
+- [ ] Promotional materials
+- [ ] Food
+- [ ] Beverages
+
+**More information on NASA SMD workshop guidance will be added soon!**

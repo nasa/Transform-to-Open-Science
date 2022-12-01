@@ -5,7 +5,7 @@ Welcome to the open science guide for Transform to Open Science (TOPS), a NASA O
 - [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Proposals Due 12/8!
 - Proposal [guidance](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
 - Open Science funding [opportunities](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/funding_opportunities.md)
-- Open Science [stories](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Open-Science-Stories/readme.md)
+- Open Science [stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
 - [Job Opportunities](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/job_opportunities.md)
 
 

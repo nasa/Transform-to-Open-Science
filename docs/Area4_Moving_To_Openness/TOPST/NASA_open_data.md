@@ -30,7 +30,7 @@ GeneLab: Open Science for Life in Space: an [entirely open-access resource](http
  
 Space Biology Biospecimen Sharing Program (BSP): [collects non-human biospecimens and coordinates dissections](https://www.nasa.gov/ames/research/space-biosciences/isc-bsp) to maximize the scientific return of high-quality tissues from spaceflight and ground biological investigations. 
 
-NASA Biological Institutional Scientific Collection (NBISC): [biorepository](https://www.nasa.gov/ames/research/space-biosciences/isc-bsp) of non-human samples from NASA-funded spaceflight investigations. Samples not utilized by primary investigations are made available through an open science approach via the [LSDA Biospecimen Portal](https://lsda.jsc.nasa.gov/Biospecimen).
+NASA Biological Institutional Scientific Collection (NBISC): [biorepository](https://www.nasa.gov/ames/research/space-biosciences/isc-bsp) of non-human samples from NASA-funded spaceflight investigations. Samples not utilized by primary investigations are made available through an open science approach via the [LSDA Biospecimen Portal](https://nlsp.nasa.gov/explore/lsdahome).
 
 Physical Science Informatics (PSI): The [Physical Science Informatics (PSI)](https://psi.nasa.gov/) is an online database of past and current space station, Shuttle and free-flyer flight experiments in physical science, as well as related ground-based studies
 

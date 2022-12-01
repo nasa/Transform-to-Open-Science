@@ -4,7 +4,7 @@ NASA has declared 2023 as the Year of Open Science! The TOPS team will be partic
 
 **Three Easy Steps To Get Started**
 
-1. Check out the [TOPS conferences calendar](/docs/Area1_Engagement/Outreach/tops_conferences.md#tops-priority-events-for-2023) to see where we already plan to be in 2023, 
+1. Check out the [TOPS conferences calendar](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md) to see where we already plan to be in 2023, 
 2. Sign up for the [TOPS email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to receive our announcements about additions or changes to that list, and 
 3. Use this [contact form](https://forms.gle/Um3KpsZw2FHXpNju9) to set up a meeting to discuss needs and outcomes. 
 
@@ -93,9 +93,10 @@ To help make this effort a success, TOPS will provide organizations with the fol
     * Support of a small, career-focused booth with information resources for attendees 
     * TOPS staff at the booth day(s) of event(s), to include answering questions, promoting the TOPS [open science curricula](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md), and providing information on other TOPS opportunities
 
-Other options for co-creation to strengthen the Year of Open Science can be found in the other sections of the Year of Open Science cookbook. Some of our favorties are 
-* [Create a new open science award](/Year_of_Open_Science_Cookbook/Strengthen_year_of_open_science.md#sponsor-an-award)
-* [Recognize open science in your community](/Year_of_Open_Science_Cookbook/Engage_year_of_open_science.md#highlight-open-science-in-your-organization)
-* [Host open science listening sessions at your conference](/Year_of_Open_Science_Cookbook/Engage_year_of_open_science.md#host-a-listening-session)
-* Set an in-conference [open science badging goal](/Year_of_Open_Science_Cookbook/Engage_year_of_open_science.md#set-a-tops-open-science-badge-goal)
-Have a novel idea for how to bring TOPS to your next event? [Contact us!](https://forms.gle/Um3KpsZw2FHXpNju9)
+Other options for co-creation to strengthen the Year of Open Science can be found in Section 2 of each [Guide to Open Science](/Open_Science_Cookbook/readme.md). Some of our favorties are 
+* Create a new open science award
+* Recognize open science in your community
+* Host open science listening sessions at your conference
+* Set an in-conference open science badging goal
+
+**Have a novel idea for how to bring TOPS to your next event? [Contact us!](https://forms.gle/Um3KpsZw2FHXpNju9)**
