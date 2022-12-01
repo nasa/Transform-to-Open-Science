@@ -6,17 +6,15 @@ The Transform to Open Science (TOPS) team knows that we are only a small part of
 - Want an example of successfully submitted talks...
 
 These resources are for you!
-
-Resources:
 - [TOPS graphics and other branding materials](./branding_and_graphics/readme.md)
 - [booth](./booth/readme.md)
 - [keynote](./keynote/readme.md)
 - [panel](./panel/readme.md)
 - [presentation](./presentation/readme.md)
-- [student_conference](./student_conference/readme.md)
+- [student conferences](./student_conference/readme.md)
 - [townhall or session](./townhall/readme.md)
 - [workshops](./workshops/readme.md)
 
 To access our general open science resources including suggested trainings, publications, and like-minded organizations, head to our [Open Science Guide](/Open_Science_Cookbook/readme.md). 
 
-Interested in activities to elevate the Year of Open Science? You can find those in your [Year of Open Science Collaboration Guide](/Year_of_Open_Science_Guide/readme.md).
+Interested in activities to elevate the Year of Open Science? You can find those in your [Year of Open Science Collaboration Guide](/Year_of_Open_Science_Guide/readme.md) and in Section 2 of each chapter of the [Open Science Guide](/Open_Science_Cookbook/readme.md).
