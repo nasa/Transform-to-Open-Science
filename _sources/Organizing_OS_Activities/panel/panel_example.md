@@ -1,4 +1,4 @@
-# Example TOPS Panel Submission
+# TOPS Panel Submission Example - Long Text
 
 ### Session Description
 Over the past few years we have learned some valuable lessons as a scientific community: we are stronger together; we must uplift one another in order to achieve scientific progress; and the best solutions are found when we work together. But these lessons will be unable to spread very far unless we begin to address the hesitancy in transitioning towards sharing data and results and the lack of applied experience with tools which make open collaboration easier. 

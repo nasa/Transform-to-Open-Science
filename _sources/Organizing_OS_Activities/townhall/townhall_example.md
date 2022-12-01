@@ -1,4 +1,4 @@
-# Example Town Hall Submission
+# TOPS Town Hall Example 1
 
 Open science begins with shared access to data, software, resources, and results. Yet, openness that advances science is not a pure product of technology, it is a product of practices, norms, and community behavior around technology. Just as new technology requires designing new workflows, it is important to deliberately design community dynamics that are welcoming to a diverse community and strategically directs support to include marginalized groups. 
 

@@ -4,9 +4,9 @@ In recent decades, the technological barriers to participating in open science h
 
 Building on the work of others over the past several years, TOPS invites individuals, agencies, academic institutions and other organizations to examine the kind of science which they support and encourage, and move towards a more open framework. Join us in our journey, and encourage the pursuit of open scientific progress!  
 
-Suggestions for how to get those in your organization excited about open science, as well as how to have some tough discussions about policy, are in **[Section 1: Engage with Open Science](./Your_Organizations_Open_Science_Journey.md#section-1-engage-with-open-science)**.
+Suggestions for how to get those in your organization excited about open science, as well as how to have some tough discussions about policy, are in **Section 1: Engage with Open Science**.
 
-Interested in learning how you can collaborate with TOPS? Jump ahead to **[Section 2: Collaborate with TOPS](./Your_Organizations_Open_Science_Journey.md#section-2-collaborate-with-tops)**.
+Interested in learning how you can collaborate with TOPS? Jump ahead to **Section 2: Collaborate with TOPS**.
 
 Already know you want TOPS at your organization's next big meeting? Check out the [conferences guide for 2023](/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md).
 
@@ -94,7 +94,7 @@ Once an ‘open science plan’ is developed, ideally it is shared publicly alon
 * **Institutions:** Update evaluation and promotion criteria to include recognition of open science activities. Incorporate open science best practices into graduate and undergraduate curricula. Update intellectual property guidelines to align with open initiatives. Develop open science cohorts within departments to support the move towards openness. Develop open science practices and encourage the use of collaborative cloud computing environments for research.
 
 ### Discuss Your Policies and Practices
-It can be a bit difficult to know when to begin when you are updating existing operating procedures to include open science. Using [these guiding documents](./Your_Organizations_Open_Science_Journey.md#citing-our-sources) we have put together a list of "food for thought" questions to discuss with leaders, colleagues, and stakeholders 
+It can be a bit difficult to know when to begin when you are updating existing operating procedures to include open science. Using the sources we cite below, we put together a list of "food for thought" questions to discuss with leaders, colleagues, and stakeholders 
 
 #### Discuss: Research and Data Products
 * Consider the data held in trust by your organization. 
@@ -127,7 +127,7 @@ It can be a bit difficult to know when to begin when you are updating existing o
   * According to [Suominen *et al*](https://doi.org/10.1016/j.techfore.2021.120882) motivating forces for researchers and scientists are “curiosity, good practice, high-quality science, and making a difference” while de-motivating factors include “collaboration problems, competition, and lack of feedback and recognition for management.” The article goes on to conclude that motivating factors tend to be intrinsic, while the de-motivating factors were often environmental at the organization where the researcher worked. 
   * Consider your organization’s current incentive and recognition structure: is it recognizing motivating factors in those it hires, promotes and praises?
   *  Consider the overall structure for management of research: are any of the de-motivating factors present? Such factors can be minimized by providing researchers with opportunities (both informal and formal) to network, ask for and receive constructive feedback and share their work with those in other fields in addition to their own. 
-* It is the suggestion of the [National Academy of Sciences](https://doi.org/10.17226/26308https://doi.org/10.17226/26308) that organizations which are committed to moving towards and advocating for open science should consider the language which is used not only in grants and calls for proposals, but also in prompts for cover letters and resumes, to ensure that the ethos of open science is consistently present. 
+* It is the suggestion of the [National Academy of Sciences](https://doi.org/10.17226/26308) that organizations which are committed to moving towards and advocating for open science should consider the language which is used not only in grants and calls for proposals, but also in prompts for cover letters and resumes, to ensure that the ethos of open science is consistently present. 
     * For example, are applicants for a job asked about their commitment to open science in their recent work? Are post-docs encouraged to make their data open when conducting their work? 
     * An excellent resource on this topic can be found in the [National Academies of Sciences, Engineering, and Medicine. 2021. Developing a Toolkit for Fostering Open Science Practices: Proceedings of a Workshop. Washington, DC: The National Academies Press](https://doi.org/10.17226/26308). 
 

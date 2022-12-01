@@ -1,8 +1,8 @@
 # Guide for Your Open Science Journey
 
-Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog, or are taking a critical look at the diversity in your lab or research group and actively imagining how to make it more inclusive. Or perhaps all of this is new to you! **[Section 1: Engage With Open Science](./Your_Open_Science_Journey.md#section-1-engage-with-open-science)** will set you on the right path. 
+Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog, or are taking a critical look at the diversity in your lab or research group and actively imagining how to make it more inclusive. Or perhaps all of this is new to you! **Section 1: Engage With Open Science** will set you on the right path. 
 
-Or are you familiar with open science practices and excited to learn more, and bring others on the journey with you? We invite you to join TOPS on our journey! Jump ahead to **[Section 2: Collaborate With TOPS](./Your_Open_Science_Journey.md#section-2-collaborate-with-tops)** to get the most out of this guide.
+Or are you familiar with open science practices and excited to learn more, and bring others on the journey with you? We invite you to join TOPS on our journey! Jump ahead to **Section 2: Collaborate With TOPS** to get the most out of this guide.
 
 **Are you ready to begin your journey towards open science?** 
 
@@ -97,8 +97,8 @@ When encouraging folks at your organization to participate in the TOPS Open Scie
 
 To help make this effort a success, TOPS will provide organizations with the following support:
 * The TOPS open science curriculum (coming soon!). 
-* A list of open science resources to get started, while the curriculum is under development ([start here](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/open_science_ethos_module.md)).  
-    * More information available in the materials from the [August community forum](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20220811_community_forum.md). 
+* A list of open science resources to get started, while the curriculum is under development.  
+    * More information available in the materials from the [August community forum](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/2022_Forums/20220811_community_forum.md). 
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 
