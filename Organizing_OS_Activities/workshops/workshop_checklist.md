@@ -8,7 +8,6 @@ Ready to host a workshop? We've put together a to-do list of essentials and a lo
 - [ ] Determine all due dates for workshop proposals
 - [ ] Develop workshop proposal
 - [ ] Submit workshop proposal 
-- [ ] Workshop [logistic checklist](./logistics_checklist.md)
 - [ ] Create agenda, post on webpage or send to conference
 - [ ] Create and manage and track workshop event checklist
 - [ ] Create and manage and track instructor event checklist
@@ -35,4 +34,4 @@ Ready to host a workshop? We've put together a to-do list of essentials and a lo
 - [ ] Food
 - [ ] Beverages
 
-More information on NASA SMD workshop guidance will be added soon.
+**More information on NASA SMD workshop guidance will be added soon!**
