@@ -39,7 +39,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
     TOPS is advocating a vision of open science in which the entire research workflow--from inception to the creation of data and software artifacts and publishing results--is as open as possible.
  
  <h4>What kind of training and educational initiatives could we implement to make open science more accessible?</h4>
-  <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore">OpenCore</a> is just the beginning; TOPS will announce in late 2022, the upcoming Year of Open Science which will include a comprehensive plan on engaging with the scientific community through hackathons and summer/winter schools, and at all the large science society conferences. Check out our <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/tops_conferences.md">calendar</a> to join us!
+  <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore">OpenCore</a> is just the beginning; TOPS will announce in late 2022, the upcoming Year of Open Science which will include a comprehensive plan on engaging with the scientific community through hackathons and summer/winter schools, and at all the large science society conferences. Check out our <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">calendar</a> to join us!
   
    <h4>How can research and data-driven artists further science? </h4>
   One way to broaden participation is through making science more accessible and the arts are one way to do that. We hope to have a <a href = "https://www.spaceappschallenge.org/">Space Apps challenge</a> focused on STEAM initiatives to get people from all of the world thinking about this.
@@ -90,11 +90,11 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   <h4>How will you enable open meetings? Will they all be virtual? Will funding be provided for volunteers to present at science meetings?</h4>
   We are enabling open meetings by providing an option for virtual attendance, including the ability to submit questions. We have plans to expand participation at NASA science team meetings; please subscribe to our <a href = "https://go.nasa.gov/3Lwlb87">listserv</a> to hear more.
   
-  <h4>Is there a specific place in the Github repository(ies) that you shared that lists these meetings/conferences/societies?</h4></summary>
-    <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/tops_conferences.md">Please refer to the TOPS priority events for 2023 list on our GitHub.</a>
+  <h4>Is there a specific place in the Github repository(ies) that you shared that lists these meetings and conferences?</h4></summary>
+    <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">Please refer to the TOPS priority events for 2023 list on our GitHub.</a>
   
   <h4>How do I access the recordings of the community forum meetings?</h4>
-    The recordings are available on our <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20220609_community_forum.md">GitHub Community Forum page</a>; in addition we are posting all of the forums on the Science@NASA YouTube site, under the <a href = "https://www.youtube.com/playlist?list=PLSqpxDmgLp4FRm1-9aYx_qhw0t7VZrVFt">TOPS playlist</a>.
+    The recordings are available on our <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/readme.md">GitHub Community Forum page</a>; in addition we are posting all of the forums on the Science@NASA YouTube site, under the <a href = "https://www.youtube.com/playlist?list=PLSqpxDmgLp4FRm1-9aYx_qhw0t7VZrVFt">TOPS playlist</a>.
   
   <h4>If I declare a year of open research across disciplines at my own institution, how do you encourage us to engage with TOPS?</h4>
     Declaring a year of open research at a particular institution will depend on the type of institution. We encourage everyone to engage with TOPS as much as able and we are providing resources through our <a hreg = "https://github.com/nasa/Transform-to-Open-Science">GitHub site</a> to be able to do so.
@@ -136,7 +136,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   Anyone with an interest in open science is welcome to participate in TOPS! Sign up for the <a href = "https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform">TOPS newsletter</a> to keep up-to-date with the latest TOPS activities, including student internships. Contribute to the <a href = "https://github.com/nasa/Transform-to-Open-Science/discussions">discussion on our GitHub</a>. Further, the open science curriculum that TOPS is developing will be free and open for all regardless of disciplinary or education level.
   
   <h4>What specific plans do you have for outreach that will reach different communities?</h4>
-    See our calendar for a <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/tops_conferences.md">list of conferences</a> we will be attending this year and next.
+    See our calendar for a <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">list of conferences</a> we will be attending this year and next.
   
   <h4>Is TOPS engaging with open science users across scientific domains?</h4>
   Yes! Subject matter experts for building the OpenCore stretch across scientific fields.
