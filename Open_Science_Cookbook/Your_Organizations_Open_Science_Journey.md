@@ -4,9 +4,9 @@ In recent decades, the technological barriers to participating in open science h
 
 Building on the work of others over the past several years, TOPS invites individuals, agencies, academic institutions and other organizations to examine the kind of science which they support and encourage, and move towards a more open framework. Join us in our journey, and encourage the pursuit of open scientific progress!  
 
-Suggestions for how to get those in your organization excited about open science, as well as how to have some tough discussions about policy, are in **[Section 1: Engage with Open Science](./Your_Organizations_Open_Science_Journey.md#section-1-engage-with-open-science)**.
+Suggestions for how to get those in your organization excited about open science, as well as how to have some tough discussions about policy, are in **Section 1: Engage with Open Science**.
 
-Interested in learning how you can collaborate with TOPS? Jump ahead to **[Section 2: Collaborate with TOPS](./Your_Organizations_Open_Science_Journey.md#section-2-collaborate-with-tops)**.
+Interested in learning how you can collaborate with TOPS? Jump ahead to **Section 2: Collaborate with TOPS**.
 
 Already know you want TOPS at your organization's next big meeting? Check out the [conferences guide for 2023](/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md).
 
