@@ -1,4 +1,4 @@
-# Example of a Town Hall Submission
+# TOPS Town Hall Example 2
 
 Open science — opening up the scientific process from idea inception to result — increases access to knowledge and expands opportunities for new voices to participate. Sharing the data, code, and knowledge associated with the scientific process lowers barriers to entry for historically-underrepresented communities, enables findings to be more easily reproduced, and generates new knowledge at scale. Success, however, depends on all of us working to change the paradigms and frameworks from which we operate. This is why NASA is pursuing an open-source science ethos; open-source science embraces the principles of open science and activates it in a way that unlocks the full potential of a more equitable, impactful, efficient, scientific future.
 
