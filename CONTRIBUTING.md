@@ -88,13 +88,3 @@ Once you've identified something you'd like to help with you're ready to make a 
 For accepting new contributions, TOPS uses the [forking workflow](https://guides.github.com/activities/forking/). As the first step of your contribution, you'll want to fork this repository, make a local clone of it, add your contribution, and then create a pull request back to the TOPS repository.  
 
 All documentation should be written using Markdown and Github Markdown-supported HTML.  
-
-## Public Domain
-
-This project constitutes a work of the United States Government and is not subject to domestic copyright protection under [17 USC § 105](https://www.govinfo.gov/app/details/USCODE-2010-title17/USCODE-2010-title17-chap1-sec105). Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
-
-All contributions to this project will be released under the CC0
-dedication. By submitting a pull request, you are agreeing to comply
-with this waiver of copyright interest.
-
-More information is available in our [LICENSE](./LICENSE.md).
