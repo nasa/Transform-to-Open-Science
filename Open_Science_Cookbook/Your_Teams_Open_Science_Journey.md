@@ -2,9 +2,9 @@
 
 After deepening [your understanding of open science](./Your_Open_Science_Journey.md), you may be inspired to adopt some open science principles in the day-to-day operations of your lab or research group. Collaborate with colleagues to consider the next steps that can be taken to adopt open science as a team, and use the resources below to get you started!
 
-Looking to inspire your team-mates to also adopt open science? Or are you ready to re-build some of your team practices to better mirror open science principles? Begin with **[Section 1: Engage With Open Science](./Your_Teams_Open_Science_Journey.md#section-1-engage-with-open-science)**
+Looking to inspire your team-mates to also adopt open science? Or are you ready to re-build some of your team practices to better mirror open science principles? Begin with **Section 1: Engage With Open Science**
 
-Looking to join TOPS activities in the Year of Open Science and beyond? Skip ahead to **[Section 2: Team Collaborations with TOPS](./Your_Teams_Open_Science_Journey.md#section-2-team-collaborations-with-tops)**
+Looking to join TOPS activities in the Year of Open Science and beyond? Skip ahead to **Section 2: Team Collaborations with TOPS**
 
 **Is your team ready to embark on a journey towards open science?**
 
