@@ -1,0 +1,17 @@
+current directory: /Users/paige/Documents/NASA/test_jekyll_themes/affiliates-jekyll-theme/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20221118-49727-561hc8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/paige/Documents/NASA/test_jekyll_themes/affiliates-jekyll-theme/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/paige/Documents/NASA/test_jekyll_themes/affiliates-jekyll-theme/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.6.Internal.sdk/usr/local/lib'
+
+current directory: /Users/paige/Documents/NASA/test_jekyll_themes/affiliates-jekyll-theme/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20221118-49727-1hy930k
