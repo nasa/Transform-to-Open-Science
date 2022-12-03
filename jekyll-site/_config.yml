@@ -1,0 +1,33 @@
+title: "NASA TOPS"
+timezone: UTC
+baseurl: "/Transform-to-Open-Science"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+paginate: 30
+locale: en_us
+lang: en_us
+feed_items: 4
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Social
+social:
+  github: https://github.com/nasa/Transform-to-Open-Science
+  twitter: https://twitter.com/ToOpenScience
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

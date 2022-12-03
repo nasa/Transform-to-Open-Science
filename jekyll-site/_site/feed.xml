@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2022-12-02T22:40:00+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NASA TOPS</title><entry><title type="html">What is open science?</title><link href="http://localhost:4000/what-is-open-science/" rel="alternate" type="text/html" title="What is open science?" /><published>2022-01-04T00:00:00+00:00</published><updated>2022-01-04T00:00:00+00:00</updated><id>http://localhost:4000/what-is-open-science</id><content type="html" xml:base="http://localhost:4000/what-is-open-science/"><![CDATA[<p>Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.</p>
+
+<details> <summary><span style="font-size:x-large;">General Questions about Open Science</span></summary>
+
+  <h4>What is open-source science (OSS)?</h4>
+  Open-source science is a commitment to the open sharing of software, data, and knowledge (algorithms, papers, documents, ancillary information) from the start of research activities. The principles of OSS are to make publicly funded scientific research transparent, inclusive, accessible, and reproducible. OSS is enabled by advances in technology, including collaboration tools and cloud computing. More information is available from NASA's Science Mission Directorate (SMD) Policy Document <a href="https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf">(SPD-41)</a> on science information policy.
+  
+  <h4>What is the difference between open-source science and open science?</h4>
+  <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020EA001562">Ramachandran et al.</a> define open science as “a collaborative culture enabled by technology that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding.” The primary difference is that open-source science commits to making the scientific process open from the start of research activities rather than making research results open once the research is complete and papers are published. The commitment to conduct research in the open supports greater participation in answering fundamental scientific questions and the use of publicly funded research, data, and analysis for societal benefit.
+  
+  <h4>What is the difference between open-source science and open data?</h4>
+ Open data are a critical component of open-source science. Other components of OSS include open documentation, publications, citizen science, challenges/prizes, open-source software, open peer review, open notebooks, and open educational resources among others.
+  
+  <h4>Is the lack of open science a cultural or technical issue?</h4>
+ Both. Open science is more than just the open sharing of data and code. It also is a cultural shift in the scientific process that encourages collaboration among people of diverse backgrounds, including scientific field, gender, location, ethnicity, and expertise. By removing barriers to participation in the scientific process, open-source science is inherently inclusive and collaborative. NASA’s vision is to use open science principles to expand participation in the scientific process, improve reproducibility, and accelerate scientific discovery for societal benefit. Technological considerations include use of existing investments in infrastructure and mechanisms for community contributions, while limiting the proliferation of unvalidated data.
+ 
+ <h4>Does open science mean "free" science?</h4>
+ Open science is the commitment to the full, free, and open sharing of data, code and knowledge as early in the research process as possible. 
+In terms of activities related to NASA’s <a href="https://science.nasa.gov/open-science">Open-Source Science Initiative</a>, <a href="https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf">Science Mission Directorate</a> (SMD) Policy Document (SPD-41) consolidates existing guidance for the openness and accessibility of data, software, papers, and ancillary information resulting from SMD-funded efforts
+  
+  <h4>What is the first step to getting involved with open science?</h4>
+ The first step is to support open-source science efforts within your communities. The <a href="https://the-turing-way.netlify.app/welcome">Turing Way</a> is a community-driven guide that provides more details on how to design open projects. TOPS is developing an open science curriculum that will become available in late 2022. The <a href="https://en.unesco.org/science-sustainable-future/open-science/recommendation">UNESCO recommendations</a> have detailed definitions and suggestions on areas of action to support open science.
+  
+  <h4>What incentives and disincentives are being used to encourage open science?</h4>
+ NASA awards funding based on the strength of the scientific ideas and the ability to advance those for societal benefit. Traditionally, the enterprise has awarded individuals, but without a focus on openness; incentives have been based on publishing papers in big-release journals. However, NASA will take the next year to shift incentive structures from what they have been in the past, to include incentivizing open science activities (eg. collaborations, team-building, open data, open software, and open-access publications). This shift requires NASA to engage with professional organizations, academia, etc. to make it happen and be appropriately recognized. It is important to note that this shift is not automatic but rather will require some experimentation to see what works and what does not. It is also imperative that NASA get feedback from the community to ensure the effectiveness and efficiency of its OSS efforts.
+  
+  <h4>How do I know that my code will not be taken without proper attribution?</h4>
+ One of the principles of open science is proper attribution of previous work, collaborations, and knowledge used from various sources. Making your code open, appropriately licenced, and assigning it a DOI will help researchers track code being developed. The open development of code should make it easier to identify when people aren’t properly attributing their work. 
+  
+  <h4>Can you recommend some resources to help people develop their research using open science principles?</h4>
+One of the goals of TOPS is to develop resources to help researchers, organizations, and citizen scientists do their work using open science practices and principles. TOPS is developing an open science curriculum that will become available in late 2022. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform">Please sign up for our newsletter to receive the latest updates!</a>.
+  
+  <h4>How can I advocate for open science?</h4>
+A few ways to get started are: Make data non-proprietary and available in an open repository; Provide datasets in standardized formats and assign them DOIs; Develop open-source software and code, using best practices and rigorous version control, so that people can reuse it; Support community development and encourage reuse; Publish in open-access journals; Actively engage the public through storytelling (blogging, social media), hack-a-thons, and citizen science; and cite your data, software, and documentation.
+  
+  <h4>Can you expand a bit more on how NASA is thinking about open science in terms of the research outputs domain?</h4>
+    TOPS is advocating a vision of open science in which the entire research workflow--from inception to the creation of data and software artifacts and publishing results--is as open as possible.
+ 
+ <h4>What kind of training and educational initiatives could we implement to make open science more accessible?</h4>
+  <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore">OpenCore</a> is just the beginning; TOPS will announce in late 2022, the upcoming Year of Open Science which will include a comprehensive plan on engaging with the scientific community through hackathons and summer/winter schools, and at all the large science society conferences. Check out our <a href="https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">calendar</a> to join us!
+  
+   <h4>How can research and data-driven artists further science? </h4>
+  One way to broaden participation is through making science more accessible and the arts are one way to do that. We hope to have a <a href="https://www.spaceappschallenge.org/">Space Apps challenge</a> focused on STEAM initiatives to get people from all of the world thinking about this.
+  
+   <h4>How does citizen science connect to open science?</h4>
+  We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation.
+  
+  <h4>How can data scientists and machine learning experts help further open science?</h4>
+  There are open science principles that those working with code and data can incorporate into their work, even if it is not “traditional” scientific research. They can make the underlying data findable, accessible, interoperable and reusable (which is known as the <a href="https://www.go-fair.org/fair-principles/">FAIR principles</a>). Any code which is developed should be as open as possible (e.g., open-source or white-listing); including the creation of clear documentation so that others can build on your work.
+
+</details>]]></content><author><name></name></author><summary type="html"><![CDATA[Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Girl_keyhole.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Girl_keyhole.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Start doing open science!</title><link href="http://localhost:4000/start-doing-open-science/" rel="alternate" type="text/html" title="Start doing open science!" /><published>2022-01-03T00:00:00+00:00</published><updated>2022-01-03T00:00:00+00:00</updated><id>http://localhost:4000/start-doing-open-science</id><content type="html" xml:base="http://localhost:4000/start-doing-open-science/"><![CDATA[<h2 id="are-you-new-to-open-science-today">Are you new to open science <em>today</em>?</h2>
+<p>Dive right in by doing these activities!</p>
+
+<p>–&gt; <a href="https://orcid.org/register">Get an ORCID</a> (“Open Researcher and Contributor ID”)</p>
+
+<p>–&gt; <a href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F&amp;source=header-home">Sign up for a GitHub account!</a></p>
+
+<p>–&gt; <a href="https://zenodo.org/signup/">Sign up for a Zenodo account!</a> <em>Tip: You can use your newly made GitHub or ORCID account to register for Zenodo!</em></p>
+
+<h2 id="are-you-new-to-open-science-this-month">Are you new to open science <em>this month</em>?</h2>
+
+<p>–&gt; Make your first pull request (PR) on GitHub! We will shortly have an interactive page on GitHub where you can make a PR and see your addition once your PR is approved! You can also follow these guidelines to contribute directly to the TOPS <a href="https://github.com/nasa/Transform-to-Open-Science">GitHub repository</a>, our <a href="https://nasa.github.io/Transform-to-Open-Science/">JupyterBook</a>, or our Jekyll website!</p>
+
+<p>–&gt; Start learning an open-source programming language!<br />
+   –&gt; <strong>Python</strong>: <a href="https://foundations.projectpythia.org/foundations/quickstart.html">Project Pythia’s “Zero to Python”</a> where you can run code interactively in your browser!<br />
+   –&gt; <strong>R</strong>: <a href="https://r02pro.github.io/index.html#preface">“R Programming: Zero to Pro”</a></p>
+
+<p>–&gt; Find an open science community to join! Some communities are centered around scientific discipline, while others are focused around certain aspects of the open science process (e.g. open-source software). While each community functions differently, they often have guidelines about which software packages are used within a field, and forums for questions and discussions. See this <a href="https://nasa.github.io/Transform-to-Open-Science/Open_Science_Cookbook/Your_Open_Science_Journey.html#join-an-open-science-community">list of open science communities</a> - we have only just started this list, so please add your community if you don’t see it listed!</p>
+
+<h2 id="are-you-new-to-open-science-this-year">Are you new to open science <em>this year</em>?</h2>
+
+<p>–&gt; Use what you’ve learned so far to help give back to the open science community! Answer questions in the <a href="https://github.com/nasa/Transform-to-Open-Science/discussions">TOPS GitHub Discussions space</a> (and in other open science community forums) or contribute to open-source software packages by opening issues and making pull requests.</p>
+
+<p>–&gt; With a year under your belt, consider helping TOPS promote open science at upcoming conferences and events! Making sure everyone is aware of othe benefits of open science will help the scientific community transform to a truly open and inclusive effort. TOPS has created some <a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/tree/GitBook_beautification/Organizing_OS_Activities">templates</a> that you can follow to organize a townhall, host a workshop, and much more!</p>
+
+<h2 id="ready-to-dive-in-deeper-read-through-the-tops-guide-to-open-science">Ready to dive in deeper? Read through the <a href="https://nasa.github.io/Transform-to-Open-Science/Open_Science_Cookbook/readme.html">TOPS Guide to Open Science</a>!</h2>]]></content><author><name></name></author><summary type="html"><![CDATA[Are you new to open science today? Dive right in by doing these activities!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Water_droplet.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Water_droplet.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">2023: Year of Open Science</title><link href="http://localhost:4000/year-of-open-science/" rel="alternate" type="text/html" title="2023: Year of Open Science" /><published>2022-01-02T00:00:00+00:00</published><updated>2022-01-02T00:00:00+00:00</updated><id>http://localhost:4000/year-of-open-science</id><content type="html" xml:base="http://localhost:4000/year-of-open-science/"><![CDATA[<p>NASA has declared 2023 the Year of Open Science to celebrate the benefits and successes of open science, and inspire more scientists to join the movement. Ultimately, the success of the Year of Open Science will be driven by collaborations with individuals, teams, and organizations who are ready to transform the culture of scientific research into one that celebrates openness and inclusion!</p>
+
+<h2 id="what-is-tops-doing-for-the-year-of-open-science">What is TOPS doing for the year of open science?</h2>
+
+<p>The TOPS priorities for the Year of Open Science are:</p>
+<ul>
+  <li>Release an introduction to open science curriculum</li>
+  <li>Engage with historically underrepresented groups</li>
+  <li>Develop open science incentives</li>
+</ul>
+
+<h2 id="what-can-you-do-for-the-year-of-open-science">What can <em>you</em> do for the year of open science?</h2>
+
+<p>We invite you, your team, and/or your organization to set your own open science goals and to start taking concrete steps toward those goals in the year of open science! Some example goals might be:</p>
+<ul>
+  <li>Develop a strategic plan for open science</li>
+  <li>Improve the transparency, integrity, and equity of reviews</li>
+  <li>Account for open science activities in evaluations</li>
+  <li>Engage underrepresented communities in the advancement of open science</li>
+</ul>
+
+<h3 id="-learn-more-in-the-guide-to-nasas-year-of-open-science">–&gt; Learn more in the <a href="https://nasa.github.io/Transform-to-Open-Science/Year_of_Open_Science_Guide/readme.html">Guide to NASA’s Year of Open Science</a>!</h3>
+
+<h2 id="how-to-start-the-open-science-journey-for">How to start the open science journey for…</h2>
+
+<details> <summary><span style="font-size:x-large;">Individuals</span></summary>
+
+Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us in the Year of Open Science! <br /><br />
+
+If you are excited to learn and encourage others to learn about open science as part of the Year of Open Science, then we invite you to check out the <a href="https://nasa.github.io/Transform-to-Open-Science/Open_Science_Cookbook/Your_Open_Science_Journey.html">Guide for Your Open Science Journey</a>!
+</details>
+
+<details> <summary><span style="font-size:x-large;">Teams</span></summary>
+Is your team interested in adopting open science principles and practices, but unsure of how to begin? The Year of Open Science team activities could help you reflect together on how to equip the people at your organization with practical knowledge in open science, as well as introduce them to a wider community of open science practitioners.  <br /><br />
+
+Learn how to get your team involved with the <a href="https://nasa.github.io/Transform-to-Open-Science/Open_Science_Cookbook/Your_Teams_Open_Science_Journey.html">Guide for Your Team's Open Science Journey</a>!
+</details>
+
+<details> <summary><span style="font-size:x-large;">Organizations</span></summary>
+
+Is your organization is ready to devote people, funds, and other resources to adopting open science throughout the organization. If your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions, then we invite you to explore the <a href="https://nasa.github.io/Transform-to-Open-Science/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.html">Guide for Your Organization's Open Science Journey</a>!
+</details>
+
+<h2 id="join-us-at-conferences">Join Us At Conferences!</h2>
+<p>Does your organization host a conference? Navigate straight to our <a href="https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">Year of Open Science Conferences</a> page to learn more about how TOPS wishes to work with you.</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[NASA has declared 2023 the Year of Open Science to celebrate the benefits and successes of open science, and inspire more scientists to join the movement. Ultimately, the success of the Year of Open Science will be driven by collaborations with individuals, teams, and organizations who are ready to transform the culture of scientific research into one that celebrates openness and inclusion!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/YOS_cropped.png" /><media:content medium="image" url="http://localhost:4000/assets/images/YOS_cropped.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Advance open science</title><link href="http://localhost:4000/advance-open-science/" rel="alternate" type="text/html" title="Advance open science" /><published>2022-01-01T00:00:00+00:00</published><updated>2022-01-01T00:00:00+00:00</updated><id>http://localhost:4000/advance-open-science</id><content type="html" xml:base="http://localhost:4000/advance-open-science/"><![CDATA[<p>TOPS is just getting started, and we want YOU to help us out!</p>
+
+<p>You can read more details about TOPS <a href="https://nasa.github.io/Transform-to-Open-Science/">here</a>, but the bottom line is that we have ambitious goals and need YOU and your organization to help make the transformation to open science a reality. We have many ways you can get involved with TOPS and we can help bring you tools and resources that will help create an open science infrastructure within your own organization.</p>
+
+<h2 id="get-involved-now">Get involved now!</h2>
+
+<ul>
+  <li>Read our <a href="https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_publications.md">publications</a></li>
+  <li>Find us at a <a href="https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">conference</a></li>
+  <li>Participate in a <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums">community forum</a></li>
+  <li>Read about <a href="https://science.nasa.gov/open-science/transform-to-open-science/stories">open science success stories</a></li>
+  <li>Show your love for open science with <a href="https://www.canva.com/design/DAE_9KAimo4/HGjINSG0FYnFPfjxHUTcIQ/edit">these profile photo frames</a></li>
+  <li>Learn more about open science with <a href="https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing">TOPS educational materials</a></li>
+</ul>
+
+<h2 id="contribute-to-our-github-repo">Contribute to our GitHub repo</h2>
+
+<p>Our GitHub repository (“repo”) is a one-stop shop for uncovering the many resources for open science that the TOPS team has put together! Our repo is also the base of our <a href="https://nasa.github.io/Transform-to-Open-Science/">JupyterBook</a> (draws from the same content as in the base GitHub repo, but in a more reader-friendly format!) and our website (build using a <a href="https://jekyllthemes.io">free Jekyll template</a> in conjunction with <a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll">GitHub Pages</a>). Read on to learn more about how to use and help us maintain our GitHub repo so that it stays relevant for the open science community!</p>
+
+<h3 id="types-of-contributions">Types of contributions</h3>
+
+<ul>
+  <li><strong>Ask a question, provide an answer, share your thoughts and contribute to brainstorming through our <a href="https://github.com/nasa/Transform-to-Open-Science/discussions">GitHub Discussion Space</a>.</strong> The Discussion area is intended for general Q&amp;A, asking for community stories and experiences, and beginning conversations on new or existing open science topics.
+    <ul>
+      <li>To learn more about GitHub Discussions check out their <a href="https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions">documentation</a></li>
+    </ul>
+  </li>
+  <li><strong>Suggest a change, addition, or deletion to what is already on the GitHub by starting an <a href="https://github.com/nasa/Transform-to-Open-Science/issues">issue</a>.</strong> Issues can be about any TOPS plans, timelines, content, or typos!
+    <ul>
+      <li>To learn more about GitHub Issues check out their <a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues">documentation</a></li>
+    </ul>
+  </li>
+  <li><strong>Become a contributor!</strong> <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">Fork</a> the repository and <a href="https://docs.github.com/en/get-started/quickstart/contributing-to-projects#making-a-pull-request">start a pull request</a> to add resources and additional materials. We’ve recorded a very short <a href="https://www.youtube.com/watch?v=PHoScPeMWHI">how-to video</a> if you need a hand to get started.</li>
+</ul>
+
+<p>New to GitHub? Check out these getting started guides:</p>
+<ul>
+  <li><a href="https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6">Getting Started with Git and GitHub: The Complete Beginner’s Guide</a></li>
+  <li><a href="https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/">The Beginners Guide to Git and GitHub</a></li>
+</ul>
+
+<p><em>All community members must abide by the <a href="https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md">code of conduct</a> when engaging with TOPS, either online or in-person.</em></p>
+
+<h2 id="join-tops-mailing-list">Join TOPS Mailing List</h2>
+
+<p>Please join the TOPS <a href="https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform">email list</a> to hear about further activities and become more involved! <a href="https://github.com/nasa/Transform-to-Open-Science/discussions">Discussions</a> are enabled for this GitHub repository, so feel free to ask questions or join conversations there.</p>
+
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+
+<p>We have collected <a href="https://nasa.github.io/Transform-to-Open-Science/tops_faq.html">frequently asked questions</a>. Please use the discussions channel on this GitHub to ask more questions if you have them!</p>
+
+<h2 id="contact-us">Contact Us</h2>
+
+<p>You can reach out to us using our <a href="https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit">contact form</a>!</p>
+
+<p><strong>We hope you will join us and champion open science!</strong></p>]]></content><author><name></name></author><summary type="html"><![CDATA[TOPS is just getting started, and we want YOU to help us out!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Girl_fireflies.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Girl_fireflies.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
