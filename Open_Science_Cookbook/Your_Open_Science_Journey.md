@@ -30,13 +30,18 @@ TOPS is collecting a living list of open science resources! You can find the lat
      - Related, is the Pangeo-Forge data sharing roadmap: https://github.com/pangeo-forge/roadmap.
 - [Openscapes](https://www.openscapes.org/) - an open source community offering mentorship, teaching, coaching and community organizing centered around open data science
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - a great fun way to first get involved in open source software at any level. 
-- The [Declaration on Research Assessment (DORA)](https://sfdora.org/) which recognizes the need to improve the ways in which researchers and the outputs of scholarly research are evaluated              
+- The [Declaration on Research Assessment (DORA)](https://sfdora.org/) which recognizes the need to improve the ways in which researchers and the outputs of scholarly research are evaluated
+- Help crowd-source preprint reviews by joining [PREreview](https://prereview.org/) 
+- [The Carpentries](https://carpentries.org/) is a community of instructors who teach foundational skills in coding and data science skills to researchers worldwide, take one of their trainings, join an event, or volunteer to teach in your own community
 
 ### Check-out What the Community is Saying
-- [Medium](https://medium.com/) - People post a lot of tutorials, news about new developments in data management, cloud, it is a great space to learn.
+- [Medium](https://medium.com/) - People post a lot of tutorials, news about new developments in data management, and cloud computing. It is a great space to learn.
 - [Twitter](https://twitter.com/home) - Follow scientists/data/organizations and get a daily feed of all the latest developments in open science (eg. [OpenSci_News](https://twitter.com/OpenSci_News) #openscience #openaccess #opendata
 - [Pangeo Discourse](https://discourse.pangeo.io/)
 - [TOPS Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions)
+- [AstroBetter](https://www.astrobetter.com/) - Tips and tricks for astronomers, including how to use open tools and open-source software 
+- [The Carpentries Blog](https://carpentries.org/blog/) - Stay apprised of new trainings and new thinking about old models of teaching 
+- [The Turing Podcast](https://www.turing.ac.uk/news/turing-podcast) - Hosted by the Turing Institute, this podcast covers all things computing, including its importance to open science 
 
 ### Get Started with Open-Source Code
 We have collected tutorials for getting started with open-source coding in our [coding resources page](./code_learning_resources.md). In addition to general resources, there are links to specific tips for documenting scientific software as well as getting started with coding. Ready to get a bit more granular? Here is a suggested checklist for your own open-source code [documentation](./software_citation_checklist.md). 

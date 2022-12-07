@@ -6,7 +6,8 @@
 - [Guidance](https://data.agu.org/resources/jupyter-notebooks-guidance) for authors on utilizing Jupyter Notebooks
 - The Turing Way [handbook](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html) has an in-depth guide to participating in reproducible, ethical and collaborative data science
 - A [Guide](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EA001797) to Using GitHub for Developing and Versioning Data Standards and Reporting Formats
-- A [Git cheatsheet that all coders need](https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576) by Harsh Maheshwari 
+- A [Git cheat sheet that all coders need](https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576) by Harsh Maheshwari 
+- Learn more about the "cc" license (including what TOPS uses) at [Creative Commons](https://creativecommons.org/)
 
 ## Workshops, Classes, and Trainings
 - [The Carpentries](https://carpentries.org/) has a wide variety of workshops, including Plotting and Programming in Python, Programming with Python, Programming with R, and R for Reproducible Scientific Analysis as well as applied programming for a few scientific disciplines and community developed lessons. You can find their most up-to-date list of course offerings [here](https://carpentries.org/workshops-curricula/).
@@ -16,6 +17,9 @@
 
 ## Research Software
 - Curated list research software policies from around the world can be found in *[Overview of the research software funding landscape](https://www.researchsoft.org/blog/2021-12/)* by the [Research Software Alliance](https://www.researchsoft.org/#). They have additional information and resources [here](https://www.researchsoft.org/resa-resources/).
+- [AstroPy](https://www.astropy.org/) is a community-driven project focused on developing Python packages for Astronomy, supporting the growth of an ecosystem of interoperable astronomy packages
+- Check out the YouTube channel of 2022 TOPS Panelist Qiusheng Wu to access [tutorials](https://www.youtube.com/c/QiushengWu) on how to use Google Earth Engine and Python to conduct scientific analysis 
+
 
 ## Python Learning Resources
 - A [Guide](https://gist.github.com/kenjyco/69eeb503125035f21a9d) to python basics
