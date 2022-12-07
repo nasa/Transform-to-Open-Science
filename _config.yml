@@ -25,7 +25,7 @@ html:
 
 repository:
   url                       : https://github.com/nasa/Transform-to-Open-Science  # The URL to your book's repository
-  branch                    : main  # Which branch of the repository should be used when creating links
+  branch                    : jupyter-book  # Which branch of the repository should be used when creating links
 
 sphinx:
   config:
