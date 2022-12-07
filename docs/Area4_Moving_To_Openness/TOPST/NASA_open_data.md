@@ -1,5 +1,7 @@
 # Where do I find NASA's openly available data?
 
+**As of December 2022, the Science Mission Directorate (SMD) has a one-stop shop for all NASA science data: [the science data portal](https://science.data.nasa.gov/). Read on to learn about domain-specific archives, or go straight to the data portal and begin exploring.** 
+
 NASA's science data is open to the public through a variety of data archives which are organized by NASA Science Mission Directorate discipline areas. We are providing links below to help you find these repositories, and get started exploring the open data NASA has available for TOPST and other solicitations. 
 
 ## Astrophysics Data
