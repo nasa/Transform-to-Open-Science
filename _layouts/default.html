@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
+
+<title>{{ page.title }} | {{site.title}}</title>
+
+{% seo %}
+
+<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+
+<!-- custom CSS - Remove this if you don't use it or choose to customize the stylesheet with sass-->
+<link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
+<!-- custom CSS end-->
+    
+{% if jekyll.environment == "production" %}       
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{site.ganalytics}}"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '{{site.ganalytics}}');
+</script>
+{% endif %}
+   
+</head>   
+    
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+<body class="{{ layout }}">
+
+    
+<!-- Menu Navigation
+================================================== -->
+<div class="navigation-wrap start-header start-style">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+
+          <a class="navbar-brand text-dark font-weight-bold big d-flex align-items-center" href="{{site.baseurl}}/">
+          {% if site.logo %}
+          <img class="mr-2" src="{{site.baseurl}}/{{site.logo}}" alt="logo"> 
+          {% else %}
+          <span class="d-none d-md-inline-block">{{ site.title }}</span>
+          {% endif %}
+          </a> | 
+          
+
+          <div class="d-flex align-items-center">
+            
+            <!-- <span class="ml-3 text-muted small">Follow</span> -->
+
+            <a class="d-inline-block social-icon" target="_blank" href="{{site.social.twitter}}">
+              <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+              <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+            </svg> 
+            </a>
+            
+            <a class="d-inline-block social-icon" target="_blank" href="{{site.social.github}}">
+              <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+                <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+              </svg>
+            </a>
+      
+            <!-- <a class="d-inline-block social-icon" target="_blank" href="{{site.social.facebook}}">
+              <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+              <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+            </svg>
+            </a> -->
+
+          </div>
+    
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-three-dots-vertical" viewBox="0 0 16 16">
+              <path d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/>
+            </svg>
+          </button>
+          
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
+              {% for item in site.data.menus.topmenu %}
+              <li class="nav-item">
+                <a class="nav-link px-3 {% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+
+        </div>
+      </nav>
+    </div>  
+
+    
+<!-- Container
+================================================== -->    
+<main class="container">   
+      {{ content }}  
+</main>
+
+<!-- Footer
+================================================== -->    
+<footer class="footer container text-center">  
+
+  <!-- CREDITS BEGIN.-->
+  <!-- If you want to support my work, please donate to remove the credits. This helps me keep it up and running: https://www.wowthemes.net/donate/ -->
+  <!-- <div class="credits mx-auto text-center mb-3">
+    <a class="hover-opacity font-weight-bold" href="https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/">
+      <img src="{{site.baseurl}}/assets/images/credits.png" alt="powered by WowThemes">
+    </a>
+  </div> -->
+  <!-- CREDITS END -->
+
+  <ul class="p-0 mb-1 small">
+    {% for item in site.data.menus.footermenu %}
+    <li>
+      <a href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+    </li>
+    {% endfor %}
+    </ul>
+    <div class="copyright small">
+       Copyright © {{site.title}}. All rights reserved. Site made with Affiliates - Free Jekyll theme.
+    </div>
+</footer>
+
+<!-- JavaScript
+================================================== -->    
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>   
+<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>   
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
+    
+</body>
+    
+</html>

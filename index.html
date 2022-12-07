@@ -1,0 +1,60 @@
+---
+title: Home
+layout: default
+background: '/img/bg-index.jpg'
+---
+
+<!-- Home Intro
+================================================== -->
+{% if page.url == "/" %} 
+<div class="rounded mb-5 hero">
+  <div class="row align-items-center justify-content-between">
+    <div class="col-md-6">
+      <h1 class="font-weight-bold mb-4 serif-font text-white">Transform to Open Science</h1>
+      <p class="text-white mb-4">NASA's Transform to Open Science (TOPS) mission will broaden participation in science, increase accessibility to knowledge, and embrace new technologies that can respond to 21st century challenges.</p>
+      <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">Learn more about TOPS!</a>
+    </div>
+    <div class="col-md-6 text-right pl-4 pl-lg-4">
+      <img class="intro" height="1000" src="{{site.baseurl}}/assets/images/TOPS_NASA_logos.png">      
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- Featured
+================================================== -->
+<section class="row">
+  {% for post in site.posts %}
+      {% if post.featured == true %}
+          <div class="col-md-4 mb-5">
+          {% include postbox.html %}
+          </div>
+      {% endif %}
+  {% endfor %}
+  </div>
+</section>
+
+<!-- Posts List with Sidebar (except featured)
+================================================== -->
+<section class="row">
+  <div class="col-sm-8">
+    <div class="row">
+      {% for post in paginator.posts %}
+      {% unless post.featured == true %}
+      <div class="col-md-6 mb-5">
+        {% include postbox.html %}
+      </div>
+      {% endunless %}
+      {% endfor %}
+    </div>
+    <!-- Pagination -->
+    <div class="bottompagination">
+      <span class="navigation" role="navigation">
+          {% include pagination.html %}
+      </span>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    {% include sidebar.html %}
+  </div>
+</section>

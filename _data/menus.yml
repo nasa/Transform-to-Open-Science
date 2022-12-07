@@ -1,0 +1,39 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: About
+  url: "about/"
+
+- title: Contact
+  url: https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit
+  external: true
+
+- title: NASA's Open-Source Science Initiative
+  url: https://science.nasa.gov/open-science-overview
+  external: true
+
+# - title: Get this theme  
+#   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+#   class: "ml-2 btn btn-dark text-white px-3"
+#   external: true
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Code of conduct
+  url: https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md
+  external: true
+
+- title: Contact
+  url: https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit
+  external: true
+
+- title: Download theme
+  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+  external: true
