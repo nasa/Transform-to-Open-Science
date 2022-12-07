@@ -2,11 +2,13 @@
 Welcome to the open science guide for Transform to Open Science (TOPS), a NASA Open-Source Science Initiative mission.
 
 ## Announcements!
-- [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Proposals Due 12/8!
+- [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). **Proposals Due 12/8!**
 - Proposal [guidance](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
 - Open Science funding [opportunities](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/funding_opportunities.md)
 - Open Science [stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
 - [Job Opportunities](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/job_opportunities.md)
+- **NEW:** TOPS will be at AGU Fall Meeting from Dec 11 through Dec 16! Check out [our agenda](https://doi.org/10.5281/zenodo.7411120) to learn where to hear our presentations, find our booth, and meet our team.
+- **NEW:** SMD's Data Portal has been [launched](https://science.data.nasa.gov/)! Explore NASA's science data as you explore open science. 
 
 
 <img align="right" src="/docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
