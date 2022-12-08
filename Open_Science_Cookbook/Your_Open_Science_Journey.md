@@ -7,41 +7,9 @@ Or are you familiar with open science practices and excited to learn more, and b
 **Are you ready to begin your journey towards open science?** 
 
 ## Section 1: Engage With Open Science
-
-### Join the TOPS Community Forums
-
-The TOPS community forums are monthly exchanges of about an hour in length which are open to the public. Anyone who has joined the TOPS [listserv](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) receives an invitation to register for upcoming forums. Forum recordings and slides and posted in the [TOPS GitHub](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/readme.md). In cases where recordings are not taken, transcriptions will be made available, if possible.
-
-The purpose of the Community Forums is to invite members of the community to become aware of and engage in conversation about upcoming events and recent progress on TOPS initiatives directly from the TOPS team. Further, these events can be leveraged to collect feedback from the community on TOPS core areas and activities, such as the OpenCore, the Year of Open Science, and upcoming conference presentations etc. The community forum will also likely be leveraged for specific topics in the future, such as a “workshop” on responding to ROSES or an introduction to SMD-specific open science policy. 
-
-The TOPS team is committed to making these events as accessible as possible, and try to achieve this in the following manner:
-* Holding the forum virtually 
-* Providing transcription both during and after the meeting 
-* Providing recordings
-* Adding alt-text to images and slides
-
-To encourage participation, the TOPS team leverages tools such as Jamboard, Mentimeter, and the chat during meetings. Participants are also encouraged to send in questions prior to the meeting, as well as utilize the chat during the event. Although the community forum events allow the community to see members of the TOPS Core team speak, it is scheduled during the weekday and during work hours, which limits who can attend. Furthermore, these events only occur monthly, requiring some other avenue of communication to be leveraged to preserve community engagement throughout the month. 
            
 ### Read These Open Science Resources
 TOPS is collecting a living list of open science resources! You can find the latest version [here](./reading_list.md); it contains information about existing open science trainings, guides for data science, and a list of open science publications referenced when creating the TOPS open science curriculum.
-
-### Join an Open Science Community
-- [Pangeo](https://pangeo.io/) - an open science community with a weekly community meeting that starts with a 15 min science talk. Meeting schedule is at the bottom of [this](https://pangeo.io/meeting-notes.html) page.
-     - Related, is the Pangeo-Forge data sharing roadmap: https://github.com/pangeo-forge/roadmap.
-- [Openscapes](https://www.openscapes.org/) - an open source community offering mentorship, teaching, coaching and community organizing centered around open data science
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - a great fun way to first get involved in open source software at any level. 
-- The [Declaration on Research Assessment (DORA)](https://sfdora.org/) which recognizes the need to improve the ways in which researchers and the outputs of scholarly research are evaluated
-- Help crowd-source preprint reviews by joining [PREreview](https://prereview.org/) 
-- [The Carpentries](https://carpentries.org/) is a community of instructors who teach foundational skills in coding and data science skills to researchers worldwide, take one of their trainings, join an event, or volunteer to teach in your own community
-
-### Check-out What the Community is Saying
-- [Medium](https://medium.com/) - People post a lot of tutorials, news about new developments in data management, and cloud computing. It is a great space to learn.
-- [Twitter](https://twitter.com/home) - Follow scientists/data/organizations and get a daily feed of all the latest developments in open science (eg. [OpenSci_News](https://twitter.com/OpenSci_News) #openscience #openaccess #opendata
-- [Pangeo Discourse](https://discourse.pangeo.io/)
-- [TOPS Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions)
-- [AstroBetter](https://www.astrobetter.com/) - Tips and tricks for astronomers, including how to use open tools and open-source software 
-- [The Carpentries Blog](https://carpentries.org/blog/) - Stay apprised of new trainings and new thinking about old models of teaching 
-- [The Turing Podcast](https://www.turing.ac.uk/news/turing-podcast) - Hosted by the Turing Institute, this podcast covers all things computing, including its importance to open science 
 
 ### Get Started with Open-Source Code
 We have collected tutorials for getting started with open-source coding in our [coding resources page](./code_learning_resources.md). In addition to general resources, there are links to specific tips for documenting scientific software as well as getting started with coding. Ready to get a bit more granular? Here is a suggested checklist for your own open-source code [documentation](./software_citation_checklist.md). 
@@ -53,7 +21,7 @@ Ready to talk to others about your open science journey? Excited to learn more a
 
 Ready to celebrate open science with NASA? Read on to learn about individual participation opportunities! 
 
-### Contribute to TOPS Open Science Success Stories
+### Collect Open Science Success Stories
 
 **What is it?**
 
@@ -65,7 +33,7 @@ Collect open science stories about your organization, highlighting how open scie
 
 **Basic Requirements**
 
-In order to create a TOPS Open Science Story, the following elements should be included in the blog or interview:
+In order to docuemnt an Open Science Story, the following elements should be included in the blog or interview:
 * The interviewee’s personal definition of open science, and how it connects to [NASA’s definition](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/Open_Science.md) 
 * A description of at least one, distinct research project or scientific initiative which demonstrates open science principles or practices. 
 * Information or stories about the challenges or barriers faced when first embarking on the open science project, as well as the ultimate benefits of preserving, to help encourage others to also adopt open science. 
@@ -129,5 +97,5 @@ To help make this effort a success, TOPS will provide organizations with the fol
 * Materials from each community forum, which can be found on our GitHub in the [Community Forums](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/readme.md) directory. 
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
 
-### Promote at Conferences
+### Open Science at Conferences
 Wish to promote the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Guide](https://github.com/nasa/Transform-to-Open-Science/blob/main/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md) to learn how.
