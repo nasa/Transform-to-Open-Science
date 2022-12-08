@@ -31,7 +31,7 @@
 - A course devoted to equitable [data science](https://www.nceas.ucsb.edu/OSS) from UCSB
 - An introduction to open science [tutorial](https://www.complexityexplorer.org/courses/125-introduction-to-open-science) by Helena Miton 
 
-## Open Science Communities, Community Blogs, and Mentorship Opportunities 
+## Open Science Communities, Blogs, and Mentorship 
 - Openscapes open science mentorship [program](https://www.openscapes.org/)
 - The [Research Software Alliance](https://www.researchsoft.org/#) has monthly meetings focused on advancing tools for and usage of open-source software for research, more information is [here](https://www.researchsoft.org/events/2022-06/)
 - Open Update is Liberate Science’s weekly digest on what’s been going on in the open science space! [Listen here](https://anchor.fm/open-update)
