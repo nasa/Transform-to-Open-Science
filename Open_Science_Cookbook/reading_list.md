@@ -31,12 +31,20 @@
 - A course devoted to equitable [data science](https://www.nceas.ucsb.edu/OSS) from UCSB
 - An introduction to open science [tutorial](https://www.complexityexplorer.org/courses/125-introduction-to-open-science) by Helena Miton 
 
-## Mentorship
+## Open Science Communities, Blogs, and Mentorship 
 - Openscapes open science mentorship [program](https://www.openscapes.org/)
 - The [Research Software Alliance](https://www.researchsoft.org/#) has monthly meetings focused on advancing tools for and usage of open-source software for research, more information is [here](https://www.researchsoft.org/events/2022-06/)
-
-## Podcasts
 - Open Update is Liberate Science’s weekly digest on what’s been going on in the open science space! [Listen here](https://anchor.fm/open-update)
+- [Pangeo](https://pangeo.io/) - an open science community with a weekly community meeting that starts with a 15 min science talk. Meeting schedule is at the bottom of [this](https://pangeo.io/meeting-notes.html) page.
+     - Related, is the Pangeo-Forge data sharing roadmap: https://github.com/pangeo-forge/roadmap.
+- [Openscapes](https://www.openscapes.org/) - an open source community offering mentorship, teaching, coaching and community organizing centered around open data science
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - a great fun way to first get involved in open source software at any level. 
+- The [Declaration on Research Assessment (DORA)](https://sfdora.org/) which recognizes the need to improve the ways in which researchers and the outputs of scholarly research are evaluated
+- Help crowd-source preprint reviews by joining [PREreview](https://prereview.org/) 
+- [The Carpentries](https://carpentries.org/) is a community of instructors who teach foundational skills in coding and data science skills to researchers worldwide, take one of their trainings, join an event, or volunteer to teach in your own community
+- [AstroBetter](https://www.astrobetter.com/) - Tips and tricks for astronomers, including how to use open tools and open-source software 
+- [The Carpentries Blog](https://carpentries.org/blog/) - Stay apprised of new trainings and new thinking about old models of teaching 
+- [The Turing Podcast](https://www.turing.ac.uk/news/turing-podcast) - Hosted by the Turing Institute, this podcast covers all things computing, including its importance to open science 
 
 ## Open Science Publications
 *This reading list is organized following the structure of the TOPS [Open Science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md).*
