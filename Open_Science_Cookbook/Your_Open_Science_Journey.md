@@ -2,9 +2,9 @@
 
 Are you just beginning your open science journey? And not yet sure where to begin? Dive right into important terms and begin working with key tools in **Section 1: Core Open Science Skills**.
 
-Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog, or are taking a critical look at the diversity in your lab or research group and actively imagining how to make it more inclusive. **Section 2: Engage With Open Science** has suggestions for integrating open science into each step of your research workflow. 
+Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog, or are taking a critical look at the diversity in your lab or research group and actively imagining how to make it more inclusive. **Section 2: Engage With Open Science** and **Section 3: Open Science at Work** has suggestions for integrating open science into each step of your research workflow. 
 
-Or are you familiar with open science practices and excited to learn more, and bring others on the journey with you? We invite you to join TOPS on our journey! Jump ahead to **Section 3: Collaborate With TOPS** to get the most out of this guide.
+Or are you familiar with open science practices and excited to learn more, and bring others on the journey with you? We invite you to join TOPS on our journey! Jump ahead to **Section 4: Collaborate With TOPS** to get the most out of this guide.
 
 **Are you ready to begin your journey towards open science?** 
 
@@ -106,6 +106,10 @@ Holding meetings which are open to the public–or at least to the entire resear
 - Step 3: Ensure your meetings are inclusive. Creating an inclusive environment will ensure that everyone, particularly those who might feel left out of the scientific process, have an opportunity to share their ideas. A few guides to inclusive meetings that we recommend are available from [Harvard](https://edib.harvard.edu/files/dib/files/inclusive_meeting_guide_final_1.pdf?m=1617641674) , [Quiet Revolutions](https://www.quietrev.com/wp-content/uploads/2018/11/RC_Inclusive-Meetings-Checklist.pdf) , [Gabi Serrato Marks](https://blog.ucsusa.org/science-blogger/how-to-make-professional-conferences-more-accessible-for-disabled-people-guidance-from-actual-disabled-scientists), and [Kathryn Heath and Brenda F. Wensil](https://hbr.org/2019/09/to-build-an-inclusive-culture-start-with-inclusive-meetings). 
 
 ## Section 2: Engage with Open Science
+
+The Transform to Open Science team is building on the shoulders of giants. 
+
+Countless scientists, researchers, software developers, and individuals driven by curiosity have thought about, written about, published, and released resources to help others get started with open science. TOPS’ has been curating some that have helped us on the following pages – feel free to submit a pull request to suggest your own! 
            
 ### Read These Open Science Resources
 TOPS is collecting a living list of open science resources! You can find the latest version [here](./reading_list.md); it contains information about existing open science trainings, guides for data science, and a list of open science publications referenced when creating the TOPS open science curriculum.
@@ -113,10 +117,79 @@ TOPS is collecting a living list of open science resources! You can find the lat
 ### Get Started with Open-Source Code
 We have collected tutorials for getting started with open-source coding in our [coding resources page](./code_learning_resources.md). In addition to general resources, there are links to specific tips for documenting scientific software as well as getting started with coding. Ready to get a bit more granular? Here is a suggested checklist for your own open-source code [documentation](./software_citation_checklist.md). 
 
+### Start Thinking Like a Data Scientist
+Dr. [Lawrence Gray](https://www.linkedin.com/in/larry-gray-phd/) presented at PyData New York City in November 2022 on 20 easy steps that we can all take to build confidence in our data science skills. Many researchers might not think of themselves as “data scientists” necessarily, but everyone who analyzes data can benefit from his [“20 Ideas To Build Social Capital In The Data Science Ecosystem”](https://zenodo.org/record/7419059#.Y5YSMYfMI2w). 
+
 ### Get Involved in the Year of Open Science
 Ready to talk to others about your open science journey? Excited to learn more about open science at NASA? [Join in](/Year_of_Open_Science_Guide/readme.md) on the activities for 2023 the Year of Open Science!
+
+## Section 3: Open Science at Work
+
+Now that you have committed to adopting open science into your work, you may be wondering how the core skills listed above fit into a scientific workflow. This next section walks through how they relate to different aspects of research, and introduces additional tools. These recommendations mirror the structure that will be used in NASA’s Open Science Core Curriculum or [“OpenCore,”](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore) which will be released online in Spring 2023. 
+
+### Ethos of Open Science: The values that drive open science practice
+
+What are the foundational values for practicing open science in your group, lab, or organization? We invite you to examine the publication, licensing, and/or data-sharing policy you use, and ask yourself the following questions:
+- What open science values are reflected in those policies?
+- What could be improved? 
+- Who or what does the policy benefit? Who or what does it hinder? 
+- What can you do, within the confines of this policy, to adapt your scientific practice to be more open? 
+
+Two Articles to Get You Started:
+- Amsen, Eva. 2014. What is Open Science. F1000 Research Blog. [https://blog.f1000.com/2014/11/11/what-is-open-science/](https://blog.f1000.com/2014/11/11/what-is-open-science/)
+- Masuzzo P, Martens L. 2017. Do you speak open science? Resources and tips to learn the language. PeerJ Preprints 5:e2689v1 [https://doi.org/10.7287/peerj.preprints.2689v1](https://doi.org/10.7287/peerj.preprints.2689v1)
+
+### Open Data: Using data which is available openly, and making your data open in return  
+
+When you use data created by others in your work, you can practice open science by doing any number of the following:
+- Noting the license assigned to that dataset, and making sure you abide by it
+- Citing the data throughout your research artifacts (e.g., academic publication, research notebooks, presentations) 
+- Creating a data management plan for using that data
+
+When you collect your own data, you can practice open science by doing any number of the following:
+- Choosing a license which is as permissive as possible, as restricted as necessary, and protects any confidential or personally-identifiable data 
+     - Best practices for data-sets containing Personal Identifiable Information (PII): Alter G, Gonzalez R. Responsible practices for data sharing. Am Psychol. 2018 Feb-Mar;73(2):146-156. [doi: 10.1037/amp0000258. PMID: 29481108; PMCID: PMC5967383.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967383/) and Striking a Balance Between Open Data and Individual Privacy. NIH. 2021. [https://datascience.cancer.gov/news-events/blog/striking-balance-between-open-data-and-individual-privacy](https://datascience.cancer.gov/news-events/blog/striking-balance-between-open-data-and-individual-privacy) 
+- Upload your data to an appropriate archive (e.g., Zenodo) 
+- Acknowledge anyone, or any institution, which played a part in collecting the data
+- Create a data management plan for the use of your data  
+
+Two Articles to Get You Started:
+- Reproducible Research and Data Analysis. FOSTER. [GitHub Page Here](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
+- Data Management Expert Guide. [Data Publishing Routes](https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish/Data-publishing-routes).
+
+### Open-Source Software: Sharing code and giving proper credit for code
+
+When you write code for your research–-whether it be a simple, command-line script, functions in an Excel sheet, or custom software–-you can practice open science by doing any number of the following:
+- If permitted by your research organization, upload your code to GitHub or some other, code-sharing platform 
+- Assign your code/software as permissive a license as possible, and document it in a “License” file 
+- Write a “Read Me” file explaining the purpose of the code/software
+- Write a “Contributors” file with the names of everyone who helped build the code, and crediting anyone who created anything you used as a resource or model 
+
+Two Articles to Get You Started:
+- A very good example of a Read Me, including the license and contributors, [is available here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) thank you to [Billie Thompson](https://gist.github.com/PurpleBooth) for sharing 
+- Laurinavichyute, Anna. Yadav, Himanshu. Vasishth, Shravan. “Share the code, not just the data: A case study of the reproducibility of JML articles published under the open data policy.” 2022. [https://doi.org/10.1016/j.jml.2022.104332](https://psyarxiv.com/hf297/)
+
+### Open Results: Making the results, methods, and publications open to everyone
+
+When you are ready to share your results with the world, you can practice open science by doing any number of the following:
+- Use your ORCID to identify yourself in your publications
+- If possible, try to publish in an open access journal 
+- If permitted by the journal, while waiting for your article to be peer reviewed, share your pre-print on a pre-print archive 
+- If permitted by the journal, publish your methodology using [Open Science Framework](https://osf.io/) or some other “workbook” sharing site 
+- If permitted by the journal, upload the final version of your work to Zenodo and/or other publication-sharing sites 
+- If you present your work, upload your slides and (if able) a recording or transcript of your work to Zenodo
+
+Two Articles to Get You Started:
+- Piwowar H, Priem J, Larivière V, Alperin JP, Matthias L, Norlander B, Farley A, West J, Haustein S. (2018) The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles. PeerJ 6:e4375 [https://doi.org/10.7717/peerj.4375](https://doi.org/10.7717/peerj.4375)
+- Gil, Y., et al. (2016), Toward the Geoscience Paper of the Future: Best practices for documenting and sharing research from data to software to provenance, Earth and Space Science, 3, 388– 415, [doi:10.1002/2015EA000136](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136). 
+
+
+### Open Science Tools: What we use to conduct open science 
+
+Open science tools are varied, and built for different purposes. Some, like GitHub, are built by companies to be used by both individuals and organizations. Others, like the coding-language Julia, are crowd-sourced. Tools that can be used at each stage of the research process by both open science beginners and experts have been mentioned throughout this section. If you are curious about discovering more, several popular tools are reviewed in the article, [Open Science Top Ten Tools – All Open Source!](https://genr.eu/wp/open-science-top-ten-tools-all-open-source/).
+
            
-## Section 3: Collaborate With TOPS
+## Section 4: Collaborate With TOPS
 
 Ready to celebrate open science with NASA? Read on to learn about individual participation opportunities! 
 
