@@ -1,10 +1,10 @@
 name: deploy-book
 
-# Only run this when the master branch changes
+# Only run this when the branch listed below changes
 on:
   push:
     branches:
-    - jupyter-book
+    - website
 
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
