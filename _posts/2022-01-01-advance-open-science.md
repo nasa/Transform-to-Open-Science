@@ -6,7 +6,7 @@ image: assets/images/Girl_fireflies.png
 
 TOPS is just getting started, and we want YOU to help us out!
 
-You can read more details about TOPS [here](https://nasa.github.io/Transform-to-Open-Science/), but the bottom line is that we have ambitious goals and need YOU and your organization to help make the transformation to open science a reality. We have many ways you can get involved with TOPS and we can help bring you tools and resources that will help create an open science infrastructure within your own organization.
+You can read more details about TOPS [here](https://github.com/nasa/Transform-to-Open-Science/blob/main/index.md#transform-to-open-science), but the bottom line is that we have ambitious goals and need YOU and your organization to help make the transformation to open science a reality. We have many ways you can get involved with TOPS and we can help bring you tools and resources that will help create an open science infrastructure within your own organization.
 
 ## Get involved now!
 
@@ -20,7 +20,7 @@ You can read more details about TOPS [here](https://nasa.github.io/Transform-to-
 
 ## Contribute to our GitHub repo
 
-Our GitHub repository ("repo") is a one-stop shop for uncovering the many resources for open science that the TOPS team has put together! Our repo is also the base of our [JupyterBook](https://nasa.github.io/Transform-to-Open-Science/) (draws from the same content as in the base GitHub repo, but in a more reader-friendly format!) and our website (build using a [free Jekyll template](https://jekyllthemes.io) in conjunction with [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)). Read on to learn more about how to use and help us maintain our GitHub repo so that it stays relevant for the open science community!
+Our GitHub repository ("repo") is a one-stop shop for uncovering the many resources for open science that the TOPS team has put together! Our repo is also the base of our website (built using a [free Jekyll template](https://jekyllthemes.io) in conjunction with [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)). Read on to learn more about how to use and help us maintain our GitHub repo so that it stays relevant for the open science community!
 
 ### Types of contributions
 
@@ -45,7 +45,7 @@ Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6
 
 ## Frequently Asked Questions
 
-We have collected [frequently asked questions](https://nasa.github.io/Transform-to-Open-Science/tops_faq.html). Please use the discussions channel on this GitHub to ask more questions if you have them!
+We have collected [frequently asked questions](https://github.com/nasa/Transform-to-Open-Science/blob/main/tops_faq.md). Please use the discussions channel on this GitHub to ask more questions if you have them!
 
 ## Contact Us
 
