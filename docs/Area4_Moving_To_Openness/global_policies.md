@@ -10,6 +10,11 @@
 
 07/2021 France [Second French Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/)
 
+06/2022 Italy [National Plan for Open Science - National Research Programme 2021-2027](https://www.icdi.it/en/news-en/168-green-light-for-the-national-plan-for-open-science)
+
+10/2022 Ukraine [National Plan regarding Open Science](https://www.kmu.gov.ua/en/news/ukraina-pryiednalas-do-krain-ies-shcho-maiut-zatverdzhenyi-plan-realizatsii-pryntsypiv-vidkrytoi-nauky)
+
+11/2022 Ireland [National Action Plan for Open Research: Advancing Open Science and Public Access to Research](https://norf.ie/national-action-plan-launch/)
 
 ## Policies
 
