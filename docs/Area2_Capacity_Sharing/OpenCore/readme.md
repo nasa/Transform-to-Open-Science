@@ -82,7 +82,6 @@ In order for the TOPS certification to be offered as part of in-person or virtua
 
 ## Course Enrollment and Teaching Event Plan
 ### Upcoming Events
-* December 10-13, 2022: Open Ethos module in-person workshops
 * January 7-12, 2022: Open Ethos module in-person workshops
 
 *Additional details will be added soon.*
