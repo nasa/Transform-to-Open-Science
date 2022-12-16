@@ -2,16 +2,16 @@
 
 Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
 
-Ready to get started transforming towards open science with us? Get started [here!](./getting_started.md) 
+Ready to get started transforming towards open science with us? Get started [here!](./CONTRIBUTING.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
-- [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). **Proposals Due 12/8!**
-- NEW: TOPS will be at AGU Fall Meeting from Dec 11 through Dec 16! Check out [our agenda](https://doi.org/10.5281/zenodo.7411120) to learn where to hear our presentations, find our booth, and meet our team.
-- NEW: SMD's Data Portal has been [launched](https://science.data.nasa.gov/)! Explore NASA's science data as you explore open science. 
+- TOPS was at the AGU Fall meeting! If you missed us, you can find all our presentations on our [Zenodo](https://doi.org/10.5281/zenodo.7444034). If you met us at AGU and are just checking out our repo for the first time - Welcome! We are so excited you are here. 
+- NASA's new Science Information Policy has been released! You can find resources, frequently asked questions and the full text of the policy at [science.nasa.gov](https://science.nasa.gov/researchers/science-data/science-information-policy). At TOPS, we are especially excited about the [Open-Source Science Guidance for researchers funded by NASA's Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf)
+- SMD's Data Portal has been [launched](https://science.data.nasa.gov/)! Explore NASA's science data as you explore open science. 
 - Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
 - Open Science funding [opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
 - Open Science [stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
