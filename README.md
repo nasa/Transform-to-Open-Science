@@ -35,23 +35,23 @@ Open Science creates more advanced and inclusive research faster, builds a more 
 
 ## TOPS and the Year of Open Science
 
-2023 is the Year Of Open Science, a NASA initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) community coordinates efforts designed to rapidly transform agencies, organizations, and communities.*
+2023 is the Year of Open Science, a NASA initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) community coordinates efforts designed to rapidly transform agencies, organizations, and communities.* Learn more about NASA's Year of Open Science activities [here](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html).
 
-### For Individuals Who Want to Get Involved
+### For You
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us in the Year of Open Science! 
 
-If you are excited to learn and encourage others to learn about open science as part of the Year of Open Science, then we invite you to explore how to [Individual Actions for the Year of Open Science](/Open_Science_Cookbook/Your_Open_Science_Journey.md)!
+If you are excited to learn and encourage others to learn about open science as part of the Year of Open Science, then we invite you to explore how to [Individual Actions for the Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html)!
 
-### For Teams Who Want to Get Involved
+### For Your Team
 Is your team interested in adopting open science principles and practices, but unsure of how to begin? The Year of Open Science team activities could help you reflect together on how to equip the people at your organization with practical knowledge in open science, as well as introduce them to a wider community of open science practitioners. 
 
-Learn how to get your team involved in [Team Actions for the Year of Open Science](/Open_Science_Cookbook/Your_Teams_Open_Science_Journey.md)!
+Learn how to get your team involved in [Team Actions for the Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Teams_Open_Science_Journey.html)!
 
-### For Entire Organizations Who Want to Get Involved
-Is your organization is ready to devote people, funds, and other resources to adopting open science throughout the organization. If your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions, then we invite you to explore [Organization Actions for the Year of Open Science](/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.md)!
+### For Your Organizations
+Is your organization is ready to devote people, funds, and other resources to adopting open science throughout the organization. If your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions, then we invite you to explore [Organization Actions for the Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.html)!
 
 ### Join Us At Conferences! 
-Does your organization host a conference? Navigate straight to our [Year of Open Science Conferences](./conferences_for_the_year_of_open_science.md) page to learn more about how TOPS wishes to work with you.
+Does your organization host a conference? Navigate straight to our [Year of Open Science Conferences](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.html) page to learn more about how TOPS wishes to work with you.
 
 ## Implementation
 - [Area 1: Engagement](./docs/Area1_Engagement/readme.md): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
@@ -67,13 +67,10 @@ Short presentation on TOPS initiative:
 ## Join TOPS Mailing List
 Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations there.
 
- 
 ## Repository
 
 This repository is used to openly share information about TOPS and the Year of Open Science. 
-Issues are used to collect tasks for development, and Markdown text documents for any planning documents that need to be developed.  This could include linking to other resources. Please feel free to submit an issue or fork the repository to make a contribution. 
-
-
+Issues are used to collect tasks for development, and Markdown text documents for any planning documents that need to be developed.  This could include linking to other resources. Please feel free to submit an issue or fork the repository to make a contribution, and check out our contribution guidelines [here](/CONTRIBUTING.md). 
 
 ## Frequently Asked Questions
 
