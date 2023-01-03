@@ -26,6 +26,7 @@ The OpenCore aims to introduce learners to a nuanced understanding of open scien
 - Apply a permissive license and share open-source software and assign a DOI
 - Organizing open meetings
 
+*Interested in learning these skills now? Head over to our Open Science Guide and begin in [Section 1 of "Guide for Your Open Science Journey"](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-1-core-open-science-skills).*
 
 ## Curriculum
 

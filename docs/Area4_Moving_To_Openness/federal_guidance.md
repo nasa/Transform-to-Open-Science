@@ -16,7 +16,7 @@ Also known here at NIST as the OSTP Memo, it calls for all Federal agencies with
 [Foundations for Evidence-Based Policymaking Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174) 
  
 ### Other relevant federal mandates and memos:
-*1995* The [Paperwork Reduction Act (44 USC 35)]](https://digital.gov/resources/paperwork-reduction-act-44-u-s-c-3501-et-seq/) has as one of its key purposes to “ensure the greatest possible public benefit from and maximize the utility of information created, collected, maintained, used, shared and disseminated by or for the federal government.”
+*1995* The [Paperwork Reduction Act (44 USC 35)](https://digital.gov/resources/paperwork-reduction-act-44-u-s-c-3501-et-seq/) has as one of its key purposes to “ensure the greatest possible public benefit from and maximize the utility of information created, collected, maintained, used, shared and disseminated by or for the federal government.”
 
 *2009* Open Government Directive [M10-06](https://obamawhitehouse.archives.gov/open/documents/open-government-directive) issued on January 21, 2009 directing executive departments and agencies, “to publish government information online, improve the quality of government information, create and institutionalize a culture of open government, and create an enabling policy framework for open government.”
 

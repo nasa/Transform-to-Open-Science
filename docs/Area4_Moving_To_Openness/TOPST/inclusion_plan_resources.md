@@ -2,6 +2,8 @@
 
 ROSES-2022 introduced the [requirement](https://science.nasa.gov/researchers/sara/faqs#1) of **Inclusion Plans** for several NASA proposals. Although [F.14: TOPST](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860824/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/F.14_TOPST_Amend46.pdf) does not require an Inclusion Plan, we note that the spirit of such a plan is in line with the values of TOPS. As the resource page for writing Inclusion plans is under development, we have curated a few resources from the community here. Pull requests are welcome to add more!
 
+**For updated resources, please refer to [https://nasa.github.io/Transform-to-Open-Science-Book/docs/Area4_Moving_To_Openness/TOPST/inclusion_plan_resources.html](https://nasa.github.io/Transform-to-Open-Science-Book/docs/Area4_Moving_To_Openness/TOPST/inclusion_plan_resources.html).**
+
 ## NASA Resource List
 * NASA held an Inclusion Plan Best Practices Workshop from November 1–2, 2022. Videos and slides from that meeting are [here](https://www.hou.usra.edu/meetings/inclusionplan2022/agenda/inclusionplan2022_program.pdf)
 * The team behind F.10, Payloads and Research Investigations on the Surface of the Moon (PRISM), created their own list of resources, which can be found [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=897663/solicitationId=%7B8401954E-7021-F7A4-02D2-3F3F37643BCA%7D/viewSolicitationDocument=1/F.10%20PRISM3_InclusionPlan_Resources.pdf)
