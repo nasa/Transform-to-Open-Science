@@ -6,15 +6,15 @@ The Transform to Open Science (TOPS) team knows that we are only a small part of
 - Want an example of successfully submitted talks...
 
 These resources are for you!
-- [TOPS graphics and other branding materials](https://github.com/nasa/Transform-to-Open-Science/tree/main/Organizing_OS_Activities/branding_and_graphics/readme.md)
-- [booth](https://github.com/nasa/Transform-to-Open-Science/tree/main/Organizing_OS_Activities/booth/readme.md)
-- [keynote](https://github.com/nasa/Transform-to-Open-Science/tree/main/Organizing_OS_Activities/keynote/readme.md)
-- [panel](https://github.com/nasa/Transform-to-Open-Science/tree/main/Organizing_OS_Activities/panel/readme.md)
-- [presentation](https://github.com/nasa/Transform-to-Open-Science/tree/main/Organizing_OS_Activities/presentation/readme.md)
-- [student conferences](https://github.com/nasa/Transform-to-Open-Science/tree/main/Organizing_OS_Activities/student_conference/readme.md)
-- [townhall or session](https://github.com/nasa/Transform-to-Open-Science/tree/main/Organizing_OS_Activities/townhall/readme.md)
-- [workshops](https://github.com/nasa/Transform-to-Open-Science/tree/main/Organizing_OS_Activities/workshops/readme.md)
+- [TOPS graphics and other branding materials](https://nasa.github.io/Transform-to-Open-Science-Book/Organizing_OS_Activities/branding_and_graphics/readme.html)
+- [booth](https://nasa.github.io/Transform-to-Open-Science-Book/Organizing_OS_Activities/booth/readme.html)
+- [keynote](https://nasa.github.io/Transform-to-Open-Science-Book/Organizing_OS_Activities/keynote/readme.html)
+- [panel](https://nasa.github.io/Transform-to-Open-Science-Book/Organizing_OS_Activities/panel/readme.html)
+- [presentation](https://nasa.github.io/Transform-to-Open-Science-Book/Organizing_OS_Activities/presentation/readme.html)
+- [student conferences](https://nasa.github.io/Transform-to-Open-Science-Book/Organizing_OS_Activities/student_conference/readme.html)
+- [town hall or session](https://nasa.github.io/Transform-to-Open-Science-Book/Organizing_OS_Activities/townhall/readme.html)
+- [workshops](https://nasa.github.io/Transform-to-Open-Science-Book/Organizing_OS_Activities/workshops/readme.html)
 
-To access our general open science resources including suggested trainings, publications, and like-minded organizations, head to our [Open Science Guide](/Open_Science_Cookbook/readme.md). 
+To access our general open science resources including suggested trainings, publications, and like-minded organizations, head to our [Open Science Guide](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/readme.html). 
 
-Interested in activities to elevate the Year of Open Science? You can find those in your [Year of Open Science Collaboration Guide](/Year_of_Open_Science_Guide/readme.md) and in Section 2 of each chapter of the [Open Science Guide](/Open_Science_Cookbook/readme.md).
+Interested in activities to elevate the Year of Open Science? You can find those in your [Year of Open Science Collaboration Guide](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html) and in Section 2 of each chapter of the [Open Science Guide](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/readme.html).
