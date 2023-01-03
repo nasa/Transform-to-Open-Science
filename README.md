@@ -37,6 +37,22 @@ Open Science creates more advanced and inclusive research faster, builds a more 
 
 2023 is the Year Of Open Science, a NASA initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) community coordinates efforts designed to rapidly transform agencies, organizations, and communities.*
 
+### For Individuals Who Want to Get Involved
+Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us in the Year of Open Science! 
+
+If you are excited to learn and encourage others to learn about open science as part of the Year of Open Science, then we invite you to explore how to [Individual Actions for the Year of Open Science](/Open_Science_Cookbook/Your_Open_Science_Journey.md)!
+
+### For Teams Who Want to Get Involved
+Is your team interested in adopting open science principles and practices, but unsure of how to begin? The Year of Open Science team activities could help you reflect together on how to equip the people at your organization with practical knowledge in open science, as well as introduce them to a wider community of open science practitioners. 
+
+Learn how to get your team involved in [Team Actions for the Year of Open Science](/Open_Science_Cookbook/Your_Teams_Open_Science_Journey.md)!
+
+### For Entire Organizations Who Want to Get Involved
+Is your organization is ready to devote people, funds, and other resources to adopting open science throughout the organization. If your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions, then we invite you to explore [Organization Actions for the Year of Open Science](/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.md)!
+
+### Join Us At Conferences! 
+Does your organization host a conference? Navigate straight to our [Year of Open Science Conferences](./conferences_for_the_year_of_open_science.md) page to learn more about how TOPS wishes to work with you.
+
 ## Implementation
 - [Area 1: Engagement](./docs/Area1_Engagement/readme.md): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
 - [Area 2: Capacity sharing](./docs/Area2_Capacity_Sharing/readme.md): Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
@@ -57,15 +73,7 @@ Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6
 This repository is used to openly share information about TOPS and the Year of Open Science. 
 Issues are used to collect tasks for development, and Markdown text documents for any planning documents that need to be developed.  This could include linking to other resources. Please feel free to submit an issue or fork the repository to make a contribution. 
 
-## How to deploy the book
 
-- Step 1 (Recommended)
-  - Create a virtual environment with <b>py -m venv env</b> 
-  - Activate with <b>env\Scripts\activate (Windows)</b> or <b>source env/bin/activate (MacOS)</b>
-- Step 2
-  - Install dependencies running <b>pip3 install -r book-requirements-Linux-macOS.txt</b> or <b>pip3 install -r book-requirements-Windows.txt</b> having in mind your Operating System
-  - Build the book using <b>jupyter-book build .</b>
-  - Open <b>_build/html/index.html</b> on you browser
 
 ## Frequently Asked Questions
 
