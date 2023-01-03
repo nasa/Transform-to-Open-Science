@@ -2,7 +2,7 @@
 
 *The following curated list of materials have been gathered to assist applicants with the NASA proposal process for Research Opportunities in Space and Earth Sciences (ROSES). All community members are welcome to submit a pull request to add resources which they have found valuable.*
 
-**NEW: SETI Institute's Proposal Writing Seminar is available [online](https://www.youtube.com/watch?v=FdnnUpWBlrk)!**
+**For updated information, please refer to [https://nasa.github.io/Transform-to-Open-Science-Book/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.html](https://nasa.github.io/Transform-to-Open-Science-Book/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.html)**
 
 ## Guidance and Resources Created by NASA and NASA Centers
 
