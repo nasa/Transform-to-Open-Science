@@ -7,11 +7,11 @@ To reach the broadest of communities, our TOPS team seeks to form equitable part
 
 Here are some ways we collaborate and communicate with communities:
 
- - [Host community forums](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums)
+ - [Host community forums](/docs/Area1_Engagement/Community_Forums/readme.md)
 
  - Participate in webinars at community meetings
 
- - [Codevelop open science curricula](../Area2_Capacity_Sharing/opencore/opencore.md)
+ - [Co-develop open science curricula](/docs/Area2_Capacity_Sharing/OpenCore/readme.md)
 
  - Co-create a [forum](https://github.com/nasa/Transform-to-Open-Science/discussions) with diverse voices/perspectives
 
@@ -21,6 +21,6 @@ Here are some ways we collaborate and communicate with communities:
 
  - Collaborate with communities focused on historically underrepresented groups
 
- - Promote open science in [High Priority Publications](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/tops_publications.md), through a roadshow (virtual if necessary) to brief editorial boards of top science publications, publishing pieces in high priority publications - scientific and popular media forms, and write Op-eds in key publications
+ - Promote open science in [High Priority Publications](/docs/Area1_Engagement/Outreach/tops_publications.md), through a roadshow (virtual if necessary) to brief editorial boards of top science publications, publishing pieces in high priority publications - scientific and popular media forms, and write Op-eds in key publications
 
 If your community is interested in working together, please contact us.
