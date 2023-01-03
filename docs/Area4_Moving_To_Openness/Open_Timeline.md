@@ -6,7 +6,7 @@ The journey towards open science has been supported since 2013 with key policy c
 The [Increasing Access to the Results of Federally Funded Scientific Research](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) policy memorandum directed US Federal agencies with research and development expenditures above $100 million to develop public access plans (see below) to support increased public access to the results of this research. Dr. John Holdren responded directly to a *We The People* petition about the memo when it was released, and that can be read [here](https://petitions.obamawhitehouse.archives.gov/response/increasing-public-access-results-scientific-research/). A White House summary from 2016 about the ongoing impact of the memo can be found [here](https://obamawhitehouse.archives.gov/blog/2016/02/22/increasing-access-results-federally-funded-science).
 
 ### Open Data Orders
-On the same day, Executive Order 13642, [Executive Order -- Making Open and Machine Readable the New Default for Government Information](https://www.govinfo.gov/app/details/DCPD-201300318), and [Open Data Policy—Managing Information as an Asset (Memorandum M-13-13)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf), were released. These two documents issued guidance on how government agencies ought to be making their data open and machine-readable. 
+On the same day, Executive Order 13642, [Executive Order -- Making Open and Machine Readable the New Default for Government Information](https://www.govinfo.gov/app/details/DCPD-201300318), and [Open Data Policy—Managing Information as an Asset (Memorandum M-13-13)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf), was released. These two documents issued guidance on how government agencies ought to be making their data open and machine-readable. 
 
 ### CDC Public Access Announcement
 The CDC developed an operational policy [Public Access to CDC Funded Publication](https://stacks.cdc.gov/view/cdc/32257) requiring all CDC-funded peer-reviewed publications to be stored in "stable archives" and made freely available to the public. 
@@ -56,7 +56,7 @@ As part of the Department of Transportation's public access plan, all authors fu
 ### NSF Increasing Access to the Results of Research
 NSF's robust public access plan, [Increasing Access to the Results of Research Funded by the National Science Foundation](https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf) and an accompanying [FAQ (last updated in 2018)](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18041&org=NSF) provide robust guidance for NSF-funded researchers on how to make their data and research accessible.  
 
-###DOE Policy for Digital Research Data Management
+### DOE Policy for Digital Research Data Management
 DOE released the DOE [Policy for Digital Research Data Management](https://www.energy.gov/datamanagement/doe-policy-digital-research-data-management-resources) as part of the implementation of DOE’s Public Access Plan. The policy requires that all funded research activities have an associated Data Management Plans. 
 
 ### Public Access Plans
