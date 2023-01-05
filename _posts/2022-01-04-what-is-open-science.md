@@ -5,7 +5,26 @@ image: assets/images/Girl_keyhole.png
 ---
 Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
 
-<details> <summary><span style="font-size:x-large;">General Questions about Open Science</span></summary>
+## NASA and Open Science
+
+AT NASA, *open science* is defined as a collaborative culture, enabled by technology, that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding. Open science is accessible, reproducible, and inclusive and has positive effects such as more citations and usage of publications, increased scholarly collaborations, greater transparency of research, widening access to "hidden knowledge," and a broadening of participation in science which encourages more equitable systems. 
+
+Through programs such as the [Open-Source Science Initiative (OSSI)](https://science.nasa.gov/open-science-overview) and the [Transform to Open Science (TOPS) mission](https://science.nasa.gov/open-science/transform-to-open-science), NASA looks to pursue an ethos of *open-source science*; open-source science accelerates discovery by conducting science openly from project initiation through implementation. The result is the inclusion of a wider, more diverse community in the scientific process as close to the start of research activities as possible. This increased level of commitment to conducting the full research process openly and without restriction further enhances transparency and reproducibility, which promotes trust in the scientific process. It also represents a cultural shift that encourages collaboration and participation among practitioners of diverse backgrounds, including scientific discipline, gender, ethnicity, and expertise.
+
+Open science and open-source science definitions are always influenced by the particular lived experience, academic training, and research background of those putting forth that definition. A good overview of five, distinct yet interrelated definitions is provided in Fecher, B., Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In: Bartling, S., Friesike, S. (eds) Opening Science. Springer, Cham. [https://doi.org/10.1007/978-3-319-00026-8_2](https://link.springer.com/chapter/10.1007/978-3-319-00026-8_2).
+
+Here are some of the definitions of open science, as put forth by different teams at NASA:
+- “When properly implemented, open science policies promote 'efficiency, greater collaboration, reduced duplication, . . . a broadening of the user community, improved code testing, more reproducible research, and enhance[d] research transparency' [(NASEM, 2018, p. 3)](https://doi.org/10.17226/25116).”
+  - From NASA Science article [“Why Do Open Science”](https://science.nasa.gov/open-science/why-do-open-science)  
+- “NASA’s Earth Science Data Systems (ESDS) Program defines open science as a collaborative culture enabled by technology that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding. A system based on open science aims to make the scientific process as transparent (or open) as possible by making all elements of a claimed discovery readily accessible, which enables results to be repeated and validated.” 
+  - From NASA’s [Earth Data Systems Open Science Resources](https://www.earthdata.nasa.gov/esds/open-science)
+- “Open science is an evolving paradigm that seeks to foster greater inclusivity, diversity, and participation in the scientific process while increasing transparency and reproducibility.” 
+  - From NASA’s [Open-Source Science for Data Processing and Archives Workshop](https://science.nasa.gov/researchers/science-data/open-source-science-workshop)
+- “Open-source science is a commitment to the open sharing of software, data, and knowledge (algorithms, papers, documents, ancillary information) as early as possible in the scientific process. The principles of open-source science are to make publicly funded scientific research transparent, inclusive, accessible, and reproducible.” 
+  - From NASA’s [Open-source Science Initiative Overview](https://science.nasa.gov/open-science-overview)  
+
+
+<details> <summary><span style="font-size:x-large;">Some Q&A about Open Science</span></summary>
 
   <h4>What is open-source science (OSS)?</h4>
   Open-source science is a commitment to the open sharing of software, data, and knowledge (algorithms, papers, documents, ancillary information) from the start of research activities. The principles of OSS are to make publicly funded scientific research transparent, inclusive, accessible, and reproducible. OSS is enabled by advances in technology, including collaboration tools and cloud computing. More information is available from NASA's Science Mission Directorate (SMD) Policy Document <a href = "https://science.nasa.gov/researchers/science-data/science-information-policy">(SPD-41)</a> on science information policy.
