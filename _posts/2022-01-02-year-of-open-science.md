@@ -21,7 +21,7 @@ We invite you, your team, and/or your organization to set your own open science 
 - Account for open science activities in evaluations
 - Engage underrepresented communities in the advancement of open science
 
-### --> Learn more in the [Guide to NASA's Year of Open Science](https://github.com/nasa/Transform-to-Open-Science/blob/main/Year_of_Open_Science_Guide/readme.md)!
+### --> Learn more in the [Guide to NASA's Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html)!
 
 ## How to start the open science journey for...
 
