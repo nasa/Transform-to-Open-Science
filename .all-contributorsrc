@@ -352,6 +352,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Tkantz",
+      "name": "Tkantz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111452618?v=4",
+      "profile": "https://github.com/TKantz",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
