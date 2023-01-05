@@ -29,19 +29,19 @@ We invite you, your team, and/or your organization to set your own open science 
 
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us in the Year of Open Science! <br><br>
 
-If you are excited to learn and encourage others to learn about open science as part of the Year of Open Science, then we invite you to check out the <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/Open_Science_Cookbook/Your_Open_Science_Journey.md#guide-for-your-open-science-journey">Guide for Your Open Science Journey</a>!
+If you are excited to learn and encourage others to learn about open science as part of the Year of Open Science, then we invite you to check out the <a href = "https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html">Guide for Your Open Science Journey</a>!
 </details>
 
 <details> <summary><span style="font-size:x-large;">Teams</span></summary>
 Is your team interested in adopting open science principles and practices, but unsure of how to begin? The Year of Open Science team activities could help you reflect together on how to equip the people at your organization with practical knowledge in open science, as well as introduce them to a wider community of open science practitioners.  <br><br>
 
-Learn how to get your team involved with the <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/Open_Science_Cookbook/Your_Teams_Open_Science_Journey.md#guide-for-your-teams-open-science-journey">Guide for Your Team's Open Science Journey</a>!
+Learn how to get your team involved with the <a href = "https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Teams_Open_Science_Journey.html">Guide for Your Team's Open Science Journey</a>!
 </details>
 
 <details> <summary><span style="font-size:x-large;">Organizations</span></summary>
 
-Is your organization is ready to devote people, funds, and other resources to adopting open science throughout the organization. If your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions, then we invite you to explore the <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.md#guide-for-your-organizations-open-science-journey">Guide for Your Organization's Open Science Journey</a>!
+Is your organization is ready to devote people, funds, and other resources to adopting open science throughout the organization. If your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions, then we invite you to explore the <a href = "https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.html">Guide for Your Organization's Open Science Journey</a>!
 </details>
 
 ## Join Us At Conferences! 
-Does your organization host a conference? Navigate straight to our [Year of Open Science Conferences](https://github.com/nasa/Transform-to-Open-Science/blob/main/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md#conferences-with-tops-for-the-year-of-open-science) page to learn more about how TOPS wishes to work with you.
+Does your organization host a conference? Navigate straight to our [Year of Open Science Conferences](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.html) page to learn more about how TOPS wishes to work with you.
