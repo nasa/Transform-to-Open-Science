@@ -6,7 +6,7 @@ image: assets/images/Girl_fireflies.png
 
 TOPS is just getting started, and we want YOU to help us out!
 
-You can read more details about TOPS [here](https://github.com/nasa/Transform-to-Open-Science/blob/main/index.md#transform-to-open-science), but the bottom line is that we have ambitious goals and need YOU and your organization to help make the transformation to open science a reality. We have many ways you can get involved with TOPS and we can help bring you tools and resources that will help create an open science infrastructure within your own organization.
+You can read more details about TOPS [here](https://nasa.github.io/Transform-to-Open-Science-Book/), but the bottom line is that we have ambitious goals and need YOU and your organization to help make the transformation to open science a reality. We have many ways you can get involved with TOPS and we can help bring you tools and resources that will help create an open science infrastructure within your own organization.
 
 ## Get involved now!
 
@@ -15,7 +15,7 @@ You can read more details about TOPS [here](https://github.com/nasa/Transform-to
 - Participate in a [community forum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums)
 - Read about [open science success stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
 - Show your love for open science with [these profile photo frames](https://www.canva.com/design/DAE_9KAimo4/HGjINSG0FYnFPfjxHUTcIQ/edit)
-- Learn more about open science with [TOPS educational materials](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing)
+- Learn more about open science with [TOPS educational materials](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/readme.html)
 
 
 ## Contribute to our GitHub repo
@@ -34,21 +34,21 @@ New to GitHub? Check out these getting started guides:
 - [Getting Started with Git and GitHub: The Complete Beginner’s Guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 - [The Beginners Guide to Git and GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
 
-*All community members must abide by the [code of conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md) when engaging with TOPS, either online or in-person.*
+*All community members must abide by the [code of conduct](https://nasa.github.io/Transform-to-Open-Science-Book/About/CODE_OF_CONDUCT.html) when engaging with TOPS, either online or in-person.*
 
 
 
 ## Join TOPS Mailing List
 
-Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations there.
+Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities and become more involved!
 
 
 ## Frequently Asked Questions
 
-We have collected [frequently asked questions](https://github.com/nasa/Transform-to-Open-Science/blob/main/tops_faq.md). Please use the discussions channel on this GitHub to ask more questions if you have them!
+We have collected [frequently asked questions](https://nasa.github.io/Transform-to-Open-Science-Book/About/tops_faq.html). Please use the discussions channel on this GitHub to ask more questions if you have them!
 
 ## Contact Us
 
-You can reach out to us using our [contact form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit)!
+You can reach out to us using our [contact form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY)!
 
 **We hope you will join us and champion open science!**
