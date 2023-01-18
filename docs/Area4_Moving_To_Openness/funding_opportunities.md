@@ -18,7 +18,7 @@ Support and maintain open sources tools, frameworks, and libraries that are sign
 - Proposals must:
      - State the process of adding extensions, documentation, and maintenance of the software to support the user community
      - Include an assessment of the potential impact to the SMD science community
-     - Proposals for ROSES-22 will be accepted until February 14, 202
+- Deferred to ROSES-23
 
 ## [F.8 Supplemental Open Source Software Awards](https://nspires.nasaprs.com/external/solicitations/summary.do?solId={0BFB6C2C-5189-507A-FB82-E5A9869DF9E4}&path=&method=init)
 Supplemental award to encourage the conversion of legacy software to open source. Yearly, $250K available with a rolling deadline.
