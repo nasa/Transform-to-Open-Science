@@ -3,6 +3,7 @@ layout: post
 title:  "What is open science?"
 image: assets/images/Girl_keyhole.png
 ---
+
 Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity.
 
 ## NASA and Open Science
