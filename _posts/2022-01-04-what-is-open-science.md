@@ -71,7 +71,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation.
   
   <h4>How can data scientists and machine learning experts help further open science?</h4>
-  There are open science principles that those working with code and data can incorporate into their work, even if it is not “traditional” scientific research. They can make the underlying data findable, accessible, interoperable and reusable (which is known as the <a href = "https://www.go-fair.org/fair-principles/">FAIR principles</a>). Any code which is developed should be as open as possible (e.g., open-source or white-listing); including the creation of clear documentation so that others can build on your work.
+  There are open science principles that those working with code and data can incorporate into their work, even if it is not “traditional” scientific research. They can make the underlying data findable, accessible, interoperable and reusable (which is known as the <a href = "https://www.go-fair.org/fair-principles/">FAIR principles</a>). Any code which is developed should be as open as possible (e.g., open-source or white-listing); including the creation of clear documentation so that others can build on your work. 
 
 </details>
 
