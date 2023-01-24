@@ -30,4 +30,4 @@ Dive right in by doing these activities!
 
 --> With a year under your belt, consider helping TOPS promote open science at upcoming conferences and events! Making sure everyone is aware of othe benefits of open science will help the scientific community transform to a truly open and inclusive effort. TOPS has created some [templates](https://nasa.github.io/Transform-to-Open-Science-Book/Organizing_OS_Activities/readme.html) that you can follow to organize a townhall, host a workshop, and much more! 
 
-## Ready to dive in deeper? Read through the [TOPS Guide to Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-1-core-open-science-skills)!
+## Ready to dive in deeper? [Click here to read through the TOPS Guide to Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-1-core-open-science-skills)!

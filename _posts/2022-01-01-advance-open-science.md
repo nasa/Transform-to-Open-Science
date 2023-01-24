@@ -20,19 +20,7 @@ You can read more details about TOPS [here](https://nasa.github.io/Transform-to-
 
 ## Contribute to our GitHub repo
 
-Our GitHub repository ("repo") is a one-stop shop for uncovering the many resources for open science that the TOPS team has put together! Our repo is also the base of our website (built using a [free Jekyll template](https://jekyllthemes.io) in conjunction with [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)). Read on to learn more about how to use and help us maintain our GitHub repo so that it stays relevant for the open science community!
-
-### Types of contributions
-
-- **Ask a question, provide an answer, share your thoughts and contribute to brainstorming through our [GitHub Discussion Space](https://github.com/nasa/Transform-to-Open-Science/discussions).** The Discussion area is intended for general Q&A, asking for community stories and experiences, and beginning conversations on new or existing open science topics.
-  - To learn more about GitHub Discussions check out their [documentation](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- **Suggest a change, addition, or deletion to what is already on the GitHub by starting an [issue](https://github.com/nasa/Transform-to-Open-Science/issues).** Issues can be about any TOPS plans, timelines, content, or typos! 
-  - To learn more about GitHub Issues check out their [documentation](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
-- **Become a contributor!** [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository and [start a pull request](https://docs.github.com/en/get-started/quickstart/contributing-to-projects#making-a-pull-request) to add resources and additional materials. We’ve recorded a very short [how-to video](https://www.youtube.com/watch?v=PHoScPeMWHI) if you need a hand to get started.
-
-New to GitHub? Check out these getting started guides:
-- [Getting Started with Git and GitHub: The Complete Beginner’s Guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
-- [The Beginners Guide to Git and GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
+Our GitHub repository ("repo") is a one-stop shop for uncovering the many resources for open science that the TOPS team has put together! Our repo is also the base of our website (built using a [free Jekyll template](https://jekyllthemes.io) in conjunction with [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)). Go to our contribution guide, [found here](https://nasa.github.io/Transform-to-Open-Science-Book/About/CONTRIBUTING.html), to learn more.
 
 *All community members must abide by the [code of conduct](https://nasa.github.io/Transform-to-Open-Science-Book/About/CODE_OF_CONDUCT.html) when engaging with TOPS, either online or in-person.*
 

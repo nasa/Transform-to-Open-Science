@@ -3,11 +3,12 @@ layout: post
 title:  "What is open science?"
 image: assets/images/Girl_keyhole.png
 ---
-Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
+
+Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity.
 
 ## NASA and Open Science
 
-AT NASA, *open science* is defined as a collaborative culture, enabled by technology, that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding. Open science is accessible, reproducible, and inclusive and has positive effects such as more citations and usage of publications, increased scholarly collaborations, greater transparency of research, widening access to "hidden knowledge," and a broadening of participation in science which encourages more equitable systems. 
+AT NASA, we believe that open science is also a commitment to a collaborative culture, enabled by technology, that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding. Open science is accessible, reproducible, and inclusive and has positive effects such as more citations and usage of publications, increased scholarly collaborations, greater transparency of research, widening access to "hidden knowledge," and a broadening of participation in science which encourages more equitable systems. 
 
 Through programs such as the [Open-Source Science Initiative (OSSI)](https://science.nasa.gov/open-science-overview) and the [Transform to Open Science (TOPS) mission](https://science.nasa.gov/open-science/transform-to-open-science), NASA looks to pursue an ethos of *open-source science*; open-source science accelerates discovery by conducting science openly from project initiation through implementation. The result is the inclusion of a wider, more diverse community in the scientific process as close to the start of research activities as possible. This increased level of commitment to conducting the full research process openly and without restriction further enhances transparency and reproducibility, which promotes trust in the scientific process. It also represents a cultural shift that encourages collaboration and participation among practitioners of diverse backgrounds, including scientific discipline, gender, ethnicity, and expertise.
 
@@ -70,7 +71,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation.
   
   <h4>How can data scientists and machine learning experts help further open science?</h4>
-  There are open science principles that those working with code and data can incorporate into their work, even if it is not “traditional” scientific research. They can make the underlying data findable, accessible, interoperable and reusable (which is known as the <a href = "https://www.go-fair.org/fair-principles/">FAIR principles</a>). Any code which is developed should be as open as possible (e.g., open-source or white-listing); including the creation of clear documentation so that others can build on your work.
+  There are open science principles that those working with code and data can incorporate into their work, even if it is not “traditional” scientific research. They can make the underlying data findable, accessible, interoperable and reusable (which is known as the <a href = "https://www.go-fair.org/fair-principles/">FAIR principles</a>). Any code which is developed should be as open as possible (e.g., open-source or white-listing); including the creation of clear documentation so that others can build on your work. 
 
 </details>
 
