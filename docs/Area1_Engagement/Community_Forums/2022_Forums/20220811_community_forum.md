@@ -4,7 +4,7 @@
  - If you already *do* open science, what helped you? 
  - If you *want* to do open science, what help do you need? 
  
-This forum will first provide an overview of OpenCore, TOPS Open Science curriculum, topics. OpenCore is being designed as a practical guide for scientists who want to learn how to do open science.
+This forum will first provide an overview of the TOPS Open Science curriculum. This Open Science 101 is being designed as a practical guide for scientists who want to learn how to do open science.
 Then we will break out into smaller groups to have an in-depth discussion of each of the topics: 
 - Ethos of Open Science 
 - Open Tools
