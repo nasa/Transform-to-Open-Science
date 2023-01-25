@@ -1,6 +1,6 @@
-# To Contribute to the OpenCore
+# To Contribute
 
-We are seeking your feedback on the [draft objectives and outlines](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines) for the five (5) OpenCore modules: 
+We are seeking your feedback on the [draft objectives and outlines](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines) for the five (5) Open Science 101 modules: 
 
 * Ethos of Open Science
 * Open Data
@@ -10,9 +10,9 @@ We are seeking your feedback on the [draft objectives and outlines](https://gith
 
 ## Your Feedback is Needed!
 
-OpenCore module [objective and outline](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines) review period: **Now through 4 August 2022**
+Open Science 101 module [objective and outline](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines) review period: **Now through 4 August 2022**
 
-OpenCore module **content** review period (more information soon): **5 August - 20 August** 
+Open Science 101 module **content** review period (more information soon): **5 August - 20 August** 
 
 There are two ways to provide your feedback.
 1. Submit a [GitHub Issue](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines/issues) using our “TOPS Issue template” 
