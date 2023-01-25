@@ -39,7 +39,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
     TOPS is advocating a vision of open science in which the entire research workflow--from inception to the creation of data and software artifacts and publishing results--is as open as possible.
  
  <h4>What kind of training and educational initiatives could we implement to make open science more accessible?</h4>
-  <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore">OpenCore</a> is just the beginning; TOPS will announce in late 2022, the upcoming Year of Open Science which will include a comprehensive plan on engaging with the scientific community through hackathons and summer/winter schools, and at all the large science society conferences. Check out our <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">calendar</a> and our <a href = "https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html">Year of Open Science Guide</a> to join us!
+  <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/">Our Open Science 101</a> is just the beginning; TOPS will announce in late 2022, the upcoming Year of Open Science which will include a comprehensive plan on engaging with the scientific community through hackathons and summer/winter schools, and at all the large science society conferences. Check out our <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">calendar</a> and our <a href = "https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html">Year of Open Science Guide</a> to join us!
   
    <h4>How can research and data-driven artists further science? </h4>
   One way to broaden participation is through making science more accessible and the arts are one way to do that. We hope to have a <a href = "https://www.spaceappschallenge.org/">Space Apps challenge</a> focused on STEAM initiatives to get people from all of the world thinking about this.
@@ -139,7 +139,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
     See our calendar for a <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">list of conferences</a> we will be attending this year and next.
   
   <h4>Is TOPS engaging with open science users across scientific domains?</h4>
-  Yes! Subject matter experts for building the OpenCore stretch across scientific fields.
+  Yes! Subject matter experts for building the Open Science 101 stretch across scientific fields.
   
   <h4>How will TOPS ensure that everyone, working in an open-science environment, understands technologies through the same lens?</h4>
   TOPS will be releasing competitive NASA funding opportunities for add-ons to this curriculum, such as discipline-specific modules or using data in the cloud. How to effectively use different compute environments could be part of such an extension.
@@ -156,31 +156,28 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   Content subject matter experts (SMEs) are bringing existing material with them to draw from and reuse. We are using existing examples, but there is an opportunity to connect these efforts while drawing on already existing material. Where existing material exists, with licensing that allows reuse, we are happy to include or reference with appropriate attribution. 
   
   <h4>Are there any plans to introduce high school students or college students to open science?</h4>
-  The initial version of OpenCore will be tailored to researchers and scientists interested in further exploring open science and receiving the NASA TOPS Open Science certification. OpenCore will be free and open for all regardless of disciplinary or education level.
+  The initial version of the Open Science 101 will be tailored to researchers and scientists interested in further exploring open science and receiving the NASA TOPS Open Science certification. This course will be free and open for all regardless of disciplinary or education level.
   
   <h4>When will the curriculum be available and will the modules be accessible online for people to complete at their own pace?</h4>
-  OpenCore curricula will be available through the Open EdX platform in April 2023. We will be having the official Year of Open Science launch at the American Meteorological Society and American Astronomical Society January 2023 meetings.
+  Open Science 101 curricula will be available through the Open EdX platform in 2023. We will be having the official Year of Open Science launch at the American Meteorological Society and American Astronomical Society January 2023 meetings.
   
   <h4>Do we have specific subject or scientific domains prioritized?</h4>
   TOPS is a NASA Science Mission Directorate initiative focused on ensuring an equal playing field for all scientists and researchers regardless of domain, tenure, or affiliation.
   
   <h4>The planned modules emphasize data and software; is there an intention to also discuss different types of compute environments?</h4>
-  The hard part in designing the modules is deciding what NOT to include. Modules have to be specific enough to be useful, but general enough to appeal to those who are new to any scientific field. They have to be short enough that people make it to the end, yet engaging and easily digestible. OpenCore is just the beginning and foundation of how to do open science, please stay connected as NASA TOPS will continue to expand upon the foundational courses in the near future.
+  The hard part in designing the modules is deciding what NOT to include. Modules have to be specific enough to be useful, but general enough to appeal to those who are new to any scientific field. They have to be short enough that people make it to the end, yet engaging and easily digestible. The Open Science 101 is just the beginning and foundation of how to do open science, please stay connected as NASA TOPS will continue to expand upon the foundational courses in the near future.
   
   <h4>Will these training targets NASA-specific considerations for using open science tools?</h4>
-  The open science modules created as part of the OpenCore aim to be as inclusive of toolsets, resources, and research environments as possible.
+  The open science modules created as part of the Open Science 101 aim to be as inclusive of toolsets, resources, and research environments as possible.
   
   <h4>What is the curriculum advising as the mechanism for when open science collides with AI ethics (e.g. identification of informal settlements)?</h4>
-  For OpenCore we discuss responsible research practices as being fully integrated into Open Science practices.  We indicate that learners should seek specific ethical behavioral expectations from their institutions, agencies, societies and other types of researcher affiliations to navigate these potential conflicts. 
+  For Open Science 101 we discuss responsible research practices as being fully integrated into Open Science practices.  We indicate that learners should seek specific ethical behavioral expectations from their institutions, agencies, societies and other types of researcher affiliations to navigate these potential conflicts. 
   
   <h4>Is TOPS focused on supporting open source scientific computing or on open source computing that empowers science?</h4>
   TOPS will be releasing competitive NASA funding opportunities for add-ons to this curriculum such as discipline-specific modules or using data in the cloud. How to effectively use different compute environments could be part of such an extension.
   
   <h4>There is a lot of concern about data information security; what is the curriculum advising with regards to how we make the products of our research unassailable and reproducible?</h4>
-  Data information security is a complex topic.  We won’t be going in depth in the OpenCore modules on security per se since that depends on the physical environment available to a researcher.  We will address the purpose for persistent identifiers, good metadata, licensing for reuse, and elements around reproducibility.
-  
-  <h4>Will there be a pilot phase of the OpenCore courses?</h4>
- Initial review of the OpenCore content will occur in mid-July. The initial testing of the full OpenCore will occur in October. Iterative updates will be guided by Learning Management System data analytics.
+  Data information security is a complex topic.  We won’t be going in depth in the Open Science 101 modules on security per se since that depends on the physical environment available to a researcher.  We will address the purpose for persistent identifiers, good metadata, licensing for reuse, and elements around reproducibility.
   
   <h4>Will the courses be pre-recorded? Live training? Watch videos?</h4>
  The course materials will be available online for those wishing to take the course virtually, but will also be hosted at conference workshops in-person.
@@ -188,18 +185,11 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   <h4>How might social scientists perceive, make use of, and contribute to this curriculum?</h4>
    NASA TOPS believes that to change the world, we need everyone. If you are interested in engaging with us, please reach out to our TOPS team or submit an issue or discussion on our <a href = "https://github.com/nasa/Transform-to-Open-Science">Github!</a>
   
-  <h3>OpenCore Contributions</h3>
-  <h4>Who will be the content creators for OpenCore?</h4>
- The content creators are open science subject matter experts in the community who were selected via a competitive, open process that was widely advertised. NASA TOPS intends on continuing to build upon the curriculum on an annual basis in support of the 5 year mission.
-  
-  <h4>How will AGU be selecting content experts and testers for the modules?</h4>
- If you sign up and say you want to help, we'll find a role. We had a very difficult set of criteria for evaluating content experts. Our process for the selection of the module leads resulted in an incredibly diverse group. They're very passionately engaged and, while they will help guide the content coming together, they will by no means take full responsibility for that content. We need everyone to make sure that we didn't miss anything and to ensure that what we build makes sense to every discipline and in an international context. We do have a rigorous set of review criteria; for example, we really want the language we're using to be easily translatable, for the language we use to not be offensive to anyone. The management team will be responsible for keeping modules in sync, releasing version control, change management, all the things that come with that.
-  
   <h4>Can subject matter experts volunteer to contribute to the course?</h4>
  Across all of the open science topics that we are hoping to highlight, there are experts with valuable experience and content. TOPS invites everyone to participate in development of the curricula as a reviewer or a tester. You can get more details by signing up for the TOPS email list on the main GitHub page.
   
   <h4>Is there a plan or standards about engaging and crediting organizations who contribute to the modules significantly?</h4>
- One of the principles of open science is proper attribution of previous work, collaborations, and knowledge used from various sources. The communnity development of OpenCore is a key TOPS value and we encourage all contributions. 
+ One of the principles of open science is proper attribution of previous work, collaborations, and knowledge used from various sources. The communnity development of Open Science 101 is a key TOPS value and we encourage all contributions. 
   
   </details>
   
