@@ -1,4 +1,4 @@
-# OpenCore Curriculum Guidance
+# Open Science 101 Curriculum Guidance
 
 In order for the Open Science courses to be successful, there will need to be variations between the live courses–either in-person or virtual–and online courses. The rest of this document lays out suggested guidelines for course instructors and creators to achieve this balance.
 
@@ -26,7 +26,7 @@ There are two forms of live courses to consider: (1) In-person instruction at co
 
 Some overarching tips to instructors for both scenarios are the following: 
 * Do *not* feel obligated to include all the content for the MOOC into the time allotted. 
-    * A course designed for 2.5 hours online has 2.5 hours of content that has been trimmed and edited to meet time constraints. Natural presenting will likely be unable to stick to such a tight window. Prioritize what is important for the community in which you are presenting, and point learners to the online resources for the rest. Consult with the Transform to OPen Science (TOPS) core team if more than a fourth of the content is being cut to ensure the learners are still meeting the basic requirements for the badge. 
+    * A course designed for 2.5 hours online has 2.5 hours of content that has been trimmed and edited to meet time constraints. Natural presenting will likely be unable to stick to such a tight window. Prioritize what is important for the community in which you are presenting, and point learners to the online resources for the rest. Consult with the Transform to Open Science (TOPS) core team if more than a fourth of the content is being cut to ensure the learners are still meeting the basic requirements for the badge. 
 *  *Do* encourage participation in small groups.
     * Utilize breakout rooms in virtual settings, and arrange chairs when in-person to facilitate small discussion. Make sure to have people “report-out” to the main group. 
     * Utilize the TOPS Github and 'chat' in both settings for asynchronous and continuous discussion
