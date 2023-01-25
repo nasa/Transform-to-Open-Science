@@ -1,10 +1,10 @@
-# Proposed OpenCore Structure
+# Proposed Open Science Curriculum Structure
 
-The purpose of the Transform to Open Science curriculum, the OpenCore, is to introduce NASA-funded scientists or future NASA-funded scientists to the benefits and principles of open science such that they can upskill and continue collaborating with NASA science activities. The OpenCore should help participants gain a nuanced **understanding** of the open science ethos and workflow, show participants the tools needed to follow an open science **process** and thus actively participante in open science communities, and help to familiarize participants with the **benefits** of open science to their research and beyond. 
+The purpose of the Transform to Open Science curriculum, the Open Science 101, is to introduce NASA-funded scientists or future NASA-funded scientists to the benefits and principles of open science such that they can upskill and continue collaborating with NASA science activities. The Open Science 101 should help participants gain a nuanced **understanding** of the open science ethos and workflow, show participants the tools needed to follow an open science **process** and thus actively participante in open science communities, and help to familiarize participants with the **benefits** of open science to their research and beyond. 
 
 Currently, no prerequisites are proposed for the Open Science Curriculum, as we want to make this course as accessible as possible. In the future, this course may itself be a prerequisite to more advanced or in-depth material, see end of this document for ideas. TOPS is also developing incentives to motivate scientists to take the course. More information on these can be found in [Area 3: Incentives](/docs/Area3_Incentives/readme.md)
 
-The following is a proposed structure for the OpenCore, to help reinforce these primary objectives.
+The following is a proposed structure for the Open Science 101, to help reinforce these primary objectives.
 
 ### Ethos of Open Science
 * Lesson 1: Introduction to the Ethos of Open Science: What is open science? Why should science be open?
@@ -42,7 +42,7 @@ The following is a proposed structure for the OpenCore, to help reinforce these 
 * Lesson 5: Community Stories, Resources and Policy
 
 ## Proposed Detailed Outline
-The following outline combines the initial braintorming and framing by the TOPS Team and the OpenCore curriculum team, to provide interested community members with further details on the possible content of the completed OpenCore. The structure presented above is used in this outline. 
+The following outline combines the initial braintorming and framing by the TOPS curriculum team, to provide interested community members with further details on the possible content of the completed Open Science 101. The structure presented above is used in this outline. 
 
 ### Module 1: Ethos of Open Science
 *By the end of this module, learners will be familiar with the definitions central to open science and have explored some concrete examples of the benefits of open science principles and practices. The course will include best practices for building open science communities, increasing collaboration, and introducing open principles to project design, as well as an overview of open science norms. This module will also explore the historical impact of “closed” science, and how open science seeks to create a more diverse and equitable scientific community.*

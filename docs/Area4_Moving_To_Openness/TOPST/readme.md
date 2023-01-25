@@ -8,11 +8,11 @@ Resources for proposal development are available [here](./proposal_resources.md)
 
 **1. The development of the ScienceCore, a discipline specific scientific use cases curriculum,** 
 
-**2. Implementation of Summer Schools to teach OpenCore, and** 
+**2. Implementation of Summer Schools to teach Open Science 101, and** 
 
-**3. Implementation of Virtual Cohorts to complete OpenCore.** 
+**3. Implementation of Virtual Cohorts to complete Open Science 101.** 
 
-The training material as well as the design of the learning activities should be targeted to audiences from undergraduate students to established scientists and managers from all science disciplines supported by NASA’s Science Mission Directorate (SMD). More information on the ScienceCore is available [here](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/ScienceCore/readme.md) and on the OpenCore is available [here](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md).
+The training material as well as the design of the learning activities should be targeted to audiences from undergraduate students to established scientists and managers from all science disciplines supported by NASA’s Science Mission Directorate (SMD). More information on the ScienceCore is available [here](/docs/Area2_Capacity_Sharing/ScienceCore/readme.md) and on the Open Science 101 is available [here](/docs/Area2_Capacity_Sharing/Open-Science-101/readme.md).
 
 ## TOPST FAQ is [here](https://doi.org/10.5281/zenodo.7194641).
 *For general FAQs related to ROSES-2022 go [HERE](https://science.nasa.gov/researchers/sara/faqs#14).*

@@ -8,7 +8,7 @@ NASA has declared 2023 as the Year of Open Science! The TOPS team will be partic
 2. Sign up for the [TOPS email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to receive our announcements about additions or changes to that list, and 
 3. Use this [contact form](https://forms.gle/Um3KpsZw2FHXpNju9) to set up a meeting to discuss needs and outcomes. 
 
-|            | NASA TOPS Booth | Town Hall | Panel | OpenCore Workshops | Plenary or Keynote | Student/ECR Conference | Open Science Theme |
+|            | NASA TOPS Booth | Town Hall | Panel | Open Science Workshops | Plenary or Keynote | Student/ECR Conference | Open Science Theme |
 | ---------- | --------------- | --------- | ----- | ------------------ | ------------------ | ---------------------- | ------------------ |
 | Promote    | X               | X         |       |                    |                    |                        |                    |
 | Engage     | X               | X         | X     | X                  |                    |                        |                    |

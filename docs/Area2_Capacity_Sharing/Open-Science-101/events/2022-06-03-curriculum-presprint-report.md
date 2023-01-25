@@ -1,4 +1,4 @@
-## 1 June 2022 to 3 June 2022: TOPS OpenCore Curriculum, Pre-Sprint Summary Report
+## 1 June 2022 to 3 June 2022: TOPS Curriculum, Pre-Sprint Summary Report
 
 Participants: Yo Yehudi (Ethos of Open), Sara El Gebali (Open Data), James Powell, Cameron Riddell (Open Software), Shilaan Alzahawi (Open Science Tools & Resources), Natasha Batalha (Open Results), Chelle Gentemann, Yvonne Ivy, Brooks Hanson, Shelley Stall, Lauren Parr, Chris Erdmann, Laura Lyon, Lorena Barba, Miguel Amigot, Ashlynn Brown, Jacquelyn Eke (TOPS Team)
  
@@ -8,8 +8,8 @@ Next steps are centered on preparing for the 27 June - 1 July curriculum sprint.
  
 ### Wednesday, June 1
  
-- [Curriculum Module Leads](./../OpenCore_leads.md), TOPS Team Introductions
-- Background on NASA OSSI, TOPS, and OpenCore Curriculum
+- [Curriculum Module Leads](./../curriculum_leads.md), TOPS Team Introductions
+- Background on NASA OSSI, TOPS, and Open Science Curriculum
 - Initial Logistics, Timeline, Roles, Engagement
 - Course Technology, Creation Workflow Overview
 - Discuss TOPS Community, Panel Feedback
@@ -31,4 +31,4 @@ Next steps are centered on preparing for the 27 June - 1 July curriculum sprint.
 
 Slides: 
 
-Gentemann, Chelle, Ivey, Yvonne, Stall, Shelley, Erdmann, Christopher, & Lyon, Laura. (2022, June 3). Transform to Open Science (TOPS) OpenCore Curriculum Pre-Sprint Meeting. Zenodo. [https://doi.org/10.5281/zenodo.6617538](https://doi.org/10.5281/zenodo.6617538)
+Gentemann, Chelle, Ivey, Yvonne, Stall, Shelley, Erdmann, Christopher, & Lyon, Laura. (2022, June 3). Transform to Open Science (TOPS) Open Science Curriculum Pre-Sprint Meeting. Zenodo. [https://doi.org/10.5281/zenodo.6617538](https://doi.org/10.5281/zenodo.6617538)
