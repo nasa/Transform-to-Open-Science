@@ -126,6 +126,11 @@ The [Interagency DOI Service](https://www.osti.gov/iad2/) is provided by DOE OST
 ### Administration for Community Living Public Access Plan Update
 HHS ACL updated its [public access plan](https://acl.gov/sites/default/files/about-acl/2017-12/ACLPublicAcccessPlan.pdf) to establish a mechanism for compliance with public access policy, make research and data more readily available to the public, and increase the use of ACL research results. 
 
+
+### DOT launches new portal
+DOT’s National Transportation Library (NTL) launches its new Repository & Open Science Access Portal ([ROSA P](https://rosap.ntl.bts.gov/)) to make DOT research easier to find and to honor Rosa Parks, and the role of the Civil Rights Movement in making public transportation more equitable.
+
+
 ## 2018
 ### The OPEN Government Data Act
 Title II of Public Law 115-435, [Foundations for Evidence-Based Policymaking Act of 2018](https://www.govinfo.gov/content/pkg/PLAW-115publ435/pdf/PLAW-115publ435.pdf) requires for Federal agencies to publish their data online, and as open data. 
@@ -172,6 +177,11 @@ NASA released the Scientific Information policy for the Science Mission Director
 
 ### USAID Open Data Plan
 Agency for International Development released an open data plan called [Policy on Development Data](https://www.usaid.gov/ads/policy/500/579) calling for "all USAID operating units, including its worldwide missions" to "ensure that USAID-funded data is centrally cataloged and made available to the public by default, with limited exceptions." An FAQ on the policy is available [here](https://data.usaid.gov/stories/s/Open-Data-Frequently-Asked-Questions/7nq9-vptc/). The [Development Experience Clearinghouse](https://dec.usaid.gov/dec/home/Default.aspx) is used to store technical and project materials and the [Development Data Library](https://data.usaid.gov/) contains data produced by USAID-funded projects.  
+
+
+### DOT updates on open science
+In the Transportation Research Board 202 Annual Meeting workshop Open Science in Transportation: Challenges and Opportunities in a COVID-19 Era, US DOT contributes the presentation “U.S. Open Science Policy Perspectives & Transportation” [https://doi.org/10.21949/1520725]( https://doi.org/10.21949/1520725)
+
 
 ## 2022
 ### USDA's Public Access to Scholarly Publications and Digital Scientific Research Data
