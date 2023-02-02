@@ -2,8 +2,8 @@
 The journey towards open science has been supported since 2013 with key policy changes by the federal government. Here is a living timeline detailing some of the major actions.
 
 ## 2013 
-### OSTP’s “The Holdren Memo”
-The [Increasing Access to the Results of Federally Funded Scientific Research](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) policy memorandum directed US Federal agencies with research and development expenditures above $100 million to develop public access plans (see below) to support increased public access to the results of this research. Dr. John Holdren responded directly to a *We The People* petition about the memo when it was released, and that can be read [here](https://petitions.obamawhitehouse.archives.gov/response/increasing-public-access-results-scientific-research/). A White House summary from 2016 about the ongoing impact of the memo can be found [here](https://obamawhitehouse.archives.gov/blog/2016/02/22/increasing-access-results-federally-funded-science).
+### 2013 OSTP Public Access Guidance
+The [Increasing Access to the Results of Federally Funded Scientific Research](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) policy memorandum (colloquially referred to as the Holdren Memo) directed US Federal agencies with research and development expenditures above $100 million to develop public access plans (see below) to support increased public access to the results of this research. Dr. John Holdren responded directly to a *We The People* petition about the memo when it was released, and that can be read [here](https://petitions.obamawhitehouse.archives.gov/response/increasing-public-access-results-scientific-research/). A White House summary from 2016 about the ongoing impact of the memo can be found [here](https://obamawhitehouse.archives.gov/blog/2016/02/22/increasing-access-results-federally-funded-science).
 
 ### Open Data Orders
 On the same day, Executive Order 13642, [Executive Order -- Making Open and Machine Readable the New Default for Government Information](https://www.govinfo.gov/app/details/DCPD-201300318), and [Open Data Policy—Managing Information as an Asset (Memorandum M-13-13)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf), was released. These two documents issued guidance on how government agencies ought to be making their data open and machine-readable. 
@@ -184,19 +184,27 @@ In the Transportation Research Board 202 Annual Meeting workshop Open Science in
 
 
 ## 2022
+### 2022 OSTP Public Access Guidance
+On August 25, 2022 the White House Office of Science and Technology Policy issued updated public access policy guidance entitled [Ensuring Free, Immediate, and Equitable Access to Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf). In an accompanying blog-post, titled [Breakthroughs for All: Delivering Equitable Access to America’s Research](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) OSTP details how the new guidance increases equity across the federal research and development landscape by making research publications and supporting data funded by taxpayers publicly accessible, without an embargo or cost. The new guidance (colloquialy referred to as teh Nelson Memo) calls for agencies with research and development expenditures to update their public access policies no later than December 31, 2025. 
+
+### Chartering of the National Science and Technology Council Subcommittee on Open Science
+In August of 2023, the White House Office of Science and Technology Policy and the National Science and Technology Council (NSTC) announced that the Subcommittee on Science had officially chartered the [NSTC Subcommittee on Open Science](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-SOS-NSTC-CHARTER.pdf). The purpose of the Subcommittee is to coordinate and advance efforts related to open science across Federal agencies. Such efforts include, but are not limited to, making the products and processes of Federally funded research, including scholarly publications and data, more equitably findable, accessible, interoperable, and reusable to the public, policymakers, industry, and the scientific community. The newly chartered Subcommitte, building off of its history as an interagency working group, expanded membership to be more inclusive and representative across the federal government and inaugurated NASA as a new agency co-chair (along with OSTP, NIH, and, NSF).
+
 ### USDA's Public Access to Scholarly Publications and Digital Scientific Research Data
 In accordance with their public access plan, USDA releases DR 1020-006, [Public Access to Scholarly Publications and
 Digital Scientific Research Data](https://www.usda.gov/sites/default/files/documents/dr-1020-006.pdf), requiring that all USDA "peer-reviewed, scholarly
 publications and digital scientific research data assets arising from unclassified scientific research" will be made "accessible to the public, to the extent practicable."
-
-### Breakthroughs for All
-On August 25, 2022 the White House released [Breakthroughs for All: Delivering Equitable Access to America’s Research](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) which makes publications and research funded by taxpayers publicly accessible, without an embargo or cost. All agencies are called to update their policies no later than December 31, 2025.
 
 ### Desirable Characteristics of Repositories
 NSTC issues [Desirable Characteristics of Repositories for Data Resulting from Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Desirable-Characteristics-of-Data-Repositories.pdf), which provides guidance on repository characteristics to help make data FAIR and promote equitable access.
 
 ### Generalist Repository Ecosystem Initiative (GREI)
 NIH launches the [Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/news/nih-office-of-data-science-strategy-announces-new-initiative-to-improve-data-access), which brings together generalist repositories to collaborate on shared efforts to enhance the discoverability of NIH-funded data, including common metadata models, open metrics, and training for researchers.
+
+## 2023
+### The Year of Open Science
+The White House Office of Science and Technology Policy (OSTP) [launches 2023 as a Year of Open Science to advance national open science policies across the federal government in 2023](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/). The Year of Open Science features actions across the federal government throughout 2023 to advance national open science policy, provide access to the results of the nation’s taxpayer-supported research, accelerate discovery and innovation, promote public trust, and drive more equitable outcomes. The key initiatives include a unified federal definition of open science: "The principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity." 
+
 
 ### Anticipated release ~Nov NASA new scientific information policy SPD-41a
 Details added upon release. 
