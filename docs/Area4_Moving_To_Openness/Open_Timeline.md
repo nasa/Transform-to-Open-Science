@@ -2,7 +2,7 @@
 The journey towards open science has been supported since 2013 with key policy changes by the federal government. Here is a living timeline detailing some of the major actions.
 
 ## 2013 
-### 2013 OSTP Public Access Guidance
+### 2013 OSTP Memorandum - Public Access Guidance
 The [Increasing Access to the Results of Federally Funded Scientific Research](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) policy memorandum (colloquially referred to as the Holdren Memo) directed US Federal agencies with research and development expenditures above $100 million to develop public access plans (see below) to support increased public access to the results of this research. Dr. John Holdren responded directly to a *We The People* petition about the memo when it was released, and that can be read [here](https://petitions.obamawhitehouse.archives.gov/response/increasing-public-access-results-scientific-research/). A White House summary from 2016 about the ongoing impact of the memo can be found [here](https://obamawhitehouse.archives.gov/blog/2016/02/22/increasing-access-results-federally-funded-science).
 
 ### Open Data Orders
