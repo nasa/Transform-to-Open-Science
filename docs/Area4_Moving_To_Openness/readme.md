@@ -2,7 +2,7 @@
 
 We welcome pull requests adding to these timelines or suggesting new timelines!
 
-## Advancing Open Science, Agency updates since the 2013 OSTP Memorandum 
+## Advancing Open Science, US Agency updates since the 2013 OSTP Memorandum 
 
 A [list](./Open_Timeline.md), a timeline since the 2013 OSTP Memorandum 
 
