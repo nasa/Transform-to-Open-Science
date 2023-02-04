@@ -110,6 +110,10 @@ Along with its public access plan, [Public Access to Results of Federally Funded
 * US Geological Survey [public access plan](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/USGS-PublicAccessPlan-APPROVED-v1-03.pdf)
 
 ## 2017
+
+### All agencies have completed public access plans in compliance with the 2013 OSTP Memorandum.
+On 9 Jan 2017, OSTP [memo](https://obamawhitehouse.archives.gov/blog/2017/01/09/making-federal-research-results-available-all) announces that all agencies have completed public access plans in compliance with the 2013 OSTP Memorandum.
+
 ### NIST Releases Additional Guidance
 In November of 2017, NIST released three, separate directives to further clarify and provide resources regarding its public access policy. These are the [Guidance for Review of Data Management Plans Submitted with Applications and Proposals for NIST Funding for Scientific Research](https://www.nist.gov/system/files/documents/2021/01/11/final-g-5701-ver-2.pdf), the order on the [Preservation and Maintenance of Published Research Data](https://www.nist.gov/system/files/documents/2019/11/12/final_o_5702_1.pdf), and procedures on [Managing Public Access to External Research Funded by NIST](https://www.nist.gov/system/files/documents/2018/06/19/final_pr_5702.01_0.pdf). 
 
