@@ -25,7 +25,10 @@ To sign up your organization and be listed below, please fill out this [form](ht
 
 ## Participating organizations
 - [Aligning Science Across Parkinson's (ASAP)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/ASAP.html)
+- [ASAPbio](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/ASAPbio.html)
 - [Center for Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/COS.html)
+- [Children's Tumor Foundation (CTF)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/CTF.html)
+- [Gathering for Open Science Hardware (GOSH)]([./participant](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/GOSH.html)
 - [Higher Education Leadership Initiative for Open Scholarship (HELIOS)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/HELIOS.html)
 - [PREreview](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/PREreview.html)
 
