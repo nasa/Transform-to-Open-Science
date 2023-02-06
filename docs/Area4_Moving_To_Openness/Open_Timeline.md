@@ -59,6 +59,12 @@ NSF's robust public access plan, [Increasing Access to the Results of Research F
 ### DOE Policy for Digital Research Data Management
 DOE released the DOE [Policy for Digital Research Data Management](https://www.energy.gov/datamanagement/doe-policy-digital-research-data-management-resources) as part of the implementation of DOE’s Public Access Plan. The policy requires that all funded research activities have an associated Data Management Plans. 
 
+### USDA launches PubAg
+USDA's National Agricultural Library launched [PubAg](https://pubag.nal.usda.gov) as part of the implementation of its Public Access Plan. PubAg provides access to peer-reviewed scholarly articles, including full text where possible, related to the agricultural sciences including nutrition, food safety, food quality, animal and crop production and protection, natural resources, sustainable agricultural systems, rural development, agricultural economic and policy issues, agricultural imports and exports, agricultural statistics, extramural research, and Extension education. 
+
+### USDA launches Ag Data Commons
+USDA's National Agricultural Library launched [Ag Data Commons](https://data.nal.usda.gov) as part of the implementation of its Public Access Plan. Ag Data Commons is a catalog and repository for USDA-funded research data, providing rich information about the data and links to associated scholarly articles and other research output.
+
 ### Public Access Plans
 * National Institute of Standards and Technology [public access plan](https://www.nist.gov/open)
 * National Oceanic and Atmospheric Administration [public access plan](https://repository.library.noaa.gov/view/noaa/10169)
