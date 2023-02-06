@@ -4,17 +4,17 @@ title:  "2023: Year of Open Science"
 categories: [ Jekyll, tutorial ]
 image: assets/images/YOS_image.jpg
 ---
-2023 is the year of Open Science!
+2023: A Year of Open Science!
 
-On 11 January 2023 the US White House — joined by 10 federal agencies, a coalition of more than 85 universities, and other organizations — declared 2023 to be the Year of Open Science. 
+On 11 January 2023 the US White House — joined by 10 federal agencies, a coalition of more than 85 universities, and other organizations — declared 2023 to be a Year of Open Science. 
 
 - White House [factsheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)
-- NASA announces the Year of Open Science in [Nature](https://www.nature.com/articles/d41586-023-00019-y)
+- NASA announces a Year of Open Science in [Nature](https://www.nature.com/articles/d41586-023-00019-y)
 - Federal [website](https://open.science.gov/)
 
 This year will celebrate the benefits and successes of open science and inspire more scientists to adopt open science. Ultimately, the success of the Year of Open Science will be driven by collaborations with individuals, teams, and organizations who are ready to transform the culture of science into one that celebrates openness, and inclusion! 
 
-The Year of Open Science has set out 4 goals to work towards:
+A Year of Open Science has set out 4 goals to work towards:
 1. Develop a strategic plan for open science
 1. Improve the transparency, integrity, and equity of reviews
 1. Account for open science activities in evaluations
