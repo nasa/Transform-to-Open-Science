@@ -2,7 +2,7 @@
 layout: post
 title:  "2023: Year of Open Science"
 categories: [ Jekyll, tutorial ]
-image: assets/images/YOS_cropped.png
+image: assets/images/YOS_image.jpg
 ---
 2023 is the year of Open Science!
 
