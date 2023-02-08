@@ -361,6 +361,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "SchmidtPatters",
+      "name": "Catherine Patterson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68929700?v=4",
+      "profile": "https://github.com/SchmidtPatters",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
