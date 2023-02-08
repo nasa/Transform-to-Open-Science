@@ -379,6 +379,15 @@
       "contributions": [
         "promotion"
       ]
+    },
+    {
+      "login": "csparr",
+      "name": "Cyndy Sims Parr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5820982?v=4",
+      "profile": "https://github.com/csparr",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
