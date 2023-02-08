@@ -9,7 +9,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
-- Join us for our [February Year of Open Science Community Forum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums/20230209_community_forum.md), February 9, 1-2PM ET
+- Join us for our [February Year of Open Science Community Forum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums/20230209_community_forum.md), February 9, 1-2PM ET.
 - NASA Awards Millions to Historically Black Colleges, Universities Promoting Equality and Diversity in Scientific Research. [Read more](https://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities).
 - Biden-⁠Harris Administration Announces New Actions to Advance Open and Equitable Research [factsheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)
 - Nature Article: [Why NASA and federal agencies are declaring this the Year of Open Science](https://www.nature.com/articles/d41586-023-00019-y) 
