@@ -388,6 +388,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "cmarcum",
+      "name": "Christopher Steven Marcum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1163260?v=4",
+      "profile": "http://www.chrismarcum.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
