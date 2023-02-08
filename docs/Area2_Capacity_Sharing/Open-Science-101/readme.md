@@ -11,7 +11,13 @@ The five Open Science 101 modules will be:
 4. [Open Software](./modules/open_software_module.md)
 5. [Open Results](./modules/open_results_module.md)
 
-**Content for the Open Science 101 has been curated by our incredible [Open Science Subject Matter Experts](./curriculum_leads.md).**
+Content for the Open Science 101 is being derived from several amazing resources, including:
+    - [OpenSciency](https://github.com/opensciency/)
+    - [OpenbyDesign](https://github.com/DSI-CORES/OpenByDesign/tree/master/src)
+    - [Utrecht](https://openscience-utrecht.com/what-is-open-science/)
+    - [Mozilla](https://mozillascience.github.io/study-group-orientation/4-open-research101.html)
+    - and more....
+    
 
 ## Learning Objectives
 

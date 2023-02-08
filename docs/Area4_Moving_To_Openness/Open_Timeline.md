@@ -2,8 +2,8 @@
 The journey towards open science has been supported since 2013 with key policy changes by the federal government. Here is a living timeline detailing some of the major actions.
 
 ## 2013 
-### OSTP’s “The Holdren Memo”
-The [Increasing Access to the Results of Federally Funded Scientific Research](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) policy memorandum directed US Federal agencies with research and development expenditures above $100 million to develop public access plans (see below) to support increased public access to the results of this research. Dr. John Holdren responded directly to a *We The People* petition about the memo when it was released, and that can be read [here](https://petitions.obamawhitehouse.archives.gov/response/increasing-public-access-results-scientific-research/). A White House summary from 2016 about the ongoing impact of the memo can be found [here](https://obamawhitehouse.archives.gov/blog/2016/02/22/increasing-access-results-federally-funded-science).
+### 2013 OSTP Memorandum - Public Access Guidance
+The [Increasing Access to the Results of Federally Funded Scientific Research](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) policy memorandum (colloquially referred to as the Holdren Memo) directed US Federal agencies with research and development expenditures above $100 million to develop public access plans (see below) to support increased public access to the results of this research. Dr. John Holdren responded directly to a *We The People* petition about the memo when it was released, and that can be read [here](https://petitions.obamawhitehouse.archives.gov/response/increasing-public-access-results-scientific-research/). A White House summary from 2016 about the ongoing impact of the memo can be found [here](https://obamawhitehouse.archives.gov/blog/2016/02/22/increasing-access-results-federally-funded-science).
 
 ### Open Data Orders
 On the same day, Executive Order 13642, [Executive Order -- Making Open and Machine Readable the New Default for Government Information](https://www.govinfo.gov/app/details/DCPD-201300318), and [Open Data Policy—Managing Information as an Asset (Memorandum M-13-13)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf), was released. These two documents issued guidance on how government agencies ought to be making their data open and machine-readable. 
@@ -59,6 +59,12 @@ NSF's robust public access plan, [Increasing Access to the Results of Research F
 ### DOE Policy for Digital Research Data Management
 DOE released the DOE [Policy for Digital Research Data Management](https://www.energy.gov/datamanagement/doe-policy-digital-research-data-management-resources) as part of the implementation of DOE’s Public Access Plan. The policy requires that all funded research activities have an associated Data Management Plans. 
 
+### USDA launches PubAg
+USDA's National Agricultural Library launched [PubAg](https://pubag.nal.usda.gov) as part of the implementation of its Public Access Plan. PubAg provides access to peer-reviewed scholarly articles, including full text where possible, related to the agricultural sciences including nutrition, food safety, food quality, animal and crop production and protection, natural resources, sustainable agricultural systems, rural development, agricultural economic and policy issues, agricultural imports and exports, agricultural statistics, extramural research, and Extension education. 
+
+### USDA launches Ag Data Commons
+USDA's National Agricultural Library launched [Ag Data Commons](https://data.nal.usda.gov) as part of the implementation of its Public Access Plan. Ag Data Commons is a catalog and repository for USDA-funded research data, providing rich information about the data and links to associated scholarly articles and other research output.
+
 ### Public Access Plans
 * National Institute of Standards and Technology [public access plan](https://www.nist.gov/open)
 * National Oceanic and Atmospheric Administration [public access plan](https://repository.library.noaa.gov/view/noaa/10169)
@@ -110,6 +116,10 @@ Along with its public access plan, [Public Access to Results of Federally Funded
 * US Geological Survey [public access plan](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/USGS-PublicAccessPlan-APPROVED-v1-03.pdf)
 
 ## 2017
+
+### All agencies have completed public access plans in compliance with the 2013 OSTP Memorandum.
+On 9 Jan 2017, OSTP [memo](https://obamawhitehouse.archives.gov/blog/2017/01/09/making-federal-research-results-available-all) announces that all agencies have completed public access plans in compliance with the 2013 OSTP Memorandum.
+
 ### NIST Releases Additional Guidance
 In November of 2017, NIST released three, separate directives to further clarify and provide resources regarding its public access policy. These are the [Guidance for Review of Data Management Plans Submitted with Applications and Proposals for NIST Funding for Scientific Research](https://www.nist.gov/system/files/documents/2021/01/11/final-g-5701-ver-2.pdf), the order on the [Preservation and Maintenance of Published Research Data](https://www.nist.gov/system/files/documents/2019/11/12/final_o_5702_1.pdf), and procedures on [Managing Public Access to External Research Funded by NIST](https://www.nist.gov/system/files/documents/2018/06/19/final_pr_5702.01_0.pdf). 
 
@@ -125,6 +135,11 @@ The [Interagency DOI Service](https://www.osti.gov/iad2/) is provided by DOE OST
 
 ### Administration for Community Living Public Access Plan Update
 HHS ACL updated its [public access plan](https://acl.gov/sites/default/files/about-acl/2017-12/ACLPublicAcccessPlan.pdf) to establish a mechanism for compliance with public access policy, make research and data more readily available to the public, and increase the use of ACL research results. 
+
+
+### DOT launches new portal
+DOT’s National Transportation Library (NTL) launches its new Repository & Open Science Access Portal ([ROSA P](https://rosap.ntl.bts.gov/)) to make DOT research easier to find and to honor Rosa Parks, and the role of the Civil Rights Movement in making public transportation more equitable.
+
 
 ## 2018
 ### The OPEN Government Data Act
@@ -173,14 +188,22 @@ NASA released the Scientific Information policy for the Science Mission Director
 ### USAID Open Data Plan
 Agency for International Development released an open data plan called [Policy on Development Data](https://www.usaid.gov/ads/policy/500/579) calling for "all USAID operating units, including its worldwide missions" to "ensure that USAID-funded data is centrally cataloged and made available to the public by default, with limited exceptions." An FAQ on the policy is available [here](https://data.usaid.gov/stories/s/Open-Data-Frequently-Asked-Questions/7nq9-vptc/). The [Development Experience Clearinghouse](https://dec.usaid.gov/dec/home/Default.aspx) is used to store technical and project materials and the [Development Data Library](https://data.usaid.gov/) contains data produced by USAID-funded projects.  
 
+
+### DOT updates on open science
+In the Transportation Research Board 202 Annual Meeting workshop Open Science in Transportation: Challenges and Opportunities in a COVID-19 Era, US DOT contributes the presentation “U.S. Open Science Policy Perspectives & Transportation” [https://doi.org/10.21949/1520725]( https://doi.org/10.21949/1520725)
+
+
 ## 2022
+### 2022 OSTP Public Access Guidance
+On August 25, 2022 the White House Office of Science and Technology Policy issued updated public access policy guidance entitled [Ensuring Free, Immediate, and Equitable Access to Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf). In an accompanying blog-post, titled [Breakthroughs for All: Delivering Equitable Access to America’s Research](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) OSTP details how the new guidance increases equity across the federal research and development landscape by making research publications and supporting data funded by taxpayers publicly accessible, without an embargo or cost. The new guidance (colloquialy referred to as teh Nelson Memo) calls for agencies with research and development expenditures to update their public access policies no later than December 31, 2025. 
+
+### Chartering of the National Science and Technology Council Subcommittee on Open Science
+In August of 2022, the White House Office of Science and Technology Policy and the National Science and Technology Council (NSTC) announced that the Subcommittee on Science had officially chartered the [NSTC Subcommittee on Open Science](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-SOS-NSTC-CHARTER.pdf). The purpose of the Subcommittee is to coordinate and advance efforts related to open science across Federal agencies. Such efforts include, but are not limited to, making the products and processes of Federally funded research, including scholarly publications and data, more equitably findable, accessible, interoperable, and reusable to the public, policymakers, industry, and the scientific community. The newly chartered Subcommitte, building off of its history as an interagency working group, expanded membership to be more inclusive and representative across the federal government and inaugurated NASA as a new agency co-chair (along with OSTP, NIH, and, NSF).
+
 ### USDA's Public Access to Scholarly Publications and Digital Scientific Research Data
 In accordance with their public access plan, USDA releases DR 1020-006, [Public Access to Scholarly Publications and
 Digital Scientific Research Data](https://www.usda.gov/sites/default/files/documents/dr-1020-006.pdf), requiring that all USDA "peer-reviewed, scholarly
 publications and digital scientific research data assets arising from unclassified scientific research" will be made "accessible to the public, to the extent practicable."
-
-### Breakthroughs for All
-On August 25, 2022 the White House released [Breakthroughs for All: Delivering Equitable Access to America’s Research](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) which makes publications and research funded by taxpayers publicly accessible, without an embargo or cost. All agencies are called to update their policies no later than December 31, 2025.
 
 ### Desirable Characteristics of Repositories
 NSTC issues [Desirable Characteristics of Repositories for Data Resulting from Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Desirable-Characteristics-of-Data-Repositories.pdf), which provides guidance on repository characteristics to help make data FAIR and promote equitable access.
@@ -188,8 +211,23 @@ NSTC issues [Desirable Characteristics of Repositories for Data Resulting from F
 ### Generalist Repository Ecosystem Initiative (GREI)
 NIH launches the [Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/news/nih-office-of-data-science-strategy-announces-new-initiative-to-improve-data-access), which brings together generalist repositories to collaborate on shared efforts to enhance the discoverability of NIH-funded data, including common metadata models, open metrics, and training for researchers.
 
+### NSF Promotes Research Infrastructures
+NSF continued to fortify research infrastructures that support data sharing within multiple disciplines. Many individual NSF awards advanced data sharing networks and infrastructures in 2022. Major initiatives included:  
+* The [Findable Accessible Interoperable Reusable Open Science Research Coordination Networks](https://www.nsf.gov/pubs/2022/nsf22553/nsf22553.htm) or “FAIROS RCN” program, which supports a cohort of 10 three-year, multi-institutional projects to start in 2023, and committed over $12.5 million to open science from all of NSF's seven directorates. 
+* The [Research Data Ecosystem](https://www.nsf.gov/news/special_reports/announcements/020422.jsp) data platform to secure and share data at the University of Michigan Institute for Social Research in Ann Arbor. This $38 million investment for transformative and interconnected social and behavioral sciences research is part of NSF's ongoing investment in mid-scale research infrastructure. 
+
+## 2023
+### The Year of Open Science
+The White House Office of Science and Technology Policy (OSTP) [launches 2023 as a Year of Open Science to advance national open science policies across the federal government in 2023](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/). The Year of Open Science features actions across the federal government throughout 2023 to advance national open science policy, provide access to the results of the nation’s taxpayer-supported research, accelerate discovery and innovation, promote public trust, and drive more equitable outcomes. The key initiatives include a unified federal definition of open science: "The principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity." 
+
 ### Anticipated release ~Nov NASA new scientific information policy SPD-41a
 Details added upon release. 
+
+### NSF Advances Equity in Open Science
+To advance equitable open science and promote public access to that science and to the development of open science networks and cyberinfrastructure, NSF will leverage powerful agency efforts and programs in its [broadening participation portfolio](https://www.nsf.gov/od/broadeningparticipation/bp_portfolio_dynamic.jsp), especially those through the [Growing Research Access for Nationally Transformative Equity and Diversity](https://beta.nsf.gov/funding/initiatives/broadening-participation/granted) program.  Known as GRANTED, this new initiative addresses systemic barriers within the nation's research enterprise by improving research support and service capacity at emerging, developing and underserved research institutions. Public access promotion also complements other NSF efforts, including: 
+* The [Minority Serving-Cyberinfrastructure Consortium](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234326&HistoricalAwards=false) or “MS-CC.” 
+* [Build and Broaden: Enhancing Social, Behavioral and Economc Science Research and Capacity at Minority-Serving Institutions](https://beta.nsf.gov/funding/opportunities/build-broaden-enhancing-social-behavioral-economic) or “B2.” 
+* New and ongoing award solicitations, such as [Pathways to Enable Open-Source Ecosystems](https://beta.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose) and [Campus Cyberinfrastructure](https://beta.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc), that foreground open science practices. 
 
 # Other Resources
 * The **University of Michigan** has a partial list of US federal agencies requiring data management plans [here](https://guides.lib.umich.edu/c.php?g=283277&p=1886863).
