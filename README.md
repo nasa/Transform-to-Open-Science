@@ -5,7 +5,7 @@ Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Op
 Ready to get started transforming towards open science with us? Get started [here!](./CONTRIBUTING.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -148,6 +148,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://natashabatalha.github.io"><img src="https://avatars.githubusercontent.com/u/6554465?v=4?s=100" width="100px;" alt="Natasha Batalha"/><br /><sub><b>Natasha Batalha</b></sub></a><br /><a href="#content-natashabatalha" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TKantz"><img src="https://avatars.githubusercontent.com/u/111452618?v=4?s=100" width="100px;" alt="Tkantz"/><br /><sub><b>Tkantz</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=Tkantz" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SchmidtPatters"><img src="https://avatars.githubusercontent.com/u/68929700?v=4?s=100" width="100px;" alt="Catherine Patterson"/><br /><sub><b>Catherine Patterson</b></sub></a><br /><a href="#content-SchmidtPatters" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JaclynStursma"><img src="https://avatars.githubusercontent.com/u/124390258?v=4?s=100" width="100px;" alt="JaclynStursma"/><br /><sub><b>JaclynStursma</b></sub></a><br /><a href="#promotion-JaclynStursma" title="Promotion">📣</a></td>
     </tr>
   </tbody>
 </table>
