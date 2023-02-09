@@ -27,6 +27,9 @@ The Office of the Director of National Intelligence lists all of its OpenGov ini
 ### NIH Genomic Data Sharing Policy (GDS)
 NIH issues its [Genomic Data Sharing Policy](https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/), which expands the genome-wide association studies (GWAS) policy and promotes sharing, for research purposes, of large-scale human and non-human genomic data generated from NIH-funded research.
 
+### USGS Scientific Data Lifecycle Model and Data Management Website
+The U.S. Geological Survey publishes a [Scientific Data Lifecycle Model](https://doi.org/10.3133/ofr20131265) and launches the [USGS Data Management Website](https://www.usgs.gov/data-management).
+
 ### Public Access Plans
 * Department of Agriculture [public access plan](https://www.usda.gov/sites/default/files/documents/USDA-Public-Access-Implementation-Plan.pdf)
 * Department of Energy [public access plan](https://www.energy.gov/sites/prod/files/2014/08/f18/DOE_Public_Access%20Plan_FINAL.pdf)
@@ -64,6 +67,9 @@ USDA's National Agricultural Library launched [PubAg](https://pubag.nal.usda.gov
 
 ### USDA launches Ag Data Commons
 USDA's National Agricultural Library launched [Ag Data Commons](https://data.nal.usda.gov) as part of the implementation of its Public Access Plan. Ag Data Commons is a catalog and repository for USDA-funded research data, providing rich information about the data and links to associated scholarly articles and other research output.
+
+### USGS Science Data Catalog
+The U.S. Geological Survey launches the [Science Data Catalog](https://data.usgs.gov/datacatalog/), a comprehensive metadata catalog facilitating discovery and access to USGS research and monitoring data.
 
 ### Public Access Plans
 * National Institute of Standards and Technology [public access plan](https://www.nist.gov/open)
@@ -106,6 +112,9 @@ The Environmental Protection Agency's [public access plan](https://www.epa.gov/s
 ### USGS Public Access Plan
 Along with its public access plan, [Public Access to Results of Federally Funded Research at the U.S. Geological Survey: Scholarly Publications and Digital Data](https://www.usgs.gov/media/files/public-access-results-federally-funded-research-usgs), US Geological Survey released a [training module](https://www1.usgs.gov/fsp-training/module8-understanding-the-usgs-public-access-plan/presentation.html) on the plan. The public access plan requires for data and research to be made available to the public via the [USGS Publications Warehouse](https://pubs.er.usgs.gov/). Further, the plan lays out requirements for the quality of scientific data, which are summarized [here](https://www.usgs.gov/office-of-science-quality-and-integrity/public-access-results-federally-funded-research-us). Additional USGS data is found on the [Science Data Catalog](https://data.usgs.gov/datacatalog/) of data.gov.
 
+### USGS Data Management and Release Policies
+The U.S. Geological Survey issued [four new data management and release policies](https://www.usgs.gov/office-of-science-quality-and-integrity/fundamental-science-practices-fsp-and-related-policy) that underpin the USGS Public Access Plan including requirements for data management plans, metadata for scientific data, digital object identifiers, review and approval, and data preservation.
+
 ### Public Access Plans
 * Department of Education [public access plan](https://ies.ed.gov/funding/pdf/EDPlanPolicyDevelopmentGuidanceforPublicAccess.pdf)
 * Department of Health and Human Services [public access plan](https://acl.gov/sites/default/files/about-acl/2017-12/ACLPublicAcccessPlan_0.pdf) for Administration for Community Living 
@@ -140,7 +149,8 @@ HHS ACL updated its [public access plan](https://acl.gov/sites/default/files/abo
 ### DOT launches new portal
 DOT’s National Transportation Library (NTL) launches its new Repository & Open Science Access Portal ([ROSA P](https://rosap.ntl.bts.gov/)) to make DOT research easier to find and to honor Rosa Parks, and the role of the Civil Rights Movement in making public transportation more equitable.
 
-
+### USGS Trusted Digital Repositories
+USGS named its first official [Trusted Digital Repository](https://www.usgs.gov/office-of-science-quality-and-integrity/usgs-trusted-digital-repositories-tdr), [ScienceBase](https://www.sciencebase.gov/catalog/). The USGS now has five TDRs within the Bureau (ScienceBase, Alaska Science Center Data Repository, EROS, National Geologic Map Database, Coastal and Marine Geoscience Data System), and [other approved repositories](https://www.usgs.gov/office-of-science-quality-and-integrity/acceptable-digital-repositories-usgs-scientific).
 ## 2018
 ### The OPEN Government Data Act
 Title II of Public Law 115-435, [Foundations for Evidence-Based Policymaking Act of 2018](https://www.govinfo.gov/content/pkg/PLAW-115publ435/pdf/PLAW-115publ435.pdf) requires for Federal agencies to publish their data online, and as open data. 
@@ -154,9 +164,15 @@ The latest version of the [DoD Scientific and Technical Information Program (STI
 ### NIH Strategic Plan for Data Science
 NIH issues its [Strategic Plan for Data Science](https://datascience.nih.gov/nih-strategic-plan-data-science), which provides a roadmap for modernizing the NIH-funded biomedical data science ecosystem. It outlines five overarching goals that address areas including data infrastructure and tools, workforce development, and sustainability.
 
+### USGS Makes Data and Publication Connections
+USGS connects scientific data releases in repositories to associated scholarly publications in the [Publications Warehouse](https://pubs.er.usgs.gov/).
+
 ## 2019
 ### NASA’s Strategy for Data Management and Computing
 The [Strategy for Data Management and Computing for Groundbreaking Science 2019-2024](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/SDMWG_Full%20Document_v3.pdf) is released. It is designed to “enable transformational open science through continuous evolution of science data and computing systems for NASA’s Science Mission Directorate.” Part of this strategy, “to develop and implement capabilities to enable open science” is the predecessor to TOPS.
+
+### USGS Instructional Memorandum
+USGS publishes an Instructional Memorandum (IM) on the [Release of Scientific Software](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) and the [USGS Software Management website](https://www.usgs.gov/products/software/software-management).
 
 ### VA Presentation of Research Results Directive
 The Department of Veterans Affairs issued Directive 1200.19, [Presentation of Research Results](https://www.va.gov/vhapublications/ViewPublication.asp?pub_ID=8364), directing al VA investigators to make available all peer-reviewed publications. This directives includes a requirement to deposit manuscripts in [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/).
@@ -215,6 +231,9 @@ NIH launches the [Generalist Repository Ecosystem Initiative (GREI)](https://dat
 NSF continued to fortify research infrastructures that support data sharing within multiple disciplines. Many individual NSF awards advanced data sharing networks and infrastructures in 2022. Major initiatives included:  
 * The [Findable Accessible Interoperable Reusable Open Science Research Coordination Networks](https://www.nsf.gov/pubs/2022/nsf22553/nsf22553.htm) or “FAIROS RCN” program, which supports a cohort of 10 three-year, multi-institutional projects to start in 2023, and committed over $12.5 million to open science from all of NSF's seven directorates. 
 * The [Research Data Ecosystem](https://www.nsf.gov/news/special_reports/announcements/020422.jsp) data platform to secure and share data at the University of Michigan Institute for Social Research in Ann Arbor. This $38 million investment for transformative and interconnected social and behavioral sciences research is part of NSF's ongoing investment in mid-scale research infrastructure. 
+
+### USGS FAIR Roadmap
+USGS publishes [Opportunities To Improve Alignment With the FAIR Principles for U.S. Geological Survey Data](https://doi.org/10.3133/ofr20221043).
 
 ## 2023
 ### The Year of Open Science
