@@ -30,13 +30,13 @@ The Office of the Director of National Intelligence lists all of its OpenGov ini
 ### NIH Genomic Data Sharing Policy (GDS)
 NIH issues its [Genomic Data Sharing Policy](https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/), which expands the genome-wide association studies (GWAS) policy and promotes sharing, for research purposes, of large-scale human and non-human genomic data generated from NIH-funded research.
 
+### USGS Science Data Lifecycle Model
+The U.S. Geological Survey publishes a [Scientific Data Lifecycle Model](https://doi.org/10.3133/ofr20131265).
+
 ### Public Access Plans
 * Department of Agriculture [public access plan](https://www.usda.gov/sites/default/files/documents/USDA-Public-Access-Implementation-Plan.pdf)
 * Department of Energy [public access plan](https://www.energy.gov/sites/prod/files/2014/08/f18/DOE_Public_Access%20Plan_FINAL.pdf)
 * National Aeronautics and Space Administration [public access plan](https://www.nasa.gov/sites/default/files/atoms/files/206985_2015_nasa_plan-for-web.pdf)
-
-### USGS Science Data Lifecycle Model
-The U.S. Geological Survey publishes a [Scientific Data Lifecycle Model](https://doi.org/10.3133/ofr20131265).
 
 ## 2015
 ### NIST Public Access to Results Policy
