@@ -11,6 +11,9 @@ On the same day, Executive Order 13642, [Executive Order -- Making Open and Mach
 ### CDC Public Access Announcement
 The CDC developed an operational policy [Public Access to CDC Funded Publication](https://stacks.cdc.gov/view/cdc/32257) requiring all CDC-funded peer-reviewed publications to be stored in "stable archives" and made freely available to the public. 
 
+### USGS Scientific Data Lifecycle Model and Data Management Website
+The U.S. Geological Survey publishes a [Scientific Data Lifecycle Model](https://doi.org/10.3133/ofr20131265) and launches the [USGS Data Management Website](https://www.usgs.gov/data-management).
+
 ## 2014
 ### DOE PAGES
 The Department of Energy Public Access Gateway for Energy and Science ([DOE PAGES](https://www.osti.gov/pages/)) is the DOE discovery tool, developed by the DOE Office of Scientific and Technical Information (OSTI), that makes peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze. DOE PAGES was developed to implement DOE’s [Public Access Plan](https://www.energy.gov/downloads/doe-public-access-plan) and offers free public access to the best available full-text version of DOE-funded scholarly publications - either the peer-reviewed, accepted manuscript or the published scientific journal article.
@@ -26,9 +29,6 @@ The Office of the Director of National Intelligence lists all of its OpenGov ini
 
 ### NIH Genomic Data Sharing Policy (GDS)
 NIH issues its [Genomic Data Sharing Policy](https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/), which expands the genome-wide association studies (GWAS) policy and promotes sharing, for research purposes, of large-scale human and non-human genomic data generated from NIH-funded research.
-
-### USGS Scientific Data Lifecycle Model and Data Management Website
-The U.S. Geological Survey publishes a [Scientific Data Lifecycle Model](https://doi.org/10.3133/ofr20131265) and launches the [USGS Data Management Website](https://www.usgs.gov/data-management).
 
 ### Public Access Plans
 * Department of Agriculture [public access plan](https://www.usda.gov/sites/default/files/documents/USDA-Public-Access-Implementation-Plan.pdf)
