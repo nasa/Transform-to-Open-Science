@@ -11,8 +11,8 @@ On the same day, Executive Order 13642, [Executive Order -- Making Open and Mach
 ### CDC Public Access Announcement
 The CDC developed an operational policy [Public Access to CDC Funded Publication](https://stacks.cdc.gov/view/cdc/32257) requiring all CDC-funded peer-reviewed publications to be stored in "stable archives" and made freely available to the public. 
 
-### USGS Scientific Data Lifecycle Model and Data Management Website
-The U.S. Geological Survey publishes a [Scientific Data Lifecycle Model](https://doi.org/10.3133/ofr20131265) and launches the [USGS Data Management Website](https://www.usgs.gov/data-management).
+### USGS Data Management Website
+The U.S. Geological Survey launches the [USGS Data Management Website](https://www.usgs.gov/data-management).
 
 ## 2014
 ### DOE PAGES
@@ -34,6 +34,9 @@ NIH issues its [Genomic Data Sharing Policy](https://osp.od.nih.gov/scientific-s
 * Department of Agriculture [public access plan](https://www.usda.gov/sites/default/files/documents/USDA-Public-Access-Implementation-Plan.pdf)
 * Department of Energy [public access plan](https://www.energy.gov/sites/prod/files/2014/08/f18/DOE_Public_Access%20Plan_FINAL.pdf)
 * National Aeronautics and Space Administration [public access plan](https://www.nasa.gov/sites/default/files/atoms/files/206985_2015_nasa_plan-for-web.pdf)
+
+### USGS Science Data Lifecycle Model
+The U.S. Geological Survey publishes a [Scientific Data Lifecycle Model](https://doi.org/10.3133/ofr20131265).
 
 ## 2015
 ### NIST Public Access to Results Policy
