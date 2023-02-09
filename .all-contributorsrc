@@ -361,6 +361,51 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "SchmidtPatters",
+      "name": "Catherine Patterson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68929700?v=4",
+      "profile": "https://github.com/SchmidtPatters",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "JaclynStursma",
+      "name": "JaclynStursma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124390258?v=4",
+      "profile": "https://github.com/JaclynStursma",
+      "contributions": [
+        "promotion"
+      ]
+    },
+    {
+      "login": "csparr",
+      "name": "Cyndy Sims Parr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5820982?v=4",
+      "profile": "https://github.com/csparr",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "cmarcum",
+      "name": "Christopher Steven Marcum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1163260?v=4",
+      "profile": "http://www.chrismarcum.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "leightonlc",
+      "name": "Leighton L Christiansen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51447690?v=4",
+      "profile": "https://github.com/leightonlc",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
