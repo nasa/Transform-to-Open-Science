@@ -2,6 +2,9 @@
 The journey towards open science has been supported since 2013 with key policy changes by the federal government. Here is a living timeline detailing some of the major actions.
 
 ## 2013 
+
+---
+
 ### 2013 OSTP Memorandum - Public Access Guidance
 The [Increasing Access to the Results of Federally Funded Scientific Research](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) policy memorandum (colloquially referred to as the Holdren Memo) directed US Federal agencies with research and development expenditures above $100 million to develop public access plans (see below) to support increased public access to the results of this research. Dr. John Holdren responded directly to a *We The People* petition about the memo when it was released, and that can be read [here](https://petitions.obamawhitehouse.archives.gov/response/increasing-public-access-results-scientific-research/). A White House summary from 2016 about the ongoing impact of the memo can be found [here](https://obamawhitehouse.archives.gov/blog/2016/02/22/increasing-access-results-federally-funded-science).
 
@@ -15,6 +18,9 @@ The CDC developed an operational policy [Public Access to CDC Funded Publication
 The U.S. Geological Survey launches the [USGS Data Management Website](https://www.usgs.gov/data-management).
 
 ## 2014
+
+---
+
 ### DOE PAGES
 The Department of Energy Public Access Gateway for Energy and Science ([DOE PAGES](https://www.osti.gov/pages/)) is the DOE discovery tool, developed by the DOE Office of Scientific and Technical Information (OSTI), that makes peer-reviewed scholarly scientific publications resulting from DOE research funding publicly accessible to read, download, and analyze. DOE PAGES was developed to implement DOE’s [Public Access Plan](https://www.energy.gov/downloads/doe-public-access-plan) and offers free public access to the best available full-text version of DOE-funded scholarly publications - either the peer-reviewed, accepted manuscript or the published scientific journal article.
 
@@ -39,6 +45,9 @@ The U.S. Geological Survey publishes a [Scientific Data Lifecycle Model](https:/
 * National Aeronautics and Space Administration [public access plan](https://www.nasa.gov/sites/default/files/atoms/files/206985_2015_nasa_plan-for-web.pdf)
 
 ## 2015
+
+---
+
 ### NIST Public Access to Results Policy
 NIST's [Managing Public Access to Results of Federally Funded Research Policy](https://www.nist.gov/system/files/documents/2018/06/19/final_p_5700.pdf) stated that NIST will "promote the deposit of scientific data arising from unclassified research and programs...free of charge in publicly accessible database." This policy does not apply to Standard Reference Data, which NIST has the authority to license. Release of the policy was accompanied by guidance on [Managing Public Access to Results of Funded Research](https://www.nist.gov/system/files/documents/2019/11/08/final_o_5701_ver_2.pdf).
 
@@ -87,6 +96,9 @@ The U.S. Geological Survey launches the [Science Data Catalog](https://data.usgs
 * National Science Foundation [public access plan](https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf)
 
 ## 2016
+
+---
+
 ### USDA's Scientific Integrity Policy 
 The USDA's [Scientific Integrity Policy](https://www.usda.gov/directives/dr-1074-001) or DR 1074-001 is designed to "ensure the highest level of integrity in all aspects of the Department’s and USDA agencies’ involvement with scientific and technological processes, research, analyses, and products" including the open, accessible and online distribution of all scientific data used to develop policy. 
 
@@ -129,6 +141,8 @@ The U.S. Geological Survey issued [four new data management and release policies
 
 ## 2017
 
+---
+
 ### All agencies have completed public access plans in compliance with the 2013 OSTP Memorandum.
 On 9 Jan 2017, OSTP [memo](https://obamawhitehouse.archives.gov/blog/2017/01/09/making-federal-research-results-available-all) announces that all agencies have completed public access plans in compliance with the 2013 OSTP Memorandum.
 
@@ -155,6 +169,9 @@ DOT’s National Transportation Library (NTL) launches its new Repository & Open
 ### USGS Trusted Digital Repositories
 USGS named its first official [Trusted Digital Repository](https://www.usgs.gov/office-of-science-quality-and-integrity/usgs-trusted-digital-repositories-tdr), [ScienceBase](https://www.sciencebase.gov/catalog/). The USGS now has five TDRs within the Bureau (ScienceBase, Alaska Science Center Data Repository, EROS, National Geologic Map Database, Coastal and Marine Geoscience Data System), and [other approved repositories](https://www.usgs.gov/office-of-science-quality-and-integrity/acceptable-digital-repositories-usgs-scientific).
 ## 2018
+
+---
+
 ### The OPEN Government Data Act
 Title II of Public Law 115-435, [Foundations for Evidence-Based Policymaking Act of 2018](https://www.govinfo.gov/content/pkg/PLAW-115publ435/pdf/PLAW-115publ435.pdf) requires for Federal agencies to publish their data online, and as open data. 
 
@@ -171,6 +188,9 @@ NIH issues its [Strategic Plan for Data Science](https://datascience.nih.gov/nih
 USGS connects scientific data releases in repositories to associated scholarly publications in the [Publications Warehouse](https://pubs.er.usgs.gov/).
 
 ## 2019
+
+---
+
 ### NASA’s Strategy for Data Management and Computing
 The [Strategy for Data Management and Computing for Groundbreaking Science 2019-2024](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/SDMWG_Full%20Document_v3.pdf) is released. It is designed to “enable transformational open science through continuous evolution of science data and computing systems for NASA’s Science Mission Directorate.” Part of this strategy, “to develop and implement capabilities to enable open science” is the predecessor to TOPS.
 
@@ -181,6 +201,9 @@ USGS publishes an Instructional Memorandum (IM) on the [Release of Scientific So
 The Department of Veterans Affairs issued Directive 1200.19, [Presentation of Research Results](https://www.va.gov/vhapublications/ViewPublication.asp?pub_ID=8364), directing al VA investigators to make available all peer-reviewed publications. This directives includes a requirement to deposit manuscripts in [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/).
 
 ## 2020
+
+---
+
 ### NASA Funding Released
 In 2020, NASA released its first announcements to support [open science](https://nspires.nasaprs.com/external/solicitations/solicitations!init.do#:~:text=E.7%20Support%20for%20Open%20Source%20Tools%2C%20Frameworks%2C%20and%20Libraries ).
 
@@ -201,6 +224,9 @@ NIH launches its [Preprint Pilot](https://www.ncbi.nlm.nih.gov/pmc/about/nihprep
 
 
 ## 2021
+
+---
+
 ### NASA’s SPD-41
 NASA released the Scientific Information policy for the Science Mission Directorate (SMD) Policy Document 41 or [“SPD-41”](https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf ). This policy describes how any scientific information produced using funding from SMD is shared. Scientific information, in this case, includes publications, data, and software produced as part of scientific research activities.
 
@@ -213,6 +239,7 @@ In the Transportation Research Board 202 Annual Meeting workshop Open Science in
 
 
 ## 2022
+
 ### 2022 OSTP Public Access Guidance
 On August 25, 2022 the White House Office of Science and Technology Policy issued updated public access policy guidance entitled [Ensuring Free, Immediate, and Equitable Access to Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf). In an accompanying blog-post, titled [Breakthroughs for All: Delivering Equitable Access to America’s Research](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) OSTP details how the new guidance increases equity across the federal research and development landscape by making research publications and supporting data funded by taxpayers publicly accessible, without an embargo or cost. The new guidance (colloquialy referred to as teh Nelson Memo) calls for agencies with research and development expenditures to update their public access policies no later than December 31, 2025. 
 
@@ -238,12 +265,16 @@ NSF continued to fortify research infrastructures that support data sharing with
 ### USGS FAIR Roadmap
 USGS publishes [Opportunities To Improve Alignment With the FAIR Principles for U.S. Geological Survey Data](https://doi.org/10.3133/ofr20221043).
 
+### NASA Releases updated Scientific Information Policy that is compliant with 2022 OSTP memo on public access.
+The policy ([SPD41a](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD-information-policy-SPD-41a.pdf)) describes how scientific information produced from SMD funding can be shared.Scientific information includes publications, data, and software produced as part of scientific
+activities. 
+
 ## 2023
+
+---
+
 ### The Year of Open Science
 The White House Office of Science and Technology Policy (OSTP) [launches 2023 as a Year of Open Science to advance national open science policies across the federal government in 2023](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/). The Year of Open Science features actions across the federal government throughout 2023 to advance national open science policy, provide access to the results of the nation’s taxpayer-supported research, accelerate discovery and innovation, promote public trust, and drive more equitable outcomes. The key initiatives include a unified federal definition of open science: "The principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity." 
-
-### Anticipated release ~Nov NASA new scientific information policy SPD-41a
-Details added upon release. 
 
 ### NSF Advances Equity in Open Science
 To advance equitable open science and promote public access to that science and to the development of open science networks and cyberinfrastructure, NSF will leverage powerful agency efforts and programs in its [broadening participation portfolio](https://www.nsf.gov/od/broadeningparticipation/bp_portfolio_dynamic.jsp), especially those through the [Growing Research Access for Nationally Transformative Equity and Diversity](https://beta.nsf.gov/funding/initiatives/broadening-participation/granted) program.  Known as GRANTED, this new initiative addresses systemic barriers within the nation's research enterprise by improving research support and service capacity at emerging, developing and underserved research institutions. Public access promotion also complements other NSF efforts, including: 
