@@ -84,7 +84,7 @@ USDA's National Agricultural Library launched [Ag Data Commons](https://data.nal
 The U.S. Geological Survey launches the [Science Data Catalog](https://data.usgs.gov/datacatalog/), a comprehensive metadata catalog facilitating discovery and access to USGS research and monitoring data.
 
 ### Smithsonian Public Access Policy
-The Smithsonian Institution's [Public Access Plan](https://www.si.edu/content/pdf/about/SmithsonianPublicAccessPlan.pdf) takes effect. Through the plan, all applicable publications and supporting data resulting from federally funded research will be available through the [Smithsonian Research Online (SRO) website](http://research.si.edu/) or [CHORUS](https://www.chorusaccess.org/), a nonprofit membership organization that helps federal entities increase public access to research.
+The Smithsonian Institution's [Public Access Plan](https://www.si.edu/content/pdf/about/SmithsonianPublicAccessPlan.pdf) takes effect. The plan marks the start of Smithsonian's implementation to make certain publications and supporting data resulting from federally funded research available through [Smithsonian Research Online (SRO) website](http://research.si.edu/), Smithsonian-approved repositories, and/or its participation in [CHORUS](https://www.chorusaccess.org/), a nonprofit organization that helps federal entities track public access compliance.
 
 ### Public Access Plans
 * National Institute of Standards and Technology [public access plan](https://www.nist.gov/open)
@@ -199,7 +199,7 @@ USGS connects scientific data releases in repositories to associated scholarly p
 The [Strategy for Data Management and Computing for Groundbreaking Science 2019-2024](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/SDMWG_Full%20Document_v3.pdf) is released. It is designed to “enable transformational open science through continuous evolution of science data and computing systems for NASA’s Science Mission Directorate.” Part of this strategy, “to develop and implement capabilities to enable open science” is the predecessor to TOPS.
 
 ### Smithsonian Launches Open Figshare Repositories
-In August 2019, the Smithsonian Institution launched Figshare repositories for open research data ([Smithsonian Institution Research Data](https://smithsonian.figshare.com/ResearchData) and for diamond open access scholarly monographs ([Smithsonian Institution Scholarly Press](https://smithsonian.figshare.com/ScholarlyPress)).
+In August 2019, the Smithsonian Institution launched Figshare repositories for open research data ([Smithsonian Research Data](https://smithsonian.figshare.com/ResearchData)) and for diamond open access scholarly monographs ([Smithsonian Institution Scholarly Press](https://smithsonian.figshare.com/ScholarlyPress)).
 
 ### USGS Instructional Memorandum
 USGS publishes an Instructional Memorandum (IM) on the [Release of Scientific Software](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) and the [USGS Software Management website](https://www.usgs.gov/products/software/software-management).
@@ -230,7 +230,7 @@ DOE OSTI launched the [US Government ORCID Consortium](https://www.osti.gov/orci
 NIH launches its [Preprint Pilot](https://www.ncbi.nlm.nih.gov/pmc/about/nihpreprints/) to test the feasibility of providing access to pre-prints reporting on NIH-funded research on COVID-19 through PubMed Central and Pubmed. The pilot aims to explore approaches to increasing the discoverability of early NIH research results posted to [eligible preprint servers](https://www.ncbi.nlm.nih.gov/pmc/about/nihpreprints/#eligible).
 
 ### Smithsonian Open Access Launch
-In February 2020, the Smithsonian Institution launched [Smithsonian Open Access](https://www.si.edu/openaccess), an initiative that removed Smithsonian copyright restrictions from about 2.8 million of its digital collection images and nearly two centuries of data. Among museums and cultural institutions, this is the largest and most interdisciplinary open access program to date.
+In February 2020, the Smithsonian Institution launched [Smithsonian Open Access](https://www.si.edu/openaccess), an initiative that made publicly available more than 4.5 million 2D and 3D digital items from its collections that are free of copyright restrictions. Among museums and cultural institutions, this is the largest and most interdisciplinary open access program to date.
 
 
 ## 2021
