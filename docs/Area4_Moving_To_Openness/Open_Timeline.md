@@ -88,7 +88,7 @@ The U.S. Geological Survey launches the [Science Data Catalog](https://data.usgs
 * National Oceanic and Atmospheric Administration [public access plan](https://repository.library.noaa.gov/view/noaa/10169)
 * Department of Defense [public access plan](https://discover.dtic.mil/wp-content/uploads/2018/06/dod_public_access_plan_feb2015.pdf)
 * Department of Health and Human Services [public access plan](https://www.ahrq.gov/funding/policies/publicaccess/index.html) for Agency for Healthcare Research and Quality
-* Department of Health and Human Services [public access plan](https://stacks.cdc.gov/view/cdc/28657) for Centers of Disease Control
+* Department of Health and Human Services [public access plan](https://stacks.cdc.gov/view/cdc/28657) for Centers for Disease Control and Prevention 
 * Department of Health and Human Services [public access plan](https://www.fda.gov/downloads/ScienceResearch/AboutScienceResearchatFDA/UCM435418.pdf) for Food and Drug Administration
 * Department of Health and Human Services [public access plan](https://grants.nih.gov/grants/NIH-Public-Access-Plan.pdf) for National Institutes of Health
 * Department of Transportation [public access plan](https://doi.org/10.21949/1520559)
