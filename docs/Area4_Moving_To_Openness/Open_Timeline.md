@@ -83,6 +83,9 @@ USDA's National Agricultural Library launched [Ag Data Commons](https://data.nal
 ### USGS Science Data Catalog
 The U.S. Geological Survey launches the [Science Data Catalog](https://data.usgs.gov/datacatalog/), a comprehensive metadata catalog facilitating discovery and access to USGS research and monitoring data.
 
+### Smithsonian Public Access Policy
+The Smithsonian Institution's [Public Access Plan](https://www.si.edu/content/pdf/about/SmithsonianPublicAccessPlan.pdf) takes effect. Through the plan, all applicable publications and supporting data resulting from federally funded research will be available through the [Smithsonian Research Online (SRO) website](http://research.si.edu/) or [CHORUS](https://www.chorusaccess.org/), a nonprofit membership organization that helps federal entities increase public access to research.
+
 ### Public Access Plans
 * National Institute of Standards and Technology [public access plan](https://www.nist.gov/open)
 * National Oceanic and Atmospheric Administration [public access plan](https://repository.library.noaa.gov/view/noaa/10169)
@@ -94,6 +97,7 @@ The U.S. Geological Survey launches the [Science Data Catalog](https://data.usgs
 * Department of Transportation [public access plan](https://doi.org/10.21949/1520559)
 * Department of Veterans Affairs [public access plan](https://www.va.gov/ORO/Docs/Guidance/VA_RSCH_DATA_ACCESS_PLAN_07_23_2015.pdf)
 * National Science Foundation [public access plan](https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf)
+* Smithsonian Institution [public access plan](https://www.si.edu/content/pdf/about/SmithsonianPublicAccessPlan.pdf)
 
 ## 2016
 
@@ -194,6 +198,9 @@ USGS connects scientific data releases in repositories to associated scholarly p
 ### NASA’s Strategy for Data Management and Computing
 The [Strategy for Data Management and Computing for Groundbreaking Science 2019-2024](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/SDMWG_Full%20Document_v3.pdf) is released. It is designed to “enable transformational open science through continuous evolution of science data and computing systems for NASA’s Science Mission Directorate.” Part of this strategy, “to develop and implement capabilities to enable open science” is the predecessor to TOPS.
 
+### Smithsonian Launches Open Figshare Repositories
+In August 2019, the Smithsonian Institution launched Figshare repositories for open research data ([Smithsonian Institution Research Data](https://smithsonian.figshare.com/ResearchData) and for diamond open access scholarly monographs ([Smithsonian Institution Scholarly Press](https://smithsonian.figshare.com/ScholarlyPress)).
+
 ### USGS Instructional Memorandum
 USGS publishes an Instructional Memorandum (IM) on the [Release of Scientific Software](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) and the [USGS Software Management website](https://www.usgs.gov/products/software/software-management).
 
@@ -222,6 +229,9 @@ DOE OSTI launched the [US Government ORCID Consortium](https://www.osti.gov/orci
 ### NIH Preprint Pilot
 NIH launches its [Preprint Pilot](https://www.ncbi.nlm.nih.gov/pmc/about/nihpreprints/) to test the feasibility of providing access to pre-prints reporting on NIH-funded research on COVID-19 through PubMed Central and Pubmed. The pilot aims to explore approaches to increasing the discoverability of early NIH research results posted to [eligible preprint servers](https://www.ncbi.nlm.nih.gov/pmc/about/nihpreprints/#eligible).
 
+### Smithsonian Open Access Launch
+In February 2020, the Smithsonian Institution launched [Smithsonian Open Access](https://www.si.edu/openaccess), an initiative that removed Smithsonian copyright restrictions from about 2.8 million of its digital collection images and nearly two centuries of data. Among museums and cultural institutions, this is the largest and most interdisciplinary open access program to date.
+
 
 ## 2021
 
@@ -244,7 +254,7 @@ In the Transportation Research Board 202 Annual Meeting workshop Open Science in
 On August 25, 2022 the White House Office of Science and Technology Policy issued updated public access policy guidance entitled [Ensuring Free, Immediate, and Equitable Access to Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf). In an accompanying blog-post, titled [Breakthroughs for All: Delivering Equitable Access to America’s Research](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) OSTP details how the new guidance increases equity across the federal research and development landscape by making research publications and supporting data funded by taxpayers publicly accessible, without an embargo or cost. The new guidance (colloquialy referred to as teh Nelson Memo) calls for agencies with research and development expenditures to update their public access policies no later than December 31, 2025. 
 
 ### Chartering of the National Science and Technology Council Subcommittee on Open Science
-In August of 2023, the White House Office of Science and Technology Policy and the National Science and Technology Council (NSTC) announced that the Subcommittee on Science had officially chartered the [NSTC Subcommittee on Open Science](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-SOS-NSTC-CHARTER.pdf). The purpose of the Subcommittee is to coordinate and advance efforts related to open science across Federal agencies. Such efforts include, but are not limited to, making the products and processes of Federally funded research, including scholarly publications and data, more equitably findable, accessible, interoperable, and reusable to the public, policymakers, industry, and the scientific community. The newly chartered Subcommitte, building off of its history as an interagency working group, expanded membership to be more inclusive and representative across the federal government and inaugurated NASA as a new agency co-chair (along with OSTP, NIH, and, NSF).
+In August of 2022, the White House Office of Science and Technology Policy and the National Science and Technology Council (NSTC) announced that the Subcommittee on Science had officially chartered the [NSTC Subcommittee on Open Science](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-SOS-NSTC-CHARTER.pdf). The purpose of the Subcommittee is to coordinate and advance efforts related to open science across Federal agencies. Such efforts include, but are not limited to, making the products and processes of Federally funded research, including scholarly publications and data, more equitably findable, accessible, interoperable, and reusable to the public, policymakers, industry, and the scientific community. The newly chartered Subcommitte, building off of its history as an interagency working group, expanded membership to be more inclusive and representative across the federal government and inaugurated NASA as a new agency co-chair (along with OSTP, NIH, and, NSF).
 
 ### USDA's Public Access to Scholarly Publications and Digital Scientific Research Data
 In accordance with their public access plan, USDA releases DR 1020-006, [Public Access to Scholarly Publications and
