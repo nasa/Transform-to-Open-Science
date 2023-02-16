@@ -30,7 +30,7 @@
 
 ## 2022 TOPS Content Subject Matter Experts (SMEs):  
 
-**Discover why these SMEs practice open science on the [Open Science Stories page](/docs/Area1_Engagement/Open-Science-Stories/OpenCore_SME_Why-I-Practice-Open-Science.md).**
+**Discover why these SMEs practice open science on the [Open Science Stories page](/docs/Area1_Engagement/Open-Science-Stories/SME_Why-I-Practice-Open-Science.md).**
 
 ### Ethos of Open Science
 
