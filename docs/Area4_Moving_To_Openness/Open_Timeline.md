@@ -1,5 +1,9 @@
 # US Federal Agencies Timeline to Open Science
-The journey towards open science has been supported since 2013 with key policy changes by the federal government. Here is a living timeline detailing some of the major actions.
+The White House rang in the new year by declaring 2023 a _[Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)_, featuring actions across the U.S. government to advance open research while accelerating discovery and innovation, promoting public trust, and driving more equitable outcomes. The announcement comes on the heels of the August 2022 Memorandum on _[Ensuring Free, Immediate, and Equitable Access to Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf)_ issued by the White House Office of Science and Technology Policy (OSTP). This guidance marks a major advance in delivering equitable access to America’s research, while enabling all communities to take part in the process and products of discovery. 
+
+The policy builds on a foundation of progress and collaboration across federal agencies, as they have worked to further the goals of open science, catalyzed by an OSTP Memorandum issued exactly ten years ago, on February 22, 2013, on _[Increasing Access to the Results of Federally Funded Research](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)_. This ten-year anniversary provided federal agencies with an opportunity to reflect on the great strides they have made as they for the decade ahead – one that will deliver equitable access to discovery and usher new possibilities across the research enterprise.
+
+Here is a living timeline detailing some of the major actions supported by key policy changes across the federal government as they've moved along the journey towards open science and research.
 
 ## 2013 
 
