@@ -90,6 +90,9 @@ The U.S. Geological Survey launches the [Science Data Catalog](https://data.usgs
 ### Smithsonian Public Access Policy
 The Smithsonian Institution's [Public Access Plan](https://www.si.edu/content/pdf/about/SmithsonianPublicAccessPlan.pdf) takes effect. The plan marks the start of Smithsonian's implementation to make certain publications and supporting data resulting from federally funded research available through [Smithsonian Research Online (SRO) website](http://research.si.edu/), Smithsonian-approved repositories, and/or its participation in [CHORUS](https://www.chorusaccess.org/), a nonprofit organization that helps federal entities track public access compliance.
 
+### IMLS launches Open Data Catalog
+The Institute of Museum and Library Services (IMLS) launches its [open data catalog site](https://www.imls.gov/research-tools/data-collection), which comprises agency data such as grants administration and data about museums, libraries, and related organizations. The resource puts IMLS data at the fingertips of researchers, developers, and interested members of the public who want to dig deeper. 
+
 ### Public Access Plans
 * National Institute of Standards and Technology [public access plan](https://www.nist.gov/open)
 * National Oceanic and Atmospheric Administration [public access plan](https://repository.library.noaa.gov/view/noaa/10169)
