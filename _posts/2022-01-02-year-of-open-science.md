@@ -15,10 +15,10 @@ On 11 January 2023 the US White House — joined by 10 federal agencies, a coali
 This year will celebrate the benefits and successes of open science and inspire more scientists to adopt open science. Ultimately, the success of the Year of Open Science will be driven by collaborations with individuals, teams, and organizations who are ready to transform the culture of science into one that celebrates openness, and inclusion! 
 
 A Year of Open Science has set out 4 goals to work towards:
-1. Develop a strategic plan for open science
-1. Improve the transparency, integrity, and equity of reviews
-1. Account for open science activities in evaluations
-1. Engage underrepresented communities in the advancement of open science
+1.	Establish strategic approaches for advancing open science
+2.	Promote equitable participation in open science through transparency, integrity and equity of reviews.
+3.	Account for open science activities in evaluations and incentives
+4.	Engage underrepresented communities in the advancement of open science and research
 
 ## Join Us! 
 To sign up your organization and be listed below, please fill out this [form](https://forms.gle/KPKaejc2WP7dm5XVA).
