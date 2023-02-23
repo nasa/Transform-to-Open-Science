@@ -299,5 +299,11 @@ To advance equitable open science and promote public access to that science and 
 * [Build and Broaden: Enhancing Social, Behavioral and Economc Science Research and Capacity at Minority-Serving Institutions](https://beta.nsf.gov/funding/opportunities/build-broaden-enhancing-social-behavioral-economic) or “B2.” 
 * New and ongoing award solicitations, such as [Pathways to Enable Open-Source Ecosystems](https://beta.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose) and [Campus Cyberinfrastructure](https://beta.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc), that foreground open science practices. 
 
+### NIH Releases Public Access Plan for Public Feedback 
+  
+NIH has long championed principles of transparency and accessibility in NIH-funded research. As such, NIH supports the August 2022 OSTP Memorandum directing federal agencies to expedite access to results of federally funded research. The NIH Plan to Enhance Public Access to the Results of NIH-Supported Research ([NIH’s Public Access Plan](https://osp.od.nih.gov/nih-plan-to-enhance-public-access-to-the-results-of-nih-supported-research/)) provides a roadmap for how NIH will enhance access to research products, namely scholarly publications and scientific data, and will ensure these research products are useful and accessible to the public. NIH’s Public Access Plan is now available for public comment. Comments will be accepted until April 24, 2023 and can be submitted through the comment portal found [here](https://osp.od.nih.gov/nih-plan-to-enhance-public-access-to-the-results-of-nih-supported-research/). 
+
+
+
 # Other Resources
 * The **University of Michigan** has a partial list of US federal agencies requiring data management plans [here](https://guides.lib.umich.edu/c.php?g=283277&p=1886863).
