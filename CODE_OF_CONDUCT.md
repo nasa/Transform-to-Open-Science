@@ -46,7 +46,7 @@ It would be impossible to list everything staff can do to create a more welcomin
 To help colleagues understand the kinds of behaviors that are illegal or run counter to the culture we seek to foster, we've listed below actions that are unacceptable within our community:
 
  * Violence, threats of violence, or violent language directed against another person.
- * Unwelcome verbal or written comment or physical conduct based on race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability, genetic information, sexual orientation, gender identity, parental status, marital status, or political affiliation.
+ * Unwelcome verbal or written comment or physical conduct based on race, religion, color, body size, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability, genetic information, sexual orientation, gender identity, parental status, marital status, or political affiliation.
  * Posting or displaying sexually explicit or violent material.
  * Posting or threatening to post other people's personally identifying information ("doxing").
  * Inappropriate photography or recording.
