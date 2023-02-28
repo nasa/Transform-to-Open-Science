@@ -43,4 +43,4 @@ Supplemental support to existing awards for usage of scientific platforms. Budge
 - Scientific analysis platforms are defined as interactive environments accessible through a web browser providing access to data and computing resources to support scientific analysis and processing 
 - Deferred until ROSES 2023
 
-**TOPS' proposal resources are available [here](https://nasa.github.io/Transform-to-Open-Science-Book/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.html).**
+**TOPS' proposal resources are available [here](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md).**
