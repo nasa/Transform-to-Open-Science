@@ -14,11 +14,11 @@ These sessions will educate the public about NASA’s Open-Source science Initia
 
 ### Come join us! 
 
-Upcoming Forum: [November Community Forum on ROSES solicitation for TOPS Training](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20221110_community_forum.md) 
+Upcoming Forum: [March Community Forum on Open Science: Challenges and Opportunities for Diversity, Equity, and Inclusion](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20230309_community_forum.md) 
 
-When: November 10, 2022, 1PM EDT (UTC -4)
+When: March 09, 2022, 1PM EDT (UTC -4)
 
-[Registration Link](https://go.nasa.gov/3TnVRVE)
+[Registration Link](https://go.nasa.gov/3EG6uye)
 
 [Question Submission Link](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
 
