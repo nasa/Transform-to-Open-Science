@@ -14,7 +14,7 @@ By the end of this module, learners should feel comfortable creating a data mana
  
 ## Suggested Resources
 *Interested in exploring ‘Open Data’ while we develop the module? Here are some resources to get you started:*
-* GODAN [MOOC](https://www.echocommunity.org/en/resources/20306ba9-5fae-45bb-b269-d8d899338da7) about how to use, make, and share open data
+* GODAN [MOOC](https://aims.gitbook.io/open-data-mooc/) about how to use, make, and share open data
 * How to share data module from [Carpentries](https://carpentries-incubator.github.io/good-enough-practices/02-data_management/index.html)
 * Great open data in Africa farming [MOOC](https://aims.gitbook.io/farm-data-mooc/)
 * FAIRsharing.org (2016). FAIR. The FAIR Principles. [doi.org/10.25504/FAIRsharing.WWI10U](https://fairsharing.org/FAIRsharing.WWI10U)
