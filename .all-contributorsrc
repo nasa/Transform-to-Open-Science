@@ -415,6 +415,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "ashleysa",
+      "name": "Ashley E. Sands",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1907673?v=4",
+      "profile": "http://knowledgeinfrastructures.gseis.ucla.edu/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
