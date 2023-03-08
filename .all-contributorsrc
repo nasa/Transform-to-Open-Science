@@ -462,6 +462,15 @@
         "content",
         "maintenance"
       ]
+    },
+    {
+      "login": "zchandler",
+      "name": "Zach Chandler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/574978?v=4",
+      "profile": "https://github.com/zchandler",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

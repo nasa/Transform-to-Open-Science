@@ -5,7 +5,7 @@ Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Op
 Ready to get started transforming towards open science with us? Get started [here!](./CONTRIBUTING.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -161,6 +161,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/webmz"><img src="https://avatars.githubusercontent.com/u/38668602?v=4?s=100" width="100px;" alt="Maryam Zaringhalam (she/her)"/><br /><sub><b>Maryam Zaringhalam (she/her)</b></sub></a><br /><a href="#content-webmz" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MikeTrizna"><img src="https://avatars.githubusercontent.com/u/472677?v=4?s=100" width="100px;" alt="Mike Trizna"/><br /><sub><b>Mike Trizna</b></sub></a><br /><a href="#content-MikeTrizna" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://moosh.run/"><img src="https://avatars.githubusercontent.com/u/13881751?v=4?s=100" width="100px;" alt="Marshall J. Styczinski"/><br /><sub><b>Marshall J. Styczinski</b></sub></a><br /><a href="#content-itsmoosh" title="Content">🖋</a> <a href="#maintenance-itsmoosh" title="Maintenance">🚧</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zchandler"><img src="https://avatars.githubusercontent.com/u/574978?v=4?s=100" width="100px;" alt="Zach Chandler"/><br /><sub><b>Zach Chandler</b></sub></a><br /><a href="#content-zchandler" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
