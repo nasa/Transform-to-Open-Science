@@ -5,7 +5,7 @@ Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Op
 Ready to get started transforming towards open science with us? Get started [here!](./CONTRIBUTING.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -157,6 +157,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/leightonlc"><img src="https://avatars.githubusercontent.com/u/51447690?v=4?s=100" width="100px;" alt="Leighton L Christiansen"/><br /><sub><b>Leighton L Christiansen</b></sub></a><br /><a href="#content-leightonlc" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hsu000001"><img src="https://avatars.githubusercontent.com/u/4698271?v=4?s=100" width="100px;" alt="Leslie Hsu"/><br /><sub><b>Leslie Hsu</b></sub></a><br /><a href="#content-hsu000001" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://knowledgeinfrastructures.gseis.ucla.edu/"><img src="https://avatars.githubusercontent.com/u/1907673?v=4?s=100" width="100px;" alt="Ashley E. Sands"/><br /><sub><b>Ashley E. Sands</b></sub></a><br /><a href="#content-ashleysa" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/maggiemmcadam"><img src="https://avatars.githubusercontent.com/u/126527829?v=4?s=100" width="100px;" alt="maggiemmcadam"/><br /><sub><b>maggiemmcadam</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/pulls?q=is%3Apr+reviewed-by%3Amaggiemmcadam" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>

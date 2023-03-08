@@ -424,6 +424,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "maggiemmcadam",
+      "name": "maggiemmcadam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126527829?v=4",
+      "profile": "https://github.com/maggiemmcadam",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
