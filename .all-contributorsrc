@@ -452,6 +452,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "itsmoosh",
+      "name": "Marshall J. Styczinski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13881751?v=4",
+      "profile": "http://moosh.run/",
+      "contributions": [
+        "content",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
