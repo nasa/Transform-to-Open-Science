@@ -406,6 +406,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "hsu000001",
+      "name": "Leslie Hsu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4698271?v=4",
+      "profile": "https://github.com/hsu000001",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
