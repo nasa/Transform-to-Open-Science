@@ -434,6 +434,15 @@
         "review",
         "a11y"
       ]
+    },
+    {
+      "login": "webmz",
+      "name": "Maryam Zaringhalam (she/her)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38668602?v=4",
+      "profile": "https://github.com/webmz",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
