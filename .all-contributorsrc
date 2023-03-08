@@ -406,6 +406,80 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "hsu000001",
+      "name": "Leslie Hsu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4698271?v=4",
+      "profile": "https://github.com/hsu000001",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ashleysa",
+      "name": "Ashley E. Sands",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1907673?v=4",
+      "profile": "http://knowledgeinfrastructures.gseis.ucla.edu/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "maggiemmcadam",
+      "name": "maggiemmcadam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126527829?v=4",
+      "profile": "https://github.com/maggiemmcadam",
+      "contributions": [
+        "review",
+        "a11y"
+      ]
+    },
+    {
+      "login": "webmz",
+      "name": "Maryam Zaringhalam (she/her)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38668602?v=4",
+      "profile": "https://github.com/webmz",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "MikeTrizna",
+      "name": "Mike Trizna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/472677?v=4",
+      "profile": "https://github.com/MikeTrizna",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "itsmoosh",
+      "name": "Marshall J. Styczinski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13881751?v=4",
+      "profile": "http://moosh.run/",
+      "contributions": [
+        "content",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "zchandler",
+      "name": "Zach Chandler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/574978?v=4",
+      "profile": "https://github.com/zchandler",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "360macky",
+      "name": "Marcelo Arias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47821093?v=4",
+      "profile": "http://marceloarias.com",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,

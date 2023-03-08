@@ -5,7 +5,7 @@ Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Op
 Ready to get started transforming towards open science with us? Get started [here!](./CONTRIBUTING.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -155,6 +155,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/leightonlc"><img src="https://avatars.githubusercontent.com/u/51447690?v=4?s=100" width="100px;" alt="Leighton L Christiansen"/><br /><sub><b>Leighton L Christiansen</b></sub></a><br /><a href="#content-leightonlc" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hsu000001"><img src="https://avatars.githubusercontent.com/u/4698271?v=4?s=100" width="100px;" alt="Leslie Hsu"/><br /><sub><b>Leslie Hsu</b></sub></a><br /><a href="#content-hsu000001" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://knowledgeinfrastructures.gseis.ucla.edu/"><img src="https://avatars.githubusercontent.com/u/1907673?v=4?s=100" width="100px;" alt="Ashley E. Sands"/><br /><sub><b>Ashley E. Sands</b></sub></a><br /><a href="#content-ashleysa" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/maggiemmcadam"><img src="https://avatars.githubusercontent.com/u/126527829?v=4?s=100" width="100px;" alt="maggiemmcadam"/><br /><sub><b>maggiemmcadam</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/pulls?q=is%3Apr+reviewed-by%3Amaggiemmcadam" title="Reviewed Pull Requests">👀</a> <a href="#a11y-maggiemmcadam" title="Accessibility">️️️️♿️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/webmz"><img src="https://avatars.githubusercontent.com/u/38668602?v=4?s=100" width="100px;" alt="Maryam Zaringhalam (she/her)"/><br /><sub><b>Maryam Zaringhalam (she/her)</b></sub></a><br /><a href="#content-webmz" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MikeTrizna"><img src="https://avatars.githubusercontent.com/u/472677?v=4?s=100" width="100px;" alt="Mike Trizna"/><br /><sub><b>Mike Trizna</b></sub></a><br /><a href="#content-MikeTrizna" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://moosh.run/"><img src="https://avatars.githubusercontent.com/u/13881751?v=4?s=100" width="100px;" alt="Marshall J. Styczinski"/><br /><sub><b>Marshall J. Styczinski</b></sub></a><br /><a href="#content-itsmoosh" title="Content">🖋</a> <a href="#maintenance-itsmoosh" title="Maintenance">🚧</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zchandler"><img src="https://avatars.githubusercontent.com/u/574978?v=4?s=100" width="100px;" alt="Zach Chandler"/><br /><sub><b>Zach Chandler</b></sub></a><br /><a href="#content-zchandler" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://marceloarias.com"><img src="https://avatars.githubusercontent.com/u/47821093?v=4?s=100" width="100px;" alt="Marcelo Arias"/><br /><sub><b>Marcelo Arias</b></sub></a><br /><a href="#maintenance-360macky" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
