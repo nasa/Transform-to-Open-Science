@@ -443,6 +443,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "MikeTrizna",
+      "name": "Mike Trizna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/472677?v=4",
+      "profile": "https://github.com/MikeTrizna",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
