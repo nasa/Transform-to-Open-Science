@@ -5,7 +5,7 @@ Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Op
 Ready to get started transforming towards open science with us? Get started [here!](./CONTRIBUTING.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
@@ -165,6 +165,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zchandler"><img src="https://avatars.githubusercontent.com/u/574978?v=4?s=100" width="100px;" alt="Zach Chandler"/><br /><sub><b>Zach Chandler</b></sub></a><br /><a href="#content-zchandler" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://marceloarias.com"><img src="https://avatars.githubusercontent.com/u/47821093?v=4?s=100" width="100px;" alt="Marcelo Arias"/><br /><sub><b>Marcelo Arias</b></sub></a><br /><a href="#maintenance-360macky" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/amanda-staller"><img src="https://avatars.githubusercontent.com/u/126284110?v=4?s=100" width="100px;" alt="amanda-staller"/><br /><sub><b>amanda-staller</b></sub></a><br /><a href="#content-amanda-staller" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
