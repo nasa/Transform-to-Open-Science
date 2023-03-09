@@ -11,6 +11,7 @@ On 11 January 2023 the US White House — joined by 10 federal agencies, a coali
 - White House [factsheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)
 - NASA announces a Year of Open Science in [Nature](https://www.nature.com/articles/d41586-023-00019-y)
 - Federal [website](https://open.science.gov/)
+- NSF releases a Year of Open Science [Toolbox](https://nsf.widencollective.com/portals/sd9nlyvd/YearofOpenScienceToolkit) including powerpoint templates, letterhead, poster, and virtual backgrounds!
 
 This year will celebrate the benefits and successes of open science and inspire more scientists to adopt open science. Ultimately, the success of the Year of Open Science will be driven by collaborations with individuals, teams, and organizations who are ready to transform the culture of science into one that celebrates openness, and inclusion! 
 
