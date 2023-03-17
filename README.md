@@ -9,6 +9,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
+- TOPS is Hiring a Digital Content Coordinator - Apply by April 9th. Hybrid work schedule at NASA Marshall Space Flight Center, Remote also an option. [Job Link](https://alabamaworks.alabama.gov/vosnet/jobbanks/jobdetails.aspx?enc=9B8/uT7EfbEIDLIMZ8rho/bFqeqxRHlLivh3C648JWfDUoQud+MaaE/z0KIw5+HSX6PCFwkeRlhUW6G5jgqb+ytEIZnNb5VzX/J8P/eYZhixp4FI2gKLlzFjX6Zp7LhNnSoA6L0TtypAAtJRDuT5Xo7b6mTb9DVIcuXzVTkLkwU=/)
 - NASA Awards Millions to Historically Black Colleges, Universities Promoting Equality and Diversity in Scientific Research. [Read more](https://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities).
 - Biden-⁠Harris Administration Announces New Actions to Advance Open and Equitable Research [factsheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)
 - Nature Article: [Why NASA and federal agencies are declaring this the Year of Open Science](https://www.nature.com/articles/d41586-023-00019-y) 
