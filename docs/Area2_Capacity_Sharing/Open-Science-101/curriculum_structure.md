@@ -13,6 +13,13 @@ The following is a proposed structure for the Open Science 101, to help reinforc
 * Lesson 4: Benefits and Challenges of Open Science
 * Lesson 5: Community Stories, Resources and Policy
 
+### Open Science Tools & Resources
+* Lesson 1: Introduction to Open Science Tools
+* Lesson 2: Tools for Open Data
+* Lesson 3: Tools for Open Software
+* Lesson 4: Tools for Open Results
+* Lesson 5: Community Stories, Resources and Policy
+
 ### Open Data
 * Lesson 1: Introduction to Open Data
 * Lesson 2: Using Open Data
@@ -32,13 +39,6 @@ The following is a proposed structure for the Open Science 101, to help reinforc
 * Lesson 2: Using Open Results
 * Lesson 3: Making Open Results
 * Lesson 4: Sharing Open Results
-* Lesson 5: Community Stories, Resources and Policy
-
-### Open Science Tools & Resources
-* Lesson 1: Introduction to Open Science Tools
-* Lesson 2: Tools for Open Data
-* Lesson 3: Tools for Open Software
-* Lesson 4: Tools for Open Results
 * Lesson 5: Community Stories, Resources and Policy
 
 ## Proposed Detailed Outline
@@ -72,7 +72,38 @@ Key Terms: Open science, open data, open source, open access, interdisciplinary,
 **Lesson 5: Community Stories, Resources and Policy**
 * How open science as created an amazing ecosystem of tools and resources which will be touched upon in the coming lesson
 
-### Module 2: Open Data
+### Module 2: Open Tools
+*By the end of this module, a learner will have gained hands-on experience working with different open science tools, databases/datasets, and policies. Learners should have been introduced to open science communities within their field of study.* 
+
+Key Terms: Virtual research environments (VRE), SMART goals, advocacy, metadata, data repository, executable papers, Permanent URLs (PURLs) or Digital 
+Object Identifiers (DOIs)
+
+**Lesson 1: Introduction to Open Science Tools**
+* What open tools are currently “the default” for the open science community 
+* Explain why open science tools are valuable and how they enable open data, open software and open results
+* Why open science tools encourage scientific practice 
+
+**Lesson 2: Tools for Open Data**
+* Please include Zenodo and how to select a data repository
+* How to use data dictionaries
+
+**Lesson 3: Tools for Open Software**
+* Please including GitHub, Jupyter, Posit
+* How to select a good software tool (e.g., GitHub integration), and how to implement version control 
+
+**Lesson 4: Tools for Open Results**
+* Please include ORCID, the use of Twitter and Medium 
+* Please include executable and/or shared notebooks, virtual research environments, pre-registrations of studies, and interactive science
+* The way science is sharing differently today versus a few years ago 
+* How to think about the impact of your work
+* How to think of collaborations
+
+**Lesson 5: Community Stories, Resources and Policy**
+* Provide examples of how open science is practiced in different scientific fields
+* How open tools have made it easier to share data, software and results
+* Final call to action!
+
+### Module 3: Open Data
 *By the end of this module, learners should feel comfortable creating a data management plan that follows FAIR principles, including assigning a license/copyright, metadata tagging, and assigning PIDs. Learners should also feel comfortable utilizing and assigning metadata.* 
 
 Key Terms: Copyright, license, CC-BY and CC0 license, data management plan, metadata, machine-readable persistent identifiers (PID), findable (data), accessible (data), interoperable, reusable (data), privacy, sensitivity, de-identification, mediated access, crawl and mine [research articles], analytical reproducibility, dataflow 
@@ -113,7 +144,7 @@ Key Terms: Copyright, license, CC-BY and CC0 license, data management plan, meta
 * Communities and resources
 * How having open data enables open software 
 
-### Module 3: Open Software
+### Module 4: Open Software
 *By the end of this module, learners will understand the impact of open-source code, and have hands-on practice with choosing a license, creating a README, and uploading code to GitHub/GitLab. Learners will understand the importance of high-quality and documented code. Learners will discuss the impact of open-source software on open science and advancing equity in scientific fields.*
 
 Key Terms: open-source software, source vs. compiled code, permissive vs. non-permissive license, version control, README, documentation, code repository vs. software repository
@@ -149,7 +180,7 @@ Key Terms: open-source software, source vs. compiled code, permissive vs. non-pe
 * How open software impacts research 
 * How open data and open software enable open results
 
-### Module 4: Open Results
+### Module 5: Open Results
 *By the end of this module, learners will have an in-depth understanding of how open science principles help with increasing the reproducibility and replicability of research, as well as guidelines by which to choose the best location to publish their research. Learners will have hands-on experience with creating a replicable, open science workflow and using a virtual research environment, and practice with some tools that make such a workflow possible.*
 
 Key Terms: p-hacking, null results, workflow design, study plan, data dictionary, codebook, literate programming, open access [publication], green vs gold open access, embargo period, self archiving, pre-print, “reproducibility crisis”, computational provenance, authorship vs. unique identifiers 
@@ -192,35 +223,3 @@ Key Terms: p-hacking, null results, workflow design, study plan, data dictionary
 * Export control for projects in the United States 
 * Communities and resources
 * How open data, open software an open results are making science more equitable and impactful
-
-### Module 5: Open Tools
-*By the end of this module, a learner will have gained hands-on experience working with different open science tools, databases/datasets, and policies. Learners should have been introduced to open science communities within their field of study.* 
-
-Key Terms: Virtual research environments (VRE), SMART goals, advocacy, metadata, data repository, executable papers, Permanent URLs (PURLs) or Digital 
-Object Identifiers (DOIs)
-
-**Lesson 1: Introduction to Open Science Tools**
-* What open tools are currently “the default” for the open science community 
-* Explain why open science tools are valuable and how they enable open data, open software and open results
-* Why open science tools encourage scientific practice 
-
-**Lesson 2: Tools for Open Data**
-* Please include Zenodo and how to select a data repository
-* How to use data dictionaries
-
-**Lesson 3: Tools for Open Software**
-* Please including GitHub, Jupyter, Posit
-* How to select a good software tool (e.g., GitHub integration), and how to implement version control 
-
-**Lesson 4: Tools for Open Results**
-* Please include ORCID, the use of Twitter and Medium 
-* Please include executable and/or shared notebooks, virtual research environments, pre-registrations of studies, and interactive science
-* The way science is sharing differently today versus a few years ago 
-* How to think about the impact of your work
-* How to think of collaborations
-
-**Lesson 5: Community Stories, Resources and Policy**
-* Provide examples of how open science is practiced in different scientific fields
-* How open tools have made it easier to share data, software and results
-* Final call to action!
-
