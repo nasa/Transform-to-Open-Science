@@ -9,7 +9,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
-- TOPS is Hiring a Digital Content Coordinator - Apply by April 9th. Hybrid work schedule at NASA Marshall Space Flight Center, Remote also an option. [Job Link](https://alabamaworks.alabama.gov/vosnet/jobbanks/jobdetails.aspx?enc=9B8/uT7EfbEIDLIMZ8rho/bFqeqxRHlLivh3C648JWfDUoQud+MaaE/z0KIw5+HSX6PCFwkeRlhUW6G5jgqb+ytEIZnNb5VzX/J8P/eYZhixp4FI2gKLlzFjX6Zp7LhNnSoA6L0TtypAAtJRDuT5Xo7b6mTb9DVIcuXzVTkLkwU=/)
+
 - NSF releases a Year of Open Science [Toolbox](https://nsf.widencollective.com/portals/sd9nlyvd/YearofOpenScienceToolkit) including powerpoint templates, letterhead, poster, and virtual backgrounds!
 - Join us for our [March Community Forum on Challenges and Opportunities for Diversity, Equity, and Inclusion](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums/20230309_community_forum.md), March 9, 1-2PM ET.
 - NASA Awards Millions to Historically Black Colleges, Universities Promoting Equality and Diversity in Scientific Research. [Read more](https://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities).
