@@ -31,11 +31,12 @@ Supplemental award to encourage the conversion of legacy software to open source
 Tutorials showcasing open science in action and NASA cloud data, summer schools, virtual cohorts. More information available [here](/docs/Area4_Moving_To_Openness/TOPST/readme.md).
 **The 2022 deadline for this opportunity has passed.** 
 
-## [F.15 High Priority Open-Source Science](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-73-f15-high-priority-open-source-science-final-text)
+## [F.15 High Priority Open-Source Science](https://science.nasa.gov/researchers/solicitations/roses-2023/amendment-5-f15-high-priority-open-source-science-final-text-and-due-dates)
 Supporting innovative open source tools, software, frameworks, data formats, and libraries. Budget ~$1M. Yearly, rolling deadline.
 - Innovative open-source tools, software, frameworks, data formats, and libraries that will have a significant impact on the SMD science community
-- Small awards of ~$100k to support work for one year
-- Proposals may be submitted at any time until March 29, 2023
+- Awards of ~$100k to support work for one year
+- Proposals for ROSES-22 will be accepted until March 29, 2023
+- Proposals for ROSES-23 will be accepted until March 29, 2024
 
 ## [F.16 Supplement for Software Platforms](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-72-f16-supplement-scientific-software-platforms-deferred-roses-2023)
 Supplemental support to existing awards for usage of scientific platforms. Budget TBD.
