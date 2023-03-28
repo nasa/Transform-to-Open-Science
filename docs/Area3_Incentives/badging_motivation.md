@@ -1,5 +1,4 @@
-
-# Why Use Badges
+# Why Use Badges? 
 
 Research and practices by sites such as [GitHub’s badge profiles](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile) have shown that badges work as motivation. Implementing badges in journals has been shown to increase the rate of data sharing, as well as increasing a sense of community. Additionally, badges have been used to serves as an easy check for reviewers when evaluating proposals and/or submitted work (example from OSF [here](https://osf.io/tvyxz/wiki/4.%20Incorporating%20Badge%20Visualization%20into%20Publications/)). The following resources provide further evidence and information for those wishing to learn more about the motivation of badging: 
 

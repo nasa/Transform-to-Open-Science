@@ -1,5 +1,5 @@
 
-# TOPS Community Panel #1
+# May 2022 Community Panel
 
 **Where:** Public (virtual) meeting  
 **When:** 17-19 May 2022, 12-3 EST (9-12 PST), each day.  
@@ -12,10 +12,8 @@
 
 Each day we will present TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
 
-
 [Please also take a moment to review our Code of Conduct here](../../../CODE_OF_CONDUCT.md)
 
-  
 Links to presentations will be added the morning of the event. 
 
 <table>
@@ -200,7 +198,7 @@ Links to presentations will be added the morning of the event.
   <tr>
     <td><a href = "https://youtu.be/Nt31-2g3G_4?t=716">00:11:56 - 00:29:19</a>
    </td>
-   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=716">Overview of OpenCore Curriculum</a>
+   <td><a href = "https://youtu.be/Nt31-2g3G_4?t=716">Overview of the Open Science Curriculum</a>
    </td>
    <td>Shelley Stall & Chelle Gentemann
    </td>
