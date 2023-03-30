@@ -19,6 +19,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 - NASA's new Science Information Policy has been released! You can find resources, frequently asked questions and the full text of the policy at [science.nasa.gov](https://science.nasa.gov/researchers/science-data/science-information-policy). 
   - At TOPS, we are especially excited about the [Open-Source Science Guidance for researchers funded by NASA's Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf). This guidance is being [developed openly on GitHub](https://github.com/nasa/smd-open-science-guidelines), and contributions are welcome. 
   - [A presentation summarizing the policy for scientists](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/resources/SPD-41a_for_mission_scientists.pdf) created by M. Styczinski of JPL is available too!
+- Apply to become a local lead for the 2023 Space Apps challenge! Learn more [here](https://www.spaceappschallenge.org/).
 - SMD's Data Portal has been [launched](https://science.data.nasa.gov/)! Explore NASA's science data as you explore open science. 
 - Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
 - Open Science funding [opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
