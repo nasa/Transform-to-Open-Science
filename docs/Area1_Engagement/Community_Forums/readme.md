@@ -3,10 +3,11 @@
 Approximately once a month, we hold a public meeting where we discuss parts of the TOPS mission, have guests who discuss their open science activities, or just talk about open science. We try to keep it interactive, with lots of questions and discussion. Come join us! Public participation always encouraged!
 
 ## Next Forum
-March 9 2023 [Forum](20230309_community_forum.md): Challenges and Opportunities for Diversity, Equity, and Inclusion
+April 13 2023 [Forum](20230413_community_forum.md): NASA’s 2022 Space App challenge winners and finalists showcase
 
 ## Previous Forums
 
+* March 9 2023 [Forum](20230309_community_forum.md)
 * February 9 2023 [Forum](20230209_community_forum.md)
 * November 10 2022 [Forum](./2022_Forums/20221110_community_forum.md). 
 * October 13 2022 [Forum](./2022_Forums/20221013_community_forum.md).
