@@ -7,7 +7,7 @@ NASA [Space App](https://www.spaceappschallenge.org/) winners and finalists, [MI
 **Date:** Thursday April 13, 2023 1-2 PM ET
 
 
-[Register] coming soon
+[Register](https://forms.gle/XV27agBg2JcBjzS88)
 
 
 
