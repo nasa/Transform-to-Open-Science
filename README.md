@@ -9,13 +9,13 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
+- In celebration of the 2023 Year of Open Science, CERN and NASA are jointly organizing “[Accelerating the Adoption of Open Science](https://home.cern/news/announcement/knowledge-sharing/cernnasa-summit-accelerating-adoption-open-science).”
 - NSF releases a Year of Open Science [Toolbox](https://nsf.widencollective.com/portals/sd9nlyvd/YearofOpenScienceToolkit) including powerpoint templates, letterhead, poster, and virtual backgrounds!
-- Join us for our [March Community Forum on Challenges and Opportunities for Diversity, Equity, and Inclusion](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums/20230309_community_forum.md), March 9, 1-2PM ET.
+- Join us for our [April Community Forum on NASA’s 2022 Space App challenge winners and finalists showcase](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20230413_community_forum.md), April 13, 1-2PM ET.
 - NASA Awards Millions to Historically Black Colleges, Universities Promoting Equality and Diversity in Scientific Research. [Read more](https://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities).
 - Biden-⁠Harris Administration Announces New Actions to Advance Open and Equitable Research [factsheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)
 - Nature Article: [Why NASA and federal agencies are declaring this the Year of Open Science](https://www.nature.com/articles/d41586-023-00019-y) 
 - Federal [portal](https://open.science.gov/)
-- TOPS was at the AMS 2023 meeting! If you missed us, you can find all our presentations on our [Zenodo](https://doi.org/10.5281/zenodo.7554803). If you met us at AMS and are just checking out our repo for the first time - Welcome! We are so excited you are here. 
 - NASA's new Science Information Policy has been released! You can find resources, frequently asked questions and the full text of the policy at [science.nasa.gov](https://science.nasa.gov/researchers/science-data/science-information-policy). 
   - At TOPS, we are especially excited about the [Open-Source Science Guidance for researchers funded by NASA's Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf). This guidance is being [developed openly on GitHub](https://github.com/nasa/smd-open-science-guidelines), and contributions are welcome. 
   - [A presentation summarizing the policy for scientists](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/resources/SPD-41a_for_mission_scientists.pdf) created by M. Styczinski of JPL is available too!
