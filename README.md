@@ -9,6 +9,8 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Announcements!
+
+- NASA is pleased to announce [award selections](https://www.nasa.gov/centers/marshall/news/releases/2023/nasa-boosts-open-science-through-innovative-training) for the Transform to Open Science Training [TOPST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init) proposals. These exciting projects showcase open science in action and will advance adoption of open science by helping participants earn their NASA Open Science Certification through summer schools and virtual cohorts. [Enroll here](https://docs.google.com/forms/d/e/1FAIpQLSdGCAbtfTC9Yx8vs-mJoVf4XUnhC_Kq4ip7llqlvd49eMfseQ/viewform) to learn more about opportunities to participate and earn your NASA open science certification!
 - In celebration of the 2023 Year of Open Science, CERN and NASA are jointly organizing “[Accelerating the Adoption of Open Science](https://home.cern/news/announcement/knowledge-sharing/cernnasa-summit-accelerating-adoption-open-science).”
 - NSF releases a Year of Open Science [Toolbox](https://nsf.widencollective.com/portals/sd9nlyvd/YearofOpenScienceToolkit) including powerpoint templates, letterhead, poster, and virtual backgrounds!
 - Join us for our [April Community Forum on NASA’s 2022 Space App challenge winners and finalists showcase](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20230413_community_forum.md), April 13, 1-2PM ET.
