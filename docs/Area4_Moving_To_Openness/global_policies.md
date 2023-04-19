@@ -1,5 +1,26 @@
 # Plans and Policies around the world that supports moving toward open science
 
+## Plans
+
+02/2018 Europe/Funding Organzations [Plan S](https://www.coalition-s.org/). Research papers must be immediately free to read and published under a licence that allows anyone can download, reuse or republish the paper. 
+
+02/2020 Canada [Roadmap to Open Science](https://www.ic.gc.ca/eic/site/063.nsf/eng/h_97992.html)
+
+11/2021 UNESCO [Recommendation on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation)
+
+07/2021 France [Second French Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/)
+
+06/2022 Italy [National Plan for Open Science - National Research Programme 2021-2027](https://www.icdi.it/en/news-en/168-green-light-for-the-national-plan-for-open-science)
+
+10/2022 Ukraine [National Plan regarding Open Science](https://www.kmu.gov.ua/en/news/ukraina-pryiednalas-do-krain-ies-shcho-maiut-zatverdzhenyi-plan-realizatsii-pryntsypiv-vidkrytoi-nauky)
+
+11/2022 Ireland [National Action Plan for Open Research: Advancing Open Science and Public Access to Research](https://norf.ie/national-action-plan-launch/)
+
+## Policies
+
+08/2022 USA Open Access Publications [Nelson Memo](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/).
+All US agencies to have updated public access policies to make publications and research funded by taxpayers publicly accessible, without an embargo or cost.
+Policies to be fully implemented by the end of 2025.
 
 | Country/Region | Date    | Document                                                                                                                                                                                     | Type           | Comments                                                                                                                                                                                                          |
 | -------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
