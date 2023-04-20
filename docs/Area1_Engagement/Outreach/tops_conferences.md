@@ -1,4 +1,4 @@
-# TOPS Priority Events for 2023
+# TOPS Events for 2023
 
 Sync your calendar to ours using Google Calendar! [GCAL](https://calendar.google.com/calendar/embed?), [ICAL](https://calendar.google.com/calendar/ical/tce6loed2q1rnej3q8t3i0sha0%40group.calendar.google.com/public/basic.ics)
 
