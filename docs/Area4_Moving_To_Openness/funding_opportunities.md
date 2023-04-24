@@ -1,7 +1,7 @@
 # Funding Opportunities for Pursuing Open Science
 **Proposers should always consult [NSPIRES](https://nspires.nasaprs.com/external/) for the most accurate and up-to-date information on NASA proposals.**
 
-### TOPS' proposal resources are available [here](https://nasa.github.io/Transform-to-Open-Science-Book/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.html).
+### TOPS' proposal resources are available [here](https://nasa.github.io/Transform-to-Open-Science-Book/Proposal_Resources/readme.html).
 
 ## [F.2 Topical Workshops, Symposia, and Conferences](https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2021/amendment-10-final-text-f2-topical-workshops-symposia-and-conferences)
 Events, Hackathons, un-conferences, and challenges that build open science skills, Training in open science. Rolling deadline.
