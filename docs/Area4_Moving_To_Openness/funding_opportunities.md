@@ -44,4 +44,18 @@ Supplemental support to existing awards for usage of scientific platforms. Budge
 - Scientific analysis platforms are defined as interactive environments accessible through a web browser providing access to data and computing resources to support scientific analysis and processing 
 - Deferred until ROSES 2023
 
+## [F.22 Research Initiation Awards](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bD6077002-CFAA-75A8-2801-89B66032541D%7d&path=&method=init)
+Solicits proposals from [non-R1 institutions](https://carnegieclassifications.acenet.edu/) to provide support for investigators and their students at institutions underrepresented in the SMD ecosystem
+- Enable investigators at institutions underrepresented in the SMD ecosystem to initiate activities that, over the course of a two-year period, will provide the foundation for a competitive, sustainable, and productive program of research
+- Enable undergraduate students affiliated with the proposing investigator to perform cutting-edge research in SMD-relevant field
+- Optional Notices of Intent may be submitted until May 18, 2023
+- Proposals will be accepted until July 18, 2023
+
+## [F.23 SMD Bridge Program Seed Funding](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b4C8B84E1-912B-E387-F03A-19DA6873F508%7d&path=&method=init)
+Solicits proposals to provide support for faculty investigators and their students at under-resourced institutions (URIs) to carry out NASA-relevant research
+- SMD aims to facilitate new and expand ongoing partnerships between students and faculty at URIs and researchers at NASA Centers that could be expected to grow into Bridge partnerships and become well-positioned to submit a proposal to the future SMD Bridge Program opportunity in ROSES-2023
+- Notices of Intent are not requested 
+- Proposals may be submitted at any time, but those submitted by June 30, 2023, will be reviewed in Summer 2023
+- Anticipated award date in October 2023
+
 **TOPS' proposal resources are available [here](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md).**
