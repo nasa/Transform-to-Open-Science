@@ -3,7 +3,7 @@
 Approximately once a month, we hold a public meeting where we discuss parts of the TOPS mission, have guests who discuss their open science activities, or just talk about open science. We try to keep it interactive, with lots of questions and discussion. Come join us! Public participation always encouraged!
 
 ## Next Forum
-May 11 2023 [Forum](202300511_community_forum.md): Power of Open Science and International Collaboration
+May 11 2023 [Forum](20230511_community_forum.md): Power of Open Science and International Collaboration
 NASA - CERN
 
 
