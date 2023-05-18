@@ -9,5 +9,6 @@ Panelist
  
 
 *Date:** Thursday May 11, 2023 1-2 PM ET
-- **[Register](https://docs.google.com/forms/d/151FXO1cKx4lq5HG98Wq6viDCarR2pO4Fsy_89272gfI/edit)**
-- **[Ask Questions](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)**
+- **[Video Recording](https://www.youtube.com/watch?v=qncSHqRyF3g)**
+- **[Slides](https://zenodo.org/record/7948513#.ZGY9M0_MIuU)**
+- **[Code Of Conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/code_of_conduct.md)**
