@@ -11,3 +11,4 @@ Panelist
 *Date:** Thursday May 11, 2023 1-2 PM ET
 - **[Video Recording](https://www.youtube.com/watch?v=qncSHqRyF3g)**
 - **[Slides](https://zenodo.org/record/7948513#.ZGY9M0_MIuU)**
+- **[Code Of Conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/code_of_conduct.md)**
