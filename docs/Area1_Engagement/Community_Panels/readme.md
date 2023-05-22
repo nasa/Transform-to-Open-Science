@@ -5,6 +5,7 @@ TOPS Community Panel reviews and provides input on NASA’s strategy for transit
 ## Previous Panel Meetings
 - October 2022 [Panel](./20221005_community_panel.md)   
 - May 2022 [Panel](./20220517_community_panel.md)   
+- June 2023 Panel (details to be added shortly)
 
 ## 2022 TOPS Community Panelists:
 
