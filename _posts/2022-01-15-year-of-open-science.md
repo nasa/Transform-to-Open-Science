@@ -34,6 +34,7 @@ To sign up your organization and be listed below, please fill out this [form](ht
 - [Higher Education Leadership Initiative for Open Scholarship (HELIOS)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/HELIOS.html)
 - [Life Sciences Editors Foundation (LSEF)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/LSEF.html)
 - [PREreview](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/PREreview.html)
+- [Open Research Funders Group (ORFG)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/ORFG.html)
 
 ### For You
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us in the Year of Open Science! 
