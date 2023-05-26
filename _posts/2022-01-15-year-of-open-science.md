@@ -35,6 +35,10 @@ To sign up your organization and be listed below, please fill out this [form](ht
 - [Life Sciences Editors Foundation (LSEF)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/LSEF.html)
 - [PREreview](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/PREreview.html)
 - [Open Research Funders Group (ORFG)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/ORFG.html)
+- [Creative Commons](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/CreativeCommons.html)
+- [Scholarly Publishing and Academic Resources Coalition (SPARC)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/SPARC.html)
+- [The Michael J. Fox Foundation for Parkinson’s Research](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/MJFoxFoundation.html)
+- [GO FAIR US](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/GOFAIRUS.html)
 
 ### For You
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us in the Year of Open Science! 
