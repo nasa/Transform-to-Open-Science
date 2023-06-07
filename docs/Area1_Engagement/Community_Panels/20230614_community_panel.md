@@ -14,6 +14,30 @@ NASA’s Transform to Open Science (TOPS) mission is being designed to support t
 [Please also take a moment to review our Code of Conduct here](../../../CODE_OF_CONDUCT.md)
 
 
+  <!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 0.755 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β34
+* Tue Jun 06 2023 17:28:57 GMT-0700 (PDT)
+* Source doc: Untitled document
+* Tables are currently converted to HTML tables.
+----->
+
+
+
 <table>
   <tr>
    <td colspan="3" ><strong><em>Day 1: Wednesday June 14th, 2023</em></strong>
@@ -187,9 +211,9 @@ NASA’s Transform to Open Science (TOPS) mission is being designed to support t
   <tr>
    <td>1:00 PM
    </td>
-   <td>Open Science 101 Implementation
+   <td>Open Science 101 Rollout - Year 1
    </td>
-   <td>Paul Bremner
+   <td>Kaylin Bugbee
    </td>
   </tr>
   <tr>
@@ -203,9 +227,9 @@ NASA’s Transform to Open Science (TOPS) mission is being designed to support t
   <tr>
    <td>1:45 PM
    </td>
-   <td>Community Forum (Public)
+   <td>Community Forum (Public Q&A)
    </td>
-   <td>MSFC
+   <td>Moderator: Amanda Adams
    </td>
   </tr>
   <tr>
@@ -221,7 +245,7 @@ NASA’s Transform to Open Science (TOPS) mission is being designed to support t
    </td>
    <td>Scaling the curriculum to 20K
    </td>
-   <td>Paul Bremner
+   <td>Kaylin Bugbee
    </td>
   </tr>
   <tr>
@@ -280,7 +304,7 @@ NASA’s Transform to Open Science (TOPS) mission is being designed to support t
    </td>
    <td>2024 Engagement Strategy
    </td>
-   <td>Amanda Adams/Paul Bremner
+   <td>Amanda Adams/Kaylin Bugbee
    </td>
   </tr>
   <tr>
