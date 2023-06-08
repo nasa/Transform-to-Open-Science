@@ -8,27 +8,6 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 [![All Contributors](https://img.shields.io/badge/all_contributors-53-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-# Announcements!
-
-- NASA is pleased to announce [award selections](https://www.nasa.gov/centers/marshall/news/releases/2023/nasa-boosts-open-science-through-innovative-training) for the Transform to Open Science Training [TOPST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init) proposals. These exciting projects showcase open science in action and will advance adoption of open science by helping participants earn their NASA Open Science Certification through summer schools and virtual cohorts. [Enroll here](https://docs.google.com/forms/d/e/1FAIpQLSdGCAbtfTC9Yx8vs-mJoVf4XUnhC_Kq4ip7llqlvd49eMfseQ/viewform) to learn more about opportunities to participate and earn your NASA open science certification!
-- In celebration of the 2023 Year of Open Science, CERN and NASA are jointly organizing “[Accelerating the Adoption of Open Science](https://home.cern/news/announcement/knowledge-sharing/cernnasa-summit-accelerating-adoption-open-science).”
-- NSF releases a Year of Open Science [Toolbox](https://nsf.widencollective.com/portals/sd9nlyvd/YearofOpenScienceToolkit) including powerpoint templates, letterhead, poster, and virtual backgrounds!
-- Join us for our [April Community Forum on NASA’s 2022 Space App challenge winners and finalists showcase](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20230413_community_forum.md), April 13, 1-2PM ET.
-- NASA Awards Millions to Historically Black Colleges, Universities Promoting Equality and Diversity in Scientific Research. [Read more](https://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities).
-- Biden-⁠Harris Administration Announces New Actions to Advance Open and Equitable Research [factsheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)
-- Nature Article: [Why NASA and federal agencies are declaring this the Year of Open Science](https://www.nature.com/articles/d41586-023-00019-y) 
-- Federal [portal](https://open.science.gov/)
-- NASA's new Science Information Policy has been released! You can find resources, frequently asked questions and the full text of the policy at [science.nasa.gov](https://science.nasa.gov/researchers/science-data/science-information-policy). 
-  - At TOPS, we are especially excited about the [Open-Source Science Guidance for researchers funded by NASA's Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v2%2020230407.pdf). This guidance is being [developed openly on GitHub](https://github.com/nasa/smd-open-science-guidelines), and contributions are welcome. 
-  - [A presentation summarizing the policy for scientists](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/resources/SPD-41a_for_mission_scientists.pdf) created by M. Styczinski of JPL is available too!
-- Apply to become a local lead for the 2023 Space Apps challenge! Learn more [here](https://www.spaceappschallenge.org/).
-- SMD's Data Portal has been [launched](https://science.data.nasa.gov/)! Explore NASA's science data as you explore open science. 
-- Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
-- Open Science funding [opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
-- Open Science [stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
-- [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
-
-
 <img align="right" src="https://zenodo.org/record/7742997/files/Tops_Badge_Nasa.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
 # Transform to Open Science (TOPS)
@@ -39,6 +18,11 @@ Open Science is the principle and practice of making research products and proce
 ## What We Do
 
 The world is changing rapidly. Everyday new problems emerge and it takes groundbreaking scientific discoveries to solve them. To stay ahead, the pace of science must accelerate and science needs to be even better, more accurate, and faster to enable the truly transformative breakthroughs that will help us thrive. Closed science, hoarding information and resources, silos of knowledge holds science back by limiting who can participate. We need more voices that work together and share knowledge and resources. Only then will we find new and better solutions. NASA's Transform to Open Science (TOPS) mission will allow us to create a scientific culture that is ready for 21st century challenges. Open Science will **broaden participation, increase accessibility to knowledge, and embrace new technologies** that can respond to these changes at scale. We hope you will join us in creating an open science infrastructure in your organization. TOPS will show you how! 
+
+## TOPS Vision
+A future where new scientific discoveries and solutions are enabled by inclusive open science collaborations.
+## TOPS Mission
+Inspire and empower scientists, researchers, and communities to embrace open science as a catalyst for positive change, leading to a more equitable and impactful scientific ecosystem.
 
 ## Strategic Objectives
 
@@ -94,6 +78,25 @@ We have collected frequently asked questions [here](./tops_faq.md). Please use t
 You can [reach out to us using our contact form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit)!
 
 **We hope you will join us and champion open science!**
+
+# Announcements!
+
+- NASA is pleased to announce [award selections](https://www.nasa.gov/centers/marshall/news/releases/2023/nasa-boosts-open-science-through-innovative-training) for the Transform to Open Science Training [TOPST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init) proposals. These exciting projects showcase open science in action and will advance adoption of open science by helping participants earn their NASA Open Science Certification through summer schools and virtual cohorts. [Enroll here](https://docs.google.com/forms/d/e/1FAIpQLSdGCAbtfTC9Yx8vs-mJoVf4XUnhC_Kq4ip7llqlvd49eMfseQ/viewform) to learn more about opportunities to participate and earn your NASA open science certification!
+- In celebration of the 2023 Year of Open Science, CERN and NASA are jointly organizing “[Accelerating the Adoption of Open Science](https://home.cern/news/announcement/knowledge-sharing/cernnasa-summit-accelerating-adoption-open-science).”
+- NSF releases a Year of Open Science [Toolbox](https://nsf.widencollective.com/portals/sd9nlyvd/YearofOpenScienceToolkit) including powerpoint templates, letterhead, poster, and virtual backgrounds!
+- NASA Awards Millions to Historically Black Colleges, Universities Promoting Equality and Diversity in Scientific Research. [Read more](https://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities).
+- Biden-⁠Harris Administration Announces New Actions to Advance Open and Equitable Research [factsheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)
+- Nature Article: [Why NASA and federal agencies are declaring this the Year of Open Science](https://www.nature.com/articles/d41586-023-00019-y) 
+- Federal [portal](https://open.science.gov/)
+- NASA's new Science Information Policy has been released! You can find resources, frequently asked questions and the full text of the policy at [science.nasa.gov](https://science.nasa.gov/researchers/science-data/science-information-policy). 
+  - At TOPS, we are especially excited about the [Open-Source Science Guidance for researchers funded by NASA's Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v2%2020230407.pdf). This guidance is being [developed openly on GitHub](https://github.com/nasa/smd-open-science-guidelines), and contributions are welcome. 
+  - [A presentation summarizing the policy for scientists](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/resources/SPD-41a_for_mission_scientists.pdf) created by M. Styczinski of JPL is available too!
+- Apply to become a local lead for the 2023 Space Apps challenge! Learn more [here](https://www.spaceappschallenge.org/).
+- SMD's Data Portal has been [launched](https://science.data.nasa.gov/)! Explore NASA's science data as you explore open science. 
+- Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
+- Open Science funding [opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
+- Open Science [stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
+- [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
 
 ## Contributors ✨
 
