@@ -4,7 +4,7 @@
 **When:** 14-16 June 2023, 12-4 EST (9-11 PST), each day. Register [here](https://nasaenterprise.webex.com/webappng/sites/nasaenterprise/webinar/webinarSeries/register/d18eefb410d84a92ac6c0e2d4603610c)   
 **Questions?** Submit questions before and during panel using our IO tool [here](https://nasa.cnf.io/sessions/db1t/#!/dashboard)  
 **Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)  
-**Slides:** You can access the slides for the panel [here](https://doi.org/10.5281/zenodo.8022115)
+**Slides:** You can access the slides for the panel [here](https://doi.org/10.5281/zenodo.8022115)  
 **Recordings:** To be added  
 **Transcripts:** To be added  
 **June 2023 Community Panel Summary:** To be added
