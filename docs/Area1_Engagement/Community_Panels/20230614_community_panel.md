@@ -2,7 +2,7 @@
 
 **Where:** Public (virtual) meeting  
 **When:** 14-16 June 2023, 12-4 EST (9-11 PST), each day.   
-**Register [here](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=mae617d7b07c022660c7ea2c3a9f8435c)**   
+**Join: [here](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=mae617d7b07c022660c7ea2c3a9f8435c)**   
 **Questions?** Submit questions before and during panel using our IO tool [here](https://nasa.cnf.io/sessions/db1t/#!/dashboard)  
 **Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)  
 **Slides:** You can access the slides for the panel [here](https://doi.org/10.5281/zenodo.8022115)  
