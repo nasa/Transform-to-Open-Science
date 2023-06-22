@@ -12,6 +12,6 @@ Thank you for your interest in [NASA's Transform to Open Science (TOPS) program]
 Subscribe to our newsletter with information about upcoming open science events and announcements.
 
 ### Enroll to Beta Test NASA's Open Science 101 (OS101)
-NASA's OS101 is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science plan. Get early access to the beta version of Open Science 101 and provide feedback.
+NASA's OS101 is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science plan. Get early access to the beta version of Open Science 101 and let us know your feedback!
 
 [tops github link]: https://nasa.github.io/Transform-to-Open-Science/
