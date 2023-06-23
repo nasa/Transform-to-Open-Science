@@ -115,6 +115,7 @@ p, span, p a {
 	border-radius: 5px;
 	overflow: hidden;
 	margin-bottom: 20px;
+	height: auto;
 }
 
 div.ctct-form-embed div.ctct-form-defaults {
@@ -189,17 +190,4 @@ div.ctct-form-embed form.ctct-form-custom label.ctct-form-label, div.ctct-form-e
 	line-height: 1.4em;
 	font-weight: 400;
 	color: rgba(255, 255, 255, 0.85) !important;
-}
-
-@media(max-width: 767.9px) {
-	.tops_form_container .tops_form_content .tops_form_image {
-		height: 150px;
-		object-fit: cover;
-	}
-}
-
-@media(min-width: 768px) {
-	.tops_form_container .tops_form_content .tops_form_image {
-		height: auto;
-	}
 }
