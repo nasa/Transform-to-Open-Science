@@ -31,7 +31,7 @@ Throughout 2023, the Year of Open Science, TOPS will build capacity for practici
 
 Our team will: 
 
- - Build our [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) and expand our brand footprint 
+ - Build our [email list](https://nasa.github.io/Transform-to-Open-Science/signup/) and expand our brand footprint 
  - Engage with large conference societies (i.e. AGU, AMS, AAS, AAAS) to designate 2023 conference theme with a focus of open science
  - Lead regular discussions of open science practices and initiatives in 2023 and beyond at many major scientific conferences
  - Educate stakeholders through a comprehensive curriculum workshop

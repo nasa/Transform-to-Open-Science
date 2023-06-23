@@ -63,7 +63,7 @@ Short presentation on TOPS initiative:
 - [Recording](https://youtu.be/Gzg_xTEUOII?t=408) starts at 6:48.
 
 ## Join TOPS Mailing List
-Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations there.
+Please join the TOPS [email list](https://nasa.github.io/Transform-to-Open-Science/signup/) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations there.
 
 ## Repository
 
