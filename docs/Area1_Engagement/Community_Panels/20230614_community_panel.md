@@ -3,7 +3,7 @@
 **Where:** Public (virtual) meeting  
 **When:** 14-16 June 2023, 12-4 EST (9-11 PST), each day.   
 **Slides:** You can access the slides for the panel [here](https://doi.org/10.5281/zenodo.8022115)  
-**Recordings:** [Day 1](https://youtu.be/0p4NvV1N3Xs), [Day 2](https://youtu.be/u3AoUx45vKU), [Day 3](https://youtu.be/V7vMhSzz2dk) 
+**Recordings:** [Day 1](https://youtu.be/0p4NvV1N3Xs), [Day 2](https://youtu.be/u3AoUx45vKU), [Day 3](https://youtu.be/V7vMhSzz2dk)   
 **Transcripts:** To be added  
 **June 2023 Community Panel Summary:** To be added
 
