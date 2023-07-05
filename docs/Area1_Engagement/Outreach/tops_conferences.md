@@ -12,6 +12,7 @@ Sync your calendar to ours using Google Calendar! [GCAL](https://calendar.google
 | April 23 - 28, 2023 | European Geoscience Union (EGU) | Vienna, Austria | BPS, Planetary, Helio, Earth, Astro |
 | June 4 - 8, 2023 | American Astronomical Society (AAS) Summer Meeting | Albuquerque, NM | Planetary, Helio, Astro |
 | July 16 - 21, 2023 | International Geoscience and Remote Sensing Symposium (IGARSS) | Pasadena, CA | Earth |
+| August 6 - 11, 2023 | ESA for All Ecologists | Portland, OR | BPS, Earth |
 | Oct 12 - 14, 2023 | Society of Asian Scientists and Engineers (SASE) National Convention | Atlanta, GA | HUGs |
 | Oct 19 - 21, 2023 | American Indian Science and Engineering Society | Spokane, WA | HUGs |
 | Oct 26 - 28, 2023 | Society for the Advancement of Chicanos and Native Americans in Science (SACNAS) | Portland, OR | HUGs |
