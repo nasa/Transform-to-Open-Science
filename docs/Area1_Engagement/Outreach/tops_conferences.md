@@ -10,7 +10,7 @@ Sync your calendar to ours using Google Calendar! [GCAL](https://calendar.google
 | March 2 - 5, 2023 |American Association for the Advancement of Science (AAAS) Meeting | Washington, DC | BPS, Planetary, Helio, Earth, Astro |
 | March 13 - 17, 2023 | Lunar and Planetary Science Conference (LPSC) | Houston, TX | Planetary |
 | April 23 - 28, 2023 | European Geoscience Union (EGU) | Vienna, Austria | BPS, Planetary, Helio, Earth, Astro |
-| June 4 - 8, 2023 | American Astronomical Society (AAS) Summer Meeting | Albuquerque, NM | Planetary, Helio, Astro |
+| June 4 - 8, 2023 | American Astronomical Society (AAS) Summer Meeting ~ TOPS AAS [Presentations](https://doi.org/10.5281/zenodo.8008090) | Albuquerque, NM | Planetary, Helio, Astro |
 | July 16 - 21, 2023 | International Geoscience and Remote Sensing Symposium (IGARSS) | Pasadena, CA | Earth |
 | August 6 - 11, 2023 | ESA for All Ecologists | Portland, OR | BPS, Earth |
 | Oct 12 - 14, 2023 | Society of Asian Scientists and Engineers (SASE) National Convention | Atlanta, GA | HUGs |
