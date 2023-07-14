@@ -40,7 +40,7 @@ background: '/assets/images/light-blue-background.png'
   <div class="col-sm-8">
     <div class="row">
       {% for post in paginator.posts %}
-      {% unless post.featured == true %}
+      {% unless post.featured == true or post.invisible == true %}
       <div class="col-md-6 mb-5">
         {% include postbox.html %}
       </div>
