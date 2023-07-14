@@ -19,11 +19,41 @@ Upon completion of all five modules, participants earn a NASA Open Science virtu
 ### Self-Paced Virtual Training: Coming December 2023
 Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.
 </div>
-<div class="tops_expandable_table" markdown="1">
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+<div class="tops_expandable_table">
+	<table>
+	  <thead>
+		<tr>
+		  <th>Header1</th>
+		  <th>Header2</th>
+		  <th>Header3</th>
+		  <th>Header4</th>
+		  <th>Header5</th>
+		</tr>
+	  </thead>
+	  <tbody>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+	  </tbody>
+	</table>
 </div>
 </li>
 <li>
@@ -31,11 +61,41 @@ Prefer a more self-paced virtual option? We've got you covered! Our MOOC option 
 ### Self-Paced Virtual Training: Coming December 2023
 Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.
 </div>
-<div class="tops_expandable_table" markdown="1">
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+<div class="tops_expandable_table">
+	<table>
+	  <thead>
+		<tr>
+		  <th>Header1</th>
+		  <th>Header2</th>
+		  <th>Header3</th>
+		  <th>Header4</th>
+		  <th>Header5</th>
+		</tr>
+	  </thead>
+	  <tbody>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+	  </tbody>
+	</table>
 </div>
 </li>
 <li>
@@ -43,11 +103,41 @@ Prefer a more self-paced virtual option? We've got you covered! Our MOOC option 
 ### Self-Paced Virtual Training: Coming December 2023
 Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.
 </div>
-<div class="tops_scrollable_table" markdown="1">
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+<div class="tops_scrollable_table">
+	<table>
+	  <thead>
+		<tr>
+		  <th>Header1</th>
+		  <th>Header2</th>
+		  <th>Header3</th>
+		  <th>Header4</th>
+		  <th>Header5</th>
+		</tr>
+	  </thead>
+	  <tbody>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+	  </tbody>
+	</table>
 </div>
 </li>
 </ul>
