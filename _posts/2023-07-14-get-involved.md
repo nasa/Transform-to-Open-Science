@@ -13,33 +13,43 @@ The goal of Open Science 101 is to provide researchers, students, and citizen sc
 
 Upon completion of all five modules, participants earn a NASA Open Science virtual badge through Credly that can be displayed on social media and portfolio pages, a frameable certificate of achievement from NASA and a gold NASA TOPS pin to wear. We'd love for you to share your achievement on social media using #TOPSCertified.
 
-<ul>
+<ul class="tops_tablelist">
 <li>
 <div markdown="1">
 ### Self-Paced Virtual Training: Coming December 2023
 Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.
 </div>
-<div class="expandable_table">
+<div class="tops_expandable_table" markdown="1">
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
 </div>
 </li>
-  <li>
-	<h3>Instructor-Led Virtual Events:</h3>
-	<p>Prefer a more self-paced virtual option? We’ve got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.</p>
-	<div class="expandable_table">
-	
-	</div>
-  </li>
-  <li>
-	<h3>Instructor-Led Virtual Events:</h3>
-	<p>Prefer a more self-paced virtual option? We’ve got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.</p>
-	<div class="simplescroll_table">
-	
-	</div>
-  </li>
+<li>
+<div markdown="1">
+### Self-Paced Virtual Training: Coming December 2023
+Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.
+</div>
+<div class="tops_expandable_table" markdown="1">
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+</div>
+</li>
+<li>
+<div markdown="1">
+### Self-Paced Virtual Training: Coming December 2023
+Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.
+</div>
+<div class="tops_scrollable_table" markdown="1">
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+</div>
+</li>
 </ul>
 
 ## Join Our Community
