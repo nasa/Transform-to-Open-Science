@@ -14,9 +14,11 @@ The goal of Open Science 101 is to provide researchers, students, and citizen sc
 Upon completion of all five modules, participants earn a NASA Open Science virtual badge through Credly that can be displayed on social media and portfolio pages, a frameable certificate of achievement from NASA and a gold NASA TOPS pin to wear. We'd love for you to share your achievement on social media using #TOPSCertified.
 
 <ul>
-  <li markdown="1">
+  <li>
+    <div markdown="1">
 	### Self-Paced Virtual Training: Coming December 2023
 	Prefer a more self-paced virtual option? We’ve got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.
+	</div>
   </li>
   <li>
 	<h3>Instructor-Led Virtual Events:</h3>
