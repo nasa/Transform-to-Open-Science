@@ -30,8 +30,14 @@ $(document).ready(function(){
 					  if(the_table_opt.length == 1) {
 						  the_table_opt_obj = the_table_opt[0];
 						  the_table_opt_obj.style = "width: " + the_table_width + "px;";
+						  
+						  the_table_opt_obj.addEventListener("click", function(){
+							  the_table_obj.classList.toggle("show");
+						  });
+						  
 					  }
 				  }
+				  
 				  
 			  }
 			  
