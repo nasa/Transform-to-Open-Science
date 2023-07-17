@@ -17,6 +17,9 @@ $(document).ready(function(){
 				  let the_table_opt = current_ex_table.getElementsByClassName("tops_expandable_opt");
 				  let the_table_opt_obj;
 				  
+				  let the_table_arrow = current_ex_table.getElementsByClassName("tops_expandable_arrow");
+				  let the_table_arrow_obj;
+				  
 				  
 				  if(the_table != null) {
 					  if(the_table.length == 1) {
@@ -26,13 +29,20 @@ $(document).ready(function(){
 					  }
 				  }
 				  
-				  if(the_table_opt != null) {
-					  if(the_table_opt.length == 1) {
+				  if(the_table_opt != null && the_table_arrow != null) {
+					  if(the_table_opt.length == 1 && the_table_arrow.length == 1) {
 						  the_table_opt_obj = the_table_opt[0];
+						  the_table_arrow_obj = the_table_arrow[0];
 						  the_table_opt_obj.style = "width: " + the_table_width + "px;";
 						  
 						  the_table_opt_obj.addEventListener("click", function(){
 							  current_ex_table.classList.toggle("show");
+							  
+							  if(the_table_arrow_obj.src == '../assets/images/expand_down.png') {
+								  the_table_arrow_obj.src = '../assets/images/expand_up.png';
+							  } else if(the_table_arrow_obj.src == '../assets/images/expand_up.png') {
+								  the_table_arrow_obj.src = '../assets/images/expand_down.png';
+							  }
 						  });
 						  
 					  }

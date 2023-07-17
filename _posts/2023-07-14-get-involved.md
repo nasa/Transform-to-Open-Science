@@ -17,12 +17,12 @@ Upon completion of all five modules, participants earn a NASA Open Science virtu
 <li>
 <div markdown="1">
 ### Self-Paced Virtual Training: Coming December 2023
-Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.
+Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! [Register online](https://openscience101.org/).
 </div>
 <div class="tops_expandable_table">
 	<button class="tops_expandable_opt">
 		<span>Instructor-Led Virtual Events: COMING SOON!</span>
-		<span><img src="../assets/images/expand_down.png"></span>
+		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
 	</button>
 	<table>
 	  <thead>
@@ -62,13 +62,16 @@ Prefer a more self-paced virtual option? We've got you covered! Our MOOC option 
 </li>
 <li>
 <div markdown="1">
-### Self-Paced Virtual Training: Coming December 2023
-Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.
+### Instructor-Led Virtual Events:
+Instructor-led virtual events provide an opportunity for you to take Open Science 101 with a live instructor and engage with members of the open science community.
+
+**Join a Virual Cohort!**
+Virtual cohorts are online workshops designed to assist individuals to complete Open Science 101 and earn their TOPS Open Science badge.
 </div>
 <div class="tops_expandable_table">
     <button class="tops_expandable_opt">
 		<span>Instructor-Led Virtual Events: COMING SOON!</span>
-		<span><img src="../assets/images/expand_down.png"></span>
+		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
 	</button>
 	<table>
 	  <thead>
@@ -108,8 +111,8 @@ Prefer a more self-paced virtual option? We've got you covered! Our MOOC option 
 </li>
 <li>
 <div markdown="1">
-### Self-Paced Virtual Training: Coming December 2023
-Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.
+### In-Person Training Events:
+TOPS offers in-person training opportunities at conferences and institutions across the country. See the calendar of events below for opportunities near you.
 </div>
 <div class="tops_scrollable_table">
 	<table>
