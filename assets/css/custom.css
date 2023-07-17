@@ -15,25 +15,30 @@ body {}
 }
 
 .tops_expandable_table table {
-	-webkit-transition: all 0.3s ease;
-	-moz-transition: all 0.3s ease;
-	-ms-transition: all 0.3s ease;
-	-o-transition: all 0.3s ease;
-	transition: all 0.3s ease;
+	-webkit-transition: transform 0.3s ease, opacity 0.3s ease;
+	-moz-transition: transform 0.3s ease, opacity 0.3s ease;
+	-ms-transition: transform 0.3s ease, opacity 0.3s ease;
+	-o-transition: transform 0.3s ease, opacity 0.3s ease;
+	transition: transform 0.3s ease, opacity 0.3s ease;
+	position: relative;
 	visibility: hidden;
 	opacity: 0;
 	transform: translateY(-50px);
 	overflow-y: hidden;
+	z-index: 1;
+	height: 0;
 }
 
 .tops_expandable_table.show table {
 	visibility: visible !important;
 	opacity: 1 !important;
 	transform: translateY(0) !important;
+	height: auto !important;
 }
 
 .tops_expandable_table .tops_expandable_opt {
 	display: flex;
+	position: relative;
 	flex-flow: row wrap;
 	padding: 13px;
 	font-size: 16px;
@@ -45,6 +50,7 @@ body {}
     font-family: "PT Sans", sans-serif;
 	box-sizing: border-box;
 	text-align: left;
+	z-index: 2;
 }
 
 .tops_expandable_table .tops_expandable_opt span:first-of-type {
