@@ -51,6 +51,12 @@ body {}
 	box-sizing: border-box;
 	text-align: left;
 	z-index: 2;
+	cursor: pointer;
+	opacity: 1.0;
+}
+
+.tops_expandable_table .tops_expandable_opt:hover, .tops_expandable_table .tops_expandable_opt:active {
+	opacity: 0.8;
 }
 
 .tops_expandable_table .tops_expandable_opt span:first-of-type {
@@ -87,6 +93,7 @@ body {}
     width: max-content;
     max-width: 100%;
     overflow-x: auto;
+	margin-bottom: 16px;
 }
 
 .article-post table th, .article-post table td {
