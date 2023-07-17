@@ -11,6 +11,25 @@ body {}
 
 .tops_scrollable_table table {
 	max-height: 300px;
+	overflow-y: auto;
+}
+
+.tops_expandable_table table {
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	visibility: hidden;
+	opacity: 0;
+	transform: translateY(-50px);
+	overflow-y: hidden;
+}
+
+.tops_expandable_table.show table {
+	visibility: visible !important;
+	opacity: 1 !important;
+	transform: translateY(0) !important;
 }
 
 .tops_expandable_table .tops_expandable_opt {
@@ -61,7 +80,7 @@ body {}
     width: 100%;
     width: max-content;
     max-width: 100%;
-    overflow: auto;
+    overflow-x: auto;
 }
 
 .article-post table th, .article-post table td {
