@@ -20,6 +20,10 @@ Upon completion of all five modules, participants earn a NASA Open Science virtu
 Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! Register online.
 </div>
 <div class="tops_expandable_table">
+	<button class="tops_expandable_opt">
+		<span>Instructor-Led Virtual Events: COMING SOON!</span>
+		<span><img src="../assets/images/expand_down.png"></span>
+	</button>
 	<table>
 	  <thead>
 		<tr>
