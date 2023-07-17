@@ -16,7 +16,7 @@ body {}
 .tops_expandable_table .tops_expandable_opt {
 	display: flex;
 	flex-flow: row wrap;
-	padding: 6px 13px;
+	padding: 13px;
 	font-size: 16px;
 	line-height: 1.55em;
 	background: #3d61fd;
@@ -33,7 +33,7 @@ body {}
 	font-family: "PT Sans", sans-serif;
 	font-size: 16px;
 	line-height: 1.55em;
-	width: calc(100% - 25px);
+	width: calc(100% - 20px);
 	text-align: left;
 	padding: 0;
 	margin: 0;
@@ -43,7 +43,7 @@ body {}
 
 .tops_expandable_table .tops_expandable_opt span:last-of-type {
 	display: block;
-	width: 25px;
+	width: 20px;
 	text-align: right;
 	padding: 0;
 	margin: 0;
