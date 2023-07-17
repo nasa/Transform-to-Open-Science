@@ -4,3 +4,22 @@ Just customize your theme here.
 ================================================== */
 
 body {}
+
+.article-post table {
+	display: block;
+    width: 100%;
+    width: max-content;
+    max-width: 100%;
+    overflow: auto;
+}
+
+.article-post table th, .article-post table td {
+	padding: 6px 13px;
+	font-size: 16px;
+	line-height: 1.55em;
+	border: 1px solid #CCC;
+}
+
+.article-post table tr:nth-child(2n) {
+	background-color: #EEE;
+}
