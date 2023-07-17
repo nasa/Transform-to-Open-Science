@@ -144,6 +144,55 @@ Prefer a more self-paced virtual option? We've got you covered! Our MOOC option 
 		  <td>cell4</td>
 		  <td>cell5</td>
 		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
 	  </tbody>
 	</table>
 </div>
