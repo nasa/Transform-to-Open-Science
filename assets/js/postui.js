@@ -32,7 +32,7 @@ $(document).ready(function(){
 						  the_table_opt_obj.style = "width: " + the_table_width + "px;";
 						  
 						  the_table_opt_obj.addEventListener("click", function(){
-							  the_table_obj.classList.toggle("show");
+							  current_ex_table.classList.toggle("show");
 						  });
 						  
 					  }
