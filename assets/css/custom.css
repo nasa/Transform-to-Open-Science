@@ -5,6 +5,57 @@ Just customize your theme here.
 
 body {}
 
+.tops_tablelist {
+	padding-left: 30px;
+}
+
+.tops_scrollable_table table {
+	max-height: 300px;
+}
+
+.tops_expandable_table .tops_expandable_opt {
+	display: flex;
+	flex-flow: row wrap;
+	padding: 6px 13px;
+	font-size: 16px;
+	line-height: 1.55em;
+	background: #3d61fd;
+	border-radius: 0px;
+	border: none;
+	color: #FFF;
+    font-family: "PT Sans", sans-serif;
+	box-sizing: border-box;
+	text-align: left;
+}
+
+.tops_expandable_table .tops_expandable_opt span:first-of-type {
+	display: block;
+	font-family: "PT Sans", sans-serif;
+	font-size: 16px;
+	line-height: 1.55em;
+	width: calc(100% - 25px);
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	padding-right: 12px;
+}
+
+.tops_expandable_table .tops_expandable_opt span:last-of-type {
+	display: block;
+	width: 25px;
+	text-align: right;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.tops_expandable_table .tops_expandable_opt span:last-of-type img {
+	display: inline-block;
+	width: 25px;
+	height: auto;
+}
+
 .article-post table {
 	display: block;
     width: 100%;
