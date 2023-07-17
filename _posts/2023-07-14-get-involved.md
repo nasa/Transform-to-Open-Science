@@ -19,58 +19,20 @@ Upon completion of all five modules, participants earn a NASA Open Science virtu
 ### Self-Paced Virtual Training: Coming December 2023
 Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips! [Register online](https://openscience101.org/).
 </div>
-<div class="tops_expandable_table">
-	<button class="tops_expandable_opt">
-		<span>Instructor-Led Virtual Events: COMING SOON!</span>
-		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
-	</button>
-	<table>
-	  <thead>
-		<tr>
-		  <th>Header1</th>
-		  <th>Header2</th>
-		  <th>Header3</th>
-		  <th>Header4</th>
-		  <th>Header5</th>
-		</tr>
-	  </thead>
-	  <tbody>
-		<tr>
-		  <td>cell1</td>
-		  <td>cell2</td>
-		  <td>cell3</td>
-		  <td>cell4</td>
-		  <td>cell5</td>
-		</tr>
-		<tr>
-		  <td>cell1</td>
-		  <td>cell2</td>
-		  <td>cell3</td>
-		  <td>cell4</td>
-		  <td>cell5</td>
-		</tr>
-		<tr>
-		  <td>cell1</td>
-		  <td>cell2</td>
-		  <td>cell3</td>
-		  <td>cell4</td>
-		  <td>cell5</td>
-		</tr>
-	  </tbody>
-	</table>
-</div>
 </li>
 <li>
 <div markdown="1">
 ### Instructor-Led Virtual Events:
 Instructor-led virtual events provide an opportunity for you to take Open Science 101 with a live instructor and engage with members of the open science community.
 
-**Join a Virual Cohort!**
+##### Join a Virual Cohort!
 Virtual cohorts are online workshops designed to assist individuals to complete Open Science 101 and earn their TOPS Open Science badge.
+
+##### Instructor-Led Virtual Events: COMING SOON!
 </div>
 <div class="tops_expandable_table">
     <button class="tops_expandable_opt">
-		<span>Instructor-Led Virtual Events: COMING SOON!</span>
+		<span>View Dates</span>
 		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
 	</button>
 	<table>
@@ -113,6 +75,8 @@ Virtual cohorts are online workshops designed to assist individuals to complete 
 <div markdown="1">
 ### In-Person Training Events:
 TOPS offers in-person training opportunities at conferences and institutions across the country. See the calendar of events below for opportunities near you.
+
+Going to a professional conference? See if TOPS is leading a workshop.
 </div>
 <div class="tops_scrollable_table">
 	<table>
@@ -198,6 +162,52 @@ TOPS offers in-person training opportunities at conferences and institutions acr
 		</tr>
 	  </tbody>
 	</table>
+</div>
+<div markdown="1">
+Training Events and TOPST Summer Schools:  Coming soon!
+</div>
+<div class="tops_expandable_table">
+    <button class="tops_expandable_opt">
+		<span>View Dates</span>
+		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
+	</button>
+	<table>
+	  <thead>
+		<tr>
+		  <th>Header1</th>
+		  <th>Header2</th>
+		  <th>Header3</th>
+		  <th>Header4</th>
+		  <th>Header5</th>
+		</tr>
+	  </thead>
+	  <tbody>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+		<tr>
+		  <td>cell1</td>
+		  <td>cell2</td>
+		  <td>cell3</td>
+		  <td>cell4</td>
+		  <td>cell5</td>
+		</tr>
+	  </tbody>
+	</table>
+</div>
+<div markdown="1">
+Don’t see a training near you? Contact us to request a training in your area.
 </div>
 </li>
 </ul>
