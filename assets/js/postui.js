@@ -44,12 +44,17 @@ $(document).ready(function(){
 		  }
 	  }
 	  
+	  setTimeout(function(){
+		  console.log("TOPS: Readjusting tables after load...");
+		  resize_expandable_tables();
+	  }, 3000);
+	  
   }
   
   inject_expandable_tables();
   
-  window.addEventListener('resize', function(event) {
-	let ex_tables = document.getElementsByClassName("tops_expandable_table");
+  function resize_expandable_tables() {
+	  let ex_tables = document.getElementsByClassName("tops_expandable_table");
 	  
 	  if(ex_tables != null) {
 		  if(ex_tables.length > 0) {
@@ -84,6 +89,11 @@ $(document).ready(function(){
 			  
 		  }
 	  }
+	  
+  }
+  
+  window.addEventListener('resize', function(event) {
+    resize_expandable_tables();
   }, true);
   
   
