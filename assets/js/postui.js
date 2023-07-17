@@ -19,7 +19,6 @@ $(document).ready(function(){
 				  
 				  let the_table_arrow = current_ex_table.getElementsByClassName("tops_expandable_arrow");
 				  let the_table_arrow_obj;
-				  let the_table_arrow_src = '';
 				  
 				  
 				  if(the_table != null) {
@@ -35,9 +34,9 @@ $(document).ready(function(){
 						  the_table_opt_obj = the_table_opt[0];
 						  the_table_opt_obj.style = "width: " + the_table_width + "px;";
 						  the_table_arrow_obj = the_table_arrow[0];
-						  the_table_arrow_src = the_table_arrow_obj.src;
 						  
 						  the_table_opt_obj.addEventListener("click", function(){
+							  let the_table_arrow_src = the_table_arrow_obj.src;
 							  current_ex_table.classList.toggle("show");
 							  console.log('TOPS: Changing arrow image - ' + the_table_arrow_src);
 							  
