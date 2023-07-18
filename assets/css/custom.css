@@ -70,6 +70,7 @@ body {}
 	margin: 0;
 	box-sizing: border-box;
 	padding-right: 12px;
+	font-weight: 600;
 }
 
 .tops_expandable_table .tops_expandable_opt span:last-of-type {

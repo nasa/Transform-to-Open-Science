@@ -2,7 +2,7 @@
 layout: post
 title:  "Get Involved"
 categories: [ Jekyll, tutorial ]
-image: assets/images/Girl_fireflies.png
+image: assets/images/tops_booth.jpg
 invisible: true
 ---
 
@@ -164,7 +164,7 @@ Going to a professional conference? See if TOPS is leading a workshop.
 	</table>
 </div>
 <div markdown="1">
-Training Events and TOPST Summer Schools:  Coming soon!
+Training Events and [TOPST Summer Schools:](https://www.nasa.gov/centers/marshall/news/releases/2023/nasa-boosts-open-science-through-innovative-training)  **Coming soon!**
 </div>
 <div class="tops_expandable_table">
     <button class="tops_expandable_opt">
