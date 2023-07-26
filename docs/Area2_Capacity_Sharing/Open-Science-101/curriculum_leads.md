@@ -16,7 +16,7 @@
 * Margaret McAdam
 * Daniel Whitt
 
-**Goddard Spaceflight Center**
+**Goddard Space Flight Center**
 * Richard Barry (Lead)
 * Michael Barker
 * Michael Croteau
@@ -45,7 +45,7 @@
 * Kevin Sanchez
 * Elizabeth Wiggins
 
-**Marshall Spaceflight Center**
+**Marshall Space Flight Center**
 * Paul Bremner (Lead)
 * Adam Kobelski
 * Teresa Miller
