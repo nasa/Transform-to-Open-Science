@@ -39,7 +39,7 @@ To sign up your organization and be listed below, please fill out this [form](ht
 - [Scholarly Publishing and Academic Resources Coalition (SPARC)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/SPARC.html)
 - [The Michael J. Fox Foundation for Parkinson’s Research](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/MJFoxFoundation.html)
 - [GO FAIR US](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/GOFAIRUS.html)
-- [Springer Nature Group](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/SpringerNature.html)
+- [Springer Nature](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/SpringerNature.html)
 - [STM](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/STM.html)
 
 ### For You
