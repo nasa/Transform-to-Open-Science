@@ -521,6 +521,17 @@
         "maintenance",
         "promotion"
       ]
+    },
+    {
+      "login": "hnorton613",
+      "name": "hnorton613",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100709596?v=4",
+      "profile": "https://github.com/hnorton613",
+      "contributions": [
+        "content",
+        "eventOrganizing",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
