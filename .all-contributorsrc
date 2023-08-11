@@ -532,6 +532,15 @@
         "eventOrganizing",
         "talk"
       ]
+    },
+    {
+      "login": "mike-nasa",
+      "name": "Mike Croteau",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127996254?v=4",
+      "profile": "https://github.com/mike-nasa",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
