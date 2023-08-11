@@ -5,7 +5,7 @@ Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Op
 Ready to get started transforming towards open science with us? Get started [here!](./CONTRIBUTING.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img align="right" src="https://zenodo.org/record/7742997/files/Tops_Badge_Nasa.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
@@ -182,6 +182,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mike-nasa"><img src="https://avatars.githubusercontent.com/u/127996254?v=4?s=100" width="100px;" alt="Mike Croteau"/><br /><sub><b>Mike Croteau</b></sub></a><br /><a href="#maintenance-mike-nasa" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/amandamoonadams"><img src="https://avatars.githubusercontent.com/u/135771845?v=4?s=100" width="100px;" alt="amandamoonadams"/><br /><sub><b>amandamoonadams</b></sub></a><br /><a href="#maintenance-amandamoonadams" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/HunterTTP"><img src="https://avatars.githubusercontent.com/u/11375502?v=4?s=100" width="100px;" alt="HunterTTP"/><br /><sub><b>HunterTTP</b></sub></a><br /><a href="#maintenance-HunterTTP" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
