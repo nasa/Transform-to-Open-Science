@@ -510,6 +510,17 @@
         "promotion",
         "code"
       ]
+    },
+    {
+      "login": "RPaseka",
+      "name": "Rachel Paseka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117661270?v=4",
+      "profile": "https://github.com/RPaseka",
+      "contributions": [
+        "content",
+        "maintenance",
+        "promotion"
+      ]
     }
   ],
   "contributorsPerLine": 7,
