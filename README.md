@@ -5,7 +5,7 @@ Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Op
 Ready to get started transforming towards open science with us? Get started [here!](./CONTRIBUTING.md) 
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img align="right" src="https://zenodo.org/record/7742997/files/Tops_Badge_Nasa.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
@@ -176,6 +176,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/amanda-staller"><img src="https://avatars.githubusercontent.com/u/126284110?v=4?s=100" width="100px;" alt="amanda-staller"/><br /><sub><b>amanda-staller</b></sub></a><br /><a href="#content-amanda-staller" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jpolka2"><img src="https://avatars.githubusercontent.com/u/39165531?v=4?s=100" width="100px;" alt="jpolka2"/><br /><sub><b>jpolka2</b></sub></a><br /><a href="#content-jpolka2" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/bressler95tops"><img src="https://avatars.githubusercontent.com/u/137207208?v=4?s=100" width="100px;" alt="Brian Ressler"/><br /><sub><b>Brian Ressler</b></sub></a><br /><a href="https://github.com/bressler1995/Transform-to-Open-Science/commits?author=bressler95tops" title="Documentation">📖</a> <a href="#promotion-bressler95tops" title="Promotion">📣</a> <a href="https://github.com/bressler1995/Transform-to-Open-Science/commits?author=bressler95tops" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RPaseka"><img src="https://avatars.githubusercontent.com/u/117661270?v=4?s=100" width="100px;" alt="Rachel Paseka"/><br /><sub><b>Rachel Paseka</b></sub></a><br /><a href="#content-RPaseka" title="Content">🖋</a> <a href="#maintenance-RPaseka" title="Maintenance">🚧</a> <a href="#promotion-RPaseka" title="Promotion">📣</a></td>
     </tr>
   </tbody>
 </table>
