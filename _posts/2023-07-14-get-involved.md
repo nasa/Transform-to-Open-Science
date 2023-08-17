@@ -225,3 +225,35 @@ Are you an open scientist enthusiast interested in jumping in with NASA TOPS and
 We’d love to have you come along side us as a community instructor!
 [Insert instructions on how they can do this]
 
+## Temporary Section For Testing Table Filters
+
+<div class="tops_expandable_table">
+    <button class="tops_expandable_opt">
+		<span>View Dates</span>
+		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
+	</button>
+	<table>
+	  <thead>
+		<tr>
+			<th>Date</th>
+			<th>Time</th>
+			<th>Event Type</th>
+			<th>Module</th>
+			<th>Instructor</th>
+			<th>Register</th>
+		</tr>
+	  </thead>
+	  <tbody>
+		{% for row in site.data.tabletest %}
+		  <tr>
+			<td>{{ row.date }}</td>
+			<td>{{ row.time }}</td>
+			<td>{{ row.eventtype }}</td>
+			<td>{{ row.module }}</td>
+			<td>{{ row.instructor }}</td>
+			<td>{{ row.register }}</td>
+		  </tr>
+		{% endfor %}
+	  </tbody>
+	</table>
+</div>
