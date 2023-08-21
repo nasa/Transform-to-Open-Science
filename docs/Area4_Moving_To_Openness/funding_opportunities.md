@@ -3,12 +3,16 @@
 
 ### TOPS' proposal resources are available [here](https://nasa.github.io/Transform-to-Open-Science-Book/Proposal_Resources/readme.html).
 
-## [F.15 High Priority Open-Source Science](https://science.nasa.gov/researchers/solicitations/roses-2023/amendment-5-f15-high-priority-open-source-science-final-text-and-due-dates)
-Supporting innovative open source tools, software, frameworks, data formats, and libraries. Budget ~$1M. Yearly, rolling deadline.
-- Innovative open-source tools, software, frameworks, data formats, and libraries that will have a significant impact on the SMD science community
+## [F.15 High Priority Open-Source Science (HPOSS)](https://science.nasa.gov/researchers/solicitations/roses-2023/amendment-5-f15-high-priority-open-source-science-final-text-and-due-dates)
+**HPOSS supports new work to advance and streamline the open sharing of scientific information.**
+- This includes innovative open-source tools, software, frameworks, data formats, and libraries that will have a significant impact on the SMD science community.
 - Awards of ~$100k to support work for one year
-- Proposals for ROSES-22 will be accepted until March 29, 2023
-- Proposals for ROSES-23 will be accepted until March 29, 2024
+- HPOSS is run on a yearly basis and has [no fixed due dates](https://science.nasa.gov/researchers/NoDD).
+     - Submit proposals for ROSES-23 at any point during the year, and they will be reviewed on a rolling basis.
+     - The ROSES-23 solicitation will be available through March 29, 2024, after which the ROSES-24 solicitation will become available.
+- Resources: 
+     - Read [summaries of previously selected proposals](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=957922/solicitationId=%7BB364DBB8-390B-744D-013F-8F4C304B9A63%7D/viewSolicitationDocument=1/HPOSS22%20Abstracts-clg-smc.pdf).
+     - Watch recording of [HPOSS informational webinar](https://www.youtube.com/watch?v=YY87YMQc70E) and [access the presentation slides](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=916271/solicitationId=%7BB364DBB8-390B-744D-013F-8F4C304B9A63%7D/viewSolicitationDocument=1/HPOSS%20Information%20Session%2020230119.pdf).
 
 ## [F.8 Supplemental Open Source Software Awards](https://nspires.nasaprs.com/external/solicitations/summary.do?solId={0BFB6C2C-5189-507A-FB82-E5A9869DF9E4}&path=&method=init)
 Supplemental award to encourage the conversion of legacy software to open source. Yearly, $250K available with a rolling deadline.
