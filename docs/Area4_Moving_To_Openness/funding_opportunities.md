@@ -14,12 +14,15 @@
      - Read [summaries of previously selected proposals](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=957922/solicitationId=%7BB364DBB8-390B-744D-013F-8F4C304B9A63%7D/viewSolicitationDocument=1/HPOSS22%20Abstracts-clg-smc.pdf).
      - Watch recording of [HPOSS informational webinar](https://www.youtube.com/watch?v=YY87YMQc70E) and [access the presentation slides](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=916271/solicitationId=%7BB364DBB8-390B-744D-013F-8F4C304B9A63%7D/viewSolicitationDocument=1/HPOSS%20Information%20Session%2020230119.pdf).
 
-## [F.8 Supplemental Open Source Software Awards](https://nspires.nasaprs.com/external/solicitations/summary.do?solId={0BFB6C2C-5189-507A-FB82-E5A9869DF9E4}&path=&method=init)
-Supplemental award to encourage the conversion of legacy software to open source. Yearly, $250K available with a rolling deadline.
-- Conversion of legacy software into modern code with open license
-- Code released under a generally accepted, open source license
-- Proposer must have a research proposal selected for funding through any previous SMD solicitation with at least 15 months remaining in its period of performance at the time of the submission
-- Proposals for ROSES-22 will be accepted until March 29, 2023
+## [F.8 Supplements for Open-Source Science (SOSS)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B2B66037B-0507-568E-5D64-2A3B61DF0195%7D&path=&method=init)
+**SOSS supports the addition of an open science component to an existing "parent" ROSES award.**
+- This could include making the results of the parent award more accessible, inclusive, and usable, or contributing back to relevant open science communities.
+- Awards of ~$50k to support work for one year; larger budgets and longer durations may be considered if adequately justified.
+     - Funds will be awarded as augmentations to existing awards.
+- Proposer must have an existing research proposal selected for funding by SMD with at least 15 months remaining in its period of performance at the time of the submission to SOSS.
+- SOSS is run on a yearly basis and has [no fixed due dates](https://science.nasa.gov/researchers/NoDD).
+     - Submit proposals for ROSES-23 at any point during the year, and they will be reviewed on a rolling basis.
+     - The ROSES-23 solicitation will be available through March 29, 2024, after which the ROSES-24 solicitation will become available.
 
 ## [F.16 Supplement for Software Platforms](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-72-f16-supplement-scientific-software-platforms-deferred-roses-2023)
 Supplemental support to existing awards for usage of scientific platforms. Budget TBD.
