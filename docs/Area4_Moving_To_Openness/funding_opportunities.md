@@ -48,9 +48,10 @@
 - Solicited every 3 years. 
 - $2M awarded in ROSES-20 to [8 programs](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=843923/solicitationId=%7B958CF134-D655-E512-B5AD-84501D14A0C1%7D/viewSolicitationDocument=1/OSTFL20%20Abstracts.pdf). 
 
-## F.14 Transform to Open Science Training
-Tutorials showcasing open science in action and NASA cloud data, summer schools, virtual cohorts. More information available [here](/docs/Area4_Moving_To_Openness/TOPST/readme.md).
+## F.14 Transform to Open Science Training (TOPS-T)
+**TOPS-T supports the development of discipline-specific open science curriculum and capacity building efforts for open science training.**
 - Not solicited in ROSES-23.
+- $6.5M awarded over 3 years based on ROSES-22 solicitation. Read the [news release](https://www.nasa.gov/centers/marshall/news/releases/2023/nasa-boosts-open-science-through-innovative-training) and [summaries of selected proposals](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=929821/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/TOPST22%20selections.pdf).
 
 ## [F.22 Research Initiation Awards](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bD6077002-CFAA-75A8-2801-89B66032541D%7d&path=&method=init)
 Solicits proposals from [non-R1 institutions](https://carnegieclassifications.acenet.edu/) to provide support for investigators and their students at institutions underrepresented in the SMD ecosystem
