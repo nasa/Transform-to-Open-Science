@@ -30,7 +30,7 @@
 
 ## Topical Workshops, Symposia, and Conferences (TWSC)
 **TWSC supports events, hackathons, un-conferences, and challenges that build open science skills.** 
-- To be released soon
+- To be released as standalone Notice of Funding Opportunity (NOFO)
 - Previously solicited as [F.2 TWSC](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bC669B5EF-ACBB-A0E4-B57D-06F31DEABDB5%7d&path=&method=init)
      - Rolling deadline.
      - Events focused on Science Mission Directorate data, software, or open science practices
@@ -39,17 +39,18 @@
      - Events MUST be openly available and allow for inclusive participation 
      - Potential proposers must confirm relevancy and availability of funds before preparing or submitting a proposal with a SMD program officer 
 
-## [F.7 Support for Open Source Tools, Frameworks, and Libraries](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-41-f7-support-open-source-tools-frameworks-and-libraries-deferred-roses-2023)
-Support and maintain open sources tools, frameworks, and libraries that are significantly used by the SMD community. $2M awarded in ROSES 20 to 8 programs, once every 3 years.
-- Improvements and sustainment of high-value, open source tools, frameworks, and libraries that have made significant impacts to the SMD science community
+## [F.7 Support for Open Source Tools, Frameworks, and Libraries(OSTFL)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-41-f7-support-open-source-tools-frameworks-and-libraries-deferred-roses-2023)
+**OSTFL supports the maintenance of existing open sources tools, frameworks, and libraries that are significantly used by the SMD community.**
+- To be released for ROSES-23
 - Proposals must:
      - State the process of adding extensions, documentation, and maintenance of the software to support the user community
      - Include an assessment of the potential impact to the SMD science community
-- Deferred to ROSES-23
+- Solicited every 3 years. 
+- $2M awarded in ROSES-20 to [8 programs](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=843923/solicitationId=%7B958CF134-D655-E512-B5AD-84501D14A0C1%7D/viewSolicitationDocument=1/OSTFL20%20Abstracts.pdf). 
 
 ## F.14 Transform to Open Science Training
 Tutorials showcasing open science in action and NASA cloud data, summer schools, virtual cohorts. More information available [here](/docs/Area4_Moving_To_Openness/TOPST/readme.md).
-**The 2022 deadline for this opportunity has passed.** 
+- Not solicited in ROSES-23.
 
 ## [F.22 Research Initiation Awards](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bD6077002-CFAA-75A8-2801-89B66032541D%7d&path=&method=init)
 Solicits proposals from [non-R1 institutions](https://carnegieclassifications.acenet.edu/) to provide support for investigators and their students at institutions underrepresented in the SMD ecosystem
