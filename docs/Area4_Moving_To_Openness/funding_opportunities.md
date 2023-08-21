@@ -24,11 +24,9 @@
      - Submit proposals for ROSES-23 at any point during the year, and they will be reviewed on a rolling basis.
      - The ROSES-23 solicitation will be available through March 29, 2024, after which the ROSES-24 solicitation will become available.
 
-## [F.16 Supplement for Software Platforms](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-72-f16-supplement-scientific-software-platforms-deferred-roses-2023)
-Supplemental support to existing awards for usage of scientific platforms. Budget TBD.
-- Supplemental support of existing awards for use of scientific analysis platforms
-- Scientific analysis platforms are defined as interactive environments accessible through a web browser providing access to data and computing resources to support scientific analysis and processing 
-- Deferred until ROSES 2023
+## [F.16 Supplement for Scientific Software Platforms (S4SSP)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-72-f16-supplement-scientific-software-platforms-deferred-roses-2023)
+**S4SSP will provide supplemental support to existing awards for the use of scientific analysis platforms.**
+- To be released for ROSES-23
 
 ## [F.2 Topical Workshops, Symposia, and Conferences](https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2021/amendment-10-final-text-f2-topical-workshops-symposia-and-conferences)
 Events, Hackathons, un-conferences, and challenges that build open science skills, Training in open science. Rolling deadline.
