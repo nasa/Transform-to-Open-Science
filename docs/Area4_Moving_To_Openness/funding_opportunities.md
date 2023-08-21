@@ -3,7 +3,7 @@
 
 ### TOPS' proposal resources are available [here](https://nasa.github.io/Transform-to-Open-Science-Book/Proposal_Resources/readme.html).
 
-## [F.15 High Priority Open-Source Science (HPOSS)](https://science.nasa.gov/researchers/solicitations/roses-2023/amendment-5-f15-high-priority-open-source-science-final-text-and-due-dates)
+## [F.15 High Priority Open-Source Science (HPOSS)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b21419978-190B-811F-35A7-6D2DEEE24E4E%7d&path=&method=init)
 **HPOSS supports new work to advance and streamline the open sharing of scientific information.**
 - This includes innovative open-source tools, software, frameworks, data formats, and libraries that will have a significant impact on the SMD science community.
 - Awards of ~$100k to support work for one year
