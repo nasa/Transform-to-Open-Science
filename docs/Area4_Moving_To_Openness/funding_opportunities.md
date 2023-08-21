@@ -28,13 +28,15 @@
 **S4SSP will provide supplemental support to existing awards for the use of scientific analysis platforms.**
 - To be released for ROSES-23
 
-## [F.2 Topical Workshops, Symposia, and Conferences](https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2021/amendment-10-final-text-f2-topical-workshops-symposia-and-conferences)
-Events, Hackathons, un-conferences, and challenges that build open science skills, Training in open science. Rolling deadline.
-- Events focused on Science Mission Directorate data, software, or open science practices
-- Hackathons, un-conferences, and challenges that build open science skills
-- Focused training in open science practices and principles
-- Events MUST be openly available and allow for inclusive participation 
-- 5-page proposals for ROSES-22 will be accepted until May 13, 2023
+## Topical Workshops, Symposia, and Conferences (TWSC)
+**TWSC supports events, hackathons, un-conferences, and challenges that build open science skills.** 
+- To be released soon
+- Previously solicited as [F.2 TWSC](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bC669B5EF-ACBB-A0E4-B57D-06F31DEABDB5%7d&path=&method=init)
+     - Rolling deadline.
+     - Events focused on Science Mission Directorate data, software, or open science practices
+     - Hackathons, un-conferences, and challenges that build open science skills
+     - Focused training in open science practices and principles
+     - Events MUST be openly available and allow for inclusive participation 
      - Potential proposers must confirm relevancy and availability of funds before preparing or submitting a proposal with a SMD program officer 
 
 ## [F.7 Support for Open Source Tools, Frameworks, and Libraries](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-41-f7-support-open-source-tools-frameworks-and-libraries-deferred-roses-2023)
