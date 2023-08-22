@@ -5,11 +5,11 @@
 
 ## [F.15 High Priority Open-Source Science (HPOSS)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b21419978-190B-811F-35A7-6D2DEEE24E4E%7d&path=&method=init)
 **HPOSS supports new work to advance and streamline the open sharing of scientific information.**
-- This includes innovative open-source tools, software, frameworks, data formats, and libraries that will have a significant impact on the SMD science community.
+- This includes the development of innovative open-source tools, software, frameworks, data formats, and libraries that will have a significant impact on the SMD science community.
 - Awards of ~$100k to support work for one year
 - HPOSS is run on a yearly basis and has [no fixed due dates](https://science.nasa.gov/researchers/NoDD).
      - Submit proposals for ROSES-23 at any point during the year, and they will be reviewed on a rolling basis.
-     - The ROSES-23 solicitation will be available through March 29, 2024, after which the ROSES-24 solicitation will become available.
+     - The ROSES-23 solicitation will be available through March 29, 2024, at which point the ROSES-24 solicitation will become available.
 - Resources: 
      - Read [summaries of previously selected proposals](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=957922/solicitationId=%7BB364DBB8-390B-744D-013F-8F4C304B9A63%7D/viewSolicitationDocument=1/HPOSS22%20Abstracts-clg-smc.pdf).
      - Watch recording of [HPOSS informational webinar](https://www.youtube.com/watch?v=YY87YMQc70E) and [access the presentation slides](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=916271/solicitationId=%7BB364DBB8-390B-744D-013F-8F4C304B9A63%7D/viewSolicitationDocument=1/HPOSS%20Information%20Session%2020230119.pdf).
@@ -17,12 +17,12 @@
 ## [F.8 Supplements for Open-Source Science (SOSS)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B2B66037B-0507-568E-5D64-2A3B61DF0195%7D&path=&method=init)
 **SOSS supports the addition of an open science component to an existing "parent" ROSES award.**
 - This could include making the results of the parent award more accessible, inclusive, and usable, or contributing back to relevant open science communities.
-- Awards of ~$50k to support work for one year; larger budgets and longer durations may be considered if adequately justified.
+- Awards of ~$50k to support work for one year
      - Funds will be awarded as augmentations to existing awards.
 - Proposer must have an existing research proposal selected for funding by SMD with at least 15 months remaining in its period of performance at the time of the submission to SOSS.
 - SOSS is run on a yearly basis and has [no fixed due dates](https://science.nasa.gov/researchers/NoDD).
      - Submit proposals for ROSES-23 at any point during the year, and they will be reviewed on a rolling basis.
-     - The ROSES-23 solicitation will be available through March 29, 2024, after which the ROSES-24 solicitation will become available.
+     - The ROSES-23 solicitation will be available through March 29, 2024, at which point the ROSES-24 solicitation will become available.
 
 ## [F.16 Supplement for Scientific Software Platforms (S4SSP)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-72-f16-supplement-scientific-software-platforms-deferred-roses-2023)
 **S4SSP will provide supplemental support to existing awards for the use of scientific analysis platforms.**
@@ -30,14 +30,14 @@
 
 ## Topical Workshops, Symposia, and Conferences (TWSC)
 **TWSC supports events, hackathons, un-conferences, and challenges that build open science skills.** 
-- To be released as standalone Notice of Funding Opportunity (NOFO)
+- To be released as standalone Notice of Funding Opportunity (NOFO) in 2023
 - Previously solicited as [F.2 TWSC](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bC669B5EF-ACBB-A0E4-B57D-06F31DEABDB5%7d&path=&method=init)
      - Rolling deadline.
      - Events focused on Science Mission Directorate data, software, or open science practices
      - Hackathons, un-conferences, and challenges that build open science skills
      - Focused training in open science practices and principles
      - Events MUST be openly available and allow for inclusive participation 
-     - Potential proposers must confirm relevancy and availability of funds before preparing or submitting a proposal with a SMD program officer 
+     - Potential proposers must confirm relevancy and availability of funds with a SMD program officer before preparing or submitting a proposal 
 
 ## [F.7 Support for Open Source Tools, Frameworks, and Libraries(OSTFL)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-41-f7-support-open-source-tools-frameworks-and-libraries-deferred-roses-2023)
 **OSTFL supports the maintenance of existing open sources tools, frameworks, and libraries that are significantly used by the SMD community.**
