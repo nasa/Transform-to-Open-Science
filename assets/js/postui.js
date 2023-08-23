@@ -43,16 +43,20 @@ $(document).ready(function(){
 										  for(x = 0; x < the_table_contents_rows.length; x++) {
 											  let current_table_row = the_table_contents_rows[x];
 											  let current_table_row_columns = current_table_row.getElementsByTagName("td");
+											  let rowarr = [];
 											  
 											  if(current_table_row_columns != null) {
 												  if(current_table_row_columns.length > 0) {
 													  for(y = 0; y < current_table_row_columns.length; y++) {
 														  let the_current_column = current_table_row_columns[y];
-														  the_table_storage[x][y] = the_current_column.innerHTML;
+														  rowarr.push(the_current_column.innerHTML);
 													  }
+													  
+													  the_table_storage.push(rowarr);
 												  }
 											  }
 										  }
+										  
 										   
 									  }
 								  }
@@ -67,6 +71,8 @@ $(document).ready(function(){
 											  let current_filter_control = the_table_filter_controls[z];
 											  current_filter_control.addEventListener("change", function(){
 												  console.log("Selected Filter: " + this.value);
+												  console.log(the_table_filter_controls);
+												  console.log(the_table_storage);
 											  });
 
 										  }
