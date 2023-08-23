@@ -234,13 +234,40 @@ We’d love to have you come along side us as a community instructor!
 	</button>
 	<table>
 	  <thead>
+	    <tr>
+			<th class="tops_table_filters" colspan="6">
+				<div>
+					<select data-col-index="2">
+						<option selected>Event Types</option>
+						<option value="Event Type 1">Event Type 1</option>
+						<option value="Event Type 2">Event Type 2</option>
+						<option value="Event Type 3">Event Type 3</option>
+						<option value="Event Type 4">Event Type 4</option>
+					</select>
+				</div>
+				<div>
+					<select data-col-index="3">
+						<option selected>Modules</option>
+						<option value="1">Module 1</option>
+						<option value="2">Module 2</option>
+						<option value="3">Module 3</option>
+						<option value="4">Module 4</option>
+						<option value="5">Module 5</option>
+					</select>
+				</div>
+				<div>
+					<select data-col-index="4">
+						<option selected>Instructors</option>
+						<option value="Person Name 1">Person Name 1</option>
+						<option value="Person Name 2">Person Name 2</option>
+						<option value="Person Name 3">Person Name 3</option>
+						<option value="Person Name 4">Person Name 4</option>
+					</select>
+				</div>
+			</th>
+		</tr>
 		<tr>
-			<th>Date</th>
-			<th>Time</th>
-			<th>Event Type</th>
-			<th>Module</th>
-			<th>Instructor</th>
-			<th>Register</th>
+			<th>Date</th><th>Time</th><th>Event Type</th><th>Module</th><th>Instructor</th><th>Register</th>
 		</tr>
 	  </thead>
 	  <tbody>
