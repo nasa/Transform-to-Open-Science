@@ -30,7 +30,7 @@ Virtual cohorts are online workshops designed to assist individuals to complete 
 
 ##### Instructor-Led Virtual Events: COMING SOON!
 </div>
-<div class="tops_expandable_table">
+<div class="tops_expandable_table tops_table">
     <button class="tops_expandable_opt">
 		<span>View Dates</span>
 		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
@@ -78,7 +78,7 @@ TOPS offers in-person training opportunities at conferences and institutions acr
 
 Going to a professional conference? See if TOPS is leading a workshop.
 </div>
-<div class="tops_scrollable_table">
+<div class="tops_scrollable_table tops_table">
 	<table>
 	  <thead>
 		<tr>
@@ -166,7 +166,7 @@ Going to a professional conference? See if TOPS is leading a workshop.
 <div markdown="1">
 Training Events and [TOPST Summer Schools:](https://www.nasa.gov/centers/marshall/news/releases/2023/nasa-boosts-open-science-through-innovative-training)  **Coming soon!**
 </div>
-<div class="tops_expandable_table">
+<div class="tops_expandable_table tops_table">
     <button class="tops_expandable_opt">
 		<span>View Dates</span>
 		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
@@ -227,7 +227,7 @@ We’d love to have you come along side us as a community instructor!
 
 ## Temporary Section For Testing Table Filters
 
-<div class="tops_expandable_table">
+<div class="tops_expandable_table tops_table">
     <button class="tops_expandable_opt">
 		<span>View Dates</span>
 		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
@@ -258,10 +258,10 @@ We’d love to have you come along side us as a community instructor!
 				<div>
 					<select data-col-index="4">
 						<option selected>Instructors</option>
-						<option value="Person Name 1">Person Name 1</option>
-						<option value="Person Name 2">Person Name 2</option>
-						<option value="Person Name 3">Person Name 3</option>
-						<option value="Person Name 4">Person Name 4</option>
+						<option value="Person's Name 1">Person's Name 1</option>
+						<option value="Person's Name 2">Person's Name 2</option>
+						<option value="Person's Name 3">Person's Name 3</option>
+						<option value="Person's Name 4">Person's Name 4</option>
 					</select>
 				</div>
 			</th>
