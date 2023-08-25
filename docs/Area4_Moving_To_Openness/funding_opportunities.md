@@ -25,7 +25,7 @@
      - The ROSES-23 solicitation will be available through March 29, 2024, at which point the ROSES-24 solicitation will become available.
 
 ## [F.16 Supplement for Scientific Software Platforms (S4SSP)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-72-f16-supplement-scientific-software-platforms-deferred-roses-2023)
-**S4SSP will provide supplemental support to existing awards for the use of scientific analysis platforms.**
+**S4SSP will provide supplemental support to existing awards for the use of cloud computing platforms.**
 - To be released for ROSES-23
 
 ## Topical Workshops, Symposia, and Conferences (TWSC)
