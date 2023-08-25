@@ -36,7 +36,7 @@ $(document).ready(function(){
 				  if(the_table_opt != null && the_table_arrow != null) {
 					  if(the_table_opt.length == 1 && the_table_arrow.length == 1) {
 						  the_table_opt_obj = the_table_opt[0];
-						  the_table_opt_obj.style = "width: " + the_table_width + "px;";
+						  //the_table_opt_obj.style = "width: " + the_table_width + "px;";
 						  the_table_arrow_obj = the_table_arrow[0];
 						  
 						  the_table_opt_obj.addEventListener("click", function(){
@@ -64,7 +64,7 @@ $(document).ready(function(){
 	  
 	  setTimeout(function(){
 		  console.log("TOPS: Readjusting tables after load...");
-		  resize_expandable_tables();
+		  //resize_expandable_tables();
 	  }, 3000);
 	  
   }
@@ -111,7 +111,7 @@ $(document).ready(function(){
   }
   
   window.addEventListener('resize', function(event) {
-    resize_expandable_tables();
+    //resize_expandable_tables();
   }, true);
   
   

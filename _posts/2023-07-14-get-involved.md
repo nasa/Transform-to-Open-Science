@@ -35,6 +35,7 @@ Virtual cohorts are online workshops designed to assist individuals to complete 
 		<span>View Dates</span>
 		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
 	</button>
+	<div class="tops_table_holder">
 	<table>
 	  <thead>
 		<tr>
@@ -69,6 +70,7 @@ Virtual cohorts are online workshops designed to assist individuals to complete 
 		</tr>
 	  </tbody>
 	</table>
+	</div>
 </div>
 </li>
 <li>
@@ -79,6 +81,7 @@ TOPS offers in-person training opportunities at conferences and institutions acr
 Going to a professional conference? See if TOPS is leading a workshop.
 </div>
 <div class="tops_scrollable_table tops_table">
+	<div class="tops_table_holder">
 	<table>
 	  <thead>
 		<tr>
@@ -162,6 +165,7 @@ Going to a professional conference? See if TOPS is leading a workshop.
 		</tr>
 	  </tbody>
 	</table>
+	</div>
 </div>
 <div markdown="1">
 Training Events and [TOPST Summer Schools:](https://www.nasa.gov/centers/marshall/news/releases/2023/nasa-boosts-open-science-through-innovative-training)  **Coming soon!**
@@ -171,8 +175,41 @@ Training Events and [TOPST Summer Schools:](https://www.nasa.gov/centers/marshal
 		<span>View Dates</span>
 		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
 	</button>
+	<div class="tops_table_holder">
 	<table>
 	  <thead>
+	    <tr>
+			<th class="tops_table_filters" colspan="5">
+				<div>
+					<select data-col-index="2">
+						<option selected>Event Types</option>
+						<option value="Event Type 1">Event Type 1</option>
+						<option value="Event Type 2">Event Type 2</option>
+						<option value="Event Type 3">Event Type 3</option>
+						<option value="Event Type 4">Event Type 4</option>
+					</select>
+				</div>
+				<div>
+					<select data-col-index="3">
+						<option selected>Modules</option>
+						<option value="1">Module 1</option>
+						<option value="2">Module 2</option>
+						<option value="3">Module 3</option>
+						<option value="4">Module 4</option>
+						<option value="5">Module 5</option>
+					</select>
+				</div>
+				<div>
+					<select data-col-index="4">
+						<option selected>Instructors</option>
+						<option value="Person Name 1">Person Name 1</option>
+						<option value="Person Name 2">Person Name 2</option>
+						<option value="Person Name 3">Person Name 3</option>
+						<option value="Person Name 4">Person Name 4</option>
+					</select>
+				</div>
+			</th>
+		</tr>
 		<tr>
 		  <th>Header1</th>
 		  <th>Header2</th>
@@ -205,6 +242,7 @@ Training Events and [TOPST Summer Schools:](https://www.nasa.gov/centers/marshal
 		</tr>
 	  </tbody>
 	</table>
+	</div>
 </div>
 <div markdown="1">
 Don’t see a training near you? Contact us to request a training in your area.
@@ -232,6 +270,7 @@ We’d love to have you come along side us as a community instructor!
 		<span>View Dates</span>
 		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
 	</button>
+	<div class="tops_table_holder">
 	<table>
 	  <thead>
 	    <tr>
@@ -283,4 +322,5 @@ We’d love to have you come along side us as a community instructor!
 		{% endfor %}
 	  </tbody>
 	</table>
+	</div>
 </div>
