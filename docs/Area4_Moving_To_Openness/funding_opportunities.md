@@ -25,7 +25,7 @@
      - The ROSES-23 solicitation will be available through March 29, 2024, at which point the ROSES-24 solicitation will become available.
 
 ## [F.16 Supplement for Scientific Software Platforms (S4SSP)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-72-f16-supplement-scientific-software-platforms-deferred-roses-2023)
-**S4SSP will provide supplemental support to existing awards for the use of scientific analysis platforms.**
+**S4SSP will provide supplemental support to existing awards for the use of cloud computing platforms.**
 - To be released for ROSES-23
 
 ## Topical Workshops, Symposia, and Conferences (TWSC)
@@ -57,8 +57,7 @@
 Solicits proposals from [non-R1 institutions](https://carnegieclassifications.acenet.edu/) to provide support for investigators and their students at institutions underrepresented in the SMD ecosystem
 - Enable investigators at institutions underrepresented in the SMD ecosystem to initiate activities that, over the course of a two-year period, will provide the foundation for a competitive, sustainable, and productive program of research
 - Enable undergraduate students affiliated with the proposing investigator to perform cutting-edge research in SMD-relevant field
-- Optional Notices of Intent may be submitted until May 18, 2023
-- Proposals will be accepted until July 18, 2023
+- Submission deadline for ROSES-23 has passed. 
 
 ## [F.23 SMD Bridge Program Seed Funding](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b4C8B84E1-912B-E387-F03A-19DA6873F508%7d&path=&method=init)
 Solicits proposals to provide support for faculty investigators and their students at under-resourced institutions (URIs) to carry out NASA-relevant research
