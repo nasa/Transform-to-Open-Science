@@ -155,6 +155,66 @@ Embark on a journey of knowledge by exploring NASA centers that offer the Open S
 * Langley Research Center
 * Marshall Space Flight Center
 
+<div class="tops_expandable_table tops_table">
+    <button class="tops_expandable_opt">
+		<span>View Dates</span>
+		<span><img class="tops_expandable_arrow" src="../assets/images/expand_down.png"></span>
+	</button>
+	<div class="tops_table_holder">
+	<table>
+	  <thead>
+	    <tr>
+			<th class="tops_table_filters" colspan="6">
+				<div>
+					<select data-col-index="2">
+						<option selected>Event Types</option>
+						<option value="Event Type 1">Event Type 1</option>
+						<option value="Event Type 2">Event Type 2</option>
+						<option value="Event Type 3">Event Type 3</option>
+						<option value="Event Type 4">Event Type 4</option>
+					</select>
+				</div>
+				<div>
+					<select data-col-index="3">
+						<option selected>Modules</option>
+						<option value="1">Module 1</option>
+						<option value="2">Module 2</option>
+						<option value="3">Module 3</option>
+						<option value="4">Module 4</option>
+						<option value="5">Module 5</option>
+					</select>
+				</div>
+				<div>
+					<select data-col-index="4">
+						<option selected>Instructors</option>
+						<option value="Person's Name 1">Person's Name 1</option>
+						<option value="Person's Name 2">Person's Name 2</option>
+						<option value="Person's Name 3">Person's Name 3</option>
+						<option value="Person's Name 4">Person's Name 4</option>
+					</select>
+				</div>
+			</th>
+		</tr>
+		<tr>
+			<th>Date</th><th>Time</th><th>Event Type</th><th>Module</th><th>Instructor</th><th>Register</th>
+		</tr>
+	  </thead>
+	  <tbody>
+		{% for row in site.data.tabletest %}
+		  <tr>
+			<td>{{ row.date }}</td>
+			<td>{{ row.time }}</td>
+			<td>{{ row.eventtype }}</td>
+			<td>{{ row.module }}</td>
+			<td>{{ row.instructor }}</td>
+			<td>{{ row.register }}</td>
+		  </tr>
+		{% endfor %}
+	  </tbody>
+	</table>
+	</div>
+</div>
+
 ## Participate in Beta Test Section
 Don't miss the chance to shape the future of open science!  Join us in the beta test for the open science 101 curriculum and have your voice heard.  Your feedback is invaluable and we invite you to participate between the upcoming dates below.  The final cutoff for feedback is on Dec 6th, so make sure you take this opportunity to make a meaningful impact in the world of open science.
 
