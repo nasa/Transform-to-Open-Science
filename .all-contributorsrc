@@ -14,7 +14,8 @@
       "contributions": [
         "ideas",
         "code",
-        "projectManagement"
+        "projectManagement",
+        "maintenance"
       ]
     },
     {
@@ -378,7 +379,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/124390258?v=4",
       "profile": "https://github.com/JaclynStursma",
       "contributions": [
-        "promotion"
+        "promotion",
+        "maintenance",
+        "talk"
       ]
     },
     {
@@ -508,7 +511,8 @@
       "contributions": [
         "doc",
         "promotion",
-        "code"
+        "code",
+        "review"
       ]
     },
     {
