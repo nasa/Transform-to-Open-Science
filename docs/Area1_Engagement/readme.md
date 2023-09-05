@@ -9,6 +9,7 @@ The bottom line is that we have ambitious goals and need YOU and your organizati
 
 Here are some quick links that can help you get started:   
 
+- [Read past newsletters](./Newsletters/readme.md)
 - [Read our publications](./Outreach/tops_publications.md) and our [Open Science Guide](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/readme.html).
 - [Find us at a conference](./Outreach/tops_conferences.md)
 - [Participate in a community forum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums)
