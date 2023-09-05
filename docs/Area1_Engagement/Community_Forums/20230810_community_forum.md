@@ -10,10 +10,6 @@ Panelist
  
 
 *Date:** Thursday August 10, 2023 1-2 PM ET
-<!--
-- **[Video Recording]()**
-- **[Slides]()**
--->
 
 - **[Recording](https://www.youtube.com/watch?v=Pzazn55Wk_0)**
 
