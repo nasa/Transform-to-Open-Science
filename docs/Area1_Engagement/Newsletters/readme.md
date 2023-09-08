@@ -5,3 +5,4 @@ Browse through our archive of past TOPS newsletters to rediscover valuable news,
 - [June Newsletter](./June2023Newsletter.pdf)
 - [July Newsletter](./July2023Newsletter.pdf)
 - [August Newsletter](./August2023Newsletter.pdf)
+- [September Newsletter](./September2023Newsletter.pdf)
