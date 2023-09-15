@@ -42,6 +42,8 @@ To sign up your organization and be listed below, please fill out this [form](ht
 - [Springer Nature](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/SpringerNature.html)
 - [STM](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/STM.html)
 - [Federation of American Scientists (FAS)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/FAS.html)
+- [The Wilson Center](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/WilsonCenter.html)
+- [Frontiers](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/Frontiers.html)
 
 ### For You
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us in the Year of Open Science! 
