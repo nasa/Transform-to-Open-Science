@@ -2,7 +2,7 @@
 Browse through our archive of past TOPS newsletters to rediscover valuable news, content, and links that were previously distributed.
 
 ## 2023
-- [June Newsletter](./June2023Newsletter.pdf)
-- [July Newsletter](./July2023Newsletter.pdf)
-- [August Newsletter](./August2023Newsletter.pdf)
-- [September Newsletter](./September2023Newsletter.pdf)
+- [June Newsletter](https://conta.cc/43UWT0T)
+- [July Newsletter](https://conta.cc/3pvUriO)
+- [August Newsletter](https://conta.cc/3Yr6r1N)
+- [September Newsletter](https://conta.cc/3QZjuGa)
