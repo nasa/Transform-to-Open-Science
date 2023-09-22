@@ -141,3 +141,17 @@
 5. [Anne Fouilloux](https://www.linkedin.com/in/annefouilloux/)
 6. [Reina Camacho Toro](https://www.linkedin.com/in/reina-camacho-toro-b3279762/)
 7. [Elio Campitelli](https://eliocamp.github.io/)
+
+## Curriculum Schedule
+<br>
+
+|                                   | Sept. 11-15 |          | Sept. 18-22 | Sept. 25-29 | Oct. 2-6 | Oct. 9-13  | Oct. 16-20 | Oct. 23-27 | Oct. 30 - Nov. 3 | Nov. 6-10        | Nov. 13-17                                 | Nov. 20-24                                 | Nov. 27 - Dec. 1 |
+|-----------------------------------|-------------|----------|-------------|-------------|----------|------------|------------|------------|------------------|------------------|--------------------------------------------|--------------------------------------------|------------------|
+| **Tiger Team A**                  | Module 3    | Module 4 | Module 4    | Module 2    | Module 2 | Extra time |            |            |                  |                  |                                            |                                            |                  |
+| **Tiger Team B**                  |             |          | Module 5    |             |          |            |            |            |                  |                  |                                            |                                            |                  |
+| **Writer/Graphic designer**       |             | Module 1 |             | Module 4    | Module 5 | Module 2   | Module 3   |            |                  |                  |                                            |                                            |                  |
+| **MOOC Developers**               |             |          |             | Module 1    | Module 4 | Module 5   | Module 2   | Module 3   |                  |                  | All modules respond to <br>review feedback | All modules respond to <br>review feedback |                  |
+| **GitHub Content Project Office** |             |          |             | Module 1    | Module 4 | Module 5   | Module 2   | Module 3   |                  |                  |                                            |                                            |                  |
+| **MOOC copied into ILT slides**   |             |          |             | Module 1    | Module 4 | Module 5   | Module 2   | Module 3   |                  |                  |                                            |                                            |                  |
+| **ILT SlidesDesigner**            |             |          |             |             | Module 1 | Module 4   | Module 5   | Module 2   | Module 3         |                  |                                            |                                            |                  |
+| **External reviewers**            |             |          |             |             |          |            |            |            |                  | Full MOOC Review | Full MOOC Review Report <br>Out            |                                            |                  |
