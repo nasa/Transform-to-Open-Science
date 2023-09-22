@@ -12,8 +12,8 @@ Panelist
 
 *Date:** Thursday September 14, 2023 1-2 PM ET
 
-- [Recording] Coming Soon
+- **[Recording]( https://www.youtube.com/watch?v=Ry-Cef_kQKY)**
  
-- [Slides] Coming soon
+- **[Slides]( https://zenodo.org/record/8367662)**
 
 - **[Code Of Conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/code_of_conduct.md)**
