@@ -142,7 +142,7 @@
 6. [Reina Camacho Toro](https://www.linkedin.com/in/reina-camacho-toro-b3279762/)
 7. [Elio Campitelli](https://eliocamp.github.io/)
 
-## Curriculum Schedule
+## Curriculum Development Schedule
 <br>
 
 |                                   | Sept. 11-15 |          | Sept. 18-22 | Sept. 25-29 | Oct. 2-6 | Oct. 9-13  | Oct. 16-20 | Oct. 23-27 | Oct. 30 - Nov. 3 | Nov. 6-10        | Nov. 13-17                                 | Nov. 20-24                                 | Nov. 27 - Dec. 1 |
