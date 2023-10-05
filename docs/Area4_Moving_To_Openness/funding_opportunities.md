@@ -53,6 +53,11 @@
 - Not solicited in ROSES-23.
 - $6.5M awarded over 3 years based on ROSES-22 solicitation. Read the [news release](https://www.nasa.gov/centers/marshall/news/releases/2023/nasa-boosts-open-science-through-innovative-training) and [summaries of selected proposals](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=929821/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/TOPST22%20selections.pdf).
 
+## [F.19 Multidomain Reusable Artificial Intelligence Tools (MRAIT)](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7B0456A6BD-5E2E-7D61-EB29-EED4EA7EC9F9%7D&path=open)
+**Solicits proposals that would enable critically needed machine learning tools to advance both Heliophysics and Earth Science research.**
+- Not solicited in ROSES-23.
+- Read [summaries of selected proposals](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=935938/solicitationId=%7BDFB2642A-EFEC-317C-C8EE-C41B6FE64D93%7D/viewSolicitationDocument=1/MDRAIT22%20Abstract.pdf) from the [ROSES-22 solicitation](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bDFB2642A-EFEC-317C-C8EE-C41B6FE64D93%7d&path=&method=init)
+
 ## [F.22 Research Initiation Awards](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bD6077002-CFAA-75A8-2801-89B66032541D%7d&path=&method=init)
 Solicits proposals from [non-R1 institutions](https://carnegieclassifications.acenet.edu/) to provide support for investigators and their students at institutions underrepresented in the SMD ecosystem
 - Enable investigators at institutions underrepresented in the SMD ecosystem to initiate activities that, over the course of a two-year period, will provide the foundation for a competitive, sustainable, and productive program of research
