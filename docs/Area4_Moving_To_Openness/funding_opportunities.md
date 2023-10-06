@@ -24,10 +24,6 @@
      - Submit proposals for ROSES-23 at any point during the year, and they will be reviewed on a rolling basis.
      - The ROSES-23 solicitation will be available through March 29, 2024, at which point the ROSES-24 solicitation will become available.
 
-## [F.16 Supplement for Scientific Software Platforms (S4SSP)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-72-f16-supplement-scientific-software-platforms-deferred-roses-2023)
-**S4SSP will provide supplemental support to existing awards for the use of cloud computing platforms.**
-- To be released for ROSES-23
-
 ## Topical Workshops, Symposia, and Conferences (TWSC)
 **TWSC supports events, hackathons, un-conferences, and challenges that build open science skills.** 
 - To be released as standalone Notice of Funding Opportunity (NOFO) in 2023
@@ -39,7 +35,7 @@
      - Events MUST be openly available and allow for inclusive participation 
      - Potential proposers must confirm relevancy and availability of funds with a SMD program officer before preparing or submitting a proposal 
 
-## [F.7 Support for Open Source Tools, Frameworks, and Libraries(OSTFL)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-41-f7-support-open-source-tools-frameworks-and-libraries-deferred-roses-2023)
+## [F.7 Support for Open Source Tools, Frameworks, and Libraries (OSTFL)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-41-f7-support-open-source-tools-frameworks-and-libraries-deferred-roses-2023)
 **OSTFL supports the maintenance of existing open sources tools, frameworks, and libraries that are significantly used by the SMD community.**
 - To be released for ROSES-23
 - Proposals must:
@@ -52,6 +48,15 @@
 **TOPS-T supports the development of discipline-specific open science curriculum and capacity building efforts for open science training.**
 - Not solicited in ROSES-23.
 - $6.5M awarded over 3 years based on ROSES-22 solicitation. Read the [news release](https://www.nasa.gov/centers/marshall/news/releases/2023/nasa-boosts-open-science-through-innovative-training) and [summaries of selected proposals](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=929821/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/TOPST22%20selections.pdf).
+
+## [F.16 Supplement for Scientific Software Platforms (S4SSP)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-72-f16-supplement-scientific-software-platforms-deferred-roses-2023)
+**S4SSP will provide supplemental support to existing awards for the use of cloud computing platforms.**
+- To be released for ROSES-23
+
+## [F.19 Multidomain Reusable Artificial Intelligence Tools (MRAIT)](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7B0456A6BD-5E2E-7D61-EB29-EED4EA7EC9F9%7D&path=open)
+**Solicits proposals that would enable critically needed machine learning tools to advance both Heliophysics and Earth Science research.**
+- Not solicited in ROSES-23.
+- Read [summaries of selected proposals](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=935938/solicitationId=%7BDFB2642A-EFEC-317C-C8EE-C41B6FE64D93%7D/viewSolicitationDocument=1/MDRAIT22%20Abstract.pdf) from the [ROSES-22 solicitation](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bDFB2642A-EFEC-317C-C8EE-C41B6FE64D93%7d&path=&method=init)
 
 ## [F.22 Research Initiation Awards](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bD6077002-CFAA-75A8-2801-89B66032541D%7d&path=&method=init)
 Solicits proposals from [non-R1 institutions](https://carnegieclassifications.acenet.edu/) to provide support for investigators and their students at institutions underrepresented in the SMD ecosystem
