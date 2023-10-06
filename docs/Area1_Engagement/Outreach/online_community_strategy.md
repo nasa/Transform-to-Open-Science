@@ -53,7 +53,7 @@ Our goal on social media is to not just share announcements and amazing and comp
 ## General Community Building Tips
 
 Preliminary online research suggests the following about building an online community:
-* Diverse content is needed. An online space must have “more than blog posts,” and invite newcomers to engage with content beyond reading. Polls and moderated discussions can help create a collaborative atmosphere. Here are some s[uggestions](https://community.mightynetworks.com/posts/free-guide-1k-great-community-questions?ai=60a4ec40-079b-4465-aa8d-8a1a2780406e&_ga=2.39007715.1977069232.1660244631-20294202.1660244631) for discussion questions.
+* Diverse content is needed. An online space must have “more than blog posts,” and invite newcomers to engage with content beyond reading. Polls and moderated discussions can help create a collaborative atmosphere. Here are some [suggestions](https://community.mightynetworks.com/posts/free-guide-1k-great-community-questions?ai=60a4ec40-079b-4465-aa8d-8a1a2780406e&_ga=2.39007715.1977069232.1660244631-20294202.1660244631) for discussion questions.
 * The online space should have a “year in the life” plan, that includes a full calendar of how members can engage with the community. Monthly themes and detailed, weekly calendars can assist with this. 
 * The space must be actively moderated by someone with the ability to hide and remove content, as well as flag those violating the code of conduct. 
 * Individuals like to have an understanding of their role in the community. Point folks to how they can engage individually, as well as members of other organized groups. Part of this is understanding the type of person who is going to put energy into engaging with the online content that is being created. 
