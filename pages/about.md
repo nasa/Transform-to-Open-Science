@@ -13,7 +13,9 @@ The world is changing rapidly. Everyday new problems emerge and it takes groundb
 
 We know that Open Science creates a more equitable system and broadens participation in science. Reducing barriers to entry for excluded, disenfranchised, and marginalized communities enables more diverse voices and areas of expertise to engage in scientific debate and take part in discovery and innovation. Leveraging more researchers will advance discovery, increase collaboration, and create new knowledge. All these things are essential for scientific discovery in the 21st century.
 
-Read through [these open science stories](https://science.nasa.gov/open-science/transform-to-open-science/stories) to learn why some scientists choose open science. 
+<!--
+Read through [these open science stories](https://science.nasa.gov/open-science/transform-to-open-science/stories) to learn why some scientists choose open science.
+-->
 
 ## Strategic Objectives
 
