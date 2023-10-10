@@ -95,7 +95,9 @@ You can [reach out to us using our contact form](https://docs.google.com/forms/d
 - Apply to become a local lead for the 2023 Space Apps challenge! Learn more [here](https://www.spaceappschallenge.org/).
 - SMD's Data Portal has been [launched](https://science.data.nasa.gov/)! Explore NASA's science data as you explore open science. 
 - Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
+<!--
 - Open Science [stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
+-->
 
 ## Contributors ✨
 

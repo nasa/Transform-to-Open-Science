@@ -1,5 +1,5 @@
 
-Open Science and Data Managment Plan Guidance:
+Open Science and Data Management Plan Guidance:
 
 # USA
 - NASA Open Science and Data Management Plan
