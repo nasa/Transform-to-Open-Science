@@ -24,16 +24,16 @@
      - Submit proposals for ROSES-23 at any point during the year, and they will be reviewed on a rolling basis.
      - The ROSES-23 solicitation will be available through March 29, 2024, at which point the ROSES-24 solicitation will become available.
 
-## Topical Workshops, Symposia, and Conferences (TWSC)
+## [Topical Workshops, Symposia, and Conferences (TWSC)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId={805EEF3B-DC64-A447-3EAD-66D23A9501EE}&path=&method=init)
 **TWSC supports events, hackathons, un-conferences, and challenges that build open science skills.** 
-- To be released as standalone Notice of Funding Opportunity (NOFO) in 2023
-- Previously solicited as [F.2 TWSC](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bC669B5EF-ACBB-A0E4-B57D-06F31DEABDB5%7d&path=&method=init)
+- SMD has released TWSC as a Notice of Funding Opportunity (rather than a ROSES element, as was the case in prior years).
      - Rolling deadline.
      - Events focused on Science Mission Directorate data, software, or open science practices
      - Hackathons, un-conferences, and challenges that build open science skills
      - Focused training in open science practices and principles
      - Events MUST be openly available and allow for inclusive participation 
-     - Potential proposers must confirm relevancy and availability of funds with a SMD program officer before preparing or submitting a proposal 
+- Potential proposers must confirm relevancy and availability of funds with a SMD program officer before preparing or submitting a proposal. TWSC has no dedicated funding, so proposers are directed to first contact a NASA division, office, or program that may have funding before preparing a proposal. See section 4.2.1 of the NOFO for information to include in an inquiry email and section 7.0 for contact information for Open Science TWSC inquiries.
+
 
 ## [F.7 Support for Open Source Tools, Frameworks, and Libraries (OSTFL)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-41-f7-support-open-source-tools-frameworks-and-libraries-deferred-roses-2023)
 **OSTFL supports the maintenance of existing open sources tools, frameworks, and libraries that are significantly used by the SMD community.**
