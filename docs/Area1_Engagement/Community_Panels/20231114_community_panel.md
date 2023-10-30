@@ -15,9 +15,6 @@ Previous panels, a list of the panel members, and more information is available 
 
 ## Day 1: Tuesday, November 14th, 2023
 
-[Link to agenda](https://docs.google.com/spreadsheets/d/19Rd9VCMJQDI5-lOHPOkzDjN3CyimXX_Ae6BvfSRzXhM/edit#gid=0) spreadsheet that we will put here. Please do not edit information below - it is linked to the spreadsheet.
-
-
 <table>
   <tr>
    <td colspan="3" ><strong><em>Day 1: Tuesday, November 14th, 2023</em></strong>
@@ -179,6 +176,7 @@ Previous panels, a list of the panel members, and more information is available 
   </tr>
 </table>
 
+## Day 2: Wednesday, November 15th, 2023
 
 
 <table>
