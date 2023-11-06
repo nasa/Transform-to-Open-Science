@@ -16,9 +16,10 @@
 
 ## [F.8 Supplements for Open-Source Science (SOSS)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B2B66037B-0507-568E-5D64-2A3B61DF0195%7D&path=&method=init)
 **SOSS supports the addition of an open science component to an existing "parent" ROSES award.**
-- This could include making the results of the parent award more accessible, inclusive, and usable, or contributing back to relevant open science communities.
-- Awards of ~$50k to support work for one year
-     - Funds will be awarded as augmentations to existing awards.
+- This could include making the results of the parent award more accessible, inclusive, and usable, or contributing back to relevant open science communities. This could also include cloud credits (through Amazon Web Services - AWS) to support activities from the parent award.
+ - Awards are for work up to one year and will be dispensed as augmentations to existing awards
+      - ~$10K for cloud credits
+      - ~$50k otherwise
 - Proposer must have an existing research proposal selected for funding by SMD with at least 15 months remaining in its period of performance at the time of the submission to SOSS.
 - SOSS is run on a yearly basis and has [no fixed due dates](https://science.nasa.gov/researchers/NoDD).
      - Submit proposals for ROSES-23 at any point during the year, and they will be reviewed on a rolling basis.
@@ -51,7 +52,7 @@
 
 ## [F.16 Supplement for Scientific Software Platforms (S4SSP)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-72-f16-supplement-scientific-software-platforms-deferred-roses-2023)
 **S4SSP will provide supplemental support to existing awards for the use of cloud computing platforms.**
-- To be released for ROSES-23
+- Not solicited in ROSES-23. NASA does not intend to solicit this program element in ROSES-2024. However, [F.8 Supplements for Open-Source Science (SOSS)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B2B66037B-0507-568E-5D64-2A3B61DF0195%7D&path=&method=init) has been revised to accommodate proposals that would have been submitted to this program.
 
 ## [F.19 Multidomain Reusable Artificial Intelligence Tools (MRAIT)](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7B0456A6BD-5E2E-7D61-EB29-EED4EA7EC9F9%7D&path=open)
 **Solicits proposals that would enable critically needed machine learning tools to advance both Heliophysics and Earth Science research.**
