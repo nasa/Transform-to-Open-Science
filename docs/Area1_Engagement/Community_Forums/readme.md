@@ -4,7 +4,8 @@ Approximately once a month, we hold a public meeting where we discuss parts of t
 
 ## Next Forum
 
-
+* November 09 2023 [Forum](20231109_community_forum.md)
+Elevating Science Communication: Build a Better Poster Workshop 
 
 ## Previous Forums
 
