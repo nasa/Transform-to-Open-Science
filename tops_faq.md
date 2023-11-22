@@ -21,16 +21,16 @@ This page is a living document of the most common questions posed to the TOPS te
 In terms of activities related to NASA’s <a href = "https://science.nasa.gov/open-science">Open-Source Science Initiative</a>, <a href = "https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf">Science Mission Directorate</a> (SMD) Policy Document (SPD-41) consolidates existing guidance for the openness and accessibility of data, software, papers, and ancillary information resulting from SMD-funded efforts
   
   <h4>What is the first step to getting involved with open science?</h4>
- The first step is to support open-source science efforts within your communities. The <a href = "https://the-turing-way.netlify.app/welcome">Turing Way</a> is a community-driven guide that provides more details on how to design open projects. TOPS is developing an open science curriculum that will become available in late 2022. The <a href ="https://en.unesco.org/science-sustainable-future/open-science/recommendation">UNESCO recommendations</a> have detailed definitions and suggestions on areas of action to support open science.
+ The first step is to support open-source science efforts within your communities. The <a href = "https://the-turing-way.netlify.app/welcome">Turing Way</a> is a community-driven guide that provides more details on how to design open projects. TOPS is developing an open science curriculum that will become available in late 2023. The <a href ="https://en.unesco.org/science-sustainable-future/open-science/recommendation">UNESCO recommendations</a> have detailed definitions and suggestions on areas of action to support open science.
   
   <h4>What incentives and disincentives are being used to encourage open science?</h4>
- NASA awards funding based on the strength of the scientific ideas and the ability to advance those for societal benefit. Traditionally, the enterprise has awarded individuals, but without a focus on openness; incentives have been based on publishing papers in big-release journals. However, NASA will take the next year to shift incentive structures from what they have been in the past, to include incentivizing open science activities (eg. collaborations, team-building, open data, open software, and open-access publications). This shift requires NASA to engage with professional organizations, academia, etc. to make it happen and be appropriately recognized. It is important to note that this shift is not automatic but rather will require some experimentation to see what works and what does not. It is also imperative that NASA get feedback from the community to ensure the effectiveness and efficiency of its OSS efforts.
+ NASA awards funding based on the strength of the scientific ideas and the ability to advance those for societal benefit. Traditionally, the agency has awarded individuals, but without a focus on openness; incentives have been based on publishing papers in big-release journals. However, in 2023, NASA shifted incentive structures from to include incentivizing open science activities (eg. collaborations, team-building, open data, open software, and open-access publications). As of 2023, all NASA ROSES solicitations now require an Open Data and Management Plan as part of the application for funding. 
   
   <h4>How do I know that my code will not be taken without proper attribution?</h4>
  One of the principles of open science is proper attribution of previous work, collaborations, and knowledge used from various sources. Making your code open, appropriately licenced, and assigning it a DOI will help researchers track code being developed. The open development of code should make it easier to identify when people aren’t properly attributing their work. 
   
   <h4>Can you recommend some resources to help people develop their research using open science principles?</h4>
-One of the goals of TOPS is to develop resources to help researchers, organizations, and citizen scientists do their work using open science practices and principles. TOPS is developing an open science curriculum that will become available in late 2022. <a href = "https://nasa.github.io/Transform-to-Open-Science/signup/">Please sign up for our newsletter to receive the latest updates!</a>.
+One of the goals of TOPS is to develop resources to help researchers, organizations, and citizen scientists do their work using open science practices and principles. TOPS is developing an open science curriculum that will become available in late 2023. <a href = "https://nasa.github.io/Transform-to-Open-Science/signup/">Please sign up for our newsletter to receive the latest updates!</a>.
   
   <h4>How can I advocate for open science?</h4>
 A few ways to get started are: Make data non-proprietary and available in an open repository; Provide datasets in standardized formats and assign them DOIs; Develop open-source software and code, using best practices and rigorous version control, so that people can reuse it; Support community development and encourage reuse; Publish in open-access journals; Actively engage the public through storytelling (blogging, social media), hack-a-thons, and citizen science; and cite your data, software, and documentation.
@@ -39,10 +39,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
     TOPS is advocating a vision of open science in which the entire research workflow--from inception to the creation of data and software artifacts and publishing results--is as open as possible.
  
  <h4>What kind of training and educational initiatives could we implement to make open science more accessible?</h4>
-  <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/">Our Open Science 101</a> is just the beginning; TOPS will announce in late 2022, the upcoming Year of Open Science which will include a comprehensive plan on engaging with the scientific community through hackathons and summer/winter schools, and at all the large science society conferences. Check out our <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">calendar</a> and our <a href = "https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html">Year of Open Science Guide</a> to join us!
-  
-   <h4>How can research and data-driven artists further science? </h4>
-  One way to broaden participation is through making science more accessible and the arts are one way to do that. We hope to have a <a href = "https://www.spaceappschallenge.org/">Space Apps challenge</a> focused on STEAM initiatives to get people from all of the world thinking about this.
+  <a href = "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/">Our Open Science 101</a> curriculum is just the beginning. NASA, along with the White House, designated 2023 as the Year of Open Science and engaged with the scientific community through hackathons and virtual cohorts, and at large science society conferences. The TOPS team will continue these efforts over the next several years. Check out our <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">calendar</a> and our <a href = "https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html">Year of Open Science Guide</a> to join us!
   
    <h4>How does citizen science connect to open science?</h4>
   We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation.
@@ -55,13 +52,13 @@ A few ways to get started are: Make data non-proprietary and available in an ope
 <details> 
   <summary><span style="font-size:x-large;">General Questions about TOPS</span></summary>
   <h4>NASA TOPS is a $40M mission over 5 years. How will those funds be spent?</h4>
-  TOPS is across all of NASA’s Science Mission Directorate (SMD). The majority of the funding is to support training activities to help the SMD community learn about Open Sciences. This includes training that is tailored to the needs of the scientific communities of SMD. Opportunities will be announced that are available to all directorates and the different directorates are participating in the design and development of the project. 
+  TOPS is across all of NASA’s Science Mission Directorate (SMD). The majority of the funding is to support training activities to help the SMD community learn about Open Sciences. This includes the development and ongoing iterations of the Open Science 101 curriculum and funding outreach efforts and training efforts both internal and external to NASA.
  
   <h4>What are the concrete objectives with the TOPS mission? What outcomes and deliverables are you pursuing?</h4>
   TOPS strategic goals are:  
   <ol>
     <li> Support 20K researchers to earn NASA's open science badge
-    <li> lDouble the participation of historically excluded groups across NASA science, and 
+    <li> Double the participation of historically excluded groups across NASA science, and 
     <li> Enable five major scientific discoveries through open science principles. 
   </ol>
  For goal 1, we will know the exact amount of people completing the course thanks to registration. For goal 2, we plan to solicit proposals in 2023 for high risk, high reward, science projects, across all of NASA science (e.g., planetary, heliophysics, astrophysics, biological and physical sciences, and Earth science), that are open from inception. These projects will be required to follow open science best practices. We will be able to measure success by whether they achieve the goals stated in their proposals, and contribute to a major advance in their field. For goal 3, we have internal metrics that we hope to make public, and can track participation by under-represented communities on NASA science teams, funded proposals, committee, and review panels. While these specific metrics may allow us to see if we reach our stated goals, we need to be able to measure our progress against our objectives as well: increasing adoption of open science and increasing participation in science by historically excluded groups. That requires a more nuanced set of metrics that we are continuing to develop. 
@@ -75,8 +72,8 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   <h4>Are engagement plans aimed within the US or internationally?</h4>
   TOPS is engaging both nationally and internationally. The focus for 2023 is national in scope; yet, we continue to engage and collaborate with other international space agencies and organizations to ensure the open science reach is more broadly distributed.
   
-  <h4>Have actionable plans been made to ensure that communities historically excluded from research are reached by TOPS?</h4>
-  Yes; plans have been developed that include engagement and support for these communities. A core value within the TOPS team is to meet historically excluded groups where they are, and we will continue to follow through with this value for the next 5 years.  We are working to have a strong presence at conferences that focus on historically excluded groups.  We have partnered with NASA’s Minority University Research and Education Project (MUREP) to support different activities such as funding 3-year NASA internships and to develop future solicitations. Our TOPS Community Panel includes leaders in open science and is 50% women and 70% people of color.  We will also be developing further plans based on the engagement and feedback we receive. We welcome suggestions, contributions, and comments through our <a href = "https://github.com/nasa/Transform-to-Open-Science">GitHub site</a> or by contacting us directly.
+  <h4>What is TOPS doing to reach communities historically excluded from research?</h4>
+  A core value within the TOPS team is to meet historically excluded groups where they are, and we will continue to follow through with this value for the next 5 years.  TOPS exhibits at and hosts workshops at conferences that focus on historically excluded groups and partners with NASA’s Minority University Research and Education Project (MUREP) to support different activities such as funding 3-year NASA internships and to develop future solicitations. Our TOPS Community Panel includes leaders in open science and is 50% women and 70% people of color.  We will also be developing further plans based on the engagement and feedback we receive. We welcome suggestions, contributions, and comments through our <a href = "https://github.com/nasa/Transform-to-Open-Science">GitHub site</a> or by contacting us directly.
   
   <h4>Is there a forum or mechanism to share experiences on open science with this community?</h4>
   The TOPS GitHub is a great source of information, and is also a great way to share experiences and ask questions. The discussion can be found at <a href = "https://github.com/nasa/Transform-to-Open-Science/discussions">https://github.com/nasa/Transform-to-Open-Science/discussions</a> .
@@ -102,9 +99,6 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   <h4>Are you coordinating this mission with the other federal US agencies that provide research funding (e.g., NSF, NOAA, DOE)?</h4>
    Formal and informal partnerships with other agencies and organizations will be announced soon! 
 
-  <h4>Where can we get TOPS stickers and pins?</h4>
-  You can visit us at conferences to find our latest educational and informational resources. We are also working on a distribution mechanism to share resources with the full community, so join our <a href = "https://nasa.github.io/Transform-to-Open-Science/signup/">listserv</a> to stay tuned!
-  
   </details>
   
   <details> 
@@ -133,10 +127,8 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   The <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Panels/readme.md">Community Panel</a> for 2022 has been selected. However, each year we will have an open call for new members. Please continue to monitor the <a href = "https://github.com/nasa/Transform-to-Open-Science">GitHub</a> as all announcements will be provided there.
   
   <h4>How can students at different levels get involved?</h4>
-  Anyone with an interest in open science is welcome to participate in TOPS! Sign up for the <a href = "https://nasa.github.io/Transform-to-Open-Science/signup/">TOPS newsletter</a> to keep up-to-date with the latest TOPS activities, including student internships. Contribute to the <a href = "https://github.com/nasa/Transform-to-Open-Science/discussions">discussion on our GitHub</a>. Further, the open science curriculum that TOPS is developing will be free and open for all regardless of disciplinary or education level.
+  Anyone with an interest in open science is welcome to participate in TOPS! Sign up for the <a href = "https://nasa.github.io/Transform-to-Open-Science/signup/">TOPS newsletter</a> to keep up-to-date with the latest TOPS activities. Contribute to the <a href = "https://github.com/nasa/Transform-to-Open-Science/discussions">discussion on our GitHub</a>. Further, the open science curriculum that TOPS is developing will be free and open for all regardless of disciplinary or education level.
   
-  <h4>What specific plans do you have for outreach that will reach different communities?</h4>
-    See our calendar for a <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">list of conferences</a> we will be attending this year and next.
   
   <h4>Is TOPS engaging with open science users across scientific domains?</h4>
   Yes! Subject matter experts for building the Open Science 101 stretch across scientific fields.
@@ -157,9 +149,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   
   <h4>Are there any plans to introduce high school students or college students to open science?</h4>
   The initial version of the Open Science 101 will be tailored to researchers and scientists interested in further exploring open science and receiving the NASA TOPS Open Science certification. This course will be free and open for all regardless of disciplinary or education level.
-  
-  <h4>When will the curriculum be available and will the modules be accessible online for people to complete at their own pace?</h4>
-  Open Science 101 curricula will be available through the Open EdX platform in 2023. We will be having the official Year of Open Science launch at the American Meteorological Society and American Astronomical Society January 2023 meetings.
+
   
   <h4>Do we have specific subject or scientific domains prioritized?</h4>
   TOPS is a NASA Science Mission Directorate initiative focused on ensuring an equal playing field for all scientists and researchers regardless of domain, tenure, or affiliation.
@@ -196,8 +186,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   <details>
   <summary><span style="font-size:x-large;">The Year of Open Science</span></summary>
   
-  <h4>What is the Year of Open Science?</h4>
-  Transform to Open Science (TOPS) is a five-year initiative designed to support scientists, agencies, organizations, and communities as they transform to an inclusive culture of open science. Many TOPS activities will be focused around 2023 as NASA’s Year of Open Science. In partnership with major scientific organizations, the Year of Open Science is designed to spark change and inspire open science engagement through events and activities that will shift the current paradigm. 
+
   </details>
 
 
