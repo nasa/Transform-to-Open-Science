@@ -32,7 +32,7 @@ Ideal/perfect world answer: Yes, different user context = different design. An i
 
 Realistic answer: just upload your billboard poster and your full abstract paper/preprint to the same repository page (Figshare, etc). So online skimmers get to skim your lightweight billboard poster, and then download the full paper when they want more detail.  
 
-3. I applaud the #BetterPoster format but get alot of pushback from scientists who want to know: are there any studies that document its effectiveness?(references please!) Thanks and good job!
+3. I applaud the #BetterPoster format but get a lot of pushback from scientists who want to know: are there any studies that document its effectiveness?(references please!) Thanks and good job!
  
 #BetterPosters performed better in eye tracking, were rated as more accessible by conference attendees with accessibility needs, were rated as easier to interact with in two field studies, and there is at least no difference in 'number of stops' so far, and some evidence that #betterposters get more stops (if you remove on insane outlier in that AHA field study, #betterposters got more stops). You can also see a full list of background references that inform the design in the description to the #betterposter Generation 2 cartoon on YouTube.
 
