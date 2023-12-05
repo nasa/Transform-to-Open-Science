@@ -1,7 +1,10 @@
 # Incentives for Open Science
 
-Research has shown that science which is conducted in the open, and results which are freely shared, have an increased scientific impact. Open research is cited more, shared more, and contributes more to the work of others. However, it can be difficult for researchers to transition to doing open science due to institutional barriers, lab practices, or even industry practices. To try to ease this transition, TOPS is working with partners to develop additional incentives for engaging in open science.
-- TOPS is working to develop [Open Science Badges](./badging_motivation.md) that apply to the [Open Science 101](/docs/Area2_Capacity_Sharing/Open-Science-101/readme.md) curriculum. Our vision is that every module will have an associated micro-badge, and that a "grand badge" will be available for those who complete all five modules. More details on badges [here](./micro-badging_details.md).
-- TOPS is partnering with other organizations to develop high-profile awards in support of open science research. More information on these awards will be available in Fall 2022.
-- TOPS is working to identify [funding opportunities](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness) aimed at advancing open science as well as supporting researchers conducting their work in the open.
+The current incentive structure in science is largely based on publications and citations. In open science, we are working to acknowledge the many different aspects of science and research that are essential to scientific advancement, such as writing code, managing data, mentoring students, etc. By embracing open science principles and practices, scientists and researchers can increase the impact of their scientific efforts. Incentives for open science are an active area of development, and TOPS and NASA are contributing to additional incentives to facilitate the transition to a more open scientific ecosystem.
+
+### Recognition for Open Science practices
+NASA contributed to the [White House Office of Science & Technology Policy Open Science Recognition Challenge](https://portal.challenge.gov/public/previews/challenges?challenge=0a53c056-675b-44a4-860e-a56ce3f4aaad&print=true) (no longer accepting applications) that recognizes groups who have contributed significantly to open science.
+
+### Open Science Funding
+NASA has some [funding opportunities](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/funding_opportunities.md) aimed at supporting researchers conducting their work openly, including support for open-source software development and contributions to open science communities.
 
