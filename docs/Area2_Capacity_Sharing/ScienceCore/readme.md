@@ -16,4 +16,4 @@ The design calls for several, individual 2.5-hour modules that focus on data sci
 
 ## Course Incentives
 
-* Certification and/or NASA TOPS open science [badges](/docs/Area3_Incentives/badging_motivation.md)
+* Certification and/or NASA TOPS open science badges
