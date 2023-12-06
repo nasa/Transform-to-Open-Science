@@ -59,4 +59,64 @@ Miki Huynh
 ## Reviewers
 Reviewers are those who have reviewed the curriculum content and provided meaningful feedback.
 
-Laura Acion, Laura Ascenzi, Mónica Alonso, Melissa Black, Julián Buede, James Colliander, Cassie Conley, Michael Croteau, Kylie Yui Dan, Katie Dejwakh, Emily Faber, Jesica Formoso, J.L. Galache, Shannon Gant, Chelle Gentemann, Monica Granados, Pen-Yuan Hsing, SherAaron Hurt, Ian Jian, Logan Kilpatrick, Sheikh Mahtab, Avi Mandell, Pamela Marcum, Brian Nosek, Paola Lefer, Patricia Loto, Paz Míguez, Nicolás Palopoli, Rachel E. Paseka, Romina Pendino, Iván Poggio, Fernando Perez, Junellie Gonzalez Quiles, Mariela Rajngewerc, Disha Sardana, Malvika Sharan,Leo Singer, Irene Vazano, Qiusheng Wu
+Laura Acion, Laura Ascenzi, Mónica Alonso, Melissa Black, Julián Buede, James Colliander, Cassie Conley, Michael Croteau, Kylie Yui Dan, Katie Dejwakh, Emily Faber, Jesica Formoso, J.L. Galache, Shannon Gant, Chelle Gentemann, Monica Granados, Pen-Yuan Hsing, SherAaron Hurt, Ian Jian, Logan Kilpatrick, Sheikh Mahtab, Avi Mandell, Pamela Marcum, Brian Nosek, Paola Lefer, Patricia Loto, Paz Míguez, Nicolás Palopoli, Rachel E. Paseka, Romina Pendino, Iván Poggio, Fernando Perez, Junellie Gonzalez Quiles, Mariela Rajngewerc, Disha Sardana, Malvika Sharan, Leo Singer,Irene Vazano, Qiusheng Wu
+
+## TOPS OS101 Curriculum Development Management at NASA's Ames Research Center
+
+This team manages the curriculum content creation and the work to facilitate content dissemination, such as managing development of an OS101 online course. In addition, everyone on this team serves as copy editors across the entire curriculum.
+
+* Diana Ly – Project Manager
+* Katherine Blanchette – Deputy Project Manager
+* Marcia Higgins - Project Support
+* Porsche Parker – Project Support
+
+Former members: 
+* Vandahana Lal – Deputy Project Manager 
+* Natasha Batalha – Project Scientist
+* Cassie Conley – Project Scientist
+* Pamela Marcum – Project Scientist
+* Caroline Dang – Project Support
+* Sara Edwards – Project Support
+* Kristina Pistone – Project Support
+
+## TOPS Project Management Office at NASA’s Marshall Space Flight Center
+
+This team manages the coordination, digital resources, and communication for the NASA Transform to Open Science initiative, including the overseeing of the entire TOPS project and curriculum development and implementation.
+
+* Amanda Adams - Communications Lead
+* Paul Bremner - Project Scientist
+* Brian Ressler - Digital Content and GitHub Specialist
+* Adam Farragut - Education and Outreach Specialist
+* Jaclyn Stursma - Internal Communications Specialist
+* Shannon Gant - PM, Consultant
+* Myra Chandler - Budget Analyst
+* Dave Meyer - Science Projects Branch, Branch Manager
+* Genevieve Vigil - Deputy Project Scientist
+* Kaitlyn Hedderman - TOPS Project Manager
+
+Former members:
+* Kaylin Bugbee - Project Scientist
+* Edward (Kyle) Westbrook - Project Coordinator
+* Kimberly (Shawn) McEniry - Science and Technology Communications Strategist
+
+## TOPS Team at NASA Headquarters
+This team is responsible for the overall vision and scope of the TOPS initiative.  The team is part of the Office of the Chief Science Data Officer for the Science Mission Directorate. 
+
+* Kevin Murphy - Chief Science Data Officer
+* Steve Crawford - Program Executive
+* Chelle Gentemann - Program Scientist 
+* Paige Martin - Support Scientist
+* Holly Norton - TOPS Liaison
+* Malcolm Glover - Equity and Community Engagement Coordinator
+
+Former members:
+* Cyndi Hall - TOPS Community Coordinator
+* Yvonne Ivey-Parker - TOPS Equity Lead
+* Isabella Martinez - TOPS Content Coordinator
+* Yaitza Luna-Cruz - OCSDO Coordinator and TOPST Program Officer
+
+Some early material was developed under a NASA grant to the AGU #80NSSC22K0734 PI: Shelley Stall. 
+
+The structure of use, make, share was inspired by the GoDAN MOOC. Parts of Module, Lesson 2 incorporate (with citation) the excellent checklists they provide: GODAN Action. (2019, December 20). GODAN Action Online Course on Open Data Management in Agriculture and Nutrition (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3588148
+
+NOTE: We have done our best to acknowledge all those who have contributed. Please notify us if you find an error so that we may correct it.
