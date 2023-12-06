@@ -1641,10 +1641,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	margin-bottom: 12px;
 }
 
-.tops_eventsingle_section .tops_eventsingle_content .tops_eventsingle_content_text p:last-of-type {
-	margin-bottom: 0;
-}
-
 .tops_eventsingle_section .tops_eventsingle_sidebar .tops_eventsingle_sidebar_widget {
 	display: block;
 	width: 100%;
@@ -1980,6 +1976,74 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .tops_white_section.tops_half_section p b, .tops_white_section.tops_half_section p strong {
 	color: #222;
+}
+
+.tops_eventsingle_content_text p b, .tops_eventsingle_content_text p strong {
+	color: #222;
+}
+
+.tops_eventsingle_content_text h2, .tops_eventsingle_content_text h3, .tops_eventsingle_content_text h4, .tops_eventsingle_content_text h5, .tops_eventsingle_content_text h6 {
+	display: block;
+	width: 100%;
+	color: #222;
+	text-transform: uppercase;
+	margin-bottom: 12px;
+	padding:0;
+	font-weight: 900;
+}
+
+.tops_eventsingle_content_text h2 {
+	font-size: 32px;
+	line-height: 36px;
+}
+
+.tops_eventsingle_content_text h3 {
+	font-size: 28px;
+	line-height: 32px;
+}
+
+.tops_eventsingle_content_text h4 {
+	font-size: 24px;
+	line-height: 28px;
+}
+
+.tops_eventsingle_content_text h5 {
+	font-size: 20px;
+	line-height: 24px;
+}
+
+.tops_eventsingle_content_text h6 {
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.tops_eventsingle_content_text ul, .tops_eventsingle_content_text ol {
+	width: 100%;
+	margin-bottom: 12px;
+}
+
+.tops_eventsingle_content_text ul ul, .tops_eventsingle_content_text ol ol {
+	margin-bottom: 0;
+}
+
+.tops_eventsingle_content_text ul li, .tops_eventsingle_content_text ol li {
+	font-size: 16px;
+    line-height: 1.6rem;
+    font-weight: 400;
+    color: #777;
+}
+
+.tops_eventsingle_content_text li a {
+	color: #D83E00;
+	-webkit-transition: opacity 0.3s ease;
+	-moz-transition: opacity 0.3s ease;
+	-ms-transition: opacity 0.3s ease;
+	-o-transition: opacity 0.3s ease;
+	transition: opacity 0.3s ease;
+}
+
+.tops_eventsingle_content_text li a:hover, .tops_eventsingle_content_text li a:active, .tops_eventsingle_content_text li a:focus {
+	opacity: 0.65;
 }
 
 @media (max-width: 767.9px) {
