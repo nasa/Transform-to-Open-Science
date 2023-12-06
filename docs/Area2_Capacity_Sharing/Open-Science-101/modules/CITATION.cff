@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "To reference the latest version of the TOPS Open Science 101 curriculum, please cite it as below."
+authors:
+  - name: "NASA TOPS Open Science 101 Team "
+title: "NASA TOPS Open Science 101."
+version: 1.0.0
+identifiers:
+  - description: The concept DOI for the collection containing all versions of the Citation File Format.
+    type: doi
+    value: "10.5281/zenodo.10161527"
+license: "CC-BY-4.0"
+date-released: "2023-12-06"
+keywords:
+  - training materials
+  - open science
+  - open ethos
+  - open data
+  - open code
+  - open tools
+  - open results
+doi: 10.5281/zenodo.10161527
+references:
+   - type: edited-work
