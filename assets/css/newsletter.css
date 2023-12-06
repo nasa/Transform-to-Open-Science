@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400&family=Roboto:wght@500;700;900&display=swap');
+
 html, body { 
 	background-color: #000;
 	margin: 0;
@@ -13,11 +15,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6, a, button {
-	font-family: 'PT Serif', serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 p, span, p a {
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 
 .tops_base_element {
@@ -37,7 +39,7 @@ p, span, p a {
 	padding: 30px;
 	padding-top: 70px;
 	padding-bottom: 70px;
-	background: linear-gradient(180deg, rgba(43,148,171,0.8) 30%, rgba(43,148,171,0.3) 100%), url('../images/tops_signup_bg.jpg');
+	background: linear-gradient(180deg, rgba(13,66,95,0.9) 30%, rgba(216,62,0,0.4) 100%), url('../img/tops_signup_bg.jpg');
 	background-size: cover;
 	background-position: center center;
 }
@@ -66,9 +68,9 @@ p, span, p a {
 	margin-bottom: 12px;
 	font-size: 24px;
 	line-height: 27px;
-	text-transform: capitalize;
+	text-transform: uppercase;
 	color: #222;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .tops_form_container .tops_form_content h3 {
@@ -89,8 +91,8 @@ p, span, p a {
 	color: #707070;
 	margin-top: 0;
 	margin-bottom: 12px;
-	font-size: 15px;
-	line-height: 1.4em;
+	font-size: 16px;
+	line-height: 1.6em;
 	font-weight: 400;
 }
 
@@ -101,7 +103,7 @@ p, span, p a {
 }
 
 .tops_form_container .tops_form_content p a {
-	color: #2b94ab;
+	color: #D83E00;
 	text-decoration: underline;
 }
 
@@ -138,7 +140,7 @@ div.ctct-form-embed form.ctct-form-custom div.ctct-form-field {
 }
 
 div.ctct-form-embed form.ctct-form-custom label.ctct-form-label, div.ctct-form-embed form.ctct-form-custom fieldset.ctct-form-lists legend.ctct-form-lists-legend {
-	font-family: 'PT Serif', serif !important;
+	font-family: 'Roboto', sans-serif !important;
 	color: #222 !important;
 	margin-bottom: 8px !important;
 	font-size: 15px !important;
@@ -160,7 +162,7 @@ div.ctct-form-embed form.ctct-form-custom label.ctct-form-label, div.ctct-form-e
 .tops_form_container .ctct-form-success {
 	min-height: initial !important;
 	border-radius: 5px;
-	background-color: #28a745;
+	background-color: #1E8806;
 	width: 100%;
 	height: auto;
 	box-sizing: border-box;
@@ -172,7 +174,7 @@ div.ctct-form-embed form.ctct-form-custom label.ctct-form-label, div.ctct-form-e
 .tops_form_container .ctct-form-success h2 {
 	display: block;
 	width: 100%;
-	font-family: 'PT Serif', serif !important;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 16px !important;
 	line-height: 18px !important;
 	margin-top: 0 !important;

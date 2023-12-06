@@ -2,7 +2,7 @@
 layout: newsletter
 title: Sign Up
 permalink: "/signup/"
-image: assets/images/tops_signup_banner.jpg
+image: assets/img/tops_signup_banner.jpg
 ---
 
 ## Join the Transform to Open Science Community
@@ -10,8 +10,5 @@ Thank you for your interest in [NASA's Transform to Open Science (TOPS) program]
 
 ### Subscribe to the TOPS Monthly Newsletter and Listserv
 Subscribe to our newsletter with information about upcoming open science events and announcements.
-
-### Pre-Enroll in NASA's Open Science 101 (OS101)
-NASA's OS101 is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science plan. Pre-enroll to take OS101 and earn your open science badge. Expected launch, late 2023.
 
 [tops github link]: https://nasa.github.io/Transform-to-Open-Science/

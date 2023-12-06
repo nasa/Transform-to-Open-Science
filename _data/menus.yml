@@ -7,18 +7,19 @@ topmenu:
 - title: About
   url: "about/"
 
+- title: Events
+  url: "events/"
+
+- title: Blog
+  url: "blog/"
+
 - title: Contact
-  url: https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit
+  url: "mailto:hq-openscience@nasa.gov"
   external: true
 
-- title: NASA's Open-Source Science Initiative
-  url: https://science.nasa.gov/open-science-overview
-  external: true
-
-# - title: Get this theme  
-#   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-#   class: "ml-2 btn btn-dark text-white px-3"
-#   external: true
+- title: Enroll
+  url: "take-os101/"
+  special: true
 
 # Footer Menu
 footermenu:
@@ -26,14 +27,43 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Code of conduct
-  url: https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md
-  external: true
+- title: About
+  url: "about/"
+
+- title: Events
+  url: "events/"
+
+- title: Blog
+  url: "blog/"
 
 - title: Contact
-  url: https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit
+  url: "mailto:hq-openscience@nasa.gov"
   external: true
 
-- title: Download theme
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Take OS101
+  url: "take-os101/"
+
+- title: Sign Up For Newsletter
+  url: "signup/"
+
+- title: NASA Privacy Policy
+  url: "https://www.nasa.gov/privacy/"
   external: true
+
+# Curriculum Modules
+cmodules:
+
+- title: Ethos Of Open Science
+  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_science_ethos_module.md"
+
+- title: Open Tools And Resources
+  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_tools_module.md"
+
+- title: Open Data
+  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_data_module.md"
+
+- title: Open Code
+  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_software_module.md"
+
+- title: Open Results
+  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_results_module.md"

@@ -1,0 +1,19 @@
+<div class="tops_white_section tops_half_section half_section_left">
+    <div class="container tops_container">
+      <div class="d-flex flex-row flex-wrap align-items-start">
+        <div class="tops_half_section_column_small">
+          <div class="tops_half_section_shinysquare"></div>
+          <div class="tops_half_section_imageoutter"><iframe width="560" height="315" src="https://www.youtube.com/embed/RJAcQ3TxlAc?si=JtQi5PJdCGJkx9mY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+        </div>
+        <div class="d-flex flex-column flex-wrap justify-content-center tops_half_section_column_big">
+          <h2 class="mb-2">{{ home-whatistops-title }}</h2>
+          <div class="tops_divider div_smaller mb-3"><div class="div_inner"></div></div>
+          {{ home-whatistops-description | markdownify }}
+          <div class="d-flex flex-row flex-wrap tops_doublebuttons">
+              <a class="btn btn-primary" href="{{site.baseurl}}/{{site.enrollbutton}}" role="button">{{ home-whatistops-linkone_text }}</a>
+              <a class="btn btn-outline-primary" href="{{ home-whatistops-linktwo_url }}" role="button">{{ home-whatistops-linktwo_text }}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

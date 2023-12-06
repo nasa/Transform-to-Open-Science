@@ -1,0 +1,50 @@
+<div class="tops_blue_divider_section tops_overlay_section blue_overlay">
+    <div class="the_overlay opacity-65"></div>
+    <div class="tops_shape tops_shape_top tops_shape_reverse">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+        <path d="M0,6V0h1000v100L0,6z"></path>
+      </svg>
+    </div>
+    <div class="tops_shape tops_shape_bottom tops_shape_reverse">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+        <path d="M0,6V0h1000v100L0,6z"></path>
+      </svg>
+    </div>
+    <div class="container tops_container">
+      <div class="row">
+        <div class="col-12 tops_blue_divider_primary_content primary_content_md">
+          <h2 class="text-center text-white mb-2">{{ about-strat-title }}</h2>
+          <div class="tops_divider div_larger justify-content-center mb-3"><div class="div_inner"></div></div>
+          {{ about-strat-description | markdownify }}
+          <div class="d-flex flex-row flex-wrap tops_doublebuttons justify-content-center">
+            <a class="btn btn-primary" href="{{site.baseurl}}/{{site.enrollbutton}}" role="button">{{ about-strat-enroll-text }}</a>
+            <a class="btn btn-outline-light" href="{{ about-strat-contact-link }}" role="button">{{ about-strat-contact-text }}</a>
+          </div>
+        </div>
+      </div>
+      <div class="row mt-5 mt-md-4">
+        <div class="col-12 col-md-4 p-0 pb-4 p-md-3 tops_infoicon">
+          <div class="d-flex flex-column flex-wrap align-items-center tops_infoicon_inner">
+            <div class="tops_infoicon_icon mb-4"><i class="fa-solid fa-microscope"></i></div>
+            <h3 class="text-center mb-2">{{ about-strat-accelerate-title }}</h3>
+            <p class="text-center mb-0">{{ about-strat-accelerate-desc }}</p>
+          </div>
+        </div>
+        <div class="col-12 col-md-4 p-0 pb-4 p-md-3 tops_infoicon">
+          <div class="d-flex flex-column flex-wrap align-items-center tops_infoicon_inner">
+            <div class="tops_infoicon_icon mb-4"><i class="fa-solid fa-users"></i></div>
+            <h3 class="text-center mb-2">{{ about-strat-broaden-title }}</h3>
+            <p class="text-center mb-0">{{ about-strat-broaden-desc }}</p>
+          </div>
+        </div>
+        <div class="col-12 col-md-4 p-0 pb-4 p-md-3 tops_infoicon">
+          <div class="d-flex flex-column flex-wrap align-items-center tops_infoicon_inner">
+            <div class="tops_infoicon_icon mb-4"><i class="fa-solid fa-lightbulb"></i></div>
+            <h3 class="text-center mb-2">{{ about-strat-understand-title }}</h3>
+            <p class="text-center mb-0">{{ about-strat-understand-desc }}</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>

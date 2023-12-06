@@ -1,0 +1,19 @@
+<div class="tops_white_section tops_half_section half_section_right">
+    <div class="container tops_container">
+      <div class="d-flex flex-row flex-wrap align-items-start">
+        <div class="d-flex flex-column flex-wrap justify-content-center tops_half_section_column_big">
+          <h2 class="mb-2">{{ about-giants-title }}</h2>
+          <div class="tops_divider div_smaller mb-3"><div class="div_inner"></div></div>
+          {{ about-giants-description | markdownify }}
+          <div class="d-flex flex-row flex-wrap tops_doublebuttons">
+            <a class="btn btn-primary" href="{{site.baseurl}}/{{site.enrollbutton}}" role="button">{{ about-giants-enroll-text }}</a>
+            <a class="btn btn-outline-primary" href="{{ about-giants-contact-link }}" role="button">{{ about-giants-contact-text }}</a>
+          </div>
+        </div>
+        <div class="tops_half_section_column_small">
+          <div class="tops_half_section_shinysquare"></div>
+          <div class="tops_half_section_imageoutter"><img src="{{ site.baseurl }}/assets/img/standingimage.jpg" class="tops_half_section_image"></div>
+        </div>
+      </div>
+    </div>
+  </div>

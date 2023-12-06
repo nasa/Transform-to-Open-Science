@@ -1,28 +1,14 @@
 ---
 layout: default
 ---
-<!-- Post Featured Image -->
-{% if page.image %}
-<div class="text-center mx-auto mb-5">
-  <img class="featured-image text-center mx-auto rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
-</div>
-{% endif %}
-<!-- End Featured Image -->
-
-<div class="col-lg-8 mx-auto">
-
-  <div class="mainheading">
-    <h1 class="posttitle">{{ page.title }}</h1>
+<div style="background-image: url('{{ site.baseurl }}/{{ page.image }}');" class="d-flex flex-column justify-content-center tops_hero sub_hero tops_overlay_section black_overlay {% if page.imagealign %}{{page.imagealign}}{% endif %}">
+    <div class="the_overlay {% if page.overlay %}{{page.overlay}}{% endif %}"></div>
+    <div class="container tops_container">
+        <div class="row align-items-center">
+          <div class="col-12">
+            <h1 class="text-center text-white mb-0">{{ page.title }}</h1>
+          </div>
+        </div>
+    </div>
   </div>
-
-  <div class="article-post serif-font">
-    {{content}}
-  </div>
-
-  {% if page.comments == true %}
-  <div id="comments">             
-      {% include disqus.html %} 
-  </div>
-  {% endif %}
-
-</div>
+  {{content}}
