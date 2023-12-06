@@ -1,0 +1,121 @@
+---
+layout: default
+---
+<div style="background-image: url('{{ site.baseurl }}/assets/img/abstractlines.jpg');" class="d-flex flex-column justify-content-center tops_hero sub_hero tops_hero_align_50_100 tops_overlay_section black_overlay">
+    <div class="the_overlay opacity-70"></div>
+    <div class="container tops_container">
+        <div class="row align-items-center">
+          <div class="col-12">
+            <h1 class="text-center text-white mb-0">{{ page.title }}</h1>
+          </div>
+        </div>
+    </div>
+  </div>
+  <div class="tops_white_section tops_eventsingle_section">
+    <div class="container tops_container">
+      <div class="row">
+        <div class="col-12 col-md-8 col-lg-9 tops_eventsingle_content">
+          <div class="tops_eventsingle_captionimage">
+              <img src="{{ site.baseurl }}/{{ page.image }}">
+              {% if page.imagecaption %}
+                <p>{{ page.imagecaption }} {% if page.imageattribution %} <br>Image credit: {{ page.imageattribution }} {% endif %}</p>
+              {% endif %}
+          </div>
+          <div class="tops_eventsingle_categories">
+              {% if page.acronyms %}
+                {% assign eventsingle-acronyms-split = page.acronyms | split: "," %}
+
+                {% for eventsingle-acronym in eventsingle-acronyms-split %}
+                  <span>{{ eventsingle-acronym }}</span>
+                {% endfor %}
+              {% else %}
+                <span>Other</span>
+              {% endif %}
+          </div>
+          <h2 class="text-start mb-2 tops_eventsingle_maintitle">Event Description</h2>
+          <div class="tops_divider div_larger justify-content-start mb-3"><div class="div_inner"></div></div>
+          <div class="tops_eventsingle_content_text">
+              {{content}}
+          </div>
+          <h2 class="text-start mb-2 tops_eventsingle_moretitle">Upcoming Events</h2>
+          <div class="tops_divider div_smaller justify-content-start mb-0"><div class="div_inner"></div></div>
+          <div class="tops_events_tiles tops_eventsingle_tiles">
+              {% assign sorted = site.events | sort: 'date' | reverse %}
+              {% for event in sorted limit:3 %}
+                <div class="tops_events_tile">
+                  <a href="{{ event.url | absolute_url }}">
+                    <div class="tops_events_tile_image"><img src="{{ site.baseurl }}/{{ event.image }}"></div>
+                    <div class="tops_events_tile_overlay"></div>
+                    <div class="tops_events_tile_context">
+                        <div class="tops_events_tile_categories">
+                          {% if event.acronyms %}
+                            {% assign event-acronyms-split = event.acronyms | split: "," %}
+        
+                            {% for event-acronym in event-acronyms-split %}
+                              <span>{{ event-acronym }}</span>
+                            {% endfor %}
+                          {% else %}
+                            <span>Other</span>
+                          {% endif %}
+                        </div>
+                        <h3>{{ event.title }}</h3>
+                        <div class="d-flex flex-row flex-wrap align-items-center tops_events_tile_meta">
+                            <div class="tops_events_tile_metaitem">{{ event.daterange }}</div>
+                            <div class="tops_events_tile_metadivider"><i class="fa-solid fa-circle"></i></div>
+                            <div class="tops_events_tile_metaitem">{{ event.location }}</div>
+                        </div>
+                    </div>
+                  </a>
+                </div>
+              {% endfor %}
+          </div>
+        </div>
+        <div class="col-12 col-md-4 col-lg-3 tops_eventsingle_sidebar">
+          <div class="tops_eventsingle_sidebar_widget">
+              <h3 class="mb-2">Event Details</h3>
+              <div class="tops_divider div_smallest justify-content-start mb-3"><div class="div_inner"></div></div>
+              <p class="tops_eventsingle_widgetdescription">Interested in going to this event?  Below is basic information about when the event will happen and how to get there.</p>
+              <div class="tops_eventsingle_image_box d-flex flex-row flex-wrap align-items-start">
+                  <div class="tops_image_box_imagecol text-start">
+                      <div class="tops_image_box_imageinner"><i class="fa-solid fa-calendar-days"></i></div>
+                  </div>
+                  <div class="tops_image_box_contentcol">
+                    <h4 class="text-start mb-1">Event Date</h4>
+                    <p class="text-start mb-0">{{ page.daterange }}</p>
+                  </div>
+              </div>
+              <div class="tops_eventsingle_image_box d-flex flex-row flex-wrap align-items-start">
+                  <div class="tops_image_box_imagecol text-start">
+                      <div class="tops_image_box_imageinner"><i class="fa-solid fa-map"></i></div>
+                  </div>
+                  <div class="tops_image_box_contentcol">
+                    <h4 class="text-start mb-1">Location</h4>
+                    <p class="text-start mb-0">{{ page.location }}</p>
+                  </div>
+              </div>
+              <div class="tops_eventsingle_image_box d-flex flex-row flex-wrap align-items-start">
+                  <div class="tops_image_box_imagecol text-start">
+                      <div class="tops_image_box_imageinner"><i class="fa-solid fa-building"></i></div>
+                  </div>
+                  <div class="tops_image_box_contentcol">
+                    <h4 class="text-start mb-1">Venue</h4>
+                    <p class="text-start mb-0">{{ page.venue }}</p>
+                  </div>
+              </div>
+              {{ page.map }}
+          </div>
+          <div class="tops_eventsingle_sidebar_widget">
+              <h3 class="mb-2">Share This Event</h3>
+              <div class="tops_divider div_smallest justify-content-start mb-3"><div class="div_inner"></div></div>
+              <p class="tops_eventsingle_widgetdescription">Share this event with your friends and colleagues by posting about it on your favorite social media platforms.</p>
+              <div class="tops_eventsingle_sbuttons">
+                  <button style="background-color: #4267B2" class="tops_eventsingle_sbutton" data-shareable="https://example.com" data-snetwork="facebook"><i class="fa-brands fa-facebook"></i></button>
+                  <button style="background-color: #000000" class="tops_eventsingle_sbutton" data-shareable="https://example.com" data-snetwork="twitter"><i class="fa-brands fa-x-twitter"></i></button>
+                  <button style="background-color: #0E76A8" class="tops_eventsingle_sbutton" data-shareable="https://example.com" data-snetwork="linkedin"><i class="fa-brands fa-linkedin-in"></i></button>
+                  <button style="background-color: #D83E00" class="tops_eventsingle_sbutton" data-shareable="https://example.com" data-snetwork="mail"><i class="fa-solid fa-envelope"></i></button>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

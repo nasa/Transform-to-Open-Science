@@ -1,32 +1,68 @@
-title: "NASA TOPS"
-timezone: UTC
+title: NASA Transform to Open Science
+email: hq-openscience@nasa.gov
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+domain: nasa.github.io
+url: "https://nasa.github.io"
 baseurl: "/Transform-to-Open-Science"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-paginate: 30
-locale: en_us
-lang: en_us
-feed_items: 4
-feed_update_period: daily
-feed_update_frequency: 1
-markdown: kramdown
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
+logo: 'assets/img/tops_w_nasa_v2.png'
+footerlogo: 'assets/img/tops_badge_big.png'
+enrollbutton: 'take-os101/'
+signupbutton: 'signup/'
+blogbutton: 'blog/'
+eventsbutton: 'events/'
+author: TOPS
+excerpt_separator: <!-- excerpt-end -->
 sass:
-  sass_dir: _sass
-  style: :compressed
-ganalytics: UA-113961478-1
+  sass_dir: ./_sass
+
+
+# Workshops
+hideinperson: true
+hidevirtual: true
+
+
+# Collections
+collections:
+  events:
+    output: true
+    permalink: /:collection/:name
+  
+# Authors
+authors:
+  tops:
+    name: TOPS
+    display_name: TOPS
+    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
 
 # Social
 social:
+  linkedin: https://www.linkedin.com/groups/12833665
   github: https://github.com/nasa/Transform-to-Open-Science
 
 # Plugins
-plugins: 
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-feed
-- jekyll-seo-tag
-- jekyll-archives
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

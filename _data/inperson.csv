@@ -1,0 +1,6 @@
+date,time,eventtype,location,module,moreinfo
+7-Mar-13,12:00 - 2:30 PM,"Event Type 1, Event Name","Venue Name, San Francisco, CA",1,Example Website
+8-Mar-13,1:00 - 3:30 PM,"Event Type 2, Event Name","Venue Name, New Orleans, LA","1, 2, 3, 4, 5",Example Website
+9-Mar-13,4:00 - 5:00 PM,"Event Type 2, Event Name","Venue Name, Houston, TX",3,Example Website
+10-Mar-13,7:00 - 9:00 AM,"Event Type 4, Event Name","Venue Name, Huntsville, AL","2, 3, 4",Example Website
+11-Mar-13,7:00 - 9:00 AM,"Event Type 3, Event Name","Venue Name, Huntsville, AL",1,Example Website

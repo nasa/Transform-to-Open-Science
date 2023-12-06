@@ -1,32 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-
-<title>{{ page.title }} | {{site.title}}</title>
-
-{% seo %}
-
-<!-- custom CSS - Remove this if you don't use it or choose to customize the stylesheet with sass-->
-<link href="{{ site.baseurl }}/assets/css/newsletter.css" rel="stylesheet">
-<!-- custom CSS end-->
-    
-{% if jekyll.environment == "production" %}       
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{site.ganalytics}}"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', '{{site.ganalytics}}');
-</script>
-{% endif %}
-   
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"> -->
+    <title>{{ page.title }} | {{site.title}}</title>
+    <link href="{{ site.baseurl }}/assets/css/newsletter.css" rel="stylesheet">
 </head>   
     
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -44,17 +26,17 @@ gtag('config', '{{site.ganalytics}}');
 			<!-- End Constant Contact Inline Form Code -->
 		</div>
 	</div>
-	
-<!-- JavaScript
-================================================== -->    
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>   
-<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>   
-<script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
-<!-- Begin Constant Contact Active Forms -->
-<script> var _ctct_m = "e2d4cf466848010ee197a5b822e5f9b5"; </script>
-<script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
-<!-- End Constant Contact Active Forms -->
-<script src="{{ site.baseurl }}/assets/js/newsletter.js"></script>  
+	 
+    <!-- <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>   
+    <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>   
+    <script src="{{ site.baseurl }}/assets/js/theme.js"></script> -->
+
+    <!-- Begin Constant Contact Active Forms -->
+    <script> var _ctct_m = "e2d4cf466848010ee197a5b822e5f9b5"; </script>
+    <script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
+    <!-- End Constant Contact Active Forms -->
+    
+    <script src="{{ site.baseurl }}/assets/js/newsletter.js"></script>  
     
 </body>
     

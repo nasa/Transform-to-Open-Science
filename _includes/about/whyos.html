@@ -1,0 +1,35 @@
+<div class="tops_white_section tops_whyos_section">
+    <div class="container tops_container">
+      <div class="row">
+        <div class="col-12 tops_whyos_primary_content primary_content_md">
+          <h2 class="text-center mb-2">{{ about-why-title }}</h2>
+          <div class="tops_divider div_larger justify-content-center mb-3"><div class="div_inner"></div></div>
+          {{ about-why-description | markdownify }}
+          <div class="d-flex flex-row flex-wrap tops_doublebuttons justify-content-center">
+            <a class="btn btn-primary" href="{{site.baseurl}}/{{site.enrollbutton}}" role="button">{{ about-why-enroll-text }}</a>
+            <a class="btn btn-outline-primary" href="{{ about-why-contact-link }}" role="button">{{ about-why-contact-text }}</a>
+          </div>
+        </div>
+      </div>
+      <div class="row mt-5 mt-md-4">
+        <div class="col-12 col-md-6 p-0 pb-4 p-md-3 tops_whyos_item">
+          <div class="tops_whyos_inner">
+            <div class="tops_whyos_image"><img src="{{ site.baseurl }}/assets/img/embracingimage.jpg"></div>
+            <div class="tops_whyos_content">
+              <h3 class="mb-2 text-center">{{ about-why-embracing-title }}</h3>
+              {{ about-why-embracing-desc | markdownify }}
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 p-0 pb-4 p-md-3 tops_whyos_item">
+          <div class="tops_whyos_inner">
+            <div class="tops_whyos_image"><img src="{{ site.baseurl }}/assets/img/equityimage.jpg"></div>
+            <div class="tops_whyos_content">
+              <h3 class="mb-2 text-center">{{ about-why-fostering-title }}</h3>
+              {{ about-why-fostering-desc | markdownify }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

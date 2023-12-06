@@ -1,0 +1,33 @@
+<div class="tops_white_section tops_posts_section">
+    <div class="container tops_container">
+      <div class="row">
+          <div class="col-12 tops_posts_primary_content primary_content_md">
+              <h2 class="text-center mb-2">{{ blog-posts-title }}</h2>
+              <div class="tops_divider div_larger justify-content-center mb-3"><div class="div_inner"></div></div>
+              {{ blog-posts-description | markdownify }}
+              <div class="d-flex flex-row flex-wrap tops_doublebuttons justify-content-center">
+                  <a class="btn btn-primary" href="{{ blog-posts-story-link }}" target="_blank" role="button">{{ blog-posts-story-text }} <i class="fa-solid fa-up-right-from-square"></i></a>
+              </div>
+          </div>
+      </div>
+      <div class="row mt-5 mt-md-4">
+        {% for post in site.posts %}
+            <div class="col-12 col-md-6 col-lg-3 p-0 pb-4 p-md-3 tops_posts_post">
+                <div class="tops_posts_post_inner">
+                <a target="{% if post.external %}_blank{% else %}_self{% endif %}" href="{% if post.external %}{{ post.external }}{% else %}{{ post.url | absolute_url }}{% endif %}" class="tops_posts_post_image"><img src="{{ site.baseurl }}/{{ post.image }}"></a>
+                <div class="tops_posts_post_content">
+                    <h3 class="mb-2">{{ post.title }}{% if post.external %} (External Link){% endif %}</h3>
+                    <p class="mb-3">{{ post.excerpt | strip_html | truncate:135 }}</p>
+                    <a target="{% if post.external %}_blank{% else %}_self{% endif %}" class="tops_posts_post_readmore" href="{% if post.external %}{{ post.external }}{% else %}{{ post.url | absolute_url }}{% endif %}">Read More<i class="fa-solid fa-circle-arrow-right"></i></a>
+                </div>
+                <div class="tops_posts_post_meta d-flex flex-row flex-wrap align-items-center">
+                    <div class="tops_posts_post_metaitem"><i class="fa-solid fa-calendar-days"></i>{{ post.date | date: '%B %-d, %Y' }}</div>
+                    <div class="tops_posts_post_metadivider"><i class="fa-solid fa-circle"></i></div>
+                    <div class="tops_posts_post_metaitem"><i class="fa-solid fa-circle-user"></i>{{ post.author }}</div>
+                </div>
+                </div>
+            </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
