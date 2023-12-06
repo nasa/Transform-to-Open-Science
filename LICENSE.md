@@ -2,7 +2,7 @@
 
 This project constitutes a work of the United States Government and is not subject to domestic copyright protection under 17 USC § 105. Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
-Contributions to this project will be released under the CC0 dedication unless otherwise indicated. Material that is not under public domain or availabe under a CC0 license is marked with the license for that material.
+Contributions to this project will be released under the CC0 dedication unless otherwise indicated. Material that is not under public domain or available under a CC0 license is marked with the license for that material.
 
 By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.  Any material that cannot be shared as CC0 should be noted in the pull request along with the license of that material. 
 
