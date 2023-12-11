@@ -147,7 +147,7 @@ https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_
 
 <!---Incentives Description-->
 {% capture home-strat-incentives-desc %}
-Encourages and rewards research utilizing open science practices through OS101 badging, high profile awards, and funding opportunities.
+Encourages and rewards research that utilizes open science practices through high profile awards and funding opportunities.
 {% endcapture %}
 
 <!---Incentives Link-->
