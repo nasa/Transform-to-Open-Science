@@ -1,3 +1,5 @@
+# NOTE: This content is now available on a [NASA webpage for open science funding opportunities](https://science.nasa.gov/researchers/open-science/nasa-open-science-funding-opportunities/). Please check the web page for the latest information about these solicitations. 
+
 # NASA Funding Opportunities for Pursuing Open Science
 **Proposers should always consult [NSPIRES](https://nspires.nasaprs.com/external/) for the most accurate and up-to-date information on NASA proposals.**
 
@@ -38,7 +40,7 @@
 
 ## [F.7 Support for Open Source Tools, Frameworks, and Libraries (OSTFL)](https://science.nasa.gov/researchers/solicitations/roses-2022/amendment-41-f7-support-open-source-tools-frameworks-and-libraries-deferred-roses-2023)
 **OSTFL supports the maintenance of existing open sources tools, frameworks, and libraries that are significantly used by the SMD community.**
-- To be released for ROSES-23
+- To be released for ROSES-24
 - Proposals must:
      - State the process of adding extensions, documentation, and maintenance of the software to support the user community
      - Include an assessment of the potential impact to the SMD science community
