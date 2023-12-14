@@ -11,7 +11,7 @@ Yo Yehudi (Lead), Tomoko Bell, Ismael Kherroubi Garcia, Stephen Klusza, Mariana 
 ### Open Data  
 Sara El-Gebali (Lead), Jannatul Ferdush, Pauline Karega, Siobhan Mackenzie Hall, Andrea Medina-Smith, Esther Plomp, Yuhan Rao, Hugh Shanahan
 ### Open Software
-James Powell (Lead), Cameron Riddell (Lead), Johanna Bayer, Taher Chegini, Sierra Kaufman, Yeo Keat Ee, Babatunde Onabajo, Ana Vaz
+James Powell (Lead), Cameron Riddell (Lead), Johanna Bayer, Taher Chegini, Sierra Brown, Yeo Keat Ee, Babatunde Onabajo, Ana Vaz
 ### Open Science Tools and Resources
 Shilaan Alzahawi (Lead), Batool Almarzouq, Flavio Azevedo, Saranjeet Kaur Bhogal, Melissa Black, Elli Papadopoulou, Rebecca Ringuette, Tyson Swetnam
 ### Open Results
