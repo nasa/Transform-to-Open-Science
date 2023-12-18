@@ -25,21 +25,21 @@ Welcome to the first module of the TOPS Open Science 101 curriculum! Module 1 ha
 
 We are really glad you are here!
 
-This is the first lesson in the module on the Ethos of Open Science. Let’s begin by explaining the word "ethos".
+This is the first lesson in the module on the Ethos of Open Science. Let's begin by explaining the word "ethos".
 
----
+<img src="../images/media/merriamwebster.jpg" style="width:100%;height:auto;">
 
 "Ethos is the distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group,"
 
-\- Merriam Webster
+**Merriam Webster**
 
 ---
 
 This lesson describes and showcases what makes Open Science, as an approach to knowledge production, unique or distinguishable from other scientific approaches.
 
-Note that "ethos" is not exactly "ethics", but offers a broad enough term to include the moral attitudes held by the individuals or institutions who practice open science. To clarify the moral element to this discussion, we speak of “responsible open science” going forward.
+Note that "ethos" is not exactly "ethics", but offers a broad enough term to include the moral attitudes held by the individuals or institutions who practice open science. To clarify the moral element to this discussion, we speak of "responsible open science" going forward.
 
-The lesson introduces the concept of open science as a whole by explaining its motivation, definition, and operation. The lesson then reviews different components of science and the pillars that make them up. Throughout this module, we have integrated ethics around open science that dictate how you share, give due credit, and work together. “Practice the Golden Rule” - treat others the way you would like to be treated in their situation.
+The lesson introduces the concept of open science as a whole by explaining its motivation, definition, and operation. The lesson then reviews different components of science and the pillars that make them up. Throughout this module, we have integrated ethics around open science that dictate how you share, give due credit, and work together. "Practice the Golden Rule" - treat others the way you would like to be treated in their situation.
 
 The curriculum of this course builds upon the work of others from across the globe and fields of research who paved the way to open science. Their recognition of open science as a necessary step to equalize knowledge access and catalyze research inspired NASA’s own pursuit to contribute. Best practices, performance indicators, and core principles established by the global open science community inform our current approach.
 

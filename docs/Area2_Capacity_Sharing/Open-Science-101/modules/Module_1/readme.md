@@ -12,6 +12,13 @@ Welcome to this introductory module on open science. Open Science is the princip
 
 This module is for anyone who is interested in open science and would like to learn the benefits and ways to get started today.
 
+### Prerequisites
+
+Before taking this module, it is recommended that you have the
+following skills and knowledge:
+
+- Experience with participating in research projects.
+
 ### Module Learning Objectives
 
 After completing this module, you should be able to:
@@ -23,7 +30,7 @@ After completing this module, you should be able to:
 
 ## Key terms
 
-These key terms are important topics for this module. Select the term to see the description.
+Select the term to see the description.
 
 **Open Science** – The principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility and equity.
 
@@ -45,7 +52,7 @@ These key terms are important topics for this module. Select the term to see the
 
 **Reproducibility and Replicability** – Reproducibility is defined as obtaining consistent results using the same data and code as an original study (synonymous with computational reproducibility). Replicability means obtaining consistent results across studies aimed at answering the same scientific question using new data or other new computational methods. Learn more [here.](https://www.nationalacademies.org/news/2019/09/reproducibility-and-replicability-in-research)
 
-**Peer Review** – The evaluation of work by one or more people with similar competencies as the producers of the work - that is, the authors’ peers. Learn more [here.](https://en.wikipedia.org/wiki/Peer_review)
+**Peer Review** – The evaluation of work by one or more people with similar competencies as the producers of the work - that is, the authors' peers. Learn more [here.](https://en.wikipedia.org/wiki/Peer_review)
 
 **FAIR principles** – Principles to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets. The principles emphasize machine- actionability (i.e., the capacity of computational systems to find, access, interoperate, and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data as a result of the increase in volume, complexity, and creation speed of data.
 
