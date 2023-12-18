@@ -196,6 +196,8 @@ https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_
 {% endcapture %}
 <!---END OS 101-->
 
+
+
 <!---START Events-->
 <!---Events Title (Plain Text)-->
 {% capture home-events-title %}

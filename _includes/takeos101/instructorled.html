@@ -2,16 +2,11 @@
   <div class="container tops_container">
     <div class="row">
       <div class="col-12 tops_workshops_primary_content primary_content_md">
-        <h2 class="text-center mb-2">Instructor-Led Training</h2>
+        <h2 class="text-center mb-2">{{ takeos101-instructorled-title }}</h2>
         <div class="tops_divider div_larger justify-content-center mb-3"><div class="div_inner"></div></div>
-        <p>Stay tuned for upcoming training sessions starting in 2024! More dates will be added soon. In the meantime, interested participants are encouraged to <a href="{{site.baseurl}}/{{site.signupbutton}}" target="_blank">subscribe to the TOPS newsletter</a> for updates on training dates, locations, and registration details.</p>
-        <p>Instructor-led training provides an opportunity for you to take Open Science 101 with a live instructor and engage with members of the open science community.</p>
-        <p><b>TOPST Summer Schools and Virtual Cohort Sessions</b></p>
-        <p>Virtual cohorts are online workshops designed to assist individuals to complete Open Science 101 and earn their TOPS Open Science badge.</p>
-        <p><b>In-Person Training Events</b></p>
-        <p>TOPS offers in-person training opportunities at conferences and institutions across the country.  See the calendar of events below for opportunities near you.  Going to a professional conference? See if TOPS is leading a workshop.</p>
+        {{ takeos101-instructorled-description | markdownify }}
         <div class="d-flex flex-row flex-wrap tops_doublebuttons justify-content-center">
-          <a class="btn btn-primary" href="mailto:hq-openscience@nasa.gov" role="button">Contact Us</a>
+          <a class="btn btn-primary" href="{{ takeos101-instructorled-contactus-link }}" role="button">{{ takeos101-instructorled-contactus-text }}</a>
         </div>
       </div>
     </div>

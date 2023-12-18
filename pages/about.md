@@ -118,6 +118,7 @@ Increase understanding and adoption of open science principles and techniques
 <!---END Strategic Objectives-->
 
 
+
 <!---START Shoulders of Giants-->
 <!---START Shoulders of Giants Title (Plain Text)-->
 {% capture about-giants-title %}

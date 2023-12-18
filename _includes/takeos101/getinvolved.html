@@ -2,11 +2,11 @@
     <div class="container tops_container">
       <div class="row">
         <div class="col-12 tops_getinvolved_primary_content primary_content_md">
-          <h2 class="text-center mb-2">Get Involved</h2>
+          <h2 class="text-center mb-2">{{ takeos101-getinvolved-title }}</h2>
           <div class="tops_divider div_larger justify-content-center mb-3"><div class="div_inner"></div></div>
-          <p>Engage with our community or help spread the word about the Open Science 101 curriculum in your community.</p>
+          {{ takeos101-getinvolved-description | markdownify }}
           <div class="d-flex flex-row flex-wrap tops_doublebuttons justify-content-center">
-            <a class="btn btn-primary" href="mailto:hq-openscience@nasa.gov" role="button">Contact Us</a>
+            <a class="btn btn-primary" href="{{ takeos101-getinvolved-contact-link }}" role="button">{{ takeos101-getinvolved-contact-text }}</a>
           </div>
         </div>
       </div>
@@ -14,14 +14,16 @@
         <div class="col-12 col-md-6"><img src="{{ site.baseurl }}/assets/img/sciencecommunity.jpg"></div>
         <div class="col-12 col-md-6">
           <div class="d-flex flex-column flex-wrap justify-content-center tops_getinvolved_content">
-            <h3 class="text-center mb-2">Join Our Community</h3>
-            <p>You can join the TOPS community through any of the websites listed below to connect with like-minded individuals passionate about Open Science.</p>
+            <h3 class="text-center mb-2">{{ takeos101-getinvolved-joincomm-title }}</h3>
+            {{ takeos101-getinvolved-joincomm-description | markdownify }}
             <ul class="d-flex flex-column flex-lg-row flex-wrap justify-content-center tops_list_icons mt-3">
-              <li class="me-lg-3"><a href="{{site.baseurl}}/{{site.signupbutton}}" target="_blank"><i class="fa-solid fa-circle-arrow-right"></i>Sign Up For TOPS Monthly Newsletter</a></li>
-              <li class="me-lg-3"><a href="{{site.social.linkedin}}" target="_blank"><span class="list_external"><i class="fa-solid fa-up-right-from-square"></i></span>Join Our LinkedIn Community</a></li>
-              <li class="me-lg-3"><a href="https://github.com/nasa/Transform-to-Open-Science/discussions" target="_blank"><span class="list_external"><i class="fa-solid fa-up-right-from-square"></i></span>Contribute to Discussions on GitHub</a></li>
-              <li class="me-lg-3"><a href="https://forms.gle/X4omhrAhhGZYMs6c7" target="_blank"><span class="list_external"><i class="fa-solid fa-up-right-from-square"></i></span>Tell Us Your Open Science Story</a></li>
-              <li class="me-lg-3"><a href="{{site.baseurl}}/{{site.blogbutton}}" target="_blank"><i class="fa-solid fa-circle-arrow-right"></i>Follow Our NASA TOPS Blog</a></li>
+              {% for joincommitem in takeos101-joincomm-list-titles-split %}
+                {% if takeos101-joincomm-list-externals-split[forloop.index0] == 'yes' %}
+                  <li class="me-lg-3"><a href="{{ takeos101-joincomm-list-links-split[forloop.index0] }}" target="_blank"><span class="list_external"><i class="fa-solid fa-up-right-from-square"></i></span>{{ takeos101-joincomm-list-titles-split[forloop.index0] }}</a></li>
+                {% else %}
+                  <li class="me-lg-3"><a href="{{ takeos101-joincomm-list-links-split[forloop.index0] }}" target="_blank"><i class="fa-solid fa-circle-arrow-right"></i>{{ takeos101-joincomm-list-titles-split[forloop.index0] }}</a></li>
+                {% endif %}
+              {% endfor %}
             </ul>
           </div>
         </div>
@@ -29,11 +31,16 @@
       <div class="row mt-0">
         <div class="col-12 col-md-6 order-md-first order-last">
           <div class="d-flex flex-column flex-wrap justify-content-center tops_getinvolved_content">
-            <h3 class="text-center mb-2">OS101 Contributors</h3>
-            <p>Open Science 101 was developed by TOPS Champions across five NASA Centers and the OpenSciency team. You can find the full list of contributors below:</p>
+            <h3 class="text-center mb-2">{{ takeos101-getinvolved-contributors-title }}</h3>
+            {{ takeos101-getinvolved-contributors-description | markdownify }}
             <ul class="d-flex flex-column flex-lg-row flex-wrap justify-content-center tops_list_icons mt-3">
-              <li class="me-lg-3"><a href="https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/curriculum_leads.md" target="_blank"><span class="list_external"><i class="fa-solid fa-up-right-from-square"></i></span>OS 101 Development Team</a></li>
-              <li class="me-lg-3"><a href="https://github.com/opensciency/" target="_blank"><span class="list_external"><i class="fa-solid fa-up-right-from-square"></i></span>OpenSciency</a></li>
+              {% for contributorsitem in takeos101-contributors-list-titles-split %}
+                {% if takeos101-contributors-list-externals-split[forloop.index0] == 'yes' %}
+                  <li class="me-lg-3"><a href="{{ takeos101-contributors-list-links-split[forloop.index0] }}" target="_blank"><span class="list_external"><i class="fa-solid fa-up-right-from-square"></i></span>{{ takeos101-contributors-list-titles-split[forloop.index0] }}</a></li>
+                {% else %}
+                  <li class="me-lg-3"><a href="{{ takeos101-contributors-list-links-split[forloop.index0] }}" target="_blank"><i class="fa-solid fa-circle-arrow-right"></i>{{ takeos101-contributors-list-titles-split[forloop.index0] }}</a></li>
+                {% endif %}
+              {% endfor %}
             </ul>
           </div>
         </div>
