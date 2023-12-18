@@ -12,13 +12,6 @@ Welcome to this introductory module on open science. Open Science is the princip
 
 This module is for anyone who is interested in open science and would like to learn the benefits and ways to get started today.
 
-### Prerequisites
-
-Before taking this module, it is recommended that you have the
-following skills and knowledge:
-
-- Experience with participating in research projects.
-
 ### Module Learning Objectives
 
 After completing this module, you should be able to:
