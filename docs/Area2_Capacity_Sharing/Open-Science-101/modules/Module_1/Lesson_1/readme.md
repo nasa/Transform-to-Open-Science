@@ -25,27 +25,27 @@ Welcome to the first module of the TOPS Open Science 101 curriculum! Module 1 ha
 
 We are really glad you are here!
 
-This is the first lesson in the module on the Ethos of Open Science. Let’s begin by explaining the word "ethos".
+This is the first lesson in the module on the Ethos of Open Science. Let's begin by explaining the word "ethos".
 
----
+<img src="../images/media/merriamwebster.jpg" style="width:100%;height:auto;">
 
 "Ethos is the distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group,"
 
-\- Merriam Webster
+**Merriam Webster**
 
 ---
 
 This lesson describes and showcases what makes Open Science, as an approach to knowledge production, unique or distinguishable from other scientific approaches.
 
-Note that "ethos" is not exactly "ethics", but offers a broad enough term to include the moral attitudes held by the individuals or institutions who practice open science. To clarify the moral element to this discussion, we speak of “responsible open science” going forward.
+Note that "ethos" is not exactly "ethics", but offers a broad enough term to include the moral attitudes held by the individuals or institutions who practice open science. To clarify the moral element to this discussion, we speak of "responsible open science" going forward.
 
-The lesson introduces the concept of open science as a whole by explaining its motivation, definition, and operation. The lesson then reviews different components of science and the pillars that make them up. Throughout this module, we have integrated ethics around open science that dictate how you share, give due credit, and work together. “Practice the Golden Rule” - treat others the way you would like to be treated in their situation.
+The lesson introduces the concept of open science as a whole by explaining its motivation, definition, and operation. The lesson then reviews different components of science and the pillars that make them up. Throughout this module, we have integrated ethics around open science that dictate how you share, give due credit, and work together. "Practice the Golden Rule" - treat others the way you would like to be treated in their situation.
 
 The curriculum of this course builds upon the work of others from across the globe and fields of research who paved the way to open science. Their recognition of open science as a necessary step to equalize knowledge access and catalyze research inspired NASA’s own pursuit to contribute. Best practices, performance indicators, and core principles established by the global open science community inform our current approach.
 
 ### Open Science at NASA
 
-NASA funds some of the most diverse research of any federal agency and has a history of sharing research and results going back to the Apollo Program in the 1960s. NASA’s Transform to Open Science program shares guidelines and best practices for open science that are applicable and beneficial across its entire range of research efforts.
+NASA funds some of the most diverse research of any federal agency and has a history of sharing research and results going back to the Apollo Program in the 1960s. NASA's Transform to Open Science program shares guidelines and best practices for open science that are applicable and beneficial across its entire range of research efforts.
 
 NASA funds research in fields from Astrobiology to Physics, and basic science to applied engineering. NASA datasets include biology, chemistry, environmental science, geology, and other fields related to robotic and human planetary exploration, stellar evolution, and the search for extraterrestrial life.
 
@@ -84,7 +84,7 @@ Science becomes more robust and accurate when scientists validate their colleagu
 
 Source: [https://www.pnas.org/doi/full/10.1073/pnas.1708290115](https://www.pnas.org/doi/full/10.1073/pnas.1708290115)
 
-- In 2011, the AAAS, publisher of Science, began requiring the authors of computational research reports to share data and software upon request.
+- In 2011, the AAAS, publisher of Science, began requiring the authors of computational research reports to share data and software upon request
 - In 2018, a [research study](https://www.pnas.org/doi/full/10.1073/pnas.1708290115) was carried out that investigated 204 articles for reproducibility and that were published in the journal Science after 2011. It was found that only 26% of papers were able to be reproduced, with the two primary reasons being the inability to get access to the data and software and the fact that the methods were not described in sufficient detail.
 
 **How many studies were reproduced?**
@@ -122,11 +122,11 @@ Source: [https://www.unesco.org/en/articles/can-science-be-more-equitable-so-eve
 
 But what is open science exactly? To illustrate, first we’ll present a definition for open science that was developed in 2023 by the U.S. [federal government](https://open.science.gov/).
 
----
+<img src="../images/media/whitehouse2022.jpg">
 
 "Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity."
 
-\- The White House Ofﬁce of Science and Technology Policy Memo, 2022 (adapted)
+**The White House Ofﬁce of Science and Technology Policy Memo, 2022 (adapted)**
 
 ---
 
