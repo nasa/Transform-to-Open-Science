@@ -16,10 +16,10 @@ This lesson discusses the concepts, considerations, and tools for making data an
 
 After completing this lesson, you should be able to:
 
--  Define the different types of scientific data.
+- Define the different types of scientific data.
 - Define what the acronym FAIR means and explain how it supports the sharing of open data.
 - Identify data management practices and tools to locate data in repositories.
-- List and explain the purpose of the resources commonly used in making data including the data formats, inspecting data, and assessing ‘FAIR’-ness of data.
+- List and explain the purpose of the resources commonly used in making data including the data formats, inspecting data, and assessing 'FAIR'-ness of data.
 
 
 ## Introduction to Open Data
@@ -42,7 +42,6 @@ Scientific data is any type of information that is collected, observed, or creat
 It is everything that you need to validate or reproduce your research findings, as well as what is required for the understanding and handling of the data.
 
 The following sections discuss ways to ensure that data is fully utilized and accessible to the most amount of people. These best practices center around community frameworks and tools that help researchers manage and share open data.
-
 
 ## FAIR Principles
 
@@ -73,14 +72,13 @@ To be [Accessible:](https://www.go-fair.org/fair-principles/metadata-retrievable
 
 - Data and results are retrievable by their identifiers using a standardized communication protocol.
 - The protocol is open, free, and universally implementable.
-- The protocol allows for an authentication and authorization procedure, where necessary.
-- Data and results are publicly accessible and licensed under the public domain.
-- Metadata are accessible, even when the data are no longer available.
-- Data and metadata will be retained for the lifetime of the repository.
-- Metadata are stored in high-availability database servers.
-- Current Enabling Tech:
-    - [File Transfer Protocol (FTP)](https://www.w3.org/Protocols/rfc959/), File Transfer Protocol Secure (FTPS)
-    - [Hypertext Transfer Protocol (HTTP)](https://www.w3.org/Protocols/), Hypertext Transfer Protocol Secure (HTTPS)
+- The protocol allows for an authentication and authorization procedure, where necessary. Data and results are publicly accessible and licensed under the public domain.
+  - Metadata are accessible, even when the data are no longer available Data and metadata will be retained for the lifetime of the repository.
+  - Metadata are stored in high-availability database servers.
+
+Current Enabling Tech:
+- [File Transfer Protocol (FTP)](https://www.w3.org/Protocols/rfc959/), File Transfer Protocol Secure (FTPS)
+- [Hypertext Transfer Protocol (HTTP)](https://www.w3.org/Protocols/), Hypertext Transfer Protocol Secure (HTTPS)
 
 Note that Microsoft Exchange Server and Skype are examples of proprietary protocols.
 
@@ -107,11 +105,12 @@ To be [Reusable:](https://www.go-fair.org/fair-principles/r1-metadata-richly-des
   - Data are released with a clear and accessible data usage license.
   - Data are associated with detailed provenance.
   - Data meet domain-relevant community standards.
-  - Current Enabling Tech:
-    - The metadata record contains a minimum of [DataCite's](https://schema.datacite.org/) mandatory terms, with optionally additional DataCite recommended terms and Zenodo's enrichments.
-    - [Zenodo](https://zenodo.org/) is not a domain-specific repository, yet through compliance with DataCite's Metadata Schema, metadata meets one of the broadest cross-domain standards available.
+  
+Current Enabling Tech:
+- The metadata record contains a minimum of [DataCite's](https://schema.datacite.org/) mandatory terms, with optionally additional DataCite recommended terms and Zenodo's enrichments.
+- [Zenodo](https://zenodo.org/) is not a domain-specific repository, yet through compliance with DataCite's Metadata Schema, metadata meets one of the broadest cross-domain standards available.
 
-[Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci.Data 3:160018, doi: 1 0 .1038/sdata.2016.18 (2016)](https://doi.org/10.1038/sdata.2016.18)
+Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci.Data 3:160018, doi: [1 0 .1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18) (2016)
 
 These are high-level guidelines, and much like open science, implementation is nuanced. Sometimes it takes a group effort and/or a long production process/funding to make data and results FAIR. For other datasets, it could be more straightforward. A well-coordinated data management plan is needed for full compliance with FAIR, and the details of this will be discussed further in Module 3 – Open Data.
 
@@ -128,7 +127,6 @@ The [DMPTool](https://dmptool.org/) in the US helps researchers by featuring a t
 **ARGOS**
 
 [ARGOS](https://argos.openaire.eu/home) is used to plan Research Data Management activities of European and nationally funded projects (e.g. Horizon Europe, CHIST-ERA, the Portuguese Foundation for Science and Technology - FCT). ARGOS produces and publishes FAIR and machine actionable DMPs that contain links to other outputs, e.g. publications-data-software, and minimizes the effort to create DMPs from scratch by introducing automations in the writing process. OpenAIRE provides a guide on how to create DMP.
-
 
 ### Data Repositories
 
@@ -158,7 +156,7 @@ Open science tools such as data repositories should implement FAIR principles, e
 
 [Datacite](https://datacite.org/) is a global non-profit organization that provides DOIs for research data and other research outputs, on a membership basis.
 
-**OPEN SCIENCE FRAMEWORK**
+**OSF**
 
 [The Open Science Framework](https://osf.io/) is an open source platform for sharing, managing, and collaborating research.
 
@@ -166,20 +164,17 @@ Open science tools such as data repositories should implement FAIR principles, e
 
 Data services and resources for supporting research require robust infrastructure which relies on collaboration. An example of an initiative on the infrastructures of data services comes from the [EUDAT Collaborative Data Infrastructure](https://www.eudat.eu/), a sustained network of more than 20 European research organizations.
 
-Private companies also host and maintain online tools for sharing research data and files. For example, [ Figshare](https://figshare.com/) is one example of a free and open access service operated by private companies. It provides DOIs for all types of files and recently developed a restricted publishing model to accommodate intellectual property (IP) rights requirements. It allows sharing the outputs only within a customized Figshare group (could be your research team) or with users in a specific IP range.
+Private companies also host and maintain online tools for sharing research data and files. For example, [Figshare](https://figshare.com/) is one example of a free and open access service operated by private companies. It provides DOIs for all types of files and recently developed a restricted publishing model to accommodate intellectual property (IP) rights requirements. It allows sharing the outputs only within a customized Figshare group (could be your research team) or with users in a specific IP range. Additional advances include integration with code repositories, such as GitHub, GitLab, and Bitbucket.
 
-Additional advances include integration with code repositories, such as GitHub, GitLab, and Bitbucket.
-
-Additional research data repositories can be found in the publicly available [ Registry of Research Data Repositories. ](https://www.re3data.org/) [OpenAire](https://explore.openaire.eu/search/find/dataproviders)[, a hosted search engine, also provides a powerful search function of data an repositories](https://www.re3data.org/). It features a filter for country, type, and thematic area, as well as enables the download of data.
+Additional research data repositories can be found in the publicly available [ Registry of Research Data Repositories. ](https://www.re3data.org/) [OpenAire](https://explore.openaire.eu/search/find/dataproviders), a hosted search engine, also provides a powerful search function of data and repositories. It features a filter for country, type, and thematic area, as well as enables the download of data.
 
 The amount of data, repositories, and different policies can be overwhelming. When in doubt of determining which repository is right for you, consult librarians, data managers and/or data stewards in your institution, or check within your discipline-specific or other community of practice.
 
 ### Activity 3.1: Explore Zenodo and Sign Up!
 
-Explore open repositories to familiarize yourself with their structure and available product
-information. The most popular repository at the moment is Zenodo. Review the following 4.5-minute
-video to get an overview of Zenodo and then sign up for an account. You can use your ORCID to sign
-up if you have one or made one in the previous lesson.
+Explore open repositories to familiarize yourself with their structure and available product information. The most popular repository at the moment is Zenodo. Review the following 4.5-minute video to get an overview of Zenodo and then sign up for an account. You can use your ORCID to sign up if you have one or made one in the previous lesson.
+
+[Watch Video](https://www.youtube.com/watch?v=BPVSErzNtME&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F&feature=emb_imp_woyt)
 
 ## Tools to Help with Using and Making Open Data
 
@@ -201,6 +196,7 @@ Modern data formats allow the storage of much more than mere data points. Once o
 These files can all be opened with most common text editors. There are some tools that can create views of the files that are more user-friendly, such as:
 - csv: Microsoft Excel and Google Sheets
 - xml: Most internet browsers and with any text editor like Notepad or Microsoft Word or Google Docs
+- json: [http://json.parser.online.fr/](http://json.parser.online.fr/) and [https://jsonformatter.org/json-pretty-print](https://jsonformatter.org/json-pretty-print)
 
 **NetCDF, HDF, FITS** -
 These files require special software tools to view their contents. Many of these tools will also visualize the data as well.
@@ -215,7 +211,7 @@ These files require special software tools to view their contents. Many of these
 
 ### FAIR Assessment
 
-How ‘FAIR’ is your data? Two groups - [ FAIRsharing.org](https://fairsharing.org/) and the Research Data Alliance ([ RDA](https://www.rd-alliance.org/)) - have developed the [ FAIR Metrics](https://www.nature.com/articles/sdata2018118) and [ FAIR Data Maturity Model](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0) to help assess the ‘FAIR’-ness of a dataset. There are open-source tools that help researchers assess their data:
+How 'FAIR' is your data? Two groups - [ FAIRsharing.org](https://fairsharing.org/) and the Research Data Alliance ([RDA](https://www.rd-alliance.org/)) - have developed the [ FAIR Metrics](https://www.nature.com/articles/sdata2018118) and [ FAIR Data Maturity Model](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0) to help assess the 'FAIR'-ness of a dataset. There are open-source tools that help researchers assess their data:
 
 **AUSTRALIAN RESEARCH DATA COMMONS (ARDC)**
 
@@ -273,8 +269,6 @@ In this lesson you learned:
 - The different types of scientific data, including primary, secondary, published, and metadata.
 - A list of open science practices to implement FAIR principles that make data and results easily accessible to a wide range of people.
 - Digital tools to help plan for making and sharing open data.
-
-
 
 ## Lesson 3: Knowledge Check
 
