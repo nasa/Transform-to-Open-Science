@@ -174,7 +174,7 @@ Your software should be documented within the source code. Each function should 
 >
 > \# set x to 17 
 >
-> x = 17*
+> x = 17
 >
 > Descriptive variable, class, and function names can make your code very readable. . Sometimes even great coders are working fast and will name variables 'a', 'temp', or other names that probably won't make a lot of sense in a week or two when they come back to something they were working on. Names like 'baking_time' or 'velocity' are more clear. Variable names should be easy to understand and clearly represent what they are.
 >
