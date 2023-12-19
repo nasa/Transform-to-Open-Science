@@ -43,7 +43,7 @@ Even if a solution already exists, there might be good reasons to develop your o
 - The license is not open enough to adopt it.
 - To try new techniques or to develop a deeper understanding of the problem.
 
-<img src="../images/media/image333.jpg" style="width:4.55042in;height:2.94521in" />
+<img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
 
 It might take more time to start a new project, or it might take more time to integrate someone else’s code than writing your own. You will have to make that call.
 
@@ -63,7 +63,7 @@ Who will be working on the project? What are some of the development best practi
 
 ### Organizing a Project
 
-<img src="../images/media/image353.png" style="width:1.85646in;height:3.07083in" />
+<img src="../images/media/image353.png" style="width:250px;height:auto;" />
 
 Source: https://xkcd.com/1459/
 
@@ -81,7 +81,9 @@ Making code public has many advantages:
 
 When naming a project, conduct a quick search of the envisioned name to see what shows up. Avoid names with many other uses as this will make it difficult for others to discover the code. Also, do not choose embarrassing or trademarked names.
 
-Hosting the product on a version control platform ensures the permanence of your project. If code only exists on your computer, it may disappear if the computer is damaged or is lost. Documenting the production and management of your code benefits both you and those that might use your code in the future. You are your own best collaborator. Documentation can save you from a headache should you reuse the code in six months or attempt to recall meticulous details about your process later on.
+Hosting the product on a version control platform ensures the permanence of your project. If code only exists on your computer, it may disappear if the computer is damaged or is lost. 
+
+Documenting the production and management of your code benefits both you and those that might use your code in the future. You are your own best collaborator. Documentation can save you from a headache should you reuse the code in six months or attempt to recall meticulous details about your process later on.
 
 Questions to consider when choosing a programming language:
 
@@ -90,7 +92,7 @@ Questions to consider when choosing a programming language:
 - Are there any limitations from your computing environment that would impede your ability to write or manage this code?
 - Languages have strengths and weaknesses; which are most important for your project?
 
-Before someone else can use your code, they’re going to ask some questions:
+Before someone else can use your code, they're going to ask some questions:
 
 - Where can I find your code?
 - Is your code documented?
@@ -107,13 +109,13 @@ The most popular tool for version control is git. Git is a system that tracks ch
 
 Version control enables the following:
 
-- Helps developers keep track of changes to a project’s code (as well as supplemental files and documentation) over the entire course of a project’s evolution.
-- Revisions to a project’s files can be tracked, including contributions made by different people.
+- Helps developers keep track of changes to a project's code (as well as supplemental files and documentation) over the entire course of a project's evolution.
+- Revisions to a project's files can be tracked, including contributions made by different people.
 - Undesirable changes (like errors or bugs) can be reverted at any time.
 
 Version control is a good practice for coding, even if you are not immediately sharing the code. You can use version control with your code privately on your computer, or use the private mode on hosting services (e.g., GitHub and GitLab). By setting up version control early on, you prepare your code for intended and unforeseen future use.
 
-Further Resources on version control
+**Further Resources on version control**
 
 - [Software Carpentry Version Control with Git](https://swcarpentry.github.io/git-novice/)
 - [The Turing Way, Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
@@ -129,8 +131,8 @@ At the minimum, a README should contain the name of the project and a very short
 
 |  |  |
 |---|---|
-| Bad README example | "This code recomputes the fundamental permutation factor of the downward flow (for J < 10, obviously)." |
-| Good README example | "LeapKitten. This Python software package takes any picture of a kitten (JPEG, PNG) and uses artificial intelligence to output what it would look like leaping into the air. In addition, the code takes leap years into account on the timestamp on the image." |
+| **Bad** README example | "This code recomputes the fundamental permutation factor of the downward flow (for J < 10, obviously)." |
+| **Good** README example | "LeapKitten. This Python software package takes any picture of a kitten (JPEG, PNG) and uses artificial intelligence to output what it would look like leaping into the air. In addition, the code takes leap years into account on the timestamp on the image." |
 
 In addition, the following information is helpful to add to the README especially if they are not listed elsewhere:
 
@@ -140,7 +142,7 @@ In addition, the following information is helpful to add to the README especiall
 - Examples of how to use the software.
 - Acknowledgement of team members or sources of support.
 
-As seen in these examples, README files can be useful for a [collection of scripts supporting a publication or an](https://github.com/granttremblay/Tremblay2018_Code) [extensively developed software package](https://github.com/MillionConcepts/lhorizon)[.](https://github.com/granttremblay/Tremblay2018_Code)
+As seen in these examples, README files can be useful for a [collection of scripts supporting a publication](https://github.com/granttremblay/Tremblay2018_Code) or an [extensively developed software package](https://github.com/MillionConcepts/lhorizon).
 
 ### Contributor Guidelines
 
@@ -149,6 +151,8 @@ The *CONTRIBUTING.md* file gives information about how to contribute to the proj
 You'll need to decide for yourself when your project has progressed enough to consider inviting contributors. When it has, create a document called CONTRIBUTING at the top level of your report.
 
 The [Astropy contributing guidelines](https://github.com/astropy/astropy/blob/main/CONTRIBUTING.md) and [Numpy contributing guidelines](https://numpy.org/devdocs/dev/index.html) provide two examples.
+
+**Bonus Tip: Even if you are developing your code publicly, this does not mean you have to accept contributions from others or maintain your code forever. The contributing guidelines or README are good places to indicate what your expectations are for your code. This can clarify that the code is not maintained or not accepting contributions.**
 
 ### Code of Conduct
 
@@ -160,7 +164,7 @@ The code of conduct sets ground rules for participants’ behavior and helps to 
 
 Your software should be documented within the source code. Each function should have comments at the start that briefly state, in plain language, what the function is for. This is not only for other developers, but yourself a week later when you forgot what you wrote.
 
-> **Example** <sub>–</sub>
+> **Example**
 >
 > \# This function takes the image array and crops it from the center to 50% of the original size.
 >
@@ -168,15 +172,17 @@ Your software should be documented within the source code. Each function should 
 >
 > While you should consider placing a description at the start of a function, use your discretion on where you put similar descriptions of code. At the start of a complex loop or analysis would be good ideas. Don’t go overboard - things like this aren’t useful:
 >
-> *\# set x to 17 x = 17*
+> \# set x to 17 
 >
-> Descriptive variable, class, and function names can make your code very readable. . Sometimes even great coders are working fast and will name variables ‘a’, ‘temp’, or other names that probably won’t make a lot of sense in a week or two when they come back to something they were working on. Names like ‘baking_time’ or ‘velocity’ are more clear. Variable names should be easy to understand and clearly represent what they are.
+> x = 17*
 >
-> Ideally, someone who doesn’t write in the software language of the code can read the comments in the file and have a rough idea of what is happening.
+> Descriptive variable, class, and function names can make your code very readable. . Sometimes even great coders are working fast and will name variables 'a', 'temp', or other names that probably won't make a lot of sense in a week or two when they come back to something they were working on. Names like 'baking_time' or 'velocity' are more clear. Variable names should be easy to understand and clearly represent what they are.
+>
+> Ideally, someone who doesn't write in the software language of the code can read the comments in the file and have a rough idea of what is happening.
 >
 > Use the comments to put URLs that reference where you might have found the algorithm you’re using (e.g. Stack Overflow) or the journal paper where you found the formula you’re implementing.
 
-**Code Level Documentation for the User**
+### Code Level Documentation for the User
 
 If you are developing code that you expect others to use, produce a manual on how to use the code. As code constantly develops, it is much easier to document while or even before you write any code.
 
@@ -184,7 +190,7 @@ If you write your documentation within the code itself, there are pieces of soft
 
 They look fancy, but very similar too. These sites were completely generated from comments and documents written in the source code. Different from the comments written for developers of the code above, these comments were written specifically for the audience of external users of the code: the manual.
 
-While there are multiple software packages for automatic documentation generation, the most commonly used ones are S[phinx](https://www.sphinx-doc.org/en/master/) for Python and [D](https://www.doxygen.nl/index.html)[oxygen](https://www.doxygen.nl/index.html) for most everything else. [M](https://www.markdownguide.org/)[arkdown](https://www.markdownguide.org/) is also a popular choice for the formatting language for documentation.
+While there are multiple software packages for automatic documentation generation, the most commonly used ones are [Sphinx](https://www.sphinx-doc.org/en/master/) for Python and [D](https://www.doxygen.nl/index.html)[oxygen](https://www.doxygen.nl/index.html) for most everything else. [M](https://www.markdownguide.org/)[arkdown](https://www.markdownguide.org/) is also a popular choice for the formatting language for documentation.
 
 ### Programming and Documenting
 
@@ -205,7 +211,7 @@ There are a variety of sample code structures that can be used to get started. F
 
 ### Licensing Considerations when Using Open Software
 
-<img src="../images/media/image130.png" style="width:3.34302in;height:2.58229in" />
+<img src="../images/media/image130.png" style="width:350px;height:auto;" />
 
 Open-source software licenses are the basis for how scientists use, make, and share code and software. Understanding some of the nuances of these licenses is important because it will affect how your project can license and share code.
 
@@ -222,9 +228,11 @@ Licenses take various forms in order to outline:
 - To whom the user may distribute the software (if any such right exists).
 - Length of time the user has the right to use the software.
 
-**Some Common Types of Software License**
+### Some Common Types of Software License
 
 *Click '+' to travel more information.*
+
+<img style="width:100%;height:auto;" src="../images/media/commonsoftwarelicenses.png">
 
 **Public Domain**
 
@@ -249,6 +257,8 @@ Can be distributed or modified if all the code involved is licensed under the sa
 **Proprietary**
 
 Cannot be copied, modified, or distributed.
+
+---
 
 Before you choose a license, first check with your organization or employer. They may have specific guidelines about what software license you are allowed to use. Your research grant may also stipulate permissible license types. The software management plan should specify what license you plan to use.
 
@@ -307,9 +317,11 @@ Some of the most popular licenses used in open software are:
   <tbody>
     <tr>
         <td colspan="2">
-            <p><a href="https://opensource.org/license/apache-2-0/">Apache License</a></p>
-            <p><a href="https://opensource.org/license/mit/">MIT license</a></p>
-            <p><a href="https://opensource.org/license/bsd-3-clause/">BSD License</a></p>
+            <ul>
+              <li><a href="https://opensource.org/license/apache-2-0/">Apache License</a></li>
+              <li><a href="https://opensource.org/license/mit/">MIT license</a></li>
+              <li><a href="https://opensource.org/license/bsd-3-clause/">BSD License</a></li>
+            </ul>
         </td>
     </tr>
   </tbody>
@@ -325,9 +337,11 @@ Some of the most popular licenses used in open software are:
   <tbody>
     <tr>
         <td colspan="2">
-            <p>GNU General Public License (<a href="https://opensource.org/license/gpl-2-0/">GPL</a>)</p>
-            <p><a href="https://opensource.org/license/mpl-2-0/">Mozilla</a> Public License</p>
-            <p>Common Development and Distribution License (<a href="https://opensource.org/license/cddl-1-0/">CDDL</a>)</p>
+            <ul>
+              <li>GNU General Public License (<a href="https://opensource.org/license/gpl-2-0/">GPL</a>)</li>
+              <li><a href="https://opensource.org/license/mpl-2-0/">Mozilla</a> Public License</li>
+              <li>Common Development and Distribution License (<a href="https://opensource.org/license/cddl-1-0/">CDDL</a>)</li>
+            </ul>
         </td>
     </tr>
   </tbody>
@@ -355,7 +369,7 @@ Without a license, software is assumed copyrighted and without permissions.
 
 **Statement 3:**
 
-Anyone is free to use software with a “permissive” license without restriction.
+Anyone is free to use software with a "permissive" license without restriction.
 
 - True
 - False
@@ -379,7 +393,7 @@ Many version control platforms have built in tools that enable developers to rev
 
 Here is a great example of the discussion that can happen when the original creator of an algorithm [comments on a python implementation made by a first time contributor to the Astropy project](https://github.com/astropy/astropy/pull/4301). The open and constructive discussion led to a better implementation of the algorithm along with possible future improvements.
 
-Software packages can be reviewed as their own products as well. Many scientific publications now accept papers focused on software. There are entities like [PyOpenSci](https://www.pyopensci.org/) and the Journal of Open [Source Software that provide open peer review of scientific packages. See more details about](https://joss.theoj.org/) JOSS in the next lesson on sharing your code.
+Software packages can be reviewed as their own products as well. Many scientific publications now accept papers focused on software. There are entities like [PyOpenSci](https://www.pyopensci.org/) and the [Journal of Open Source Software](https://joss.theoj.org/) that provide open peer review of scientific packages. See more details about JOSS in the next lesson on sharing your code.
 
 ### Testing
 
@@ -479,8 +493,7 @@ Whether using open source, closed source, or commercial software, it is importan
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Commercial and open-source tools have been developed to address the challenge of identifying the security vulnerabilities in different source components. If you do not have any technology to secure your open source usage, you can consider using the Dependabot or</p>
-            <p>O<a href="https://owasp.org/">WASP</a> dependency check tools.</p>
+            <p>Commercial and open-source tools have been developed to address the challenge of identifying the security vulnerabilities in different source components. If you do not have any technology to secure your open source usage, you can consider using the Dependabot or <a href="https://owasp.org/">OWASP</a> dependency check tools.</p>
             <p>The Open Web Application Security Project (OWASP), is an online community that produces free tools and technologies in the field of web application security. OWASP dependency check is a utility created for developers, which identifies project dependencies and checks if they contain any known, publicly disclosed, open-source vulnerabilities.</p>
         </td>
     </tr>
@@ -578,19 +591,19 @@ Whether using open source, closed source, or commercial software, it is importan
   </tbody>
 </table>
 
-**Additional Helpful Tips**
+### Additional Helpful Tips
 
 Here are some further suggestions on how to make your code more accessible, reproducible, and transparent:
 
 |  |  |
 |---|---|
-| Descriptive Names | Variables, functions, and similar entities should be given descriptive names as opposed to vague names. Descriptive names instantly give other programmers an idea of what the variable or function is. For example, the variable name colourOfCat is a good name because it describes what it intends to do, which is to encompass the color of a cat. |
-| Metadata File | Consider including a metadata file for your software to make it more discoverable. A ‘codemeta.json’ can be created using [Code Meta's generator](https://codemeta.github.io/codemeta-generator/) to include with your package. |
-| Operation Documentation | Share details about how you are running the code. For example, document the version of a software library you are using, or the version of the compiler. These are often shared in an 'environment.yml' file. |
-| Automation | Consider the following scenario:<br><br>You are getting ready to publish your paper that includes 17 plots that all depend on a data set released by a mission. Right before you are about to submit, the mission releases an updated version of the data set.<br><br> How easy will it be to recreate those plots?<br><br> Software allows you to automate the running of scripts and alert programmers when written so that |
-| Using Standards | Most languages have their own coding style adopted by their respective communities. Following those conventions makes it easier for others to contribute to your code and makes your project more inclusive. |
-| Portability | Share details about how you are running the code, for example the version of a software library you are using, or the version of the compiler. These are often shared in an ‘environment.yml’ file. |
-| Naming | Many historical terms used in software have negative connotations depending on the context. When considering different terms or naming, consider how different audiences may react to those terms. |
+| **Descriptive Names** | Variables, functions, and similar entities should be given descriptive names as opposed to vague names. Descriptive names instantly give other programmers an idea of what the variable or function is. For example, the variable name **colourOfCat** is a good name because it describes what it intends to do, which is to encompass the color of a cat. |
+| **Metadata File** | Consider including a metadata file for your software to make it more discoverable. A ‘codemeta.json’ can be created using [Code Meta's generator](https://codemeta.github.io/codemeta-generator/) to include with your package. |
+| **Operation Documentation** | Share details about how you are running the code. For example, document the version of a software library you are using, or the version of the compiler. These are often shared in an 'environment.yml' file. |
+| **Automation** | Consider the following scenario:<br><br>You are getting ready to publish your paper that includes 17 plots that all depend on a data set released by a mission. Right before you are about to submit, the mission releases an updated version of the data set.<br><br> How easy will it be to recreate those plots?<br><br> Software allows you to automate the running of scripts and alert programmers when written so that input files are not hardcoding. This allows programmers to easily re-run code if an initial parameter changes. |
+| **Using Standards** | Most languages have their own coding style adopted by their respective communities. Following those conventions makes it easier for others to contribute to your code and makes your project more inclusive. |
+| **Portability** | Share details about how you are running the code, for example the version of a software library you are using, or the version of the compiler. These are often shared in an 'environment.yml' file. |
+| **Naming** | Many historical terms used in software have negative connotations depending on the context. When considering different terms or naming, consider how different audiences may react to those terms. |
 
 ## Lesson 3: Summary
 
