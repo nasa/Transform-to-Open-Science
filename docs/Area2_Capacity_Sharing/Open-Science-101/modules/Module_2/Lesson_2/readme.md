@@ -40,7 +40,7 @@ In this lesson, we introduce you to some of the most general open science tools 
 
 ## Persistent Identifiers
 
-A digital persistent identifier (or “PID”) is a “long-lasting reference to a digital resource” that is machine-readable and uniquely points to a digital entity, according to [ORCID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-) examples of persistent identifiers used in science are described below.
+A digital persistent identifier (or "PID") is a “long-lasting reference to a digital resource” that is machine-readable and uniquely points to a digital entity, according to [ORCID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-) examples of persistent identifiers used in science are described below.
 
 ### ORCID
 
@@ -53,7 +53,7 @@ A digital persistent identifier (or “PID”) is a “long-lasting reference to
 - Uniquely and persistently identifies authors and contributors of scholarly communication.
 - Similar to tax ID numbers for tax purposes.
 
-ORCIDs are used to link Used to link researchers to their research and research-related outputs. It is a 16-digit number that uniquely identifies researchers and is integrated with certain organizations (like some publishers) that will add research products (such as a published paper) to an individual's ORCID profile. ORCIDs are meant to last throughout ones career, and helps to avoid confusion when information about a researcher changes over time (e.g. career change or name change). (cite: <https://orcid.org/>)
+ORCIDs are used to link Used to link researchers to their research and research-related outputs. It is a 16-digit number that uniquely identifies researchers and is integrated with certain organizations (like some publishers) that will add research products (such as a published paper) to an individual's ORCID profile. ORCIDs are meant to last throughout ones career, and helps to avoid confusion when information about a researcher changes over time (e.g. career change or name change). (cite: [https://orcid.org/](https://orcid.org/))
 
 Many publishers, academic institutes, and government bodies support ORCID. In 2023, ORCID reported over 1,300 member organizations and over 9 million yearly live accounts. You can connect it with your professional information (affiliations, grants, publications, peer review, and more).
 
@@ -77,11 +77,11 @@ DOIs are provided and maintained by the International Organization for Standardi
 
 DOIs make citing research products easier and more useful.
 
-Data repositories will typically instruct you on the exact way to cite their data, which includes the correct DOI. For example, let’s take a look at the CERES_EBAF-TOA_Edition4.1 data set mentioned above. This is an [e xample from the Atmospheric Science Data Center’s (ASDC) website](https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1/citation).
+Data repositories will typically instruct you on the exact way to cite their data, which includes the correct DOI. For example, let’s take a look at the CERES_EBAF-TOA_Edition4.1 data set mentioned above. This is an [example from the Atmospheric Science Data Center’s (ASDC) website](https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1/citation).
 
 ### Activity 2.1: Find and Resolve a DOI
 
-In this activity, you will search for a DOI for a data set or piece of software that you use, and you will then use the DOI website to “resolve” the DOI name. By “resolving”, this means that you will be taken to the information about the product designated by that particular DOI.
+In this activity, you will search for a DOI for a data set or piece of software that you use, and you will then use the DOI website to “resolve” the DOI name. By "resolving", this means that you will be taken to the information about the product designated by that particular DOI.
 
 1. Find the DOI for a dataset or software you use often.
    1. This should be listed either in the citation file, or in the website where that data/software is published.
@@ -182,13 +182,13 @@ Metadata can facilitate the assessment of dataset quality and data sharing by an
 
 Metadata enhances searchability and findability of the data by potentially allowing other machines to read and interpret datasets.
 
-According to  [The University of Pittsburgh](https://pitt.libguides.com/metadatadiscovery/metadata-standards), “A metadata standard is a high level document which establishes a common way of structuring and understanding data, and includes principles and implementation issues for utilizing the standard.”
+According to  [The University of Pittsburgh](https://pitt.libguides.com/metadatadiscovery/metadata-standards), "A metadata standard is a high level document which establishes a common way of structuring and understanding data, and includes principles and implementation issues for utilizing the standard."
 
 Many standards exist for metadata fields and structures to describe general data information. It is a best practice to use a standard that is commonly used in your domain, when applicable, or that is requested by your data repository. Examples of metadata standards for different domains include:
 
  - [CF Metadata Conventions](https://cfconventions.org/)
 - [World Meteorological Organization WIS 2.0](https://community.wmo.int/en/activity-areas/wis/wis2-implementation)
-- GeneLab Working Group](https://genelab.nasa.gov/awg/members)
+- [GeneLab Working Group](https://genelab.nasa.gov/awg/members)
 
 ### Types of Metadata
 
@@ -247,9 +247,7 @@ There are different types/categories of metadata addressing different purposes:
 
 ### Documentation
 
-Documenting the production and management of your science benefits both you and those that might use your data, code, or results in the future. You are your own best collaborator.
-
-Documentation can save you from a headache should you need to reference or reuse your work in six months or attempt to recall meticulous details about your process later on. Properly documented research products increase their usability.
+Documenting the production and management of your science benefits both you and those that might use your data, code, or results in the future. You are your own best collaborator. Documentation can save you from a headache should you need to reference or reuse your work in six months or attempt to recall meticulous details about your process later on. Properly documented research products increase their usability.
 
 Types of documentation include (many of which will be expanded upon later in this curriculum):
 
@@ -287,12 +285,10 @@ Types of documentation include (many of which will be expanded upon later in thi
   <tbody>
     <tr>
         <td colspan="3">
-        <ul>
-            <li>README files: Basic installation and usage instructions.</li>
-            <li>Inline comments in code: Annotations on code components.</li>
-            <li>Release notes: What is new in this version?</li>
-            <li>Associated publications: How did others use this software?</li>
-        </ul>
+            <p>README files: Basic installation and usage instructions.</p>
+            <p>Inline comments in code: Annotations on code components.</p>
+            <p>Release notes: What is new in this version?</p>
+            <p>Associated publications: How did others use this software?</p>
         </td>
     </tr>
   </tbody>
@@ -336,22 +332,77 @@ Pre-registration is the process by which a researcher documents their research p
 
 Types of Pre-Registration Include:
 
-**Standard Pre-registration**
+<table>
+  <thead>
+    <tr>
+        <th>Standard Pre-registration &#9745;</th>
+        <th>Registered Reports</th>
+        <th>Registered Replication Report</th>
+        <th>Sharing Grant Proposals</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="4">
+            <p>An investigator documents their plans in writing and submits them to a pre-registration service. This documents the researcher’s plans prior to undertaking the research, and provides investigators and reviewers with a way to distinguish a priori hypotheses from post-hoc exploratory analyses. The document may be kept private for some period of time, but is usually made public upon submission of the manuscript for publication.</p>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-An investigator documents their plans in writing and submits them to a pre-registration service. This documents the researcher’s plans prior to undertaking the research, and provides investigators and reviewers with a way to distinguish a priori hypotheses from post-hoc exploratory analyses. The document may be kept private for some period of time, but is usually made public upon submission of the manuscript for publication.
+<table>
+  <thead>
+    <tr>
+        <th>Standard Pre-registration</th>
+        <th>Registered Reports &#9745;</th>
+        <th>Registered Replication Report</th>
+        <th>Sharing Grant Proposals</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="4">
+            <p>An investigator writes a manuscript describing the motivation for a study and a detailed description of the methods, and submits it to a journal for peer review prior to undertaking the research. The manuscript is reviewed based on the importance of the research question and the quality of the methods. If accepted, the journal agrees to publish the paper regardless of the results, assuming that there are no problems with the implementation of the methods.</p>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-**Registered Reports**
+<table>
+  <thead>
+    <tr>
+        <th>Standard Pre-registration</th>
+        <th>Registered Reports</th>
+        <th>Registered Replication Report &#9745;</th>
+        <th>Sharing Grant Proposals</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="4">
+            <p>A type of registered report in which the investigators wish to attempt to replicate a particular published finding, usually involving multiple research sites.</p>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-An investigator writes a manuscript describing the motivation for a study and a detailed description of the methods, and submits it to a journal for peer review prior to undertaking the research. The manuscript is reviewed based on the importance of the research question and the quality of the methods. If accepted, the journal agrees to publish the paper regardless of the results, assuming that there are no problems with the implementation of the methods.
-
-**Registered Replication Report**
-
-A type of registered report in which the investigators wish to attempt to replicate a particular published finding, usually involving multiple research sites.
-
-**Sharing Grant Proposals**
-
-Another way to document and timestamp research plans and concepts is to share funded grant proposals publicly. This has the added benefit of making the funding process more transparent, and providing examples of successful grant proposals for other researchers, particularly those in their early career stage.
-
+<table>
+  <thead>
+    <tr>
+        <th>Standard Pre-registration</th>
+        <th>Registered Reports</th>
+        <th>Registered Replication Report</th>
+        <th>Sharing Grant Proposals &#9745;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="4">
+            <p>Another way to document and timestamp research plans and concepts is to share funded grant proposals publicly. This has the added benefit of making the funding process more transparent, and providing examples of successful grant proposals for other researchers, particularly those in their early career stage.</p>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Why is Pre-Registration Important?
 
@@ -392,7 +443,7 @@ The OSDMP describes how the scientific information that will be produced from sc
 
 A well written OSDMP can help you win funding because it demonstrates your skills at doing open science!
 
- <img src="../images/media/image24.png" style="width:350px;height:auto;" />
+ <img src="../images/media/image24.png" style="width:100%;height:auto;" />
 
 Example sections to include in an OSDMP:
 
@@ -423,7 +474,7 @@ metadata)
 
 Every major research foundation and federal government agency now requires scientists to file a data management plan (DMP) along with their proposed research plan. Data and other elements such as code and publications have their own lifecycle and workflow, which need to be in the plan. DMPs are a critical aspect of open science and help keep other researchers informed and on track throughout the data management lifecycle.
 
- DMPs that are successful typically include a clear terminology about FAIR and CARE principles and how they will be applied.
+DMPs that are successful typically include a clear terminology about FAIR and CARE principles and how they will be applied.
 
 The data management lifecycle is typically circular. Research data are valuable and reusable long after the project's financial support ends. Data reuse can extend beyond our own lifetimes. Therefore, when designing a project or supporting an existing corpus of data, we need to remain cognizant of what happens to the data after our own research interaction ends.
 
@@ -492,10 +543,10 @@ Globally, organizations and agencies are moving towards open science and beginni
 - **Australian Research Council**
     - [Data Management Plan](https://www.arc.gov.au/about-arc/strategies/research-data-management)
 - **EU Open Science Requirements**
-    - [Open Science in Horizon Europe](https://openscience.eu/Open-Science-in-Horizon-Europe)
+    - [https://openscience.eu/Open-Science-in-Horizon-Europe](https://openscience.eu/Open-Science-in-Horizon-Europe)
 - **UK Wellcome Trust**
-    - [Output Management Plan](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan)
-- **Korea’s National Research Foundation (NRF)**
+    - [(Output Management Plan)](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan)
+- **Korea's National Research Foundation (NRF)**
     - [DMP Guideline](https://www.nrf.re.kr/cms/board/general/view?nts_no=124731&amp;menu_no=53&amp;nts_no&amp;search_type=ALL&amp;search_keyword=%EC%97%B0%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0&amp;page=90)
  - **Japan Science & Technology Agency (JST)**
     - [Open Access to Research Publications and Research Data Management](https://www.jst.go.jp/EN/about/openscience/guideline_openscience_en_r4.pdf)
