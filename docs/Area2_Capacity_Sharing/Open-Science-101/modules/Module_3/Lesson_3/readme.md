@@ -189,11 +189,13 @@ Image source: [xkcd.com](https://www.explainxkcd.com/wiki/index.php/File:copyrig
 
 Data is the intellectual property of the researcher(s), or possibly of their funder(s) or supporting institution(s). Data is intellectual property, but that does not mean it cannot be used by other researchers (with appropriate attribution).
 
-![](../images/media/image33.png)
+<img style="width:100%;height:auto;" src="../images/media/applylicensetoyourwork.jpg">
 
 "By applying a license to your work, you make clear what others can do with the things you're sharing, and also the conditions under which you're providing them (like cite you). You can also require others who copy your work to do things in return."
 
-[Open Science Knowledge Base](https://www.cos.io/)
+**[Open Science Knowledge Base](https://www.cos.io/)**
+
+---
 
 If you don't license your work, others can’t/shouldn’t re-use it - even if you want them to. As mentioned previously in this module, a license is a legal document that tells users how they can use the dataset. It is important to understand the licensing conditions of a dataset before data reuse to avoid any copyright infringement or other intellectual property issues.
 
@@ -207,7 +209,7 @@ There are several different types of licenses that build on each other. Creative
 
 ### Example Data Licenses and Reuse
 
-Here is an example of how a data license can affect reuse. Coupled Model Intercomparison Project Phase 6 (CMIP6) consists of the “runs” from around 100 distinct climate models being produced across 49 different modeling groups. This is the data that is used to understand what our future climate might look like. You have probably seen images that use this data in articles about Earth’s changing climate and how it may impact our lives. Previous versions of these data were licensed CC-BY-NC-SA (cite-noncommercial- sharealike).
+Here is an example of how a data license can affect reuse. Coupled Model Intercomparison Project Phase 6 (CMIP6) consists of the "runs" from around 100 distinct climate models being produced across 49 different modeling groups. This is the data that is used to understand what our future climate might look like. You have probably seen images that use this data in articles about Earth’s changing climate and how it may impact our lives. Previous versions of these data were licensed CC-BY-NC-SA (cite-noncommercial- sharealike).
 
 <img src="../images/media/image35.jpeg" style="width:100%;height:auto;" />
 
