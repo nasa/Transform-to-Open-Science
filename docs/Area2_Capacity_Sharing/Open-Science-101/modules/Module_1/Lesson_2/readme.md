@@ -25,7 +25,13 @@ After completing this lesson, you should be able to:
 
 "We need more WE science rather than ME science."
 
-\- Harlan Krumholz, Yale School of Medicine at 2022 CZI Meeting
+**Harlan Krumholz,**
+
+**Yale School of Medicine at 2022 CZI Meeting**
+
+<img src="../images/media/harlanquote.jpg">
+
+---
 
 As NASA looks outward, we face both known and unforeseen challenges. These dynamic challenges will demand a new approach to science that achieves success through a responsive and inclusive scientific ecosystem. This requires more diverse teams - teams with more hands, eyes, and brains that have diverse experiences to participate.
 
@@ -71,7 +77,7 @@ The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license
 
 In addition to improved scientific accuracy, adhering to open science practices potentially offers personal career benefits to researchers. Openly published research has significantly more visibility and impact potential with large audiences across the internet, which can lead to more citations, like-minded collaborators, and career/funding opportunities, according to a 2016 [study](https://pubmed.ncbi.nlm.nih.gov/27387362/).
 
-<img src="../images/media/image263.png" style="width:6.36011in;height:4.09458in" />
+<img src="../images/media/image263.png" style="width:100%;height:auto;" />
 
 #### Emerging evidence that some aspects of open science can increase your citations.
 
@@ -148,9 +154,7 @@ In 2022 though, NASA decided to fund a challenge open to the public to develop n
 
 ### Quality and Diversity of Scholarly Communications
 
-Furthermore, open science improves the state of scientific literature. Scientific journals have traditionally faced the severe issue of publication bias, where journal articles overwhelmingly feature novel and positive results, according to a 2018 [study](https://pubmed.ncbi.nlm.nih.gov/30523135/). This results in a state where scientific results in certain disciplines published scientific results may have a number of exaggerated effects, or even be “false positives” (wrongly claiming that an effect exists), making it difficult to evaluate the trustworthiness of published results, according to a 2011 and 2016 study. Open science practices, such as registered reports, mitigate publication bias and improve the trustworthiness of the scientific literature.
-
-Registered reports are journal publication formats that peer-review and accept articles before data collection is undertaken, eliminating the pressure to distort results, according to a 2022 [study](https://www.nature.com/articles/s41562-021-01193-7). Other open science practices, such as pre-registration, also allows a partial look into projects that for various reasons (such as lack of funding, logistical issues or shifts in organizational priorities) have not been completed or disseminated, according to a 2023 [<u>study</u>](https://pubmed.ncbi.nlm.nih.gov/34396837/), giving these projects a publicly available output that can help inform about the current state research.
+Furthermore, open science improves the state of scientific literature. Scientific journals have traditionally faced the severe issue of publication bias, where journal articles overwhelmingly feature novel and positive results, according to a 2018 [study](https://pubmed.ncbi.nlm.nih.gov/30523135/). This results in a state where scientific results in certain disciplines published scientific results may have a number of exaggerated effects, or even be “false positives” (wrongly claiming that an effect exists), making it difficult to evaluate the trustworthiness of published results, according to a 2011 and 2016 study. Open science practices, such as registered reports, mitigate publication bias and improve the trustworthiness of the scientific literature. Registered reports are journal publication formats that peer-review and accept articles before data collection is undertaken, eliminating the pressure to distort results, according to a 2022 [study](https://www.nature.com/articles/s41562-021-01193-7). Other open science practices, such as pre-registration, also allows a partial look into projects that for various reasons (such as lack of funding, logistical issues or shifts in organizational priorities) have not been completed or disseminated, according to a 2023 [study](https://pubmed.ncbi.nlm.nih.gov/34396837/), giving these projects a publicly available output that can help inform about the current state research.
 
 <img src="../images/media/image254.png" style="width: 350px; height: auto;" />
 
@@ -171,9 +175,7 @@ Collaboration, innovation, education, technology advancement, and science-based 
 
 <img src="../images/media/image264.png" style="width: 350px; height: auto;" />
 
-Scientists study issues that affect every aspect of life. Yet, public interest in science remains low due to a lack of trust, understanding, and sociocultural factors. How can scientists expect the public to trust science about complex and often contentious issues, whether it is vaccine development or landing on the moon, if they don’t allow the public to see the process and results?
-
-Building trust in science is essential to a well-informed society. Open science provides a pathway to do this.
+Scientists study issues that affect every aspect of life. Yet, public interest in science remains low due to a lack of trust, understanding, and sociocultural factors. How can scientists expect the public to trust science about complex and often contentious issues, whether it is vaccine development or landing on the moon, if they don’t allow the public to see the process and results? Building trust in science is essential to a well-informed society. Open science provides a pathway to do this.
 
 The public who funds government research through taxes should be entitled to its results and data, as long as safety and security are not an issue. Science should be more open to ensure its insights benefit the public who enables it.
 

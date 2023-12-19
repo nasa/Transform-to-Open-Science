@@ -80,7 +80,7 @@ Science and science communication increasingly face severe pushback from the pub
 
 **Reproduce Results**
 
-Science becomes more robust and accurate when scientists validate their colleagues’ results. However, the rapidly-growing pool of published research presents an overwhelming challenge to reproduce:
+Science becomes more robust and accurate when scientists validate their colleagues' results. However, the rapidly-growing pool of published research presents an overwhelming challenge to reproduce:
 
 Source: [https://www.pnas.org/doi/full/10.1073/pnas.1708290115](https://www.pnas.org/doi/full/10.1073/pnas.1708290115)
 
@@ -133,9 +133,9 @@ But what is open science exactly? To illustrate, first we’ll present a definit
 This definition was developed by a team of U.S. federal agencies. They reviewed many different definitions of open science from both within the U.S. and around the world. These definitions have changed over time as the understanding of open science has matured and become more nuanced. Let’s break down the definition a bit more:
 
 - Research products and processes should be available to all, not just a small subset of experts, particularly if funded with public funds.
-- Research products and processes should be ‘respecting diverse cultures’ – fostering an open dialogue between researchers, indigenous people, and local communities. This also means that research must respect the diversity of laws and customs in different countries and/or as they apply to different kinds of research.
+- Research products and processes should be 'respecting diverse cultures' – fostering an open dialogue between researchers, indigenous people, and local communities. This also means that research must respect the diversity of laws and customs in different countries and/or as they apply to different kinds of research.
 - While open science is our aim, security and privacy remain important concerns. Therefore, select sensitive information should be protected.
-- Of the stated principles, “Fostering collaborations, reproducibility, and equity”, the first two are research standards, while the latter refers to the inclusion of people who might otherwise get left out.
+- Of the stated principles, "Fostering collaborations, reproducibility, and equity", the first two are research standards, while the latter refers to the inclusion of people who might otherwise get left out.
 
 Open science is a culture intended to promote science and its social impact. Open science creates new opportunities for different stakeholders including researchers, political decision makers, and public participants. Open science increases study transparency, repeatability, reproducibility, and confirmation. We expand what these terms mean and why they matter throughout this module and later in Open Science 101 modules.
 
@@ -143,7 +143,7 @@ Open science is a culture intended to promote science and its social impact. Ope
 
 The Ethos of Open Science is a broad term that encompasses the moral and ethical attitudes held by individuals and institutions about practicing ‘open’ science. There is an ethical element to sharing both new knowledge and the processes used to obtain said knowledge. It is important to note that there is no one be-all way of practicing or conducting open science.
 
-Diverse practices, assumptions, and goals are just part of the complexity of open science. There are also divergent moral principles that guide open science communities. Such principles are captured in “codes of conduct”. A code of conduct is a community governance mechanism that outlines the principles and practices expected of a given research community’s members, as well as the process for investigating and reprimanding those in violation of the code.
+Diverse practices, assumptions, and goals are just part of the complexity of open science. There are also divergent moral principles that guide open science communities. Such principles are captured in "codes of conduct". A code of conduct is a community governance mechanism that outlines the principles and practices expected of a given research community’s members, as well as the process for investigating and reprimanding those in violation of the code.
 
 In a sense, a code of conduct constitutes the moral backbone of a research community. However, as with the numerous schools of thought, there are similarly many codes of conduct. In other words, there is no one set of universal principles that all open science
 practitioners abide by. For example, consider how [OLS](https://openlifesci.org/code-of-conduct),  [INOSC](https://osf.io/6gsye), [allea](https://allea.org/portfolio-item/the-european-code-of-conduct-for-research-integrity-2/), [AGU](https://www.agu.org/Plan-for-a-Meeting/AGUMeetings/Meetings-Resources/Meetings-code-of-conduct) and [Ethical Source](https://ethicalsource.dev/community-code-of-conduct/) all have different codes of conducts and guiding principles.
@@ -158,7 +158,7 @@ The goal of TOPS is to push the community as a whole towards open science as an 
 
 <img src="../images/media/image258.jpg" style="width: 100%; height: auto;" />
 
-You may or may not have heard the term “Open Science” used before this course. If you have, you likely have some preconception of open science and what it looks like in practice. Let’s collectively look at those various conceptions.
+You may or may not have heard the term "Open Science" used before this course. If you have, you likely have some preconception of open science and what it looks like in practice. Let’s collectively look at those various conceptions.
 
 ### Activity 1.1: Think About the What and How of Open Science
 
@@ -218,7 +218,7 @@ Not only does open sharing help society, but it also can benefit each of us as i
 
 #### Fill in the missing word in the definition of open science.
 
-"Open Science is the principle and practice of making research products and processes to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity."
+"Open Science is the principle and practice of making research products and processes _____ to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity."
 
 \- The White House Office of Science and
 Technology Policy (OSTP) Policy Memo, 2022
@@ -290,7 +290,6 @@ Select all that apply.
 ### Key Takeaways: Deﬁnition of Open Science
 
 Open science is multi-faceted and can mean different things to different people. Some scientists may think of open science as open access publications or as citizen science. In this module and more broadly in this curriculum, we make it clear that open science encompasses all of these various aspects. Right now, you may be more comfortable with some aspects of open science than others - and that’s ok! We hope that you will better understand the scope and nuances of open science by the end of this curriculum, and also understand the benefits of doing open science, as we have begun to discuss in this section. Specifically, the increasing amount of information about scientific processes and products available online enables access for a much wider array of individuals and communities to use, make, and share scientific research and results.
-
 
 ## Who Does Open Science?
 
