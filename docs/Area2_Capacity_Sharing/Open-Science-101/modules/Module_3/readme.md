@@ -1,4 +1,4 @@
-# Open Science 101: Open Data (November, 2023)
+# OS101 Module 3: Open Data
 
 **WELCOME TO OPEN SCIENCE 101: OPEN DATA**
 

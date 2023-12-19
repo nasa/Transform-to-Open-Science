@@ -32,13 +32,13 @@ Open data is an essential pillar of open science. In many ways, open data are a 
 
 ### Example: How Will Humans Live on the Moon or Travel to Mars When the Space Environment Threatens Human Health in Multiple Ways?
 
-Bone loss, vertigo, anemia, muscle atrophy, increased risk for cancer - these are just some of the human side effects of space travel. To study these human health risks of space travel, scientists around the world use NASA’s open-
-
-source GeneLab platform. GeneLab aggregates large volumes of space biology data on human and model organism samples exposed to spaceflight conditions. Their digital and physical repositories include cell info as well as DNA, RNA, and proteins. As an open-source platform, GeneLab data are publicly accessible at no cost.
+Bone loss, vertigo, anemia, muscle atrophy, increased risk for cancer - these are just some of the human side effects of space travel. To study these human health risks of space travel, scientists around the world use NASA's open-source GeneLab platform. GeneLab aggregates large volumes of space biology data on human and model organism samples exposed to spaceflight conditions. Their digital and physical repositories include cell info as well as DNA, RNA, and proteins. As an open-source platform, GeneLab data are publicly accessible at no cost.
 
 <img src="../images/media/image2.jpeg" style="width:100%;height:auto;" />
 
 **Example:** Using astronaut biological data from GeneLab, [scientists recently found](https://www.nature.com/articles/s41576-020-00322-8) what may be the culprit behind many of the side effects from travel to space: mitochondrial stress.
+
+[Watch Video](https://www.youtube.com/watch?v=c9moR-KQpDQ&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F&feature=emb_imp_woyt)
 
 Mitochondria are components within our cells that affect respiratory and energy function. This discovery could be crucial to overcoming human health- related problems in space. Understanding the source of this issue could help scientists develop countermeasures and therapies to keep people healthy in space for longer periods of time.
 
@@ -65,23 +65,23 @@ Data includes:
 
 **Secondary & Processed data** – Secondary data typically refers to data that is used by someone different than who collected or generated the data. Often, this may include data that has been processed from its raw state to be more readily usable by others.
 
-**Published data** – Published data are the data shared to address a particular scientific study and/or for general use. While published data can overlap with primary and secondary data types, we have “published data” as its own category to emphasize that such datasets are ideally well-documented and easy to use.
+**Published data** – Published data are the data shared to address a particular scientific study and/or for general use. While published data can overlap with primary and secondary data types, we have "published data" as its own category to emphasize that such datasets are ideally well-documented and easy to use.
 
 **Metadata** – Metadata are a special type of data that describe other data or objects (e.g. samples). They are often used to provide a standard set of information about a dataset to enable easy use and interpretation of the data.
 
 The term open data are defined in the open data handbook from the Open Knowledge Foundation:
 
-<img src="../images/media/image4.png">
+<img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote.jpg">
 
 "Open data are data that can be freely used, reused and redistributed by anyone – subject only, at most, to the requirement to attribute and share alike."
 
-\- Open Data Handbook from the Open Knowledge Foundation
+**Open Data Handbook from the Open Knowledge Foundation**
 
 ---
 
 When talking about data in the context of this module, we focus on the data that you are preparing to share, such as data affiliated with a scientific publication, regardless of what type that is. While you could share (and many do) laboratory notebooks, preliminary analyses, intermediate data products, drafts of scientific papers, plans for future research and similar items, these aren't usually required by funding agencies or institutions and thus won’t be in focus for this module.
 
-To quote from a [p<u>ublished paper about data reuse</u>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9542848/), researchers are mostly looking for data which is “comprehensive, easy to obtain, easy to manipulate, and believable.” For these criteria to be fulfilled, the data should:
+To quote from a [published paper about data reuse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9542848/), researchers are mostly looking for data which is "comprehensive, easy to obtain, easy to manipulate, and believable." For these criteria to be fulfilled, the data should:
 
 - Be sufficiently described with appropriate metadata, which greatly affects open data reusability. There is no one size fits all for metadata as its collection is guided by your data.
 - Have the appropriate license, copyright, and citation information.
@@ -130,7 +130,9 @@ A citizen scientist is a citizen or amateur scientist who collaborates with prof
 For example, volunteer citizen scientists in Beirut were recruited from 50 villages to help test water quality [cite: chapter 5 of [Contextualizing
 Openness: Situating Open Science](https://idrc-crdi.ca/en/book/contextualizing-openness-situating-open-science)]. These volunteers were trained to be able to conduct the tests and in turn, not only was the data collected to inform the scientific advancements, the citizen scientists had the opportunity to learn to better manage their water resources and were able to improve conditions, creating a mutually beneficial interaction.
 
-**Open Data and Equitable Sharing of Knowledge** – Free distribution of knowledge increases participation in science. Open data are central to fostering science that is inclusive and diverse, with direct and relevant benefits to impacted individuals and communities. This integration with communities is particularly important in the mission towards the equitable sharing of knowledge.
+**Open Data and Equitable Sharing of Knowledge**
+
+Free distribution of knowledge increases participation in science. Open data are central to fostering science that is inclusive and diverse, with direct and relevant benefits to impacted individuals and communities. This integration with communities is particularly important in the mission towards the equitable sharing of knowledge.
 
 In a research ecosystem where knowledge is a commodity, with the main currency in the form of published papers and hoarded datasets, exclusion from research can limit scientific progress and negatively impact community outcomes. Those excluded from traditional science resources are often from low and lower middle income countries. Opening our data in an inclusive and easily reusable way is one step toward purposeful inclusion of underrepresented groups in science.
 
@@ -146,7 +148,7 @@ Open data that are purposefully inclusive and open to scrutiny, benefit scientif
 
 Open data allows non-traditional researchers to contribute to scientific development and bring their unique insights to the table. With these benefits in mind, we should always bear in mind that Open Data requires careful consideration of its potential downsides that results from failure to provide due credit and consultation with potentially vulnerable and/or marginalized communities. The next lesson “Using Open Data” discusses important considerations for the responsible management, collection, and use of open data by all stakeholders.
 
-**Beneﬁts to You**
+### Beneﬁts to You
 
 Open data also benefits your research and career. For starters, you are your own future collaborator!
 
@@ -166,7 +168,7 @@ Take a moment to reflect on what data sharing means to you.
 
 <img style="width:100%;height:auto;" src="../images/media/image6.jpeg">
 
-Image source: CC-by o penaire
+Image source: CC-by [openaire](https://www.openaire.eu/blogs/open-research-data-the-fairest-data-is-the-future-of-science-estonia-national-openaire-event-1)
 
 ---
 
@@ -177,7 +179,9 @@ recognize? Are any of them new to you?
 
 While open data has many benefits, there can also be challenges to its creation and use. Throughout this Module, we discuss many of these challenges and possible solutions. In this section, we discuss a few of the most common concerns along with actions to mitigate them.
 
-> **Example: Are There Any Harms to Open Data?** – Open data has been demonstrated to further marginalize or exploit small- scale and community driven initiatives, such as in [the case](https://thebulletin.org/2022/05/how-a-dispute-over-sharing-coronavirus-genomes-is-threatening-a-vital-tool-for-tracking-variants/) of African researchers neither receiving due credit nor compensation for their genome sequencing during the COVID-19 pandemic. This is further explored in the next section as we introduce ways of mitigating harms that could happen via unthoughtful and irresponsible sharing of data.
+**Example: Are There Any Harms to Open Data?**
+
+Open data has been demonstrated to further marginalize or exploit small- scale and community driven initiatives, such as in [the case](https://thebulletin.org/2022/05/how-a-dispute-over-sharing-coronavirus-genomes-is-threatening-a-vital-tool-for-tracking-variants/) of African researchers neither receiving due credit nor compensation for their genome sequencing during the COVID-19 pandemic. This is further explored in the next section as we introduce ways of mitigating harms that could happen via unthoughtful and irresponsible sharing of data.
 
 ### Restrictions on Sharing Data
 
@@ -192,20 +196,19 @@ It is important to be familiar with the policies around sharing of your data and
 
 ### Common Fears Around Sharing Open Data
 
-#### ![](../images/media/image7.png)NOTE: We will discuss many of the concepts mentioned in the discussion/mitigation column later in this module.
-
-**Fear:**
-
-**Scooping: What if someone re-uses my data to publish a result I was working on?**
-
-**Yes, this can happen. But, in many ﬁelds, if it is clear that someone is actively working on a problem, the decision by another to scoop may have a short term gain but long-term loss. In science, reputations are very important and being collaborative generally leads to increased career successes.**
+#### <img style="width:20px;height:auto;" src="../images/media/image7.png"> NOTE: We will discuss many of the concepts mentioned in the discussion/mitigation column later in this module.
 
 |  |  |
 |---|---|
-| Fear: Scooping: What if someone re-uses my data to publish a result I was working on? | Yes, this can happen. But, in many fields, if it is clear that someone is actively working on a problem, the decision by another to scoop may have a short term gain but long-term loss. In science, reputations are very important and being collaborative generally leads to increased career successes. |
+| Fear: Scooping: What if someone re-uses my data to publish a result I was working on? | Yes, this can happen. But, in many fields, if it is clear that someone is actively working on a problem, the decision by another to scoop may have a short term gain but long-term loss. In science, reputations are very important and being collaborative generally leads to increased career successes. If you are sharing your data, ensure it has a digital object identifier (DOI). This does not prevent someone from using your data without attribution, but it helps make it easy for others to cite your data. There is a nice article about this [here](https://datascience.codata.org/articles/10.5334/dsj-2017-029). |
+| Fear: Misinterpretation or Misuse | Provide sufficient contextual information (documentation) to allow others to understand your data fully to reduce this risk. |
 | Fear: My data will be used but not cited | While it is not common for researchers to cite data, science ethics dictates that you should be cited if your work is used. And remember to cite others' data, so you’re not adding to the problem! |
 | Fear: Data are too sensitive to share | Use controlled access to help maintain sensitivity and security. |
 | Fear: My data won't be useful to anyone else | You never know how materials might be used! [Sailors in the 1800s collected temperature data](https://www.npr.org/templates/story/story.php?storyId=113916471) that is an important part of our ocean climate record today! |
+
+These are all valid concerns when sharing data openly, but as indicated by the global move towards open science, the overall benefits outweigh the concerns. 
+
+Ultimately, you are free to deploy the open data principles and resources in your research to maximize its impact and meet the expectations of your sponsors and community while managing costs.
 
 ## Applying FAIR Principles
 
@@ -241,8 +244,9 @@ Let's review how to make data FAIR for your community.
   <tbody>
     <tr>
         <td colspan="4">
-            <p>To ensure that data are findable by those in your community: Deposit data in repositories to preserve the data over time.</p>
+            <p>To ensure that data are findable by those in your community:</p>
             <ul>
+            <li>Deposit data in repositories to preserve the data over time.</li>
             <li>Assign your dataset a persistent identifier (PID), such as a digital object identifier (DOI).</li>
             <li>Add rich, self-describing metadata in your data files and register the metadata in a metadata catalog that will enable your data to be properly curated.</li>
                 <ul>
@@ -294,7 +298,7 @@ Let's review how to make data FAIR for your community.
             <p>To ensure that data are interoperable for those in your community:</p>
             <ul>
                 <li>Report the data in community standard format.</li>
-                <li>Use existing standardized metadata if available to minimize “lost in translation” issues and support machine-readability.</li>
+                <li>Use existing standardized metadata if available to minimize "lost in translation" issues and support machine-readability.</li>
                 <li>The use of controlled terminologies, vocabularies, and ontologies is necessary to support interoperability, but may not yet be available in all research fields.</li>
             </ul>
         </td>
