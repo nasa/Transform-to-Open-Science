@@ -23,17 +23,15 @@ After completing this lesson, you should be able to:
 
 ### What is Open Science?
 
-![](../images/media/image3.png)
-
----
+<img style="width:100%;height:auto;" src="../images/media/ostpquote.jpg">
 
 "Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity."
 
-\- The White House Ofﬁce of Science and Technology Policy (OSTP) and the National Science and Technology Council (NSTC)
+**The White House Ofﬁce of Science and Technology Policy (OSTP) and the National Science and Technology Council (NSTC)**
 
 ---
 
-**Open Research Products**
+### Open Research Products
 
 Scientific knowledge, or research products, take the form of:
 
@@ -49,7 +47,8 @@ There can even be data about data, called metadata. In our lessons, when we talk
 
 - Information produced by missions and experiments, including calibrations, coefficients, and documentation
 - Information needed to validate scientific conclusions of peer-reviewed publications
-- Open data can have many characteristics, including rich and robust metadata and be made available in a range of formats. These characteristics are detailed more later in this module, and even further in the module on Open Data.
+
+Open data can have many characteristics, including rich and robust metadata and be made available in a range of formats. These characteristics are detailed more later in this module, and even further in the module on Open Data.
 
 ### What is Code?
 
@@ -82,9 +81,7 @@ Results capture the different research outputs of the scientific process. Public
 - Conference abstracts and presentations
 - Forum discussions
 
- You may already be familiar with the research life cycle, but still unfamiliar with the types of results that can be shared openly throughout this process. When sharing results, we strive to be as open as possible, with the goal of increasing reproducibility, accessibility, and inclusion of our science.
-
-Throughout the research lifecycle, there are multiple opportunities to openly share different results that can lead to new collaborations and lines of inquiry. Additional details on the scope of open results are shared in Module 5 – Open Results.
+ You may already be familiar with the research life cycle, but still unfamiliar with the types of results that can be shared openly throughout this process. When sharing results, we strive to be as open as possible, with the goal of increasing reproducibility, accessibility, and inclusion of our science. Throughout the research lifecycle, there are multiple opportunities to openly share different results that can lead to new collaborations and lines of inquiry. Additional details on the scope of open results are shared in Module 5 – Open Results.
 
 
 ## Using Tools for Open Science in Practice
@@ -145,7 +142,7 @@ All versions:  [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/
 
  <img src="../images/media/image13.jpeg" style="width:100%;height:auto;" />
 
-**Software**
+Software
 
 This version:  [https://github.com/c-h-david/rapid](https://github.com/c-h-david/rapid) 
 
@@ -170,7 +167,7 @@ Answer the following questions to test what you have learned so far.
 
 Read the statement below and decide whether it's true or false:
 
-Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity.
+*Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity.*
 
 - True
 - False
@@ -190,7 +187,7 @@ What are the four principal outputs of open science? Select all that apply.
 
 *Question*
 
-**02/03** 
+**03/03** 
 
 Which of the following is a type of software? Select all that apply.
 
