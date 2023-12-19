@@ -26,9 +26,7 @@ After completing this lesson, you should be able to:
 
 In Lesson 3, we learned about useful tools for working with scientific data. Now, we will provide an overview of commonly used tools that help us write and run computer code to explore, analyze, and visualize our scientific data. Later in Module 4 – Open Code, we will discuss in greater detail what it means to make our code open, and walk through the steps of how to find, create, and share open code.
 
-Understanding how to work with scientific code is essential in the modern landscape of data-driven research. The tools presented in this lesson encompass a diverse array of resources designed to streamline, enhance, and optimize the process of developing, maintaining, and collaborating on code development for scientific research. They enable the creation of robust and efficient code, often leveraging the collective wisdom of the open-source community. 
-
-In the pursuit of reproducibility and transparency, these tools can also facilitate the sharing and dissemination of scientific code, fostering collaboration and ensuring that the foundations of scientific research remain open and accessible to all.
+Understanding how to work with scientific code is essential in the modern landscape of data-driven research. The tools presented in this lesson encompass a diverse array of resources designed to streamline, enhance, and optimize the process of developing, maintaining, and collaborating on code development for scientific research. They enable the creation of robust and efficient code, often leveraging the collective wisdom of the open-source community. In the pursuit of reproducibility and transparency, these tools can also facilitate the sharing and dissemination of scientific code, fostering collaboration and ensuring that the foundations of scientific research remain open and accessible to all.
 
 ### Historical Precedent for Making Code Open: Linux Operating System
 
@@ -48,51 +46,57 @@ Is the idea of writing code openly a new concept? No!
 
 Version control is the practice of tracking and managing changes made to code or other types of files. You may be familiar with “Track changes” in software like Microsoft Word. This is a form of version control, though not one well-suited to working with code. Version control is considered standard practice in the software development community, and simplifies management of code through time.
 
-The general way we use version control starts by initializing a folder on your computing platform with the version control system you are using. A version control system automatically tracks all changes made by contributors and allows you to work offline and return later with updates. You write code as you usually do in your code editor of choice. 
-
-After you have written some code or made some updates to existing code, you then commit those changes to the version control system to create a sort of "checkpoint" that you can then revert back to later if necessary. Then you add or update more code, and commit changes again. Each commit requires you to add a short message which lets you briefly describe what changes were made. These messages serve as metadata that ensures collaborators, future users, and future you understand your development process at a point in time.
+The general way we use version control starts by initializing a folder on your computing platform with the version control system you are using. A version control system automatically tracks all changes made by contributors and allows you to work offline and return later with updates. You write code as you usually do in your code editor of choice. After you have written some code or made some updates to existing code, you then commit those changes to the version control system to create a sort of "checkpoint" that you can then revert back to later if necessary. Then you add or update more code, and commit changes again. Each commit requires you to add a short message which lets you briefly describe what changes were made. These messages serve as metadata that ensures collaborators, future users, and future you understand your development process at a point in time.
 
 This may sound like a simple process, and in many ways it is! So why is it so important? Especially when it comes to coding, the ability to create a snapshot in time of a piece of code can be very helpful. For instance, you may have a piece of code that yields the intended result, but then you want to add a new function. You may choose to copy that code file so you don’t lose the current state, and then work in a new file. This can become cumbersome pretty quickly when you have multiple files that are different versions of the same piece of code. Or instead of creating a new file, you may write code for the new function directly in the original file, but now the code throws errors when you try to run it, and you can’t remember which lines you added since the last time the code ran without errors. By using version control, these problems are solved because we can revert back to the checkpoint when the code ran cleanly, and thereby avoid the need to create multiple copies to save the original piece of code.
 
-There are many other features of version control systems, such as the concept of creating “branches” that allow you to work on new updates to a piece of code independently from and in parallel to the original piece of code. A branch is a deviation from the original code, but can be merged back into the original code when desired. All of these concepts are even more useful when collaborating with others using version control platforms, a collaborative practice that will be discussed later in this lesson.
+There are many other features of version control systems, such as the concept of creating "branches" that allow you to work on new updates to a piece of code independently from and in parallel to the original piece of code. A branch is a deviation from the original code, but can be merged back into the original code when desired. All of these concepts are even more useful when collaborating with others using version control platforms, a collaborative practice that will be discussed later in this lesson.
 
 ### Types of Software Version Control
 
 There are two main styles of software version control systems:
 
 <table>
-  <colgroup>
-    <col style="width: 49%" />
-    <col style="width: 50%" />
-  </colgroup>
   <thead>
-    <tr class="header">
-      <th><strong>CENTRALIZED</strong></th>
-      <th><strong>DISTRIBUTED (MORE POPULAR)</strong></th>
+    <tr>
+        <th>CENTRALIZED &#9745;</th>
+        <th>DISTRIBUTED (MORE POPULAR)</th>
     </tr>
   </thead>
   <tbody>
-    <tr class="odd">
-      <td>
-        <ul>
-        <li>Singular "main" copy of the codebase</li>
-        <li>Must interact with specific server</li>
-        <li>Example: Subversion (SVN)</li>
-        </ul>
-      </td>
-      <td>
-        Control:<br>
-        Each developer’s system can retain a copy of the codebase<br>
-        Examples:<br>
-        <ul>
-        <li>Git</li>
-        <li>Mercurial</li>
-        </ul>
-      </td>
+    <tr>
+        <td colspan="2">
+            <ul>
+              <li>Singular "main" copy of the codebase</li>
+              <li>Must interact with specific server</li>
+              <li>Example: Subversion (SVN)</li>
+            </ul>
+        </td>
     </tr>
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+        <th>CENTRALIZED</th>
+        <th>DISTRIBUTED (MORE POPULAR) &#9745;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="2">
+            <p>Control:</p>
+            <p>Each developer’s system can retain a copy of the codebase<br>
+            Examples:</p>
+            <ul>
+              <li>Git</li>
+              <li>Mercurial</li>
+            </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
 Using a distributed version control system like Git gives you more flexibility.
 
@@ -182,14 +186,14 @@ All of these features excel at enabling asynchronous collaboration across teams.
 -  [How to Use Git and GitHub – Introduction for Beginners (freecodecamp.org)](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
 -  [Getting Started with GitHub — Pythia Foundations (projectpythia.org)](https://foundations.projectpythia.org/foundations/getting-started-github.html)
 
-Cite Project Pythia: [https://foundations.projectpythia.org/preamble/how-to-cite.html](https://foundations.projectpythia.org/preamble/how-to-cite.html)
+[Cite Project Pythia: [https://foundations.projectpythia.org/preamble/how-to-cite.html](https://foundations.projectpythia.org/preamble/how-to-cite.html)]
 
-### Summary of Beneﬁts to Using Version Control and Version Control Platforms
+### Summary of Benefits to Using Version Control and Version Control Platforms
 
-- Features the ability to rewind changes back to any committed point.
-- Eases collaboration with others.
-- Keeps a directory clean from clutter, with no need for multiple copies of files.
-- Provides a targeted backup system for your work.
+- Features the ability to rewind changes back to any committed point
+- Eases collaboration with others
+- Keeps a directory clean from clutter, with no need for multiple copies of files
+- Provides a targeted backup system for your work
 
 ## Tools for Editing Code
 
@@ -262,7 +266,7 @@ The most popular IDE these days, Microsoft’s Visual Studio Code (or VS Code) i
 
 <img src="../images/media/image34.png" style="width:100%;height:auto;" />
 
-- It has a “dark mode” option which is easier on the eyes for long coding sessions.
+- It has a "dark mode" option which is easier on the eyes for long coding sessions.
 - It provides the basics such as syntax highlighting and an integrated terminal window.
 - It also has a wealth of plugins for connecting to servers, version control systems, and troubleshooting. It has several linter plugins, which can analyze your code for bugs, errors, and to help your team code in a consistent "style". This eases code maintenance down the road.
 - If your line of code has an obvious error in it, the IDE will produce a red squiggle, just as if you’ve spelled something wrong in a Word Document.
@@ -342,11 +346,13 @@ We will use Jupyter Notebook as an example of a computational notebook and discu
 
 This screenshot shows an example of a Jupyter Notebook that integrates rich text (with headers and links), equations, code, and the interactive output from those lines of code, including a plot. This screenshot makes it clear why this is called a computational notebook - it resembles a lab notebook that you may have written out by hand in school.
 
- <img src="../images/media/image38.png" style="width:100%;height:auto;" />
+<img src="../images/media/image38.png" style="width:100%;height:auto;" />
 
- [Project Jupyter \| Home](https://jupyter.org/)
+[Project Jupyter \| Home](https://jupyter.org/)
 
-Many programming languages are supported by Jupyter. Fun fact: the name “Jupyter” refers to the three core languages supported by Jupyter: Julia, Python, and R.
+---
+
+Many programming languages are supported by Jupyter. Fun fact: the name "Jupyter" refers to the three core languages supported by Jupyter: Julia, Python, and R.
 
  JupyterLab is a browser-based interactive development environment that supports Jupyter Notebooks, and is designed in a more flexible environment that allows for many useful features. One of these features is Git integration, as we saw for other IDEs like Visual Studio Code.
 
@@ -368,6 +374,8 @@ In this activity, you will run pre-written Python code in a Jupyter Notebook fro
 
 Source:  [https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
 
+---
+
 Follow These Steps:
 
 1.  Navigate to the “[Calculating ENSO with Xarray](https://foundations.projectpythia.org/core/xarray/enso-xarray.html)” lesson
@@ -376,11 +384,9 @@ Follow These Steps:
 3.  After the Notebook loads, you should see something like the following. Note – this actually uses the JupyterLab view!
 ![](../images/media/calculatingenso2.jpg)
 4.  You can take a little time to breeze through the text and code in the Notebook, but keep in mind that this lesson assumes a lot of prior knowledge, so it’s ok if you don’t understand everything. You can still appreciate the nice plots you’re about to make!
-5.  You are now ready to run the notebook yourself! To do that, you can go to the “Run” menu in the upper left of the JupyterLab window and choose “Run All Cells”:
+5.  You are now ready to run the notebook yourself! To do that, you can go to the "Run" menu in the upper left of the JupyterLab window and choose "Run All Cells":
 ![](../images/media/calculatingenso3.jpg)
-6.  This should only take a few seconds, and if you scroll down, you can view a couple nice visualizations that you just created:
-
-*Use the "\<" and "\>" buttons to navigate between the images.*
+6.  This should only take a few seconds, and if you scroll down, you can view a couple nice visualizations that you just created:<br>*Use the "\<" and "\>" buttons to navigate between the images.*
 
 ![](../images/media/calculatingenso4.jpg)
 
@@ -392,14 +398,14 @@ You can peruse more of the Project Pythia Python learning resources via their [F
 
 ### Computing Platforms
 
- We use the term “computing platform” to refer to the computational machine used to run code. There are many different computing platforms that you can choose, each having their own pros and cons. Here is an overview of three computing options:
+ We use the term "computing platform" to refer to the computational machine used to run code. There are many different computing platforms that you can choose, each having their own pros and cons. Here is an overview of three computing options:
 
 #### Personal Computer (e.g. a laptop)
 
 Pros:
--  Convenient 
-- Can run computations when and where you choose - Can tailor the software environment to be exactly what you need 
-- Don’t have to share your computing resources
+- Convenient - Can run computations when and where you choose 
+- Can tailor the software environment to be exactly what you need 
+- Don't have to share your computing resources
 
 Cons:
 - Has limited computational power 
@@ -411,23 +417,21 @@ Pros:
 - High computational power
 
 Cons:
-- Typically owned and run by a particular institution 
-- may need to be affiliated with that institution to gain access to their HPC
+- Typically owned and run by a particular institution - may need to be affiliated with that institution to gain access to their HPC
 - May have to wait significant amounts of time to run your code, since they are typically shared across many people and groups
 - Need significant funds to build an HPC
 
 #### Cloud Computing
 
 Pros:
-- Extremely high computational power Minimal wait times to run code
+- Extremely high computational power 
+- Minimal wait times to run code
 - Typically accessible to anyone with an internet connection
-- On-demand pricing options 
-- You only have to pay for what you use
+- On-demand pricing options - You only have to pay for what you use
 
 Cons:
 - High cost per computation
-- Lack of transparency in costs 
-- E.g. it can cost significant amounts to read in data from different Cloud regions, but may not always be clear which region your data and compute are in
+- Lack of transparency in costs - E.g. it can cost significant amounts to read in data from different Cloud regions, but may not always be clear which region your data and compute are in
 - May require some extra knowledge in how Cloud computing works
 
  Examples of Cloud providers: 
@@ -435,7 +439,7 @@ Cons:
  - Google Cloud
  - Microsoft Azure
 
-Many data providers, especially of large datasets, are migrating their data to the Cloud to increase accessibility and to make use of the large storage capacity that the Cloud provides. For instance, NASA Earthdata (which houses all NASA Earth science data) is now using AWS to store the majority of its data. Many Cloud providers also have a number of publicly available datasets, including  [ Google Cloud and ](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items) [ AWS](https://registry.opendata.aws/)[.](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items)
+Many data providers, especially of large datasets, are migrating their data to the Cloud to increase accessibility and to make use of the large storage capacity that the Cloud provides. For instance, NASA Earthdata (which houses all NASA Earth science data) is now using AWS to store the majority of its data. Many Cloud providers also have a number of publicly available datasets, including  [Google Cloud](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items) and [AWS](https://registry.opendata.aws/)[.](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items)
 
  When choosing a computing platform, it is important to consider where your datasets are saved and how big the datasets are. For instance, when working with small datasets, it is often preferable to use a personal computer since data download will take minimal time and large computing resources likely aren’t needed. When working with large datasets, however, it is best to minimize the amount of downloading and uploading data that is needed, as this can take significant amounts of time and internet bandwidth. If your large datasets are stored on the Cloud already, it is typically best to use Cloud resources for the computation as well, and likewise for HPC use.
 
@@ -454,25 +458,51 @@ Conversely, a software archive is static storage where stable and thoroughly tes
 
 Git/GitHub and Bitbucket are popular choices for software repositories.
 
-#### Repository
-- Is a location for sharing code.
-- Often use version control systems like Git, Mercurial, and Subversion to track changes
-- Typically contains the latest development version (sometimes called the "master" or "trunk") of a software project, which can be actively worked on by developers.
-- Used for collaborative software development and code sharing among a team or a community of developers.
+<table>
+  <thead>
+    <tr>
+        <th>Repository &#9745;</th>
+        <th>Archive</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="2">
+            <ul>
+              <li>Is a location for sharing code.</li>
+              <li>Often use version control systems like Git, Mercurial, and Subversion to track changes</li>
+              <li>Typically contains the latest development version (sometimes called the "master" or "trunk") of a software project, which can be actively worked on by developers.</li>
+              <li>Used for collaborative software development and code sharing among a team or a community of developers.</li>
+            </ul>
+            <p><strong>Important note:</strong> A repository is nothing more than a place for hosting code. These days, a version control system and a repository are often one and the same thing. It is important to understand the distinction. However, some websites are purely dropboxes for code executables or zip files of source code.</p>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-**Important note:** A repository is nothing more than a place for hosting code. These days, a version control system and a repository are often one and the same thing. It is important to understand the distinction. However, some websites are purely dropboxes for code executables or zip files of source code.
-
-#### Archive
-- Often used for distribution and long-term preservation of software.
-- A storage system that contains specific, stable releases or versions of software, compiled binary packages, or source code releases.
-- Users typically download software from an archive to install and use it on their systems.
-
----
+<table>
+  <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Archive &#9745;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="2">
+            <ul>
+              <li>Often used for distribution and long-term preservation of software.</li>
+              <li>A storage system that contains specific, stable releases or versions of software, compiled binary packages, or source code releases.</li>
+              <li>Users typically download software from an archive to install and use it on their systems.</li>
+            </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
 **Containers**
-- A software container is a standalone, and executable package that includes everything needed to run a piece of software, including the code, runtime, system tools, environment settings, and libraries.
-- Containers are isolated environments that hold the application as well as anything needed to run the application, ensuring consistency and portability across different computing environments. 
-- A container is a helpful tool that can provide efficiency, scalability, and ease of deployment. Some examples of widely utilized container tools are Kubernetes, Docker, and Apache Mesos.
+
+A software container is a standalone, and executable package that includes everything needed to run a piece of software, including the code, runtime, system tools, environment settings, and libraries. Containers are isolated environments that hold the application as well as anything needed to run the application, ensuring consistency and portability across different computing environments. A container is a helpful tool that can provide efficiency, scalability, and ease of deployment. Some examples of widely utilized container tools are Kubernetes, Docker, and Apache Mesos.
 
 ### Activity 4.2: Match Tools
 
