@@ -9,9 +9,7 @@
 
 ## Overview
 
-The ability to discern when and how to share information in an appropriate manner is an essential skill of open science.
-
-Practitioners of open science must balance their pursuit to maximize openness while respecting diverse cultures, maintaining security and privacy, and following institutional policies and practices.
+The ability to discern when and how to share information in an appropriate manner is an essential skill of open science. Practitioners of open science must balance their pursuit to maximize openness while respecting diverse cultures, maintaining security and privacy, and following institutional policies and practices.
 
 This lesson introduces important security and privacy considerations for scientists when sharing information. Next, the lesson discusses how sharing information may impact different communities. Following this, the lesson explains the topic of intellectual property, how it can be protected, and the different types of licenses available to facilitate sharing while ensuring the owner of the information receives credit for their work. Lastly, this covers the effect of rules and regulations set by an organization, grant, or publisher on a scientist's options to make their research open access.
 
@@ -29,13 +27,13 @@ The following paragraphs of this section outline key areas of consideration for 
 
 Previous lessons have showcased a broad range of open science success stories, but we recognize that there are still plenty of valid concerns and unexplored challenges to implementing open science. Open science demands the valuable but complex practices of respecting diverse cultures, maintaining security, and protecting privacy. This lesson presents a strategic approach to making decisions about doing open science in common scenarios. For those scenarios that we cannot foresee, this lesson offers mitigation strategies to help overcome unique challenges with mindful preparation and community support.
 
-**Scenario: A Country’s Military Secrets or Violates National Interests** When the release of data or research can lead to national security concerns, there are added restrictions around sharing this information. In the U.S., sharing of this type of information often falls under International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR) export control regulations.
+**Scenario: A Country’s Military Secrets or Violates National Interests** 
 
-Sharing ITAR/EAR-regulated data, equipment, resources, or research without clearance to do so can put the country’s national security at risk and may bring about both severe criminal and administrative penalties.
+When the release of data or research can lead to national security concerns, there are added restrictions around sharing this information. In the U.S., sharing of this type of information often falls under International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR) export control regulations. Sharing ITAR/EAR-regulated data, equipment, resources, or research without clearance to do so can put the country's national security at risk and may bring about both severe criminal and administrative penalties.
 
 **Human Patient Privacy**
 
-*NASA has collected human spaceflight biomedical data since the start of Apollo…*
+*NASA has collected human spaceflight biomedical data since the start of Apollo...*
 
 <img src="../images/media/image259.jpg" style="width: 100%; height: auto;" />
 
@@ -43,7 +41,7 @@ Sharing ITAR/EAR-regulated data, equipment, resources, or research without clear
 
 In the U.S., health data is protected under the Health Insurance Portability and Accountability Act of 1996 (US-HIPAA) and it is not allowed to be shared without expressed written consent by the patient. As such, health information about astronauts is something NASA protects carefully, working to balance the publicity of the job with regulations and best practices for medical privacy while also enabling peer-reviewed biomedical research.
 
-See this example and more at NASA's <a href=https://osdr.nasa.gov/bio/repo/data/studies/OSD-530/>Open Science Data Repository</a>.
+See this example and more at NASA's [Open Science Data Repository](https://osdr.nasa.gov/bio/repo/data/studies/OSD-530/).
 
 **Respecting Diverse Cultures** 
 
@@ -57,7 +55,7 @@ When considering the impacts of data sharing, it is important to recognize if th
 
 Another [example](https://www.theguardian.com/us-news/2023/feb/23/lidar-technology-archeology-radical-thinking) of how data can inadvertently impact vulnerable communities is the use of LiDAR by archaeologists to study remote areas. This type of data has the potential to reveal unprotected vulnerable indigenous sites in need of protection.
 
-<img src="../images/media/image352.png" style="width: 150px; height: auto;" /> <img src="../images/media/image347.png" style="width: 150px; height: auto;" />
+<img src="../images/media/image352.png" style="width: 49%; height: auto;" /> <img src="../images/media/image347.png" style="width: 49%; height: auto;" />
 
 **CARE Principles**
 
@@ -123,7 +121,7 @@ Understanding these questions is important to practicing open science and ensuri
 
 Worrying about intellectual property and copyright can seem like an unnecessary detail early on. However, anticipating changes to your situation by ensuring permanent ownership of your work in the planning phase of your research can help you avoid legal and institutional issues later on.
 
-If you submit your manuscript to a publisher that requires that they own the copyright of the work, will you be able to access that paper when you change jobs and no longer have a subscription to that work? Are you able to meet the mandates of your funding agency to openly share your work? Can you reuse the figures that you made in derivative works? Will others be able to access your work? While these may seem like questions you shouldn’t have to worry about, it can become very difficult to deal with after the fact.
+If you submit your manuscript to a publisher that requires that they own the copyright of the work, will you be able to access that paper when you change jobs and no longer have a subscription to that work? Are you able to meet the mandates of your funding agency to openly share your work? Can you reuse the figures that you made in derivative works? Will others be able to access your work? While these may seem like questions you shouldn't have to worry about, it can become very difficult to deal with after the fact.
 
 Example: In scenarios where seeking consent before sharing (or changing sharing conditions), it can be complex to implement the changes. Biopython, an open source biology toolkit, started re- licensing their code in 2016, and [are still working on it in 2023, individual contributor by individual contributor.](https://github.com/biopython/biopython/issues/898)
 
@@ -133,21 +131,25 @@ Example: In scenarios where seeking consent before sharing (or changing sharing 
 
 Licensing is a way to help to allow others to reuse your work legally. It is a way to specify under what conditions, if any, others can use, build upon, or distribute your work. It is also a method to ensure that your work is appropriately credited. It is generally illegal and may be a form of academic misconduct to reuse content without a license, even if the content can be found on the internet. This law protects content creators, just as it protects your work from being used by others without clear permission. Thankfully, it’s easy to allow others to re-use your work.
 
----
+<img style="width:100%;height:auto;" src="../images/media/knowledgebasequote.jpg">
 
 "By applying a license to your work, you make clear what others can do with the things you're sharing, and also establish the conditions under which you're providing them (such as cite you)."
 
-\- Open Science Knowledge Base
+**Open Science Knowledge Base**
 
 ---
 
 <img src="../images/media/image328.jpg" style="width: 350px; height: auto;" />
 
-Image credit: XKCD: CC BY-NC 2.5 DEEX <u>h</u> [<u>ttps://xkcd.com/14/</u>](https://xkcd.com/14/)
+Image credit: XKCD: CC BY-NC 2.5 DEEX 
 
-If you don't license your work, others can’t/shouldn’t re-use it – even if you want them to.
+[https://xkcd.com/14/](https://xkcd.com/14/)
 
-Licenses can be applied to data, code, and reports, or publications, and almost any other “creative” output. There are also several different types of licenses and also the case where no license need to apply:
+---
+
+If you don't license your work, others can't/shouldn't re-use it – even if you want them to.
+
+Licenses can be applied to data, code, and reports, or publications, and almost any other "creative" output. There are also several different types of licenses and also the case where no license need to apply:
 
 <table>
   <thead>
@@ -302,7 +304,7 @@ It is important to plan for the release of your data and results from the very b
 
 ### Sharing Controlled Research
 
-As we’ve previously shown, different kinds of intellectual property are released using different formal structures. For example, text and media products are released under copyright and software is released under a license.
+As we've previously shown, different kinds of intellectual property are released using different formal structures. For example, text and media products are released under copyright and software is released under a license.
 
 It is important to check with specialist communities when preparing your research plan. Methods for sharing results may follow different standards of practice or may require a special data format for distribution or submission to common repositories.
 
@@ -386,7 +388,7 @@ Universities and other institutions may have OSPOs (Open Source Policy Office) o
 
 It is important to think about what policies may affect your research outputs as early as possible so that when you want to share information, you have either already obtained approvals or know where to go to get approvals to share. This ensures that you don’t inadvertently share (or fail to share) something that could affect your career, negatively impact others, or pose legal issues.
 
-**Remember:** You can’t unshare something that is already shared! Equally, if your research requires ethical approval or consent to share, this may be harder to gain after you’ve done your study.
+**Remember:** You can't unshare something that is already shared! Equally, if your research requires ethical approval or consent to share, this may be harder to gain after you’ve done your study.
 
 This also helps structure your research, data, and methods in a way that makes it easier for you to share when the time comes.
 
