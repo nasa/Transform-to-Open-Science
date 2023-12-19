@@ -26,7 +26,7 @@ After completing this lesson, you should be able to:
 
 Open data isn't always simple to use in your research. Sometimes there are multiple versions of the same dataset, so learning how to discover and assess and then use open data will help you save time.
 
-As an example, look at the monthly average carbon dioxide data from Mauna Loa Observatory in Hawaii. This is a foundational dataset for climate change. Not only is it one of the first observational datasets that clearly showed anthropogenic impacts on the Earth’s atmosphere, it constitutes the longest record of direct measurements of carbon dioxide in the atmosphere. These observations were started by C. David Keeling of the Scripps Institution of Oceanography in March of 1958 at a facility of the National Oceanic and Atmospheric Administration \[Keeling, 1976\].
+As an example, look at the monthly average carbon dioxide data from Mauna Loa Observatory in Hawaii. This is a foundational dataset for climate change. Not only is it one of the first observational datasets that clearly showed anthropogenic impacts on the Earth's atmosphere, it constitutes the longest record of direct measurements of carbon dioxide in the atmosphere. These observations were started by C. David Keeling of the Scripps Institution of Oceanography in March of 1958 at a facility of the National Oceanic and Atmospheric Administration \[Keeling, 1976\].
 
 <img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />
 
@@ -200,9 +200,9 @@ Note that some of our example search portals are also repositories, but not alwa
     <tr>
         <td colspan="4">
             <p>Specialized repositories (typically for specific data subject matter) provide support and information on required standards for metadata and more.</p>
-            <p>Some examples are: Astronomy:</p>
+            <p>Some examples are:</p>
             <ul>
-                <li><a href="https://archive.stsci.edu/">Hubble data</a></li>
+                <li>Astronomy: <a href="https://archive.stsci.edu/">Hubble data</a></li>
                 <li>Space Biology: <a href="https://genelab.nasa.gov/">NASA GeneLab: Open Science for Life in Space</a></li>
                 <li><a href="https://heliophysicsdata.gsfc.nasa.gov/websearch/dispatcher">Space Physics: Heliophysics Data Portal- Solar Space Physics Product Finder (nasa.gov)</a></li>
             </ul>
@@ -241,7 +241,8 @@ Note that some of our example search portals are also repositories, but not alwa
   <tbody>
     <tr>
         <td colspan="4">
-            <p>National repositories aggregate data and make it available to the public. Data stored in these repositories are often produced by the government.</p>
+            <p>National repositories aggregate data and make it available to the public.</p>
+            <p>Data stored in these repositories are often produced by the government.</p>
             <p>Examples include:</p>
             <ul>
                 <li><a href="https://data.gov/">https://data.gov/</a></li>
@@ -292,18 +293,20 @@ Using open data for your project is contingent on a number of factors including 
 - Is the data available in a format appropriate for the content? 
 - Is the data available from a consistent location?
 - Is the data well-structured and machine readable?
-- Are complex terms and acronyms in the data defined? Does the data use a schema or data standard?
+- Are complex terms and acronyms in the data defined? 
+- Does the data use a schema or data standard?
 - Is there an API available for accessing the data? 
 - What tools or software are needed to use this data?
 
 **Social Questions**
 
 - Is there an existing community of users of the data?
-- Is the data already relied upon by large numbers of people? Is the data officially supported?
+- Is the data already relied upon by large numbers of people? 
+- Is the data officially supported?
 - Are service level agreements available for the data?
 - It is clear who maintains and can be contacted about the data?
 
-[\[cite: https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance) 2 [.2-quality-and-provenance\]](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)
+[[cite: https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)]
 
 Many of these questions may be answered by viewing a dataset’s documentation and metadata, as well as a data’s format and license, all of which will be discussed further in the next lesson "Making Data Open".
 
@@ -345,6 +348,7 @@ Matthew Rodell and Hiroko Kato Beaudoing, NASA/GSFC/HSL (08.16.2007), GLDAS CLM 
 **Example from NASA Planetary Data System (PDS)**
 
 Justin N. Maki. (2004). MER 1 MARS MICROSCOPIC IMAGER RADIOMETRIC
+
 RDR OPS V1.0 [Data set]. NASA Planetary Data System. [https://doi.org/10.17189/1520416](https://doi.org/10.17189/1520416)
 
 ## Lesson 2: Summary
@@ -381,7 +385,7 @@ Which of the following is/are questions to consider when assessing if a dataset 
 - Is there an existing community of users of the data?
 - What tools or software are needed to use this data?
 - Will the data be updated regularly?
-- Is the publisher’s use for the data clear?
+- Is the publisher's use for the data clear?
 - All of the above
 
 *Question*
