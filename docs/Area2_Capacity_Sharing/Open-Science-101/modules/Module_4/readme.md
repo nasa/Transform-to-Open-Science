@@ -1,4 +1,4 @@
-# Open Science 101: Open Code (November, 2023)
+# OS101 Module 4: Open Code
 
 **WELCOME TO OPEN SCIENCE 101: OPEN CODE**
 
@@ -6,7 +6,7 @@
 
 ### Open Code
 
-This module focuses on the practice and application of open code as part of the open science workflow. It provides a 'how to' process that follows the code development lifecycle and “Use, Make, Share” framework. Some of the key topics discussed include: benefits and limitations of open code, how to discover and assess code, considerations and methods for programming following open principles, and finally when and how to share your code.
+This module focuses on the practice and application of open code as part of the open science workflow. It provides a 'how to' process that follows the code development lifecycle and "Use, Make, Share" framework. Some of the key topics discussed include: benefits and limitations of open code, how to discover and assess code, considerations and methods for programming following open principles, and finally when and how to share your code.
 
 ### Module Learning Objectives
 
@@ -20,7 +20,7 @@ After completing this module, you should be able to:
 
 ## Key Terms
 
-These key terms are important topics for this module. Select the term to see the description.
+Select the term to see the description.
 
 **Source Code** – Human-readable set of statements written in a programming language that together compose software. Programmers write software in source code, often saved as a text file on a computer. The terms code and source code are often used interchangeably.
 

@@ -13,7 +13,7 @@
 
 ## Overview
 
-This lesson defines the key terms, core principles, benefits, and challenges of open code. The practice of making code openly available to the public occurs within a spectrum from more to less protected. Ethical and legal conditions can limit the degree of openness that researchers can permit. This lesson will introduce the critical questions to consider when determining the appropriate accessibility of code to external users along with best practices to overcome common constraints to maximize availability. The lesson concludes with a discussion on the software lifecycle and how it fits with the “Use, Make, Share” framework and its relationship to a management plan.
+This lesson defines the key terms, core principles, benefits, and challenges of open code. The practice of making code openly available to the public occurs within a spectrum from more to less protected. Ethical and legal conditions can limit the degree of openness that researchers can permit. This lesson will introduce the critical questions to consider when determining the appropriate accessibility of code to external users along with best practices to overcome common constraints to maximize availability. The lesson concludes with a discussion on the software lifecycle and how it fits with the "Use, Make, Share" framework and its relationship to a management plan.
 
 ## Learning Objectives
 
@@ -27,21 +27,17 @@ After completing this lesson, you should be able to:
 
 Why does good science demand that researchers make their code open-access? Sharing your code (and data) makes it easier for others to reproduce your results, helping to validate findings and reduce resources required to duplicate experiments. As a bonus, this decision can lead to new collaborations made possible through a shared dataset and common understanding of scientific material.
 
-Many journals and funding agencies require that you share your code at the time of publication. However, the prospect of opening code up to criticism, not receiving attribution, or missing out on a result that external researchers discover can deter scientists from making their code open-access.
-
-What if people find an error? What if they criticize your coding style? What if they take your code and publish a new result without including you? This module will help you gain confidence in sharing your code by walking you through the basic details to consider when practicing open-science.
+Many journals and funding agencies require that you share your code at the time of publication. However, the prospect of opening code up to criticism, not receiving attribution, or missing out on a result that external researchers discover can deter scientists from making their code open-access. What if people find an error? What if they criticize your coding style? What if they take your code and publish a new result without including you? This module will help you gain confidence in sharing your code by walking you through the basic details to consider when practicing open-science.
 
 Let's review some well-known examples of groups that shared their code and what the impacts were:
 
-Let's review some well-known examples of groups that shared their code and what the impacts were.
-
 Use buttons to navigate between the examples.
 
-<img src="../images/media/image394.jpg" style="width:5.72465in;height:2.65937in" />
+<img src="../images/media/image394.jpg" style="width:350px;height:auto;" />
 
-The first image of a black hole would not have been possible in this decade if all the required code had to be written solely by the scientists involved. These scientists were able to use well-tested, community accepted open-source software to conduct their analysis and create this now famous image. Dr. Katie Bouman and her team commended the critical role that open-source contributors played in her team’s effort to image the first black hole. This breakthrough was made possible by open-source libraries that provided robust and freely available code. The code used to capture this image was crafted by 21,485 contributors. Sophisticated iterative data processing pipelines and algorithms used by Dr. Bouman’s team were community developed and tested, making robust and reproducible science possible without having to rewrite every piece of software needed.
+The first image of a black hole would not have been possible in this decade if all the required code had to be written solely by the scientists involved. These scientists were able to use well-tested, community accepted open-source software to conduct their analysis and create this now famous image. Dr. Katie Bouman and her team commended the critical role that open-source contributors played in her team's effort to image the first black hole. This breakthrough was made possible by open-source libraries that provided robust and freely available code. The code used to capture this image was crafted by 21,485 contributors. Sophisticated iterative data processing pipelines and algorithms used by Dr. Bouman's team were community developed and tested, making robust and reproducible science possible without having to rewrite every piece of software needed.
 
-<img src="../images/media/image553.png" style="width:5.726in;height:2.66in" />
+<img src="../images/media/image553.png" style="width:350px;height:auto;" />
 
 This is the Ingenuity helicopter, or as the engineers call her, Ginny. She got to Mars by hitching a ride on the Perseverance rover, landing in the Jezero Crater in 2021.
 
@@ -51,23 +47,23 @@ But Ginny's achievements also reflect another new era; one of truly open and inc
 
 Behind that 4-pound helicopter are more than 12,000 people who contributed code, documentation, design, and more thanks to the open-source software which was used to power her. Everyone who contributed to the open-source software libraries that Ginny used received a badge on their GitHub page that showed they helped fly the first helicopter on Mars.
 
-In addition, Ginny’s final software developed at the Jet Propulsion Lab, called F prime, was itself open-source and has been used since in flight research, drones, and CubeSats. In fact, F prime had been copied to other people’s repositories more than 1,200 times.
+In addition, Ginny's final software developed at the Jet Propulsion Lab, called F prime, was itself open-source and has been used since in flight research, drones, and CubeSats. In fact, F prime had been copied to other people's repositories more than 1,200 times.
 
-<img src="../images/media/image408.jpg" style="width:5.72129in;height:2.65781in" />
+<img src="../images/media/image408.jpg" style="width:350px;height:auto;" />
 
-Most space telescope data is embargoed for 12 months with only the lead scientist and their selected team allowed to work with the data. In a unique case, a small portion of data from NASA’s new James Webb Space Telescope (JWST) offered an early-release program. This JWST data was made available immediately.
+Most space telescope data is embargoed for 12 months with only the lead scientist and their selected team allowed to work with the data. In a unique case, a small portion of data from NASA's new James Webb Space Telescope (JWST) offered an early-release program. This JWST data was made available immediately.
 
 How scary is that? To know that everyone you know is going to have access at the exact same time. The anxiety and stress of feeling as if you don’t publish first, you might not have a job, or you might not have the next job that you want.
 
 In one case, a team decided to work fully in the open and collaborate with this early- release data. The result? 20+ planned papers and the first discovery of carbon dioxide on another planet - hinting at the possibility of discovering new life.
 
-Co-author Dr. Natasha Batalha employed open science principles to enable this rapid discovery using the new JWST data. In the years leading up to the JWST release, Dr. Batalha’s team formed a collaborative group of 341 members. Once JWST data was made public, the data reduction and scientific interpretation could be reproduced through open software then archived. The research team’s first article was made available as open- access on an archived preprint server and published in Nature.
+Co-author Dr. Natasha Batalha employed open science principles to enable this rapid discovery using the new JWST data. In the years leading up to the JWST release, Dr. Batalha's team formed a collaborative group of 341 members. Once JWST data was made public, the data reduction and scientific interpretation could be reproduced through open software then archived. The research team’s first article was made available as open- access on an archived preprint server and published in Nature.
 
 Notably, Dr. Batalha's team published the first identification of CO2 in an exoplanet’s atmosphere from spectra taken with JWST. This was conducted with JWST’s Early Release Science Program data, the first science data taken by the facility. The team worked in an open-format from ideation, to analysis, through to publication and communication.
 
 This example illustrates the benefits of applying open science principles to rapidly produce meaningful research. The team worked in an open format from ideation, to analysis, through to publication and communication.
 
-<img src="../images/media/image168.jpg" style="width:5.72734in;height:2.475in" />
+<img src="../images/media/image168.jpg" style="width:350px;height:auto;" />
 
 New open-source sets of climate models incorporate features that aim to make climate research more collaborative, efficient and reliable.
 
@@ -77,7 +73,9 @@ Although the Isca model was initially used to examine the tropical upper atmosph
 
 New research across all of these fields was possible within only one year of the Isca’s first publication. This is how we want all of science to work!
 
-[Credit: https://theconversation.com/making-climate-models-open-source-makes-them-even-more-useful-90929](https://theconversation.com/making-climate-models-open-source-makes-them-even-more-useful-90929)
+Credit: 
+
+[https://theconversation.com/making-climate-models-open-source-makes-them-even-more-useful-90929](https://theconversation.com/making-climate-models-open-source-makes-them-even-more-useful-90929)
 
 ## Definitions and Considerations of Open Code
 
@@ -85,13 +83,13 @@ All science builds on what has already been accomplished. Code is no different. 
 
 Understanding how to find and use others' code, create your own, and share it is an important part of advancing open science. Just like good data management practices, knowing some of the details about how to share it will not only help you use it later, but also help others understand how to use and cite it so you get credit!
 
-<img src="../images/media/image247.jpg" style="width:6.29028in;height:3.66917in" />
+<img src="../images/media/image247.jpg" style="width:100%;height:auto;" />
 
-Code example from h[ttps://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb](https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb)
+Code example from [https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb](https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb)
 
 ### What is Code vs Software?
 
-<img src="../images/media/image109.png" style="width:4.57135in;height:3.32906in" />
+<img src="../images/media/image109.png" style="width:350px;height:auto;" />
 
 When we write "software," we are actually writing text code and using an interpreter or compiler to translate it into a program that the machine can run. Code is a language that humans can type and understand. Software is often a collection of programs, data, and other information that a computer system uses to perform specific tasks. An example is a software library, which is a suite of data and programming code that is used to develop software programs and applications.
 
@@ -110,7 +108,9 @@ There are a variety of license choices that can be made for open software which 
 Scientists use and produce a wide variety of different types of software during projects. While many researchers might just use equations in a spreadsheet, others may use open source libraries for advanced machine learning model development and plotting results, while others may contribute to open-source libraries in their field and grow their reputation and impact that way. Here are some examples of different types of software that you might encounter.
 
 **General Purpose Software** – General purpose software is produced for wide use and not specialized scientific purposes. This includes both commercial software and open-source software. Many widely used productivity software packages are open- source success stories:
-- Linux kernel, GNU userspace, and various Linux and UNIX distributions PostgreSQL – open source enterprise-grade database
+
+- Linux kernel, GNU userspace, and various Linux and UNIX distributions 
+- PostgreSQL – open source enterprise-grade database
 - WordPress and Apache web hosting tools
 - Firefox and Chrome
   - Chrome's engine is Chromium which is forked from WebKit which was forked KHTML. This was possible because it had a license that allowed for this type of reuse. All major browsers today except Firefox can be traced back to KHTML.
@@ -118,7 +118,8 @@ Scientists use and produce a wide variety of different types of software during 
   - You can look at the Android source code, but you can't modify it and install it on a device. And even if you could, you couldn't use any of the standard services (e.g. Google Store) with that. So it's "open" in the same sense that last night's lottery numbers are "open".
 
 **Operational Software** – Operational software is used by data centers and large information technology facilities to provide data services. For example:
-[Fprime](https://nasa.github.io/fprime/) – Space mission flight software
+
+- [Fprime](https://nasa.github.io/fprime/) – Space mission flight software
 
 **Infrastructure Software** – Infrastructure software is used by data centers and large information technology facilities to provide data services. Examples include:
 - [Fprime](https://nasa.github.io/fprime/) – Space mission flight software
@@ -131,7 +132,7 @@ Scientists use and produce a wide variety of different types of software during 
 - [scikit-image](https://github.com/scikit-image/) – Image processing algorithms in python
 - [deal.II](https://github.com/dealii/dealii) – Library of algorithms to solve partial differential equations with finite elements
 
-Modeling and Simulation Software – Modeling and Simulation Software either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data. They often use libraries.
+**Modeling and Simulation Software** – Modeling and Simulation Software either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data. They often use libraries.
 Examples include: first-principles models, data-assimilation tools, empirical models, machine learning, mission planning and engineering tools, among others.
 - [OpenFOAM](https://github.com/OpenFOAM) – Computational fluid dynamics software
 - [MOM6](https://github.com/mom-ocean/MOM6) – General ocean circulation model
@@ -140,12 +141,12 @@ Examples include: first-principles models, data-assimilation tools, empirical mo
 propagation (e.g., OpenGGCM, MESA)
 
 **Analysis Software** - Analysis software is developed to manipulate measurements or model results to visualize or gain understanding. This software often evolves from single-use utility software and may incorporate libraries.
-- [P hotutils](https://photutils.readthedocs.io/en/stable/index.html) – tools for detecting and performing photometry of astronomical sources
+- [Photutils](https://photutils.readthedocs.io/en/stable/index.html) – tools for detecting and performing photometry of astronomical sources
 
 **Single-Use Utility Software** – Single-use utility software is written for use in unique instances, such as making a plot for a paper, or manipulating data in a specific way. This code often uses libraries for analysis, plotting, or reading data. This software is the most common type that gets included into Open Science and Data Management Plans (OSDMP), which we will talk about shortly. Examples include:
-- [Angus et al. 2019 – Fitting a gyro relation to Praesepe](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A/abstract)
-- [Webb telescope spots CO2 on exoplanet for the first time: what it means for finding] alien life(https://www.nature.com/articles/d41586-022-02350-2). All the data and models presented in this publication can be found [here](https://doi.org/10.5281/zenodo.6959427).
-- Constraining the increased frequency of global precipitation extremes under warming 
+- [Angus et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A/abstract) – [Fitting a gyro relation to Praesepe](https://github.com/RuthAngus/stardate/blob/master/paper/code/Fitting_Praesepe.ipynb)
+- [Webb telescope spots CO2 on exoplanet for the first time: what it means for finding alien life](https://www.nature.com/articles/d41586-022-02350-2). All the data and models presented in this publication can be found [here](https://doi.org/10.5281/zenodo.6959427).
+- [Constraining the increased frequency of global precipitation extremes under warming](https://www.nature.com/articles/s41558-022-01329-1)
 - Code at: [https://doi.org/10.5281/zenodo.6288035](https://doi.org/10.5281/zenodo.6288035) (2022)
 
 ## Principles, Benefits, and Challenges
@@ -164,7 +165,7 @@ Open software principles are derived from open-source software best practices. T
 
 Credit: [The open source way \| Opensource.com](https://opensource.com/open-source-way)
 
-<img src="../images/media/image530.png" style="width:6.38617in;height:4.24125in" />
+<img src="../images/media/image530.png" style="width:100%;height:auto;" />
 
 Sharing code enhances science because it enables reproducibility, reusability, and replicability. The decision to share code benefits the scientific community because it increases transparency, participation, and collaboration. Sharing code at any point in the research process can be valuable.
 
@@ -186,12 +187,13 @@ It is not uncommon for research groups to spend years developing code, writing p
 - Openness has costs: time spent documenting, publishing, responding to users/maintenance and cleaning up/enhancing quality.
 - Effort is required to learn how to leverage the new tools and knowledge (resources are available to ease this effort).
 
-|  |  |
+| Fear | Discussion/Mitigation: |
 |---|---|
-| Fear: Scooping: What if someone re-uses my code to publish a result I was working on? | Discussion/Mitigation: Yes, this can happen. But, in many fields, if it is clear that someone is actively working on a problem, the decision by another scoop may have a short term gain but long-term loss. In the scientific community, reputations serve as a cultural currency and being collaborative generally leads to increased career successes. If you are sharing your code, ensure it has a digital object identifier (DOI) so you get credit. This does not prevent anyone from using it or extending your analysis, but it does ensure you will get credit for your contribution. There is a nice article about this |
-| Fear: Misinterpretation or misuse | Discussion/Mitigation: Provide sufficient contextual information (documentation) to allow others to understand your code fully to reduce this risk. |
-| Fear: My code will be used, but not cited | Discussion/Mitigation: While it is not common for researchers to cite code, data, or other non-published articles, science ethics dictates that you should be cited if your work is used. Remember to appropriately cite the material of others so that you’re not adding to the problem. |
-| Fear: It won't be useful to anyone else | Discussion/Mitigation: You never know how materials might be used. Individuals who contributed a wide variety of seemingly unrelated software projects ended up helping NASA land a rover on Mars! |
+| Scooping: What if someone re-uses my code to publish a result I was working on? | Yes, this can happen. But, in many fields, if it is clear that someone is actively working on a problem, the decision by another scoop may have a short term gain but long-term loss. In the scientific community, reputations serve as a cultural currency and being collaborative generally leads to increased career successes. If you are sharing your code, ensure it has a digital object identifier (DOI) so you get credit. This does not prevent anyone from using it or extending your analysis, but it does ensure you will get credit for your contribution. There is a nice article about this here. |
+| Misinterpretation or misuse | Provide sufficient contextual information (documentation) to allow others to understand your code fully to reduce this risk. |
+| My code will be used, but not cited | While it is not common for researchers to cite code, data, or other non-published articles, science ethics dictates that you should be cited if your work is used. Remember to appropriately cite the material of others so that you're not adding to the problem. |
+| Code is too sensitive to share | User controlled access to help maintain sensitivity and security. |
+| It won't be useful to anyone else | You never know how materials might be used. Individuals who contributed a wide variety of seemingly unrelated software projects ended up helping NASA land a rover on Mars! |
 
 #### Ultimately, you are free to deploy the open software principles and resources in your research to maximize its impact and meet the expectations of your sponsors and community while managing costs.
 
@@ -247,9 +249,9 @@ There are valid reasons that restrict a researcher’s ability to share their co
 
 ### Licensing Code
 
-The [collaborative data science handbook by The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing) says of restrictions to open source sharing, “As with anything else in society, some of what you can and cannot do in software (or hardware) development is determined by the law. Licensing is therefore an important aspect of sharing/publishing open source projects as it provides clarity for anyone looking to reuse an open source project. Without licenses in place, anyone who wants to reuse it will be left with legal ambiguity as to the status of using your intellectual property.”
+The [collaborative data science handbook by The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing) says of restrictions to open source sharing, "As with anything else in society, some of what you can and cannot do in software (or hardware) development is determined by the law. Licensing is therefore an important aspect of sharing/publishing open source projects as it provides clarity for anyone looking to reuse an open source project. Without licenses in place, anyone who wants to reuse it will be left with legal ambiguity as to the status of using your intellectual property."
 
-To be considered open source, software requires a license that complies with the Open Source Definition. One criteria of this definition demands that open source licenses "must allow [modifications and derived works, and must allow them to be distributed under the same terms as the](https://opensource.org/licenses/) [license of the original software."](https://opensource.org/licenses/)
+To be considered open source, software requires a license that complies with the Open Source Definition. One criteria of this definition demands that open source licenses "[must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software](https://opensource.org/licenses/)."
 
 In the next lessons, licenses will be discussed in more detail. As you are working on a project, you may want to use code developed by others, develop your own code, and then share it. Licenses affect all aspects of this process and it is important to understand how different licenses may affect your ability to share your code at the time of publication. It is also important to consider any requirements from your funder or institution about how you license your software.
 
@@ -259,7 +261,7 @@ Funding agencies and journals are increasingly requiring researchers to share so
 
 For example, NASA's ROSES, which solicits Earth science research proposals, requires researchers to make their software publicly available:
 
-### "Data and software developed using Research Opportunities in Space and Earth Sciences (ROSES) funding in support of a peer-reviewed publication shall be made publicly available at the time of publication"
+#### "Data and software developed using Research Opportunities in Space and Earth Sciences (ROSES) funding in support of a peer-reviewed publication shall be made publicly available at the time of publication"
 
 [https://science.nasa.gov/researchers/sara/faqs/osdmp](https://science.nasa.gov/researchers/sara/faqs/osdmp)
 
@@ -295,17 +297,13 @@ While researchers and institutions may not be able to share all their code, they
 
 *In the activity below, drag each slider to explore the spectrum of openness.*
 
-<img src="../images/media/image110.jpg" style="width:7.06359in;height:3.93083in" />
-
-**The Practice of 'Open'**
-
-Review how the key tasks in the software development life cycle are covered in the "Use, Make, Share" framework flow.
+<img src="../images/media/image110.jpg" style="width:100%;height:auto;" />
 
 ### The Practice of 'Open'
 
-Review how the key tasks in the software development life cycle are covered in the “Use, Make, Share” framework flow.
+Review how the key tasks in the software development life cycle are covered in the "Use, Make, Share" framework flow.
 
-<img src="../images/media/image290.png" style="width:6.47148in;height:5.55in" />
+<img src="../images/media/image290.png" style="width:100%;height:auto;" />
 
 As with open data, different aspects of open software are described in terms of Using, Making, and Sharing of open software.
 
@@ -321,7 +319,8 @@ Consider the following questions:
 2. What are some of the successes and challenges you have encountered?
 3. What resources did you find useful for advancing open software in your work?
 
-**Key Takeaways: How Can You Use Open Software in Your Work to Advance Open Science**
+#### Key Takeaways: How Can You Use Open Software in Your Work to Advance Open Science
+
 - Open software is a collaborative activity.
 - We can all learn and benefit from each other in making our scientific software more open.
 
