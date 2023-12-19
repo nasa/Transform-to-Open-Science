@@ -11,7 +11,7 @@
 
 ## Overview
 
-This module is nearly over, but there’s so much more information available about open science – so our last lesson is for everyone who wants to learn more. In this lesson, you review ways to start your journey with open science including a list of resources that you can use now.
+This module is nearly over, but there's so much more information available about open science – so our last lesson is for everyone who wants to learn more. In this lesson, you review ways to start your journey with open science including a list of resources that you can use now.
 
 ## Learning Objectives
 
@@ -100,7 +100,6 @@ Plans that are successful typically include clear terminology about how informat
 
 Research materials are valuable and reusable long after the project's financial support ends. Reuse can extend beyond our own lifetimes. Therefore, researchers must arrange steps for preservation and accessibility to ensure work is not lost after a research interaction ends.
 
-
 ## Designing for Openness
 
 ### Open Science Applies to the Entire Workﬂow
@@ -169,11 +168,18 @@ Take a moment, to answer the following questions on your current research or on 
 - What are the tools and processes that you currently use? Is it easy to include others in collaboration?
 - How is your work shared or planned to be shared? Can anyone access your results?
 
-
 ## Case Study: The Outcomes of an Open Plan
 
+<img style="width:100%;height:auto;" src="../images/media/natashaquote.jpg">
+
+"NASA's open science guiding principles are centered in our Early Release Science work, supporting an inclusive, transparent, and collaborative scientific process."
+
+**Co-author Dr. Natasha Batalha**
+
+---
+
 One of the first [discoveries from the James Webb Space Telescope
-was the first detection of Carbon Dioxide in the atmosphere of a planet orbiting another star](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). [This discovery](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere) was enabled through the open science principles adopted both by the project and the team.
+was the first detection of Carbon Dioxide in the atmosphere of a planet orbiting another star](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). This discovery was enabled through the open science principles adopted both by the project and the team.
 
 <img src="../images/media/image255.jpg" style="width: 100%; height: auto;" />
 
@@ -262,7 +268,7 @@ The team grew to almost 400 people, all working together, all knowing what to ex
         <tr>
             <td>Availability</td>
             <td>
-                <p>Code on GitHub, released on Zenodo, documents released in Journal of Open Source Software (an open access journal)</p>
+                <p>Code on <i>GitHub</i>, released on <i>Zenodo</i>, documents released in <i>Journal of Open Source Software</i> (an open access journal)</p>
                 <p><img src="../images/media/image221.jpg" style="width: 100%; height: auto;" /></p>
             </td>
         </tr>
@@ -317,7 +323,6 @@ Making your results open also opens you up to clearer ways of receiving credit a
 
 [CLICK TO LEARN](https://opensciency.github.io/sprint-content/open-results/lesson2-results-and-open-science.html#what-are-the-advantages-of-making-results-open-throughout-the-research-process)
 
-
 ## Steps to Continue Your Open Science Journey
 
 Here we will explore the next steps to open science that everybody can take. The thought that open science can impact your entire scientific workflow may seem overwhelming and unachievable, but this is not the case. You can start slowly and gradually increase your adoption depending on the nature and scope of your project. Here are a few immediate ways that you can start engaging in open science.
@@ -337,7 +342,7 @@ Here are the steps you can take to find your own science community:
 - Read your field’s literature.
 - Run searches, in general and discipline-specific areas.
 - Investigate online communities encouraging open science, such as:
-  - The EU’s ‘[Foster Open Science](https://www.fosteropenscience.eu/)’ program 
+  - The EU's '[Foster Open Science](https://www.fosteropenscience.eu/)' program 
   - [The Turing Way online manual](https://the-turing-way.netlify.app/index.html) 
   -  [FORRT](https://forrt.org/)
 
@@ -474,8 +479,6 @@ positive future.
 
 
 ## The Ethos of the Open Science Summary
-
-**The Ethos of Open Science Summary**
 
 Congratulations! Now you should be able to:
 
