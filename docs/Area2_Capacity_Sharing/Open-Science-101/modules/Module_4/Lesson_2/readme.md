@@ -45,7 +45,7 @@ Discovering open software depends on developers making their software easy to fi
 - Software must be described with rich, searchable, and indexable metadata.
 - Software must be findable from all relevant search points
 
-**Reference:** “The FAIR Guiding Principles for scientific data management and stewardship” Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). See also Module 1.
+**Reference:** "The FAIR Guiding Principles for scientific data management and stewardship" Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). See also Module 1.
 
 However, you may have more specific needs. The following sections cover additional ways to help discover relevant software that meets specific research demands.
 
@@ -61,7 +61,7 @@ The open software ecosystem is vast, organic, multifaceted, and highly distribut
 
 If you are looking for scientific software, community standards increasingly require code to be published and linked to scientific papers.
 
-<img src="../images/media/image333.jpg" style="width:4.55042in;height:2.94521in" />
+<img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
 
 Thus, the scientific literature and its ancillary code archives are increasingly a great place to look for scientific open code.
 
@@ -73,19 +73,47 @@ There are several popular search engines for code snippets. First, you can simpl
 
 #### Examples of code repositories:
 
-|  |  |
-|---|---|
-| Example | GitHub Code Search – In this example, we will practice searching for open access code on GitHub. Let’s work through a scenario in which you would like to search for the Lomb and Scargle method for estimating a power spectrum. |
-| Example background | GitHub enables users to collaborate on a shared project and track their changes with version control. Users can create a repository and grant others access, or make it open access. GitHub involves a large community of open access users who make their code available for free. |
-| Example instruction | Begin by visiting the GitHub website to search for openly available software packages. You will need to create a free account for this action. Navigate to the Search Code page to begin your search and access tutorials on the interface and capabilities of the search portal. Alternatively, you can simply input your search terms in the search bar while on your profile page. Next, input the related keywords into the search bar. Search for “Lomb Scargle” and find several repositories with relevant code in various languages, along with thousands of related snippets of code. Congratulations! You have begun your open access software journey and can now view the work of thousands of others who once were where you are now. Upwards and onwards! |
+<table>
+<colgroup>
+    <col style="width: 33%" />
+    <col style="width: 33%" />
+    <col style="width: 33%" />
+</colgroup>
+<tbody>
+    <tr>
+        <td><img style="width:98%" src="../images/media/examplecoderepo1.png"></td>
+        <td><img style="width:98%" src="../images/media/examplecoderepo2.png"></td>
+        <td><img style="width:98%" src="../images/media/examplecoderepo3.png"></td>
+    </tr>
+    <tr>
+        <td>GitHub</td>
+        <td>GitLab</td>
+        <td>Bitbucket</td>
+    </tr>
+</tbody>
+</table>
 
-<img src="../images/media/image335.jpg" style="width:6.30192in;height:4.2675in" />
+**Example - GitHub Code Search**
+
+In this example, we will practice searching for open access code on GitHub. Let's work through a scenario in which you would like to search for the Lomb and Scargle method for estimating a power spectrum.
+
+**Example background**
+
+GitHub enables users to collaborate on a shared project and track their changes with version control. Users can create a repository and grant others access, or make it open access. GitHub involves a large community of open access users who make their code available for free.
+
+**Example instruction**
+
+Begin by visiting the GitHub website to search for openly available software packages. You will need to create a free account for this action. Navigate to the Search Code page to begin your search and access tutorials on the interface and capabilities of the search portal. Alternatively, you can simply input your search terms in the search bar while on your profile page. Next, input the related keywords into the search bar. Search for "Lomb Scargle" and find several repositories with relevant code in various languages, along with thousands of related snippets of code. Congratulations! You have begun your open access software journey and can now view the work of thousands of others who once were where you are now. Upwards and onwards!
+
+<img src="../images/media/image335.jpg" style="width:100%;height:auto;" />
 
 Screenshot of the repositories returned from our search
 
-<img src="../images/media/image496.jpg" style="width:6.41673in;height:3.90583in" />
+<img src="../images/media/image496.jpg" style="width:100%;height:auto;" />
 
 Screenshot of the code snippets returned from our search
+
+---
 
 With open software, knowing where to search and what to search for can be a challenging problem. You can always start with a Google Search. However, it can be valuable to think through some of the questions that guide the discovery process. If the user lacks relevant experience, it can also be helpful to engage experienced colleagues at this stage.
 
@@ -105,7 +133,48 @@ Most research code should be open source software, which is stored in code repos
 
 #### Examples of software repositories are:
 
-**NASA Resources for Discovering Open Software –**
+<table>
+<colgroup>
+    <col style="width: 50%" />
+    <col style="width: 50%" />
+</colgroup>
+<tbody>
+    <tr>
+        <td><img style="width:98%" src="../images/media/softwarerepo1.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo2.png"></td>
+    </tr>
+    <tr>
+        <td>Software Heritage</td>
+        <td>Open Source Development Network (OSDN)</td>
+    </tr>
+    <tr>
+        <td><img style="width:98%" src="../images/media/softwarerepo3.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo4.png"></td>
+    </tr>
+    <tr>
+        <td>SourceForge</td>
+        <td>Free and Open-Source Software Hub (FOSSHUB)</td>
+    </tr>
+    <tr>
+        <td><img style="width:98%" src="../images/media/softwarerepo5.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo6.png"></td>
+    </tr>
+    <tr>
+        <td>Googlecode</td>
+        <td>Comprehensive Perl Archive Network</td>
+    </tr>
+    <tr>
+        <td><img style="width:98%" src="../images/media/softwarerepo7.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo8.jpg"></td>
+    </tr>
+    <tr>
+        <td>PyPl</td>
+        <td>CRAN</td>
+    </tr>
+</tbody>
+</table>
+
+**NASA Resources for Discovering Open Software**
 
 These are a few links to NASA-specific repositories that may be of interest: 
 - [NASA Open Source Software](https://code.nasa.gov/)
@@ -131,7 +200,7 @@ Software assessment criteria are similar, for any level of openness:
 
 ### Functionality: Assessing Scientiﬁc Utility
 
-**Does the software meet your scientiﬁc needs?** 
+#### Does the software meet your scientiﬁc needs?** 
 
 - Does it address your specific science question? 
 - Do studies similar to yours use it?
@@ -158,13 +227,13 @@ Read the README file. Does the software meet your functional requirements? Are t
 
 It is a good sign if you can find evidence that the code has been used successfully by other users that have similar scientific or technical needs.
 
-**Factors for assessing the quality of open source software**
+### Factors for assessing the quality of open source software
 
 To quickly assess the community usage and quality of software repository, use the tools from the repository where you found it. GitHub, for example, permits a quick scan of development activity as evidenced by the number of times the code has been downloaded or ‘forked’ in GitHub parlance. You can also view the amount of activity in a community. GitHub also provides insights into the quality of the software.
 
-<img src="../images/media/image291.jpg" style="width:5.40042in;height:3.52344in" />
+<img src="../images/media/image291.jpg" style="width:100%;height:auto;" />
 
-**The Importance of the README File**
+### The Importance of the README File
 
 - Example above: [Astropy](https://github.com/astropy/astropy/blob/main/README.rst)
 - Always the starting point when assessing software.
@@ -208,15 +277,14 @@ Consider the following when selecting among multiple versions of open source sof
 |  |  |
 |---|---|
 | Use the latest stable release when possible | Just like software updates to your phone or computer’s operating system or apps, it is important to use the latest stable release. Developers often release developmental versions that include new features or bug ﬁxes that are not fully tested. For this reason, using a developmental release is generally not recommended. |
+| Determine the origin of the version you intend to use | Determine whether the version you intend to use comes from a modified open-source project or from its original source project. With this information, determine which source is more appropriate for your project. |
 | Check for issues and bugs | Check for any known issues or bugs with your selected version that could cause problems. Find current information on issues or bugs by checking release notes, issue trackers, and developer forums. |
-
-
 
 ### Resolve Problems in Reusing Software
 
 - Implement tests to verify that the software performs as expected in your application.
 - If you run into problems, revisit the release notes, issue tracker, and/or user/developer forums.
-- Don’t be afraid to ask experienced colleagues for help.
+- Don't be afraid to ask experienced colleagues for help.
 - It is better to seek and obtain help in a public forum than in private (eg. email). Part of open science is working in the open. Often you may find through a search that other users have similar questions. Someone may have already offered a solution. If not, it is likely that others will benefit from your question being answered in public.
 
 ### Activity 2.1: Ways to Get Help Using Open Software
@@ -280,7 +348,7 @@ Instances when shared code directly impacts the scientific results and requires 
 - Numerical modeling or simulation
 - Automated analysis, such as image processing or optical recognition
 
-See the journal where you are publishing if they have any specific instructions on how to cite software (e.g., A[AS Software Citation Suggestions](https://journals.aas.org/news/software-citation-suggestions/)).
+See the journal where you are publishing if they have any specific instructions on how to cite software (e.g., [AAS Software Citation Suggestions](https://journals.aas.org/news/software-citation-suggestions/)).
 
 In some cases, a software’s licensing terms and conditions require acknowledgement or citation in the references or bibliography of any publications based on research that made use of the software.
 
