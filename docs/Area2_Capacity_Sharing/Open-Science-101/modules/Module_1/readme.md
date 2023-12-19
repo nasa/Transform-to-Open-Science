@@ -1,4 +1,4 @@
-# Open Science 101: The Ethos of Open Science (October, 2023)
+# OS101 Module 1: The Ethos of Open Science
 
 **WELCOME TO OPEN SCIENCE 101: THE ETHOS OF OPEN SCIENCE**
 
