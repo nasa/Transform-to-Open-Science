@@ -21,8 +21,6 @@ After completing this lesson, you should be able to:
 - List several social challenges that can arise when practicing open science and strategies for communicating effectively to overcome differences in perspective.
 - List several institutional and infrastructure barriers to doing open science and mitigation strategies where available.
 
-
-
 ## Common Fears Around Openness
 
 ### Activity 4.1: Self Reﬂection on Open Science Concerns
@@ -31,7 +29,9 @@ After completing this lesson, you should be able to:
 
 Take a moment to think about what fears or concerns you have around adopting open science. These could be concerns you have experienced in your work, or fears you have for being more open moving forward. There are no wrong answers here – this is a time for you to reflect on what might be keeping you back from doing open science.
 
-**Some Fears Around Adopting Open Science Practices** Now that you’ve reflected on some of your concerns or fears around open science, below we have listed a few common fears of doing open science and some potential mitigation strategies. Even if you personally don’t have this fear, it can be useful to think about the different concerns that others may have to better understand and even help others address them.
+**Some Fears Around Adopting Open Science Practices** 
+
+Now that you've reflected on some of your concerns or fears around open science, below we have listed a few common fears of doing open science and some potential mitigation strategies. Even if you personally don’t have this fear, it can be useful to think about the different concerns that others may have to better understand and even help others address them.
 
 **Table:** Common Fears About Open Science
 
@@ -98,20 +98,17 @@ Take a moment to think about what fears or concerns you have around adopting ope
 
 Partially drawn from [Malvika Sharan's "Ten Lessons Against Open Science You Can Win"](https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win)
 
-Some of the fears listed above are not unique to open science and can occur in closed scientific systems. For example, scooping and reuse without citation are both examples of scientific misconduct that can happen in closed science scenarios. Open science practices can provide more avenues for recourse, such as making a preprint available or giving your data or code a DOI and license.
-
-Having more of your work shared in citable ways gives you more power to prove when misconduct has occurred.
+Some of the fears listed above are not unique to open science and can occur in closed scientific systems. For example, scooping and reuse without citation are both examples of scientific misconduct that can happen in closed science scenarios. Open science practices can provide more avenues for recourse, such as making a preprint available or giving your data or code a DOI and license. Having more of your work shared in citable ways gives you more power to prove when misconduct has occurred.
 
 Another example of a fear that occurs in both open and closed spaces is the commitment to maintaining your work beyond publication. Maintenance is a consideration regardless of whether your work was shared - you need to decide how long to store your data and code for yourself in order to reproduce your work, should any questions arise even after publication (we cover sharing and archiving data and code in later modules, Open Data and Open Code.) By sharing your research materials, you may actually increase the longevity and impact of what you’ve done if others find your materials useful and help maintain and build on top of them.
 
 We recognize that this is not an exhaustive list of concerns and fears toward adopting open science. NASA has developed this module of the TOPS curriculum to provide guidance and instill confidence for researchers who intend to do their work more openly moving forward.
 
-
 ## Misaligned Incentives
 
 Previously, we discussed some fears and concerns of adopting open science. In this section, we discuss barriers that block participation in open science that stem from misaligned incentive structures. These all relate to scientific incentives for individuals and organizations, and are not aligned with open values.
 
-We distinguish between concerns and fears; those associated with changing the culture of how we do science; from the structural barriers that block researchers’ abilities to adopt open science practices. We recognize that there is overlap in these categories, but this framing might be useful for understanding what we have control of as individuals, and where we need to encourage more structural changes to our scientific ecosystem.
+We distinguish between concerns and fears; those associated with changing the culture of how we do science; from the structural barriers that block researchers' abilities to adopt open science practices. We recognize that there is overlap in these categories, but this framing might be useful for understanding what we have control of as individuals, and where we need to encourage more structural changes to our scientific ecosystem.
 
 ### Overview: Misalignment of Incentives
 
@@ -157,7 +154,7 @@ Meaningful collaborations across diverse communities can require additional time
 
 ### Strategies for Communicating Across Differences
 
-These are ways you can encourage openness in your discussions around research. For in-person sessions, it’s good to encourage discussion of these strategies:
+These are ways you can encourage openness in your discussions around research. For in-person sessions, it's good to encourage discussion of these strategies:
 
 - Presume that everyone you work with is doing the best they can at the time.
 - Attempt collaboration before conflict.
@@ -173,11 +170,9 @@ These are ways you can encourage openness in your discussions around research. F
 
 ## Institutional and Infrastructure Barriers
 
- ### Institutional Barriers: Institutions Often Move Slowly 
+### Institutional Barriers: Institutions Often Move Slowly 
  
- Institutional barriers to the researcher or practitioner present an additional challenge to adopting open science practices.
-
-Researchers interested in adopting open science practices might lack support from their department or project supervisors. The budget, resources, or time in a project cycle might be insufficient to practice open science. Institutions might not recognize open science practices in recruiting, training, or promoting in the organization. Even if organizations show interest in moving toward open science, they can move slowly when setting up new systems of support.
+Institutional barriers to the researcher or practitioner present an additional challenge to adopting open science practices. Researchers interested in adopting open science practices might lack support from their department or project supervisors. The budget, resources, or time in a project cycle might be insufficient to practice open science. Institutions might not recognize open science practices in recruiting, training, or promoting in the organization. Even if organizations show interest in moving toward open science, they can move slowly when setting up new systems of support.
 
 In these situations, there isn’t always an obvious mitigation strategy. While we encourage individuals to practice open science, there may be aspects that just aren’t feasible at this point in time without spending a lot of extra time and effort, time that may not be recognized or supported by your institution. It’s best to work within the bounds of the system you are in, and while the entire scientific community is in a transition phase to being more open, it may be that it doesn’t make sense to be open in every way until the institutional barriers are lowered. That said, the more individuals that push for openness, the - more it will become part of the scientific mindset, and the more likely our organizations are to recognize and support our efforts.
 
