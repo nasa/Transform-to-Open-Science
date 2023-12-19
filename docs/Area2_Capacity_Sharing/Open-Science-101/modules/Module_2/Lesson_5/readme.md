@@ -29,9 +29,7 @@ After completing this lesson, you should be able to:
 
 By sharing pre-prints, scientists can receive feedback from the global research community, refine their work, and rapidly communicate their findings. This accelerates the pace of scientific discovery and ensures that valuable research is accessible to a broader audience, which aligns with the principles of open science.
 
-Pre-prints have gained particular significance during the COVID-19 pandemic, where they played a crucial role in rapidly sharing information about the virus and its effects, emphasizing their importance in advancing science and public health. Fundamentally, pre-prints are important to open science.
-
-Consider the following highlights:
+Pre-prints have gained particular significance during the COVID-19 pandemic, where they played a crucial role in rapidly sharing information about the virus and its effects, emphasizing their importance in advancing science and public health. Fundamentally, pre-prints are important to open science. Consider the following highlights:
 
 1. **Rapid Dissemination:** Pre-prints enable researchers to swiftly share their findings with the scientific community and the public, sometimes within days of completing their research. This swift dissemination is particularly beneficial when dealing with urgent or rapidly evolving topics.
 2. **Peer Review:** While pre-prints are not peer-reviewed, they often undergo a form of community review. Researchers and experts can provide feedback and constructive criticism, helping authors improve their work before formal journal publication.
@@ -55,7 +53,7 @@ To identify the best open-access journal, you can use the [Directory of Open Acc
 
 ### Activity 5.1: Identify an Open-Access Journal
 
- To become more familiar with the [DOAJ](https://doaj.org/), visit [https://doaj.org/](https://doaj.org/) and search for *The Astronomical* *Journal* published by the American Astronomical Society. Once you select the journal, you can see costs to publish, details about licensing, author retention rights, time to publication, and other details.
+ To become more familiar with the [DOAJ](https://doaj.org/), visit [https://doaj.org/](https://doaj.org/) and search for *The Astronomical Journal* published by the American Astronomical Society. Once you select the journal, you can see costs to publish, details about licensing, author retention rights, time to publication, and other details.
 
 Once you have found the journal, answer the following questions:
 
@@ -82,7 +80,7 @@ Tools to support reproducibility in research outputs:
 
 -  [Jupyter Notebooks](https://jupyter.org/) - A web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience.
 -  [Jupyter Books](https://jupyterbook.org/en/stable/intro.html) - Build beautiful, publication-quality books and documents from computational content.
--  [Markdown](https://rmarkdown.rstudio.com/) - Produces documents that are fully reproducible. Use a productive notebook interface to weave together narrative text and code to produce elegantly formatted output.
+-  [R Markdown](https://rmarkdown.rstudio.com/) - Produces documents that are fully reproducible. Use a productive notebook interface to weave together narrative text and code to produce elegantly formatted output.
 -  [Binder](https://mybinder.org/) - Create custom computing environments that can be shared and used by many remote users.
 -  [Quarto](https://quarto.org/) - Combine Jupyter notebooks with flexible options to produce production quality output in a wide variety of formats.
 
@@ -110,11 +108,11 @@ As an example, the [Open Science Framework](https://osf.io/) (OSF), developed by
 
 The OSF is designed to be a collaborative platform where users can share research objects from several phases of a project. It supports a broad and diverse audience, including researchers that might not have been able to access certain resources due to historic socioeconomic disadvantages. The OSF also contains other tools in its own platform.
 
----
+<img style="width:100%;height:auto;" src="../images/media/osfquote.jpg">
 
-While there are many features built into the OSF, the platform also allows thirdparty add-ons or integrations that strengthen the functionality and collaborative nature of the OSF. These add-ons fall into two categories: citation management integrations and storage integrations. Mendeley and Zotero can be integrated to support citation management, while Amazon S3, Box, Dataverse, Dropbox, figshare, GitHub, and oneCloud can be integrated to support storage. The OSF provides unlimited storage for projects, but individual files are limited to 5 gigabytes (GB) each.
+"While there are many features built into the OSF, the platform also allows thirdparty add-ons or integrations that strengthen the functionality and collaborative nature of the OSF. These add-ons fall into two categories: citation management integrations and storage integrations. Mendeley and Zotero can be integrated to support citation management, while Amazon S3, Box, Dataverse, Dropbox, figshare, GitHub, and oneCloud can be integrated to support storage. The OSF provides unlimited storage for projects, but individual files are limited to 5 gigabytes (GB) each."
 
-\- [Center for Open Science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/)
+**[Center for Open Science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/)**
 
 ---
 
@@ -123,8 +121,7 @@ While there are many features built into the OSF, the platform also allows third
  It is common for different types of outputs to be preserved in different places to optimize discovery and reuse. An up-to-date Project Registry provides a quick overview of all the outputs. Best practices for managing a Project Registry include:
 
 - Create and update a Project Registry in conjunction with preserving outputs (as described above) in the form of a spreadsheet or other type of list. This can be one registry for the entire project that is updated, or a new registry for each milestone.
-- Include in each registry entry a description of the object, preferred citation, and the persistent identifier (e.g., DOI), and any other useful information supporting the project.
-- For outputs that do not have a persistent identifier, provide a URL and description.
+- Include in each registry entry a description of the object, preferred citation, and the persistent identifier (e.g., DOI), and any other useful information supporting the project. For outputs that do not have a persistent identifier, provide a URL and description.
 - Preserve the Project Registry as a project component. Many funders require in their yearly reports a list of both peer-reviewed publications and all project outputs. The Project Registry can be provided to the funder during the reporting process, or used as a tracking tool to assist with completing the report.
 
 ### Managing Citations Using Reference Management Software
