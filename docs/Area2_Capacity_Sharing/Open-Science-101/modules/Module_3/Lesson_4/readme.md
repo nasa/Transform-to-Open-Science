@@ -24,7 +24,7 @@ After completing this lesson, you should be able to:
 
 ## Data Sharing Process Overview
 
-Sharing data is a critical part of increasing reproducibility of results. Whether it’s new data we collect ourselves or data that we process in order to do our analysis, we end up sharing some form of data. We need to think about what data we will share and how to best ensure that it will be open and usable by others.
+Sharing data is a critical part of increasing reproducibility of results. Whether it's new data we collect ourselves or data that we process in order to do our analysis, we end up sharing some form of data. We need to think about what data we will share and how to best ensure that it will be open and usable by others.
 
 Data sharing should typically be done through a long-term data center or repository which will be responsible for ingesting, curating, and distributing/publishing your open data. You are responsible for providing information/metadata to help make your data be readily discoverable, accessible, and citable. The cost of archiving and publishing data should also be considered.
 
@@ -40,13 +40,13 @@ Once you have decided to share your data, there are a number of questions you wi
 | How? | How the plan enables reuse of the data |
 | Who? | Roles and responsibilities of the team members in implementing the DMP |
 
-In this lesson, we will be covering some steps toward making data. Specifically, we will focus on the “when”, “where”, “how”, and “who” sections of a DMP.
+In this lesson, we will be covering some steps toward making data. Specifically, we will focus on the "when", "where", "how", and "who" sections of a DMP.
 
 ### Open Data Sharing Process
 
-In general, sharing your open data requires the following steps: Make sure 
+In general, sharing your open data requires the following steps:
 
-1. your data can be shared
+1. Make sure your data can be shared
 2. Select or identify a repository to host your data
 3. Work with your repository to follow their process and meet their requirements
 4. Make sure your data is findable and accessible through the repository and is maintained and archived
@@ -105,7 +105,9 @@ Relevant laws and regulations that may prevent the release of data include but a
 - [International Traffic in Arms Regulation](https://www.pmddtc.state.gov/?id=ddtc_public_portal_itar_landing) (ITAR), which regulates the manufacture, sale, distribution, and export of defense-related articles and services.
 - [Export Administration Regulations](https://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear) (EAR), which regulates the manufacture, sale, distribution, and export of commercial and dual- use items, technology, and information not already covered by ITAR.
 
-**Example: NASA Space System Protection Standard** – NASA STD 1006.1 [Space System Protection Standard](https://standards.nasa.gov/standard/NASA/NASA-STD-1006), which establishes protection requirements to ensure NASA missions are resilient to purposeful threats.
+**Example: NASA Space System Protection Standard**
+
+NASA STD 1006.1 [Space System Protection Standard](https://standards.nasa.gov/standard/NASA/NASA-STD-1006), which establishes protection requirements to ensure NASA missions are resilient to purposeful threats.
 
 ### Controlled Information Considerations
 
@@ -119,7 +121,11 @@ Some regulations and policies that may prevent the sharing of data include but a
 
 Data may be subject to intellectual property, copyright, and licensing concerns. A few of the relevant regulations and policies include patent or intellectual property laws including the [Bayh-Dole Act](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap18.htm), which enables universities, nonprofit research institutions, and small businesses to own, patent, and commercialize inventions developed under federally funded research programs.
 
-**Example: NASA FAR Supplement 1852.227** – <a href="https://prod.nais.nasa.gov/far/far0595-nfs012617/5227.htm">NASA FAR Supplement 1852.227</a>, which outlines patent and data rights for government contracts.
+**Example: NASA FAR Supplement 1852.227**
+
+[NASA FAR Supplement 1852.227](https://prod.nais.nasa.gov/far/far0595-nfs012617/5227.htm), which outlines patent and data rights for government contracts.
+
+---
 
 Many research institutions have resident experts in intellectual property, copyright, and patent law. They can be a great resource if you have any questions or concerns.
 
@@ -212,7 +218,7 @@ Additionally, repositories can require authorization and authentication (e.g., l
   <tbody>
     <tr>
         <td colspan="3">
-            <p>When your project ends, ensure you’ve updated and uploaded any companion documentation (discussed in the previous lesson “Making Open Data”) with your final version (even if only a single version of the data was made).</p>
+            <p>When your project ends, ensure you’ve updated and uploaded any companion documentation (discussed in the previous lesson "Making Open Data") with your final version (even if only a single version of the data was made).</p>
             <p>Make sure the repository will keep your data (or at least your metadata) on- line for a reasonable period of time after your project ends.</p>
             <p>If any data issues are found after the conclusion of your project, make sure the repository will still accept data revisions, if they are needed.</p>
         </td>
@@ -273,7 +279,7 @@ Once you are ready to send your data to your repository, find the repository's r
 
 Determine who will work with your repository, inventory the transferred data, metadata, and documentation. This role might include the task of populating any required metadata in databases to make the data findable.
 
-You may be able to accomplish some of these tasks through a repository’s interface. However, some types of repositories may require you to interact with their administration teams. For this role, determine who will:
+You may be able to accomplish some of these tasks through a repository's interface. However, some types of repositories may require you to interact with their administration teams. For this role, determine who will:
 
 - Provide suggestions to organize data content and logistics-
 - Develop the metadata
