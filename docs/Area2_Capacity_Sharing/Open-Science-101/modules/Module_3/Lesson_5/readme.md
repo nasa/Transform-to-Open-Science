@@ -34,13 +34,13 @@ The process, responsibilities, and factors to consider when creating an open sci
 | How? | How the plan enables reuse of the data |
 | Who? | Roles and responsibilities of the team members in implementing the DMP |
 
-Two great places to start are [https://dmptool.org/](https://dmptool.org/) and [https://dmponline.dcc.ac.uk/](https://dmponline.dcc.ac.uk/). You will need to create a free login to use these tools, but both websites walk researchers through the steps of writing a DMP. There are even some existing DMP templates stored within DMP Tool, such as the NASA Planetary Sciences Division’s [DMP template](https://science.nasa.gov/researchers/templates-planetary-science-division-appendix-c-roses-proposals/).
+Two great places to start are [https://dmptool.org/](https://dmptool.org/) and [https://dmponline.dcc.ac.uk/](https://dmponline.dcc.ac.uk/). You will need to create a free login to use these tools, but both websites walk researchers through the steps of writing a DMP. There are even some existing DMP templates stored within DMP Tool, such as the NASA Planetary Sciences Division's [DMP template](https://science.nasa.gov/researchers/templates-planetary-science-division-appendix-c-roses-proposals/).
 
 There are also public examples of data management plans at 
 
-[https://dmptool.org/public_plans](https://dmptool.org/public_plans) 
+[https://dmptool.org/public_plans](https://dmptool.org/public_plans) and
 
-and [https://dmponline.dcc.ac.uk/public_plans](https://dmponline.dcc.ac.uk/public_plans).
+[https://dmponline.dcc.ac.uk/public_plans](https://dmponline.dcc.ac.uk/public_plans).
 
 If you are applying for funding, it is almost guaranteed that there will be specific requirements detailed in the funding opportunity. For example, the funder may require a certain license or use of a specific repository. Make sure to cross reference your plan with these requirements!
 
