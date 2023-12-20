@@ -11,7 +11,7 @@
 
 ## Overview
 
-In Lesson 2 you learned how to use other’s results. In this lesson, we focus on making open results. We will start by discussing what it means to make reproducible results. Having earlier in the course discussed the computational reproducibility practices in open software, in this lesson, we specifically emphasize the importance of collaborations in making those results open and reproducible. This begins with acknowledging that the scientific results are not made by single individuals. We will then teach how to ensure equitable, fair, and successful collaborations when making your open results that acknowledge all contributions. Once you’ve planned the rules of engagement, we will provide you with ways to ensure that your reporting and publication abide by open results principles and combat the reproducibility crisis.
+In Lesson 2 you learned how to use other's results. In this lesson, we focus on making open results. We will start by discussing what it means to make reproducible results. Having earlier in the course discussed the computational reproducibility practices in open software, in this lesson, we specifically emphasize the importance of collaborations in making those results open and reproducible. This begins with acknowledging that the scientific results are not made by single individuals. We will then teach how to ensure equitable, fair, and successful collaborations when making your open results that acknowledge all contributions. Once you’ve planned the rules of engagement, we will provide you with ways to ensure that your reporting and publication abide by open results principles and combat the reproducibility crisis.
 
 ## Learning Objectives
 
@@ -36,7 +36,7 @@ In Lesson 1, we identified different research components that can be considered 
 
 **Example:** Capturing results on activities ranging from collaboration to observations, image generation to interpretation.
 
-In 2017, the Event Horizon Telescope targeted supermassive black holes with the largest apparent event horizons: M87, and Sgr A\* in the Galactic Center on four separate days. This distributed collaboration led to the multi-petabyte yield of data that allowed astronomers to unveil the first image of a black hole providing the strongest visual evidence of their existence. The [E HTC website](https://eventhorizontelescope.org/) provides information about research projects, scientific methods, instruments, press and media resources (such as blog posts, news articles and YouTube videos), as well as events, data, proposals and publications. This project shows large-scale and high-impact work that applies open practices in making their results. Different kinds of outputs shared under this project can be mapped to different stages of the research process and the teams involved in creating them.
+In 2017, the Event Horizon Telescope targeted supermassive black holes with the largest apparent event horizons: M87, and Sgr A\* in the Galactic Center on four separate days. This distributed collaboration led to the multi-petabyte yield of data that allowed astronomers to unveil the first image of a black hole providing the strongest visual evidence of their existence. The [EHTC website](https://eventhorizontelescope.org/) provides information about research projects, scientific methods, instruments, press and media resources (such as blog posts, news articles and YouTube videos), as well as events, data, proposals and publications. This project shows large-scale and high-impact work that applies open practices in making their results. Different kinds of outputs shared under this project can be mapped to different stages of the research process and the teams involved in creating them.
 
 ### Making Results and Crediting Contributors Fairly at Different Stages of Research
 
@@ -161,9 +161,15 @@ You have already come across some of these in the previous lessons, and hopefull
 
 ### Making Open and Reproducible Results
 
-Open science ultimately informs our decisions as scientists and guides the selection of approaches that contribute to making our results open at different stages. One of the main purposes of open results is to ensure research reproducibility, often explained through definitions such as the following by S [todden (2015)](https://www.annualreviews.org/doi/10.1146/annurev-statistics-010814-020127):
+Open science ultimately informs our decisions as scientists and guides the selection of approaches that contribute to making our results open at different stages. One of the main purposes of open results is to ensure research reproducibility, often explained through definitions such as the following by [Stodden (2015)](https://www.annualreviews.org/doi/10.1146/annurev-statistics-010814-020127):
 
-<img src="../images/media/image48.png" style="width:100%;height:auto;" />
+<img src="../images/media/stoddenquote.jpg" style="width:100%;height:auto;" />
+
+"Reproducibility is a researcher's ability to obtain the same results in a published article using the raw data and code used in the original study."
+
+**Stodden (2015)**
+
+---
 
 Using this definition, results that can be computationally reproduced by others would be called Reproducible Results. The EHTC case studies present open results as collections of research objects created at different stages of the research process. They also provide documentation and resources that allow reanalysis and reproduction of the original results.
 
@@ -247,7 +253,7 @@ Sharing different types of results as early as possible not only helps you find 
   </tbody>
 </table>
 
-All these different ways of sharing information will help make your published report or article better. And as you start working more in the open, with others, think about how collaborations will work and how you will give credit. All resources can be centralized through reports and documentation on a repository or website so anyone, including the ‘future you’ can find them in the future.
+All these different ways of sharing information will help make your published report or article better. And as you start working more in the open, with others, think about how collaborations will work and how you will give credit. All resources can be centralized through reports and documentation on a repository or website so anyone, including the 'future you' can find them in the future.
 
 More ways to communicate your work can be found in a [guide for communication](https://the-turing-way.netlify.app/communication/communication) in The Turing Way.
 
@@ -255,9 +261,7 @@ More ways to communicate your work can be found in a [guide for communication](h
 
 Open science, as learned in the Ethos of Open Science, should maintain the highest ethical standards. This can be enabled through the involvement of diverse contributors in the development of scientific outcomes. Participatory approaches allow multiple perspectives and expertise to be integrated into research from the start and ensure that peer review happens for all outputs in an iterative manner, not just for the articles at the end.
 
-In making and planning to share open results, you can apply the "as open as possible, as closed as necessary" principle. This means, protecting sensitive information, managing data protection practices where necessary and not carelessly sharing sensitive data or people's private information that can be misused. Online repositories, such as GitHub and GitLab, allow online interaction in addition to serving the technical purpose of version control and content hosting. For example, you can use [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) and [a project board](https://docs.github.com/en/github-ae%40latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board) to communicate what is happening in a project at any given point.
-
-The use of [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) signals an invitation for peer review on the new development of code or other content. Thanks to a number of reusable templates you don't have to set up repositories from scratch. For example, you can directly use a [template for reproducible research projects](https://github.com/the-turing-way/reproducible-project-template).
+In making and planning to share open results, you can apply the "as open as possible, as closed as necessary" principle. This means, protecting sensitive information, managing data protection practices where necessary and not carelessly sharing sensitive data or people's private information that can be misused. Online repositories, such as GitHub and GitLab, allow online interaction in addition to serving the technical purpose of version control and content hosting. For example, you can use [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) and [a project board](https://docs.github.com/en/github-ae%40latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board) to communicate what is happening in a project at any given point. The use of [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) signals an invitation for peer review on the new development of code or other content. Thanks to a number of reusable templates you don't have to set up repositories from scratch. For example, you can directly use a [template for reproducible research projects](https://github.com/the-turing-way/reproducible-project-template).
 
 ## Role of Contributors in Open Science
 
@@ -271,7 +275,9 @@ Involving and recognizing the roles of all contributors in making open results i
 
 A map of the EHT. Stations active in 2017 and 2018 are shown with connecting lines and labeled in yellow, sites in commission are labeled in green, and legacy sites are labeled in red. From Paper II (Figure 1). IOPscience. https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT
 
-The Event Horizon Telescope (EHT) team involved 200 members from 59 institutes in 20 countries, from undergraduates to senior members of the field. They used an array that included eight radio telescopes at six geographic locations across the USA, Latin America, Europe and the South Pole. All collaborators were located in different geographic locations, had access to different instruments, collected data generated from telescopes in different locations and applied skills from across different teams to create groundbreaking results. Each contributor was acknowledged across different communication channels and given authorships in publications. EHTC also supports the “critical, independent analysis and interpretation” of their published results to facilitate transparency, rigor, and reproducibility ([EHTC website](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
+---
+
+The Event Horizon Telescope (EHT) team involved 200 members from 59 institutes in 20 countries, from undergraduates to senior members of the field. They used an array that included eight radio telescopes at six geographic locations across the USA, Latin America, Europe and the South Pole. All collaborators were located in different geographic locations, had access to different instruments, collected data generated from telescopes in different locations and applied skills from across different teams to create groundbreaking results. Each contributor was acknowledged across different communication channels and given authorships in publications. EHTC also supports the "critical, independent analysis and interpretation" of their published results to facilitate transparency, rigor, and reproducibility ([EHTC website](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
 
 ### Making Open Results Starts with Contributors!
 
@@ -289,7 +295,7 @@ Making different research components and preparing to share them as open results
 - Providing feedback to the results
 - Designing experiments and interpreting results
 - Manuscript writing and review
-And [more](https://the-turing-way.netlify.app/collaboration/shared-ownership/shared-ownership-projects.html)!
+- And [more](https://the-turing-way.netlify.app/collaboration/shared-ownership/shared-ownership-projects.html)!
 
 Too often conversations about contribution and authorship take place towards the end of a project or when a scientific publication is drafted. However, as you learned in the previous lessons, research outputs are generated throughout the lifetime of a research project. Therefore, it is important to build an agreement at the beginning of the project for how contributorship in the project will be managed.
 
@@ -297,7 +303,7 @@ Developing contribution guidelines and contributor agreements requires collabora
 
 ### Contributors and Authorship
 
-> First and foremost, you must ensure that anyone who has contributed to the research project has their contributions recognized. With that shared understanding, in this lesson, you will explore what those recognitions as contributors or authors in your research project might look like.
+First and foremost, you must ensure that anyone who has contributed to the research project has their contributions recognized. With that shared understanding, in this lesson, you will explore what those recognitions as contributors or authors in your research project might look like.
 
 Let's first define contributor and author roles.
 
@@ -335,9 +341,9 @@ Let's first define contributor and author roles.
 
 ### Are All Authors Contributors and Vice Versa?
 
-An author is a contributor who actively carries out one or several of the tasks listed above ([National Institute of Health - NIH and](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)). [All authors are contributors, but all contributors may not be](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) authors, for example, someone serving as a mentor, trainer or infrastructure maintainer. Ideally, all contributors are given the opportunity to author research outputs.
+An author is a contributor who actively carries out one or several of the tasks listed above ([National Institute of Health - NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) and [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)). All authors are contributors, but all contributors may not be authors, for example, someone serving as a mentor, trainer or infrastructure maintainer. Ideally, all contributors are given the opportunity to author research outputs.
 
-Given the importance traditionally placed on authorship in scientific publication and the fuzziness of the definitions (that often contain relative terms such as “substantial” or “extensive” leaving too much room for interpretation), it is not surprising that determining who amongst the contributors gets to be an author can lead to biased or unfair decisions, disputes between contributors, or at the very least leave someone resentful and feeling unappreciated.
+Given the importance traditionally placed on authorship in scientific publication and the fuzziness of the definitions (that often contain relative terms such as "substantial" or "extensive" leaving too much room for interpretation), it is not surprising that determining who amongst the contributors gets to be an author can lead to biased or unfair decisions, disputes between contributors, or at the very least leave someone resentful and feeling unappreciated.
 
 There is no single approach for recognizing contributors as authors, but here is what you should consider:
 
@@ -368,8 +374,7 @@ There is no single approach for recognizing contributors as authors, but here is
   <tbody>
     <tr>
         <td colspan="2">
-            <p>The NIH guidelines for authorship outline what type of contribution does or does not warrant authorship. Each contribution is represented on a sliding scale and has no rigid cutoffs. Some contributions are given more weight than others. For example, for "design and interpretation of results”, nearly all types of “original ideas, planning, and input" result in authorship.</p>
-            <p>Whereas simply supervising the 1st author usually does not result in authorship (unless they are also contributing to the paper, of course). This is just one example. You will need to think about what this looks like for your own work!</p>
+            <p>The NIH guidelines for authorship outline what type of contribution does or does not warrant authorship. Each contribution is represented on a sliding scale and has no rigid cutoffs. Some contributions are given more weight than others. For example, for "design and interpretation of results", nearly all types of "original ideas, planning, and input" result in authorship. Whereas simply supervising the 1st author usually does not result in authorship (unless they are also contributing to the paper, of course). This is just one example. You will need to think about what this looks like for your own work!</p>
         </td>
     </tr>
   </tbody>
@@ -499,7 +504,7 @@ Contribution guidelines are not set-in-stone, but rather:
 
 You can begin by reviewing guidelines by [NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) and [ICMJEs](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) for authorship contributions.
 
-Notice that many categories and criteria for authorship, such as represented in the NIH guidelines’ sliding scale, may be differently decided. For example, in some fields providing financial resources for a research project always warrants authorship. In other fields this is not the case.
+Notice that many categories and criteria for authorship, such as represented in the NIH guidelines' sliding scale, may be differently decided. For example, in some fields providing financial resources for a research project always warrants authorship. In other fields this is not the case.
 
 Some projects may not follow traditional manuscripts as their outputs. For example, if software is a primary output from a project, there may be a need to define specific roles regarding code contributions. You can work with your research team to create a version of CRediT Taxonomy for your project, such as shared in an expanded version of the table above.
 
@@ -507,7 +512,7 @@ When different kinds of contributorship have been identified, clarify how differ
 
 **Additional Information**
 
-For additional tips on how to acknowledge different kinds of contributors to developing a resource including authorship, check out [A cknowledging Contributors The Turing Way](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html).
+For additional tips on how to acknowledge different kinds of contributors to developing a resource including authorship, check out [Acknowledging Contributors The Turing Way](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html).
 
 If working with online repositories such as GitHub, an app like '[all-contributors](https://allcontributors.org/)' bot is a great way to automate capturing all kinds of contributions, from fixing bugs to organizing events to improving accessibility in the project.
 
@@ -519,7 +524,7 @@ There are several [infrastructure roles](https://the-turing-way.netlify.app/coll
 
 ## Combining Open Results for Scientific Reporting and Publications
 
-Scientific publications have traditionally remained one of the most popular modes of reporting and publication. Over the last decade, it has become a standard practice to submit pre-peer reviewed manuscripts on preprint servers (such as [a rXiv](https://arxiv.org/)) to speed access to research before the peer-reviewed journal articles are published (discussed in Lesson 2). The publication system has also evolved massively. Journal articles are no longer about writing overview and summary of research, but can be used to share articles on software, data, education materials and more.
+Scientific publications have traditionally remained one of the most popular modes of reporting and publication. Over the last decade, it has become a standard practice to submit pre-peer reviewed manuscripts on preprint servers (such as [arXiv](https://arxiv.org/)) to speed access to research before the peer-reviewed journal articles are published (discussed in Lesson 2). The publication system has also evolved massively. Journal articles are no longer about writing overview and summary of research, but can be used to share articles on software, data, education materials and more.
 
 ### EHTC Case Study: Capturing Results on Activities Ranging From Collaboration to Observations, Image Generation to Interpretation
 
@@ -533,7 +538,7 @@ Across [several preprints](https://arxiv.org/search/astro-ph?searchtype=author&q
 
 Open results such as reports, publications, code, white papers, press releases, blog posts, videos, TED talks and social media posts add to the comprehensive repertoire of open results supported by EHTC. Resources are centralized on the [EHTC website](https://eventhorizontelescope.org/), [GitHub organization](https://github.com/eventhorizontelescope) and [YouTube channel](https://www.youtube.com/%40ehtelescope) among others to provide easy access to all open results.
 
-It's important to highlight that their efforts have led to independent reanalysis and regeneration of black hole images. Specifically, [Patel et. al. (2022)](https://arxiv.org/abs/2205.10267) not only reproduced the original finding, but also contributed additional documentation, code, and a computational environment as open-source containerized software package to ensure future testing. Some of the original authors reviewed this work and [m ade their comments also available online](https://quarxiv.authorea.com/users/557984/articles/607408-review-reproducibility-of-the-first-image-of-a-black-hole-in-the-galaxy-m87-from-the-event-horizon-telescope-eht-collaboration) (Authorea).
+It's important to highlight that their efforts have led to independent reanalysis and regeneration of black hole images. Specifically, [Patel et. al. (2022)](https://arxiv.org/abs/2205.10267) not only reproduced the original finding, but also contributed additional documentation, code, and a computational environment as open-source containerized software package to ensure future testing. Some of the original authors reviewed this work and [made their comments also available online](https://quarxiv.authorea.com/users/557984/articles/607408-review-reproducibility-of-the-first-image-of-a-black-hole-in-the-galaxy-m87-from-the-event-horizon-telescope-eht-collaboration) (Authorea).
 
 ### How Do I Connect Open Results to Make Reproducible Publications
 
@@ -569,7 +574,7 @@ Answer the following questions to test what you have learned so far.
 
 **01/02**
 
-Which of the following roles would be most appropriately credited with contributorship? Select all that apply.
+1. Which of the following roles would be most appropriately credited with contributorship? Select all that apply.
 
 -  Original idea, planning, and input
 - Supervision of the project
