@@ -83,4 +83,4 @@ These key terms are important topics for this module. Select the term to see the
 * [Lesson 5: Summary](./Lesson_5#lesson-5-summary)
 * [Lesson 5: Knowledge Check](./Lesson_5#lesson-5-knowledge-check)
 * [Open Results Summary](./Lesson_5#open-results-summary)
-* [Curriculum Summary](./Lesson_5#curriculum-summary)
+* [Open Science 101 Summary](./Lesson_5#open-science-101-summary)

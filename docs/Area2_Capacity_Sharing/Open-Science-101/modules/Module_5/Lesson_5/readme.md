@@ -8,7 +8,7 @@
 * [Lesson 5: Summary](#lesson-5-summary)
 * [Lesson 5: Knowledge Check](#lesson-5-knowledge-check)
 * [Open Results Summary](#open-results-summary)
-* [Curriculum Summary](#curriculum-summary)
+* [Open Science 101 Summary](#open-science-101-summary)
 
 ## Overview
 
@@ -48,6 +48,8 @@ For these examples, what other information or details could be added? If you wer
 
 Image credit: NASA Earth Observatory/Lauren Dauphin.
 
+---
+
 When results and research objects are published openly, anyone can reproduce the scientific result. For topics like climate change, the transparency of results helps reduce misinformation and increases public trust in results.
 
 Here is a GitHub [repository](https://github.com/jmunroe/OpenScienceExample_GISTEMPv4/tree/main) with an example of a [result](https://gist.github.com/jmunroe/74a1eda18d1473040ed91f2a1f02b1b5) made available as open access. This visualization is not perfect but provides a snapshot of a work in progress that can be shared with the community for feedback and refinement. This could be further refined, or perhaps serve as the start of a new effort that will extend the initial results. The results are more accessible, inclusive, and reproducible by being published openly.
@@ -56,7 +58,7 @@ There are lots of ways that open science can extend the span or scope of project
 
 - Add a Code of Conduct via the CODE_OF_CONDUCT file and link to other policies that apply to your work.
 - Add contributors and authorship guidelines via a CONTRIBUTING file.
-- Add your collaborators and team members’ names with their permission.
+- Add your collaborators and team members' names with their permission.
 - Add your proposal but remove any sensitive information.
 - Create a preliminary roadmap and what goals the project is trying to achieve.
 - Create a project management, code and data folders where you can upload appropriate information as your project develops.
@@ -193,15 +195,13 @@ AI can help us use and share research. It can act as an accelerant, taking care 
 
 Journals are increasingly implementing guidelines and requirements concerning the usage of AI tools during the writing process. Many require that the use of AI tools for writing, images creation, or other elements must be disclosed and their method of use identified. As is the case with all other material within an article, authors are fully responsible for ensuring that content is correct. Examples of this policy can be read in the AI guidelines of [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) and [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/).
 
-Furthermore, there are numerous examples of generative AI (for both code and content) delivering plagiarized information in violation of licenses, as well as fabricateding material including citations.
-
-Using these AI tools may lead to findings of academic and research misconduct should fabrication, falsification or plagiarism be contained within AI generated materials. So BE CAREFUL. Learn more about possible issues with AI in a [Nature example](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) here.
+Furthermore, there are numerous examples of generative AI (for both code and content) delivering plagiarized information in violation of licenses, as well as fabricateding material including citations. Using these AI tools may lead to findings of academic and research misconduct should fabrication, falsification or plagiarism be contained within AI generated materials. So BE CAREFUL. Learn more about possible issues with AI in a [Nature example](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) here.
 
 At this time, and for these reasons, AI tools are generally not allowed in grant applications or in peer- review or proposal review activities.
 
-The National Institutes of Health (NIH) has prohibited “scientific peer reviewers from using natural language processors, large language models, or other generative Artificial Intelligence (AI) technologies for analyzing and formulating peer review critiques for grant applications and R&D contract proposals.” Utilizing AI in the peer review process is a breach of confidentiality because these tools “have no guarantee of where data is being sent, saved, viewed or used in the future.” Using AI tools to help draft a critique or to assist with improving the grammar and syntax of a critique draft are both considered breaches of confidentiality. Read [NIH's AI policy](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html) here.
+The National Institutes of Health (NIH) has prohibited "scientific peer reviewers from using natural language processors, large language models, or other generative Artificial Intelligence (AI) technologies for analyzing and formulating peer review critiques for grant applications and R&D contract proposals." Utilizing AI in the peer review process is a breach of confidentiality because these tools "have no guarantee of where data is being sent, saved, viewed or used in the future." Using AI tools to help draft a critique or to assist with improving the grammar and syntax of a critique draft are both considered breaches of confidentiality. Read [NIH's AI policy](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html) here.
 
-AI tools for science are developing rapidly. The science community’s understanding of how to ethically and safely use AI is just developing as its use in research expands rapidly. The guidelines above offer a snapshot in time and will likely continue to evolve. If you choose to use these tools for scientific research, carefully consider how much to rely on them and how their biases may impact results, as cautioned in [this Nature article](https://www.nature.com/articles/d41586-023-02980-0). The internet has transformed the world and AI tools are likely to do the same. As with any tool, it is important they are used for the appropriate purpose and in an ethical manner.
+AI tools for science are developing rapidly. The science community's understanding of how to ethically and safely use AI is just developing as its use in research expands rapidly. The guidelines above offer a snapshot in time and will likely continue to evolve. If you choose to use these tools for scientific research, carefully consider how much to rely on them and how their biases may impact results, as cautioned in [this Nature article](https://www.nature.com/articles/d41586-023-02980-0). The internet has transformed the world and AI tools are likely to do the same. As with any tool, it is important they are used for the appropriate purpose and in an ethical manner.
 
 ## Lesson 5: Summary
 
@@ -244,7 +244,7 @@ Which of the following aspects of AI are considered as benefits? Select all that
 
 **03/03**
 
-Which of the following are steps you can take to share your open results online? Let’s assume that, like the activity, you are sharing an interactive visualization.
+Which of the following are steps you can take to share your open results online? Let's assume that, like the activity, you are sharing an interactive visualization.
 
 - Host your project in a public GitHub repository
 - Assign an open license
@@ -257,22 +257,24 @@ Which of the following are steps you can take to share your open results online?
 
 ### Moving Toward an Open, Collaborative, and Inclusive Scientiﬁc Future
 
-Science is meant to benefit society. Sharing our science helps ensure that it benefits society and informs the decisions of the public and policymakers, especially when funded by public agencies or governments. Going back to the ‘Ethos of Open Science’ module:
+Science is meant to benefit society. Sharing our science helps ensure that it benefits society and informs the decisions of the public and policymakers, especially when funded by public agencies or governments. Going back to the 'Ethos of Open Science' module:
+
+<img src="../images/media/opensciencequote.jpg" style="width:100%;height:auto;" />
 
 "Open Science is the principle and practice of making research products and
 processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity"
 
-\- https://open.science.gov/
+**https://open.science.gov/**
 
-<img src="../images/media/image79.png" style="width:7.5in;height:1.52847in" />
+---
 
 Throughout this curriculum, we have focused on skills needed to make research products and processes available to all. The traditional practice of only sharing results limits insight into how science is done and may act to limit who can participate in science. By sharing your scientific process and working openly, you advance all of science in a more rapid and inclusive way. This curriculum will continue to evolve as science evolves and we welcome your contributions!
 
-**Learn more about NASA’s transformation to open science and join conversations following the link.**
+**Learn more about NASA's transformation to open science and join conversations following the link.**
 
 [CLICK TO LEARN](https://nasa.github.io/Transform-to-Open-Science/)
 
-## Curriculum Summary
+## Open Science 101 Summary
 
 Congratulations! You have successfully completed Open Science 101! Thank you for taking the time to learn about open science - you are part of a broader movement to improve science and make our world better!
 
