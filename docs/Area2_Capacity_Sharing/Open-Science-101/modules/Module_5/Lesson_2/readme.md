@@ -30,7 +30,7 @@ How do I learn about the state of research for a particular field? How do you en
 
 ### Example: Exoplanets
 
-The various stages of research, from conceptualization to dissemination of results, produce products that can be put into the public domain as “Open Results”. Where these results are archived, and to what degree, depends on the discipline author. However, some general guidelines on where to start a search on open results include:
+The various stages of research, from conceptualization to dissemination of results, produce products that can be put into the public domain as "Open Results". Where these results are archived, and to what degree, depends on the discipline author. However, some general guidelines on where to start a search on open results include:
 
 1. Scholarly Search Portals
 2. Web Searches
@@ -96,9 +96,7 @@ Open results include much more than open-access peer-reviewed publications. How 
 
 Open communities and forums offer the best way to find research objects other than complete publications. How do you even find out whether these exist and where they are?
 
-Once you have found a few peer-reviewed articles that are highly relevant, to find additional research objects, you can follow the authors on social media for links to their posts, blogs, and activities.
-
-There are open communities in almost every area of research - find yours! Here are different platforms to locate these conversations and resources:
+Once you have found a few peer-reviewed articles that are highly relevant, to find additional research objects, you can follow the authors on social media for links to their posts, blogs, and activities. There are open communities in almost every area of research - find yours! Here are different platforms to locate these conversations and resources:
 
 - GitHub
 - LinkedIn
@@ -115,7 +113,7 @@ There are open communities in almost every area of research - find yours! Here a
 
 Various research objects, including datasets and software, are frequently attached to scholarly publications in the form of supplemental material. At other times, the source is referenced in the paper, which could be a GitHub repository, personal/institutional website, or other storage site. This can be another starting point, by engaging in discussions on the GitHub repository.
 
-**Kerchunk Example:** In lesson 1, a blog post about a software library ‘kerchunk’ was presented. Let’s look at a [post](https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090) on the [Pangeo Discourse Forum](https://discourse.pangeo.io/) of Kerchunk with a large number of views. The open science [Pangeo project](https://pangeo.io/) worked completely in the open. The [project website](https://pangeo.io/) (run off of GitHub) has links to blog posts, a discussion forum, and a calendar to all their meetings which anyone was welcome to join. This has resulted in an engaged and dynamic community. An example of this comes from the post linked to above, where one person asks for help, others reply, and the conversation is documented in the open. The post’s 636 views indicate that this question, or one similar, has occurred to others. Imagine if this had been done over private email? By working in the open, they are improving science and helping everyone become faster and more accurate.
+**Kerchunk Example:** In lesson 1, a blog post about a software library 'kerchunk' was presented. Let's look at a [post](https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090) on the [Pangeo Discourse Forum](https://discourse.pangeo.io/) of Kerchunk with a large number of views. The open science [Pangeo project](https://pangeo.io/) worked completely in the open. The [project website](https://pangeo.io/) (run off of GitHub) has links to blog posts, a discussion forum, and a calendar to all their meetings which anyone was welcome to join. This has resulted in an engaged and dynamic community. An example of this comes from the post linked to above, where one person asks for help, others reply, and the conversation is documented in the open. The post’s 636 views indicate that this question, or one similar, has occurred to others. Imagine if this had been done over private email? By working in the open, they are improving science and helping everyone become faster and more accurate.
 
 ## How to Assess Open Results
 
@@ -205,9 +203,7 @@ Adapted from [https://www.scribbr.com/working-with-sources/credible-sources/](ht
 
 Note that failure to meet one or many of the criteria does not automatically mean that the open results are of poor quality, but rather that more caution should be exercised if incorporated into your own research. It also means that you will have to invest more personal vetting of the material to ensure its quality is sufficient for your purposes.
 
-Reliable Example: Qiusheng Wu YouTube videos (as mentioned in the previous lesson). Professor Wu is an expert in his field. He presents results along with notebooks that demonstrate reproducibility.
-
-Comments on his YouTube tutorial videos represent meaningful interactions between users reproducing results and the author.
+Reliable Example: Qiusheng Wu YouTube videos (as mentioned in the previous lesson). Professor Wu is an expert in his field. He presents results along with notebooks that demonstrate reproducibility. Comments on his YouTube tutorial videos represent meaningful interactions between users reproducing results and the author.
 
 ## How to Use Open Results
 
@@ -223,7 +219,7 @@ The practice of producing open results aims to foster a system where feedback lo
 
 ### Your Responsibilities as an Open Results User
 
-- Users should familiarize themselves with contributor guidelines posted to open result repositories and follow the associated policies. What if there aren’t contributor guidelines? Contact the creators!
+- Users should familiarize themselves with contributor guidelines posted to open result repositories and follow the associated policies. What if there aren't contributor guidelines? Contact the creators!
 - Always provide feedback in a respectful and supportive manner.
 - If you discover an error in Open Results materials, the ethical action to take is to contact the author (or repository, depending on the nature of the issue) and give them the opportunity to correct the problem, rather than ignoring the issue or (worse!) taking advantage of a fixable issue to elevate your own research.
 
@@ -293,7 +289,7 @@ Sadly, many times contributor guidelines do not exist and it is not clear what i
 - **Licensing Policies:** Understand and abide by the license(s) associated with the open results materials being used.
 - **Attribution and Contribution:** Provide appropriate attribution for the open results used and contribute to the open results community.
 
-Additionally, give credit to repositories that provide open source materials in the acknowledgement section of your paper. If the repository provides an acknowledgments template in their “About” link, follow that suggestion. Otherwise, a generic “This research has made use of \<insert repository name\>.” will be sufficient.
+Additionally, give credit to repositories that provide open source materials in the acknowledgement section of your paper. If the repository provides an acknowledgments template in their “About” link, follow that suggestion. Otherwise, a generic "This research has made use of \<insert repository name\>." will be sufficient.
 
 ### Avoid Plagiarism When Using Open Results
 
@@ -332,13 +328,15 @@ Preprint Server (Cite only if journal publication not available)
 
 Source Publication (Always cite)
 
-If a paper that you wish to cite is not yet accepted for publication, you should follow the guidelines of the journal to which you are submitting your paper. A preprint reference citation typically includes author name(s), date of the most recent version posted, paper title, name of the preprint server, object type (“preprint”), and the DOI.
+---
+
+If a paper that you wish to cite is not yet accepted for publication, you should follow the guidelines of the journal to which you are submitting your paper. A preprint reference citation typically includes author name(s), date of the most recent version posted, paper title, name of the preprint server, object type ("preprint"), and the DOI.
 
 <img src="../images/media/image33.png" style="width:100%;height:auto;" />
 
 At the time of the Lesson preparation, the following paper did not yet appear as a journal publication.
 
-Jin, H., et al. 2023, “Optical color of Type Ib and Ic supernovae and implications for their progenitors,” ApJ, preprint, arXiv:2304.10670.
+Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implications for their progenitors," ApJ, preprint, arXiv:2304.10670.
 
 ---
 
@@ -409,9 +407,9 @@ Jin, H., et al. 2023, “Optical color of Type Ib and Ic supernovae and implicat
 
 ### Examples of Giving Credit
 
-In the Lesson 1 blog post [example](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685), researchers acknowledged people they worked with in an article they wrote that they found helpful, and two different communities, as well as the computational environment they worked on. This is a great example of giving credit: "I would like to thank Rich Signell (USGS) and Martin Durant (Anaconda) for their help in learning this process. If you’re interested in seeing more detail on how this works, I recommend Rich’s article from 2020 on the topic. I would also like to recognize [Pangeo](https://pangeo.io/) and [Pangeo-forge](https://pangeo-forge.org/) who work hard to make working with big data in geoscience as easy as possible. Work on this project was done on the Pangeo AWS deployment."
+In the Lesson 1 blog post [example](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685), researchers acknowledged people they worked with in an article they wrote that they found helpful, and two different communities, as well as the computational environment they worked on. This is a great example of giving credit: "I would like to thank Rich Signell (USGS) and Martin Durant (Anaconda) for their help in learning this process. If you're interested in seeing more detail on how this works, I recommend Rich's article from 2020 on the topic. I would also like to recognize [Pangeo](https://pangeo.io/) and [Pangeo-forge](https://pangeo-forge.org/) who work hard to make working with big data in geoscience as easy as possible. Work on this project was done on the Pangeo AWS deployment."
 
-In Lesson 1, the JWST case study was presented. The peer-reviewed [publication](https://www.nature.com/articles/s41586-022-05269-w#Ack1) that reported the first discovery of CO2 on another planet has been accessed 18,000+ times. Notice is that the authorship is attributed to the entire team. The Acknowledgements section duly explains the contributions of their collaborators and partners, “The results reported herein benefited during the design phase from collaborations and/or information exchange within NASA’s Nexus for Exoplanet System Science (NExSS) research coordination network sponsored by NASA’s Science Mission Directorate.” Also, “All the data and models presented in this publication can be found at [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427)”. And finally, they cite all the software! "The codes used in this publication to extract, reduce and analyze the data are as follows.."
+In Lesson 1, the JWST case study was presented. The peer-reviewed [publication](https://www.nature.com/articles/s41586-022-05269-w#Ack1) that reported the first discovery of CO2 on another planet has been accessed 18,000+ times. Notice is that the authorship is attributed to the entire team. The Acknowledgements section duly explains the contributions of their collaborators and partners, "The results reported herein benefited during the design phase from collaborations and/or information exchange within NASA’s Nexus for Exoplanet System Science (NExSS) research coordination network sponsored by NASA's Science Mission Directorate." Also, "All the data and models presented in this publication can be found at [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427)". And finally, they cite all the software! "The codes used in this publication to extract, reduce and analyze the data are as follows.."
 
 ## Lesson 2: Summary
 
