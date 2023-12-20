@@ -28,11 +28,11 @@ After completing this lesson, you should be able to:
 
 ## Planning to Share Your Code
 
-<img src="../images/media/image540.png" style="width:4.83656in;height:2.79865in" />
+<img src="../images/media/image540.png" style="width:350px;height:auto;" />
 
-"I’ve been working on code, and now a new collaborator wants to use the code. Awesome! What is the best way to share the code? By email? When should I share the code, and what should I include to ensure the colleague can easily use it?"
+"I've been working on code, and now a new collaborator wants to use the code. Awesome! What is the best way to share the code? By email? When should I share the code, and what should I include to ensure the colleague can easily use it?"
 
-### What Does it Mean to “Share” Your Code?
+### What Does it Mean to "Share" Your Code?
 
 There are two major categories of sharing: sharing for development and providing a long-term record.
 
@@ -50,7 +50,7 @@ There are several legal and security concerns to keep in mind when creating or u
 
 - Any software you create is usually considered intellectual property and might be controlled by your organization’s policies.
 - Such policies may influence how openly the software can be shared, and therefore, its license.
-- Downloading and contributing to open software projects can be regulated by your organization’s IT security policies.
+- Downloading and contributing to open software projects can be regulated by your organization's IT security policies.
 
 In contrast, if the software was created with external (government) funding, some funding agencies may require the software be openly shared.
 
@@ -131,13 +131,13 @@ Are you funded by a grant? Read the original grant call to see if publishing you
 
 Assume you want to start a new open-source project:
 
-- Find your organization’s policies on software releases. 
+- Find your organization's policies on software releases. 
 - What is the process for releasing your software?
 - Does anybody in your organization have to approve this release? 
 - Are there any policies regarding external contributors?
 - Does your organization require a specific attribution or credit?
 
-**Key Takeaways: Find Your Organization’s Software Release Policies**
+#### Key Takeaways: Find Your Organization’s Software Release Policies
 
 Software release policies differ by organization and each piece of software is different. Therefore, it is important that we do not make assumptions about the software release policies based on previous experience.
 
@@ -151,7 +151,7 @@ If you are writing scientific software for a project funded by the NASA Science 
 
 "Scientific software needed to validate the scientific conclusions of peer-reviewed manuscripts resulting from SMD-funded scientific activities shall become publicly available no later than the publication date of the corresponding peer-reviewed article. This includes software required to derive the findings communicated in figures, maps, and tables, as well as scientifically useful software from models and simulations."
 
-[**Open-Source Science Guidance**](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)
+\- [**Open-Source Science Guidance**](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)
 
 Other organizations may have different guidance, so it is always best to check what the funding agency or organization requires.
 
@@ -159,7 +159,7 @@ Other organizations may have different guidance, so it is always best to check w
 
 ### General Considerations
 
-<img src="../images/media/image197.png" style="width:5.87646in;height:3.9851in" />
+<img src="../images/media/image197.png" style="width:100%;height:auto;" />
 
 Like data, code can be shared in many ways, for example over email or on a personal website, but these methods are not recommended. So, where should you share your Open Code?
 
@@ -173,7 +173,7 @@ First, consider your institutional or funding agency policies that may dictate w
 
 #### Is your code a substantial software package and of interest to a signiﬁcant number of users from various disciplines? Where else can your open code be shared?
 
-<img src="../images/media/image332.png" style="width:4.07583in;height:3.27323in" />
+<img src="../images/media/image332.png" style="width:350px;height:auto;" />
 
 - Develop your software on a public repository such as GitHub.
 - Publish to a software repository used by common package managers to make the software easy for users to install (ex. Anaconda, CRAN, PyPI).
@@ -185,7 +185,7 @@ First, consider your institutional or funding agency policies that may dictate w
 
 Not necessarily. Sharing on a repository is encouraged, but a researcher’s funding organization may require a DOI from an archival repository, such as Zenodo, for long-term preservation of your code at the time of publication or version releases.
 
-<img src="../images/media/image425.png" style="width:4.35187in;height:3.42375in" />
+<img src="../images/media/image425.png" style="width:350px;height:auto;" />
 
 ## How: How to Enable Reuse of Code
 
@@ -195,11 +195,11 @@ Now that you have shared your code in the appropriate way, it’s important to c
 
 As you may recall from the previous lesson, assigning an appropriate license is necessary for others to know how to use your code.
 
-As an example, here’s how you’d assign a license to a GitHub repository:
+As an example, here's how you'd assign a license to a GitHub repository:
 
-Choose the appropriate software sharing license that meets your organization requirements. To create a license template in GitHub, add a new file and type “LICENSE” in the name field, then the “Choose a license template” option will appear.
+Choose the appropriate software sharing license that meets your organization requirements. To create a license template in GitHub, add a new file and type "LICENSE" in the name field, then the "Choose a license template" option will appear.
 
-<img src="../images/media/image78.jpg" style="width:4.50854in;height:1.58427in" />
+<img src="../images/media/image78.jpg" style="width:350px;height:auto;" />
 
 Make sure that your GitHub repository is public, making it searchable by anyone.
 
@@ -220,10 +220,10 @@ Steps for this activity:
 **Part 1: Create a test public GitHub repository.**
 
 1. Navigate to the login page for [GitHub](https://github.com/) and login. If you haven’t already, create a free user account.
-2. Create a new repository with this [<u>l ink</u>](https://github.com/new).
+2. Create a new repository with this [link](https://github.com/new).
 3. Type a short, memorable name for your repository. For example, "os-test".
-4. Set the repository visibility ‘Public’ by selecting this option below the repository description.
-5. In the following section ‘Initialize this repository with:' select 'Add a README file'.
+4. Set the repository visibility 'Public' by selecting this option below the repository description.
+5. In the following section 'Initialize this repository with:' select 'Add a README file'.
 6.  Select any license.
 7.  Click 'Create repository'.
 8.  You will be automatically directed to your new repository webpage.
@@ -256,9 +256,7 @@ Steps for this activity:
 
 <img src="../images/media/zenododoi10.jpg" style="width:100%;height:auto" />
 
-Zenodo archives your repository and issues a new DOI each time you create a new GitHub release.
-
-Follow the steps at "[Managing releases in a repository](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" to create a new one.
+Zenodo archives your repository and issues a new DOI each time you create a new GitHub [release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Follow the steps at "[Managing releases in a repository](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" to create a new one.
 
 ### Making it Easy to Cite Your Code
 
@@ -270,15 +268,15 @@ CITATION files are a means to make citation information easily accessible in ope
 
 ### Adding Contributor Guidelines
 
-<img src="../images/media/image419.png" style="width:6.35708in;height:3.15781in" />
+<img src="../images/media/image419.png" style="width:100%;height:auto;" />
 
 If you are hoping for community input on your software, it is a best practice to include CONTRIBUTING and CODE_OF_CONDUCT files in your repository that outline expectations for member interactions.
 
-We won’t go into these in detail here, but you can check out the [Xarray package's github repository](https://github.com/pydata/xarray/tree/main) for a good example.
+We won't go into these in detail here, but you can check out the [Xarray package's github repository](https://github.com/pydata/xarray/tree/main) for a good example.
 
 ## Who: Roles and Responsibilities of the Team Members in Implementing the SMP
 
-When writing a SMP, it’s important to include a plan for the roles and responsibilities needed to share and (if applicable) maintain your code. Your community will consist of members in different roles – some actively engaged, some with only a passing interest. Sometimes, multiple roles can easily be done by one person (e.g. if you are just archiving a piece of code).
+When writing a SMP, it's important to include a plan for the roles and responsibilities needed to share and (if applicable) maintain your code. Your community will consist of members in different roles – some actively engaged, some with only a passing interest. Sometimes, multiple roles can easily be done by one person (e.g. if you are just archiving a piece of code).
 
 Some roles might include:
 
@@ -297,6 +295,8 @@ Adding CITATION, CONTRIBUTING, and CODE_OF_CONDUCT files
 **Who will maintain the software (if applicable)?**
 - Who will respond to community input (e.g. via GitHub issues)?
 - Who will be responsible for making decisions about which code to add/update from other contributors? (e.g. via GitHub pull requests)
+
+---
 
 All of these roles may or may not be needed, depending on the size of your project. Have a transparent process for assigning any roles to community members.
 
@@ -331,7 +331,7 @@ Answer the following questions to test what you have learned so far.
 
 Read the statement and decide whether it's true or false:
 
-*I don’t need to share my code if I don’t plan to continue developing it.*
+*I don’t need to share my code if I don't plan to continue developing it.*
 
 - True
 - False
@@ -376,8 +376,8 @@ Read the statement and decide whether it's true or false:
 Which, if any, of the following are ways you can help others to reuse your code? Select all that apply.
 
 - Assign an appropriate license
-- Add a file named “CONTRIBUTING” with contributor guidelines
-- Add a “CITATION” file with citation information
+- Add a file named "CONTRIBUTING" with contributor guidelines
+- Add a "CITATION" file with citation information
 
 *Question*
 
