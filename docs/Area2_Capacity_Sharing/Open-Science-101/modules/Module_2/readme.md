@@ -1,18 +1,14 @@
 # OS101 Module 2: Open Tools and Resources
 
-**WELCOME TO OPEN SCIENCE 101: OPEN TOOLS AND RESOURCES**
+**Welcome to Open Science 101: Open Tools and Resources**
 
-## Module Overview
+## About This Module
 
-### Open Tools and Resources
-
-This module is designed to help you get started on your journey to practicing open science. It offers an introductory view of the concepts and resources that are fundamental to open science. The bridge between the concepts and the practice of the concepts is something called the Use, Make, Share framework. There are many methods and models that define how to get started with open science. The Use, Make, Share framework was constructed to help you immediately assign purpose to the concepts and tools that are covered in this module as well as in the entire Open Science 101 curriculum. All of the information that you learn here will be addressed in more detail as you participate in other modules but can also be applied immediately after completing this module.
+This module is designed to help you get started on your journey to practicing open science. It offers an introductory view of the concepts and resources that are fundamental to open science. The bridge between the concepts and the practice of the concepts is something called the use, make, share framework. There are many methods and models that define how to get started with open science. The use, make, share framework was constructed to help you immediately assign purpose to the concepts and tools that are covered in this module as well as in the entire Open Science 101 curriculum. All of the information that you learn here will be addressed in more detail as you participate in other modules but can also be applied immediately after completing this module.
 
 ### Module Learning Objectives
 
-After completing this module, you should be able to:
-
-- Define the foundational elements of open science, which includes research products, the “Use, Make, Share” framework, and the role of an Open Science and Data Management Plan.
+- Define the foundational elements of open science, which includes research products, the "use, make, share" framework, and the role of an Open Science and Data Management Plan.
 - List and explain the purpose of resources used to discover and assess research products for reuse, including repositories, search portals, publications, documentation such as README files, metadata, and licensing.
 - Develop a high-level strategy for making and sharing data that employs the FAIR principles, incorporates a data management plan, tracks data and authors with persistent identifiers and citations, and utilizes the appropriate data formats and tools for making data and sharing results.
 - Describe the software lifecycle and design a high-level strategy for making and sharing software that considers the the use of a software management plan, the tools needed for development including source code, kernels, programming languages, third-party software and version control, and the tools and documentation used for publishing and curating open software.
