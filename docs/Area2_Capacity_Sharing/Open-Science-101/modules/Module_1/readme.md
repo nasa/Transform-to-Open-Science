@@ -1,10 +1,8 @@
 # OS101 Module 1: The Ethos of Open Science
 
-**WELCOME TO OPEN SCIENCE 101: THE ETHOS OF OPEN SCIENCE**
+**Welcome to The Ethos of Open Science**
 
-## Module Description
-
-### The Ethos of Open Science
+## About This Module
 
 Welcome to this introductory module on open science. Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity. In this module, you take a closer look at what open science is, the current landscape as well as the benefits and challenges. You then get a glimpse into the practice of open science including a case study. To start your journey with open science, you are presented with actions that you can take starting today, such as exploring communities that you can engage with.
 
@@ -12,12 +10,12 @@ Welcome to this introductory module on open science. Open Science is the princip
 
 This module is for anyone who is interested in open science and would like to learn the benefits and ways to get started today.
 
-### Module Learning Objectives
+### Learning Objectives
 
 After completing this module, you should be able to:
 
 - Explain what open science is, why it's a good thing to do, and list some of the benefits and challenges of open science adoption.
-- Describe the practice of open science, including considerations when writing a management plan and the tasks in the “Use, Make, Share” framework.
+- Describe the practice of open science, including considerations when writing a management plan and the tasks in the "Use, Make, Share" framework.
 - Evaluate available options when determining whether research products should or should not be open.
 - List ways to connect with others who are part of the open science community.
 
