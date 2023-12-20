@@ -10,9 +10,7 @@
 
 ## Overview
 
-In lesson 3 you learned about how to make reproducible results. Now, we can finally think about how to best share those results. In this lesson we will place emphasis on publishing manuscripts as open access. You will learn what subtleties to consider when determining what journal to publish in, including how to make sense of a journal’s policies on self-archiving. Finally, we discuss some commonly held concerns about sharing open access publications, and how to overcome them.
-
-Ultimately, we want to ensure that you have confidence in your decision to publish as open access.
+In lesson 3 you learned about how to make reproducible results. Now, we can finally think about how to best share those results. In this lesson we will place emphasis on publishing manuscripts as open access. You will learn what subtleties to consider when determining what journal to publish in, including how to make sense of a journal's policies on self-archiving. Finally, we discuss some commonly held concerns about sharing open access publications, and how to overcome them. Ultimately, we want to ensure that you have confidence in your decision to publish as open access.
 
 ## Learning Objectives
 
@@ -28,9 +26,9 @@ After completing this lesson, you should be able to:
 
 Part of doing open science is enabling collaborative, interactive results. Sharing different types of research objects earlier in your research process helps increase visibility to your work and accelerates your efforts by drawing from the collective knowledge of others. The internet has fundamentally changed the timing of and manner in which scientists communicate results.
 
-Planning to share your intermediate results at the beginning of your project makes sharing final results easier. The figure above illustrates many of the different objects that can be shared before the ‘final’ report or publication. Sharing and talking about your research as you are doing it, as well as engaging with other scientists, will increase the robustness of your work.
+Planning to share your intermediate results at the beginning of your project makes sharing final results easier. The figure above illustrates many of the different objects that can be shared before the 'final' report or publication. Sharing and talking about your research as you are doing it, as well as engaging with other scientists, will increase the robustness of your work.
 
-Ask questions. Share what you are working on. You will find that many involved in the scientific community want to help. The more you engage, the larger the audience and the more impact you will have when that ‘final’ publication is published.
+Ask questions. Share what you are working on. You will find that many involved in the scientific community want to help. The more you engage, the larger the audience and the more impact you will have when that 'final' publication is published.
 
 In the past few decades, scientists have made new connections and sought collaborators through letters and at conferences. However, this way of doing science tended to restrict who could participate. Today, most of these discussions take place on the internet, which has enabled new avenues for participatory science, open to all.
 
@@ -42,7 +40,7 @@ Let's start with sharing in smaller groups (workshops and conferences) and move 
 
 Many of us attend scientific conferences, workshops, and other gatherings to discuss our science with peers. The costs associated with attendance and travel to these events may limit who has access to the material presented there. At these events, scientists often give talks or present posters that are not yet peer reviewed to invite feedback from the community and potentially recruit collaborators. These interactions are important for improving research projects, and are often done when a project is still ongoing so that researchers can gather feedback early in their scientific process.
 
-It is important to think about what audience you will be reaching at an event. Conferences have different policies about open access to materials presented at an event. Consider what you are sharing and who you want to share it with. For example, not all events provide long-term open access to workshop materials after the event. If you want to reach a larger audience or preserve the materials long-term, as a scientist, you have options to license and publish presented materials yourself (for example using Zenodo with a DOI) if an event doesn’t do so.
+It is important to think about what audience you will be reaching at an event. Conferences have different policies about open access to materials presented at an event. Consider what you are sharing and who you want to share it with. For example, not all events provide long-term open access to workshop materials after the event. If you want to reach a larger audience or preserve the materials long-term, as a scientist, you have options to license and publish presented materials yourself (for example using Zenodo with a DOI) if an event doesn't do so.
 
 ### Other Forms of Interactive Feedback
 
@@ -54,20 +52,18 @@ Other forms of sharing can serve a similar purpose to share and document your re
 - Social media posts
 - Forum discussions
 
-These different pathways allow for the dissemination of null results, intermediate science updates and/or software improvements. These alternative ways of sharing your work can benefit your research by facilitating extended dialogue between you and collaborators, and even the general public.
-
-Additionally, the public has easier access to these forms than they do to conferences.
+These different pathways allow for the dissemination of null results, intermediate science updates and/or software improvements. These alternative ways of sharing your work can benefit your research by facilitating extended dialogue between you and collaborators, and even the general public. Additionally, the public has easier access to these forms than they do to conferences.
 
 Here are some specific examples of engagement across contemporary platforms for scientific collaboration:
 
 - Blog posts such as the [Pangeo blog](https://medium.com/pangeo) - see examples of how to use different software tools for different science questions!
-- Computational notebooks as a way to demo software techniques (e.g. the P roject Pythia [Cookbook Gallery](https://cookbooks.projectpythia.org/) showcasing computational science workflows in the Earth sciences).
-- Non-peer reviewed publications, such as [R esearch Notes of the AAS](https://journals.aas.org/research-notes/).
+- Computational notebooks as a way to demo software techniques (e.g. the [Project Pythia Cookbook Gallery](https://cookbooks.projectpythia.org/) showcasing computational science workflows in the Earth sciences).
+- Non-peer reviewed publications, such as [Research Notes of the AAS](https://journals.aas.org/research-notes/).
 - Team and/or Mission Science Pages, such as the [LUVOIR team's page](https://asd.gsfc.nasa.gov/luvoir/) or the Juno [mission's page.](https://www.missionjuno.swri.edu/)
-- Conference proceedings, such as from the S ociety of Photo-Optical Instrumentation E [ngineers.](https://spie.org/publications/conference-proceedings)
-- Social media posts: [h ttps://twitter.com/MartianColonist/status/1706824699349488036](https://twitter.com/MartianColonist/status/1706824699349488036)
+- Conference proceedings, such as from the [Society of Photo-Optical Instrumentation Engineers.](https://spie.org/publications/conference-proceedings)
+- Social media posts: [https://twitter.com/MartianColonist/status/1706824699349488036](https://twitter.com/MartianColonist/status/1706824699349488036)
 
-<img src="../images/media/image57.png" style="width:15px;height:auto;" /> **Over the course of a 3 year study, the Journal of Medical Internet Research found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.**
+<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **Over the course of a 3 year study, the Journal of Medical Internet Research found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.**
 
 ### Publishing Reproducible Reports and Publications
 
@@ -96,18 +92,18 @@ Open access journals are peer-reviewed journals that are more accessible because
 In this activity, you will learn how to access information about a journal’s data archive policies. The Directory of Open Access Journals (DOAJ) provides an extensive index of open access journals around the globe. The DOAJ can be used to look up information, including data archiving policies, for journals that publish research. Let’s open up this website and look up the policies specific to your most-used journals.
 
 1. First, navigate to the [DOAJ website](https://doaj.org/).
-2. Type in the name of one of the following journals in the search box, and then click on the yellow “SEARCH” button.
+2. Type in the name of one of the following journals in the search box, and then click on the yellow "SEARCH" button.
 - Atmospheric and Oceanic Science Letters
 - Swiss Journal of Geosciences 
 - History of Geo-and Space Sciences <br><br>Note: You may input any journal desired but for this exercise use one of those listed to see the Sherpa/Romeo link that is listed in Step 5.
 3. The search results may show more than one match. Select the desired journal within the search results by clicking on the journal name.<br><br>A dashboard appears, giving information regarding publication fees, waiver policies, the type of open license used, and other information on multiple displayed titles.
-4. Click on the “archiving policy” link appearing in one of the displayed boxes as seen here. This will provide links to extensive information regarding the journal’s open access policies for the manuscript itself: <br><img src="../images/media/image59.png" style="width:300px;height:auto;" /><br>An extensive amount of information will be presented, including details on the publishing policies specific to the selected journal.
-5. Alternatively, to get a more condensed view of the journal’s policies, return to the DOAJ dashboard on the About page with the multiple boxes displayed, and click on the “Sherpa/Romeo” link as shown here.<br><img src="../images/media/image60.jpeg" style="width:300px;height:auto;" />
+4. Click on the "archiving policy" link appearing in one of the displayed boxes as seen here. This will provide links to extensive information regarding the journal’s open access policies for the manuscript itself: <br><img src="../images/media/image59.png" style="width:300px;height:auto;" /><br>An extensive amount of information will be presented, including details on the publishing policies specific to the selected journal.
+5. Alternatively, to get a more condensed view of the journal’s policies, return to the DOAJ dashboard on the About page with the multiple boxes displayed, and click on the "Sherpa/Romeo" link as shown here.<br><img src="../images/media/image60.jpeg" style="width:300px;height:auto;" />
 6. On the Sherpa Romeo page, click on the journal name that is displayed in the list (the only journal displayed).<br><img src="../images/media/image63.jpeg" style="width:100%;height:auto;" />
 7. When you view the page, you see that it consolidates and summarizes the open access policies for that journal and associated materials. The published version is likely to be the most relevant (see red box in figure).<br><img src="../images/media/image64.jpeg" style="width:100%;height:auto;"/>
 8. Review the page and determine which license the journal you selected has defined for reusability for manuscripts.
 
-**Activity Key Takeaways: Read the Open Access Policies of Publishers That You Use**
+#### Activity Key Takeaways: Read the Open Access Policies of Publishers That You Use
 
 This is an example of a site that you can use to determine if a journal’s policy is consistent with how you wish to publish your open access results. Journal policies should always be reviewed and considered during the early planning phase of your project and well before submitting your manuscript for publication.
 
@@ -115,7 +111,7 @@ This is an example of a site that you can use to determine if a journal’s poli
 
 Perhaps the single most important step to make your results open is to assign them a globally unique and persistent identifier. This will give you a single code, URL, or number that you can use to uniquely refer to a research object. Any derived research object can use this identifier to link to it and create a traceable and rich history of use and development. Crucially, this identifier can be used by others to cite and credit your work ([source](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)).
 
-The identifier must also be persistent. This guarantees that the identifier points to the same research object for a long period of time. What counts as “persistent” is, of course, a matter of degree since even the most stable identifier probably won’t survive the Sun engulfing the Earth in a few billion years. In this context, “persistent” implies that it is registered in a database managed by an organization or system that is committed to maintaining it as stable and backwards compatible for the foreseeable future.
+The identifier must also be persistent. This guarantees that the identifier points to the same research object for a long period of time. What counts as "persistent" is, of course, a matter of degree since even the most stable identifier probably won't survive the Sun engulfing the Earth in a few billion years. In this context, "persistent" implies that it is registered in a database managed by an organization or system that is committed to maintaining it as stable and backwards compatible for the foreseeable future.
 
 For example, URLs (for example, a personal website, GitHub repository, or cloud storage) are notoriously not persistent since they can change their contents frequently or become invalid without maintenance. On the other hand, Journal publications have a Digital Object Identifier (DOI) whose persistence is guaranteed by the International DOI Foundation.
 
@@ -178,9 +174,7 @@ There are examples of globally unique and persistent identifiers:
 
 <img src="../images/media/image67.png" style="width:350px;height:auto;" />
 
-By applying a license to your work, you make clear what others can do with the things you're sharing, as well as the conditions under which you're providing them (like the requirement to cite you).
-
-Another very important element to include with your research objects is clear rules for reuse (as is and for creating derivative work), which are often and most easily codified by the use of licenses.
+By applying a license to your work, you make clear what others can do with the things you're sharing, as well as the conditions under which you're providing them (like the requirement to cite you). Another very important element to include with your research objects is clear rules for reuse (as is and for creating derivative work), which are often and most easily codified by the use of licenses.
 
 Without a license, all rights are with the author of the research result. That means nobody else can use, copy, distribute, or modify the work without consent. A license gives this consent. If you do not have a license for each of the research objects that constitute your research result, it is effectively unusable by the whole research community.
 
@@ -192,7 +186,9 @@ Your institutions, funding agency, or research proposal may require use of a spe
 
 <img src="../images/media/image68.jpeg" style="width:100%;height:auto;" />
 
-Routes to publishing openly. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license. Original version on Zenodo. h [ttp://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
+Routes to publishing openly. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license. Original version on Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
+
+---
 
 The most common types of open access publishing are Green, Gold, and Diamond.
 
@@ -253,7 +249,7 @@ The most common types of open access publishing are Green, Gold, and Diamond.
 
 When publishing in a peer-reviewed journal, you can decide to share a pre-print. A preprint is a version of a paper prior to its publication in a journal\*. This can be the author’s version of the accepted manuscript after peer review or a version prior to submission to a journal.
 
-<img src="../images/media/image57.png" style="width:15px;height:auto;" /> **The accepted manuscript is the ﬁnal, peer-reviewed version of the article that has been accepted for publication by a publisher. The accepted manuscript includes all changes made during the peer review process and contains the same content as the ﬁnal published article, but it does not include the publisher’s copyediting, stylistic, or formatting edits that will appear in the ﬁnal journal publication (i.e., the version of record).**
+<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **The accepted manuscript is the final, peer-reviewed version of the article that has been accepted for publication by a publisher. The accepted manuscript includes all changes made during the peer review process and contains the same content as the ﬁnal published article, but it does not include the publisher’s copyediting, stylistic, or formatting edits that will appear in the ﬁnal journal publication (i.e., the version of record).**
 
 **Source: https://science.nasa.gov/researchers/sara/faqs/osdmp.**
 
@@ -275,7 +271,7 @@ Preprints come with many advantages as well as perceived or potential disadvanta
             <ul>
             <li>Quickly disseminate findings to communities in a timely manner.</li>
             <li>Many field-specific preprint servers (e.g. arxiv.org, biorxiv.org, essoar.org) are free to both upload and read.</li>
-            <li>Community feedback on your work as it’s being done.</li>
+            <li>Community feedback on your work as it's being done.</li>
             </ul>
         </td>
     </tr>
@@ -295,6 +291,7 @@ Preprints come with many advantages as well as perceived or potential disadvanta
             <ul>
             <li>Work may be shared with critical errors that may have been caught in peer review.</li>
             <li>In some fields, there is a perception of lessened reliability or quality of research published as a peer print.</li>
+            <li>Some journals do not allow or accept articles if they have been submitted to a preprint server.</li>
             </ul>
         </td>
     </tr>
@@ -311,7 +308,7 @@ When deciding to preprint your work, you will need to check:
 
 #### Additional Reading:
 
-Read the [story](https://pubs.aip.org/physicstoday/Online/29310/Joanne-Cohn-and-the-email-list-that-led-to-arXiv) about how Joanne Cohn’s email list for preprints led to Paul Ginsparg's development of [arXiv](https://arxiv.org/).
+Read the [story](https://pubs.aip.org/physicstoday/Online/29310/Joanne-Cohn-and-the-email-list-that-led-to-arXiv) about how Joanne Cohn's email list for preprints led to Paul Ginsparg's development of [arXiv](https://arxiv.org/).
 
 ## Other Considerations When Sharing
 
@@ -331,7 +328,7 @@ There are many red flags in these requests for predatory publishers:
 - Written English in correspondence is often poor quality with many grammatical errors. (Though it’s important to remember that this alone does not indicate predatory behavior, as grammatical mistakes can be made for innocent reasons, such as being a non-native speaker.)
 - The journal subject is nonspecific.
 - The solicitation is inaccurate or generic.
-- The email is often unsolicited, even if they claim that they’re referring to a previous paper of yours. This might start with an inaccurate or generic solicitation such as "professor".
+- The email is often unsolicited, even if they claim that they're referring to a previous paper of yours. This might start with an inaccurate or generic solicitation such as "professor".
 - They emphasize ISSN indexing and/or impact factors, although this particular journal doesn’t have one. Consider Journal Citation Indicator (JCI) in addition to Journal Impact Factor (JIF).
 - The publisher/journal sends multiple emails soliciting manuscripts, special issues, and editorial roles.
 - They have a high number of special issues, such that the majority of the papers published appear in special issues.
@@ -394,7 +391,7 @@ Read the statement below and decide whether it's true or false.
 
 Take a close look at the request for journal submission below. Does this request for journal submission seem reliable?
 
-<img src="../images/media/image74.jpeg" style="width:100%" />
+<img src="../images/media/image74.jpeg" style="width:100%;height:auto;" />
 
 - Yes
 - No
