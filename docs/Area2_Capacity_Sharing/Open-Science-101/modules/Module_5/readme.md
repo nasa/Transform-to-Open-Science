@@ -1,4 +1,4 @@
-# Open Science 101: Open Results (November, 2023)
+# OS101 Module 5: Open Results
 
 **WELCOME TO OPEN SCIENCE 101: OPEN RESULTS**
 

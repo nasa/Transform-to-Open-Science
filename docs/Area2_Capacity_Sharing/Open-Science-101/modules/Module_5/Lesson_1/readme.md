@@ -42,7 +42,7 @@ Later in the 1940s, publishing became commercialized and took over as the mechan
 
 <img src="../images/media/image6.png" style="width:350px;height:auto;" />
 
-Only by the 21st century did the scientific community expand the meaning of open results. The evolution of this definition was driven by technological advances, such as the internet, and advances in modes to share information. The open access movement was established by the [Budapest Open Access Initiative](https://openaccess.mpg.de/Berlin-Declaration) in 2002 and the [Berlin Declaration](https://openaccess.mpg.de/Berlin-Declaration) on Open Access in 2003, both of which formalized the idea that, with regards to new knowledge, there should be "free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles" (Budapest Open Access Initiative).
+Only by the 21st century did the scientific community expand the meaning of open results. The evolution of this definition was driven by technological advances, such as the internet, and advances in modes to share information. The open access movement was established by the [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) in 2002 and the [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration) in 2003, both of which formalized the idea that, with regards to new knowledge, there should be "free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles" (Budapest Open Access Initiative).
 
 ### But Results Have Always Been Far More Than Just the Publication
 
@@ -76,7 +76,7 @@ Throughout this module we will show you how to use, make, and share open results
 
 ### The Practice of 'Open'
 
-Specifically, the "Use, Make, Share" format has been naturally embedded throughout the curriculum and should be a familiar format by now. Lesson 2 will cover “Using”. Lesson 3 will cover “Making”. Lesson 4 will cover “Sharing”. Throughout this module, we will pay particular attention to manuscripts and other research products as examples because the previous modules covered “Use, Make, Share” in the context of components with data and software.
+Specifically, the "Use, Make, Share" format has been naturally embedded throughout the curriculum and should be a familiar format by now. Lesson 2 will cover "Using". Lesson 3 will cover "Making". Lesson 4 will cover "Sharing". Throughout this module, we will pay particular attention to manuscripts and other research products as examples because the previous modules covered "Use, Make, Share" in the context of components with data and software.
 
 <img src="../images/media/thepracticeofopen.jpg" style="width:100%;height:auto;" />
 
@@ -86,7 +86,7 @@ Let's broaden our perspectives on the types of **research objects** that are pro
 
 ### Reaching New Audiences
 
-<img src="../images/media/image9.jpeg" style="width:2.23333in;height:1.25625in" />
+<img src="../images/media/image9.jpeg" style="width:350px;height:auto;" />
 
 Qiusheng Wu is an associate professor at University of Tennessee. He has published 500+ video tutorials on [YouTube](https://www.youtube.com/%40giswqs), which have gained 25K+ subscribers, and 1.1M+ views (as of 8/2023).
 
@@ -102,9 +102,11 @@ Overall, the YouTube channel serves as an important tool for Wu to disseminate r
 
 <img src="../images/media/image10.jpeg" style="width:350px;height:auto;" />
 
-[Source: https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access- 61e33f8fe685](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685)
+Source: [https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685)
 
-Alongside the blog post, he also created a tutorial as a Jupyter Notebook – both of these resources and associated code are freely accessible to the public, allowing for rapid adoption and iteration by other developers and scientists. He posted the blog on Medium and posted about it to Twitter. The blog got a lot of attention on a newly developed technology as it was being developed! This is starkly different from the slow and complicated world of academic publishing where this result would not have been shared for about a year (writing it up, the review process, publication process). He said, “Working on Kerchunk and sharing it widely using open science principles greatly expanded my professional connections and introduced me to the field of research software engineering. The connections I made from this led me directly to my current role as a Scientific Software Developer at NASA.”
+---
+
+Alongside the blog post, he also created a tutorial as a Jupyter Notebook – both of these resources and associated code are freely accessible to the public, allowing for rapid adoption and iteration by other developers and scientists. He posted the blog on Medium and posted about it to Twitter. The blog got a lot of attention on a newly developed technology as it was being developed! This is starkly different from the slow and complicated world of academic publishing where this result would not have been shared for about a year (writing it up, the review process, publication process). He said, "Working on Kerchunk and sharing it widely using open science principles greatly expanded my professional connections and introduced me to the field of research software engineering. The connections I made from this led me directly to my current role as a Scientific Software Developer at NASA."
 
 ### New Products for Increasing Impact
 
@@ -118,7 +120,7 @@ From '2003: let's map the UK to 2023:\>1.5M contributors, 100M+ edits, using the
 
 ### New Visualizations to Share Results
 
-> Matplotlib was developed around 2002 by post-doc John Hunter to visualize some neurobiology data he was working on. He wasn’t a software developer, he was a neurobiologist! He could have just published the paper in a peer-reviewed journal, and maybe shared his code to create the figures, but instead he started an open project on GitHub and thought, ‘well if this is useful to me, maybe it will be useful to others…’.
+Matplotlib was developed around 2002 by post-doc John Hunter to visualize some neurobiology data he was working on. He wasn't a software developer, he was a neurobiologist! He could have just published the paper in a peer-reviewed journal, and maybe shared his code to create the figures, but instead he started an open project on GitHub and thought, 'well if this is useful to me, maybe it will be useful to others...'.
 
 <img src="../images/media/image12.jpeg" style="width:100%;height:auto;" />
 
@@ -130,13 +132,15 @@ Matplotlib is now the most widely used plotting library for the Python programmi
 
 ### JWST Case Study: Reporting and Publication
 
-> And last but not least, we have the example for the JWST Early Release Science team from Module 1 on how they reported their results. This came in various forms from publishing a peer review paper, preprints, blog posts, and social media. Their peer-reviewed publication was published open access in Nature along with a preprint through arXiv.
->
-> Open communication platforms furthered the reach and audience of results.
+And last but not least, we have the example for the JWST Early Release Science team from Module 1 on how they reported their results. This came in various forms from publishing a peer review paper, preprints, blog posts, and social media. Their peer-reviewed publication was published open access in Nature along with a preprint through arXiv.
+
+Open communication platforms furthered the reach and audience of results.
 
 <img src="../images/media/image13.jpeg" style="width:100%;height:auto;" />
 
 Figure Credit: https://arxiv.org/abs/2208.11692
+
+---
 
 The public is interested in what you are doing, and reaching them can involve communication through traditional and new platforms. Publishing results on platforms such as Twitter/X, Youtube, TikTok, blogs, websites, and other social media platforms is becoming more common. Awareness through social media drastically increases the reach and audience of your work. There have been studies on how this impacts citation rates. For example, The Journal of Medical Internet Research (JMIR) conducted a three-year [study](https://www.jmir.org/) of the relative success of JMIR articles in both Twitter and academic worlds. They found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.
 
@@ -144,17 +148,19 @@ Open communication platforms noticeably furthered the reach and audience of resu
 
 <img src="../images/media/image14.jpeg" style="width:100%;height:auto;" />
 
-Twitter \#1: [https://twitter.com/cornerof_thesky/status/1595086671275589632?s=20](https://twitter.com/cornerof_thesky/status/1595086671275589632?s=20)
+Twitter \#1: https://twitter.com/cornerof_thesky/status/1595086671275589632?s=20  
 
-Twitter \#2: [https://twitter.com/V_Parmentier/status/1595127493199302656?s=20](https://twitter.com/V_Parmentier/status/1595127493199302656?s=20) 
+Twitter \#2: https://twitter.com/V_Parmentier/status/1595127493199302656?s=20 
 
-TikTok: [https://www.tiktok.com/@astrojaket/video/7168878696906886405](https://www.tiktok.com/%40astrojaket/video/7168878696906886405) 
+TikTok: https://www.tiktok.com/@astrojaket/video/7168878696906886405
 
-YouTube: [https://www.youtube.com/watch?v=cI-kM_wPbbQ](http://www.youtube.com/watch?v=cI-kM_wPbbQ)
+YouTube: https://www.youtube.com/watch?v=cI-kM_wPbbQ 
+
+---
 
 ## What is the Reproducibility Crisis?
 
-A 2016 [Nature survey](https://www.nature.com/articles/533452a) on reproducibility found that of 1,576 researchers, “More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. “The ‘reproducibility crisis’ in science is a growing concern over several reproducibility studies where previous positive results were not reproduced.
+A 2016 [Nature survey](https://www.nature.com/articles/533452a) on reproducibility found that of 1,576 researchers, "More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. "The 'reproducibility crisis' in science is a growing concern over several reproducibility studies where previous positive results were not reproduced.
 
 We must consider the full research workflow if we are to solve the reproducibility crisis. The fact that 70% of researchers could not reproduce other scientists' results is shocking, especially considering that the reproducibility of science is the cornerstone of the scientific method.
 
@@ -162,7 +168,7 @@ We must consider the full research workflow if we are to solve the reproducibili
 
 By now, it should be obvious that there are many personal incentives to implement open science principles throughout all stages of the research process. By making results open throughout, you increase your ability to reproduce your own results.
 
-Although reproducibility of one’s own results might sound like a trivial achievement, a [2016 Nature study](https://www.nature.com/articles/533452a) found that 50% of researchers are unable to reproduce their own experiments. This highlights the critical nature of the reproducibility crisis. This also has implications for research beyond the ability to improve your research.
+Although reproducibility of one's own results might sound like a trivial achievement, a [2016 Nature study](https://www.nature.com/articles/533452a) found that 50% of researchers are unable to reproduce their own experiments. This highlights the critical nature of the reproducibility crisis. This also has implications for research beyond the ability to improve your research.
 
 ### What is the Cause of This Reproducibility Crisis?
 
@@ -202,15 +208,15 @@ Let's rethink your research workflow. Identify the research objects that could b
 - Preservation
 - Reporting & Publication
 
-#### There are many personal advantages of implementing open science principles across all stages of a research process
+**There are many personal advantages of implementing open science principles across all stages of a research process**
 
 <img src="../images/media/image23.jpeg" style="width:100%;height:auto;" />
 
-**Key Takeaways: What Could You Do?**
+#### Key Takeaways: What Could You Do?
 
 The OpenSciency team created a large table that describes all the different kinds of shareable research objects that are possible to create throughout the research lifecycle.
 
-#### A full table is available here
+**A full table is available here**
 
 [CLICK TO LEARN](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#research-stages-and-open-result-table)
 
@@ -253,7 +259,7 @@ Answer the following questions to test what you have learned so far.
 
 **01/02**
 
-Which of the following may fit the definition of a “research object”?
+Which of the following may fit the definition of a "research object"?
 
 - Raw data
 - Blog
