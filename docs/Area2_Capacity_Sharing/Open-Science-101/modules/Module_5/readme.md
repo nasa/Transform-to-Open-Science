@@ -1,6 +1,6 @@
 # OS101 Module 5: Open Results
 
-**WELCOME TO OPEN SCIENCE 101: OPEN RESULTS**
+**Welcome to Open Science 101: Open Results**
 
 ## About This Module
 
