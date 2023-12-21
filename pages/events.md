@@ -19,7 +19,7 @@ All TOPS Events
 
 <!---Events Description (Markdown)-->
 {% capture events-events-description %}
-We invite you to visit us at various events where TOPS will be prominently featured, including  scientific meetings and gatherings of historically underrepresented communities. Our presence at these events is a unique opportunity to engage with us in a dynamic learning environment and connect with fellow open science enthusiasts. In addition to attending insightful sessions, engaging townhalls, and exploring our informative booth, we are proud to offer workshops specifically designed to teach our Open Science 101 curriculum centered around essential skills for open science practitioners.
+We invite you to visit us at various events where TOPS will be featured, including scientific meetings and gatherings of historically underrepresented communities. Our presence at these events is a unique opportunity to engage with us in a dynamic learning environment and connect with fellow open science enthusiasts. Our presence at these events range from plenary sessions and engaging town halls to informative exhibit booths.  Additionally, we are proud to offer workshops specifically designed to teach Open Science 101 at conferences and events around the country and look forward to expanding these offerings to include more free in-person and online options. Stay tuned for more details on upcoming events.
 {% endcapture %}
 
 <!---Events Contact Button Text-->
