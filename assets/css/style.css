@@ -1789,6 +1789,25 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: #FFF;
 }
 
+.tops_eventsingle_section .tops_eventsingle_eventdisclaimer {
+	display: block;
+	width: 100%;
+	font-family: 'Nunito', sans-serif;
+	font-size: 14px;
+	line-height: 1.5rem;
+	font-weight: 600;
+	border-radius: 5px;
+	box-sizing: border-box;
+	padding: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.tops_eventsingle_section .tops_eventsingle_eventdisclaimer i {
+	display: inline-block;
+	margin-right: 7px;
+}
+
 /* Footer Styling */
 
 .tops_footer_cta {
