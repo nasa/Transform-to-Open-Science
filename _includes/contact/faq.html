@@ -1,0 +1,39 @@
+<div class="tops_white_section tops_gray_section tops_faq_section">
+    <div class="container tops_container">
+      <div class="row">
+        <div class="col-12 tops_faq_primary_content primary_content_md">
+          <h2 class="text-center mb-2">Frequently Asked Questions</h2>
+          <div class="tops_divider div_larger justify-content-center mb-3"><div class="div_inner"></div></div>
+          <p>The world is changing rapidly. Everyday new problems emerge and it takes groundbreaking scientific discoveries to solve them. To stay ahead, the pace of science must accelerate and science needs to be even better, more accurate, and faster to enable the truly transformative breakthroughs that will help us thrive.</p>
+          <div class="d-flex flex-row flex-wrap tops_doublebuttons justify-content-center">
+            <a class="btn btn-primary" href="#" role="button">Enroll Now</a>
+            <a class="btn btn-outline-primary" href="#" role="button">View All</a>
+          </div>
+        </div>
+      </div>
+      <div class="row mt-5">
+          <div class="col-12">
+
+            <div class="accordion" id="topsFaqAccordion">
+            {% assign sorted = site.faqs | sort: 'date' | reverse %}
+            {% for faq in sorted %}
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="faqheading-{{ forloop.index }}">
+                    <button class="accordion-button {% if forloop.index > 1 %}collapsed{% endif %}" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-{{ forloop.index }}" aria-expanded="true" aria-controls="collapse-{{ forloop.index }}">
+                        <span>{{ faq.title }}</span>
+                    </button>
+                    </h2>
+                    <div id="collapse-{{ forloop.index }}" class="accordion-collapse collapse {% if forloop.index == 1 %}show{% endif %}" aria-labelledby="faqheading-{{ forloop.index }}" data-bs-parent="#topsFaqAccordion">
+                    <div class="accordion-body">
+                        {{ faq.content }}
+                    </div>
+                    </div>
+              </div>
+            {% endfor %}
+
+            </div>
+            
+          </div>
+      </div>
+    </div>
+  </div>

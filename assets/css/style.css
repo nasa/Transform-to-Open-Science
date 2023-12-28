@@ -74,6 +74,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .tops_overlay_section.blue_overlay {
     background-image: url(../img/bluebgtexture.png);
+	background-size: 50px auto;
+	background-position: center center;
     background-color: #0D425F;
 }
 
@@ -1534,6 +1536,246 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	margin-bottom: 0;
 }
 
+.tops_howhelp_section h2 {
+	display: block;
+	width: 100%;
+	font-size: 42px;
+	line-height: 46px;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #222;
+}
+
+.tops_howhelp_section p {
+	display: block;
+	width: 100%;
+	font-size: 16px;
+	line-height: 1.6rem;
+	font-weight: 400;
+	color: #777;
+}
+
+.tops_howhelp_section .tops_howhelp_primary_content p {
+	margin-bottom: 12px;
+	text-align: center;
+}
+
+.tops_howhelp_section .tops_howhelp_primary_content p:last-of-type {
+	margin-bottom: 0;
+}
+
+.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner {
+	display: flex;
+    flex-flow: column wrap;
+    position: relative;
+    min-height: 100%;
+    background-color: #0D425F;
+	background-image: url(../img/bluebgtexture.png);
+	background-size: 50px auto;
+	background-position: center center;
+    border-radius: 5px;
+    overflow: hidden;
+	box-sizing: border-box;
+}
+
+.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_overlay {
+	display: block;
+	position: absolute;
+	background-color: #0D425F;
+	width:100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 2;
+}
+
+.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent {
+	display: block;
+	position: relative;
+	z-index: 3;
+	box-sizing: border-box;
+}
+
+.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent .tops_howhelp_iconholder {
+	display: block;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent .tops_howhelp_iconholder .tops_howhelp_icon {
+	display: inline-block;
+	position: relative;
+	width: 105px;
+	height: 105px;
+	background-color: #D83E00;
+	color: #FFF;
+	border-radius: 50%;
+}
+
+.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent .tops_howhelp_iconholder .tops_howhelp_icon i {
+	display: block;
+    position: absolute;
+    font-size: 40px;
+    line-height: 44px;
+    width: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent h3 {
+	display: block;
+	width: 100%;
+	font-size: 16px;
+	line-height: 20px;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent p {
+	display: block;
+    width: 100%;
+    font-size: 16px;
+    line-height: 1.6rem;
+    font-weight: 400;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.85);
+	margin-bottom: 12px;
+}
+
+.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent p:last-of-type {
+    margin-bottom: 0;
+}
+
+.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent .tops_howhelp_button {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.tops_faq_section h2:not(.accordion-header) {
+	display: block;
+	width: 100%;
+	font-size: 42px;
+	line-height: 46px;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #222;
+}
+
+.tops_faq_section p {
+	display: block;
+	width: 100%;
+	font-size: 16px;
+	line-height: 1.6rem;
+	font-weight: 400;
+	color: #777;
+}
+
+.tops_faq_section .tops_faq_primary_content p {
+	margin-bottom: 12px;
+	text-align: center;
+}
+
+.tops_faq_section .tops_faq_primary_content p:last-of-type {
+	margin-bottom: 0;
+}
+
+.accordion {
+	border: 1px solid #BBB;
+	border-radius: 5px;
+}
+
+.accordion-button {
+	font-family: 'Roboto', sans-serif;
+	background-color: #0D425F;
+	color: #FFF;
+	font-size: 15px;
+	line-height: 19px;
+	font-weight: 700;
+	text-transform: capitalize;
+	padding: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.accordion-item {
+	border:none;
+	border-bottom: 1px solid #BBB;
+}
+
+.accordion-item:last-of-type {
+	border-bottom: none;
+}
+
+.accordion-item:first-of-type .accordion-button {
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.accordion-button span {
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	line-height: 19px;
+	font-weight: 700;
+	text-transform: capitalize;
+	box-sizing: border-box;
+	padding-right: 35px;
+}
+
+.accordion-button:not(.collapsed) {
+	background-color: #D83E00;
+	color: #FFF;
+}
+
+.accordion-button::after {
+	background-image: url('../img/accordionarrow.png');
+	background-size: contain;
+	width: 18px;
+	height: 18px;
+}
+
+.accordion-button:focus {
+	box-shadow: none;
+}
+
+.accordion-button:not(.collapsed)::after {
+	background-image: url('../img/accordionarrow.png');
+	transform: rotate(90deg);
+}
+
+.accordion-body {
+	padding: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.accordion-body, .accordion-body p {
+	display: block;
+    width: 100%;
+    font-size: 16px;
+    line-height: 1.6rem;
+    font-weight: 400;
+    color: #777;
+	font-family: 'Nunito', sans-serif;
+}
+
+.accordion-body strong, .accordion-body p strong {
+	color: #222;
+}
+
+.accordion-body a, .accordion-body p a {
+	color: #D83E00;
+	-webkit-transition: opacity 0.3s ease;
+    -moz-transition: opacity 0.3s ease;
+    -ms-transition: opacity 0.3s ease;
+    -o-transition: opacity 0.3s ease;
+    transition: opacity 0.3s ease;
+}
+
+.accordion-body a:hover, .accordion-body p a:hover, .accordion-body a:active, .accordion-body p a:active, .accordion-body a:focus, .accordion-body p a:focus {
+	opacity: 0.65;
+}
+
 /* Event Styling */
 
 .tops_eventsingle_section .row div.tops_eventsingle_content {
@@ -2001,6 +2243,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	color: #222;
 }
 
+.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent p b, .tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent p strong {
+	color: #FFF;
+}
+
 .tops_eventsingle_content_text h2, .tops_eventsingle_content_text h3, .tops_eventsingle_content_text h4, .tops_eventsingle_content_text h5, .tops_eventsingle_content_text h6 {
 	display: block;
 	width: 100%;
@@ -2334,6 +2580,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 		padding-bottom: 0 !important;
 	}
 
+	.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent {
+		padding: 30px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
 	.tops_eventsingle_section .row div.tops_eventsingle_content {
 		padding-bottom: 30px;
 	}
@@ -2593,6 +2845,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 		padding-bottom: 65%;
 	}
 
+	.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent {
+		padding: 35px;
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+
 	.tops_eventsingle_section .row div.tops_eventsingle_content {
 		padding-right: 50px;
 	}
@@ -2839,6 +3097,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 	.tops_whyos_section .tops_whyos_item .tops_whyos_image {
 		padding-bottom: 45%;
+	}
+
+	.tops_howhelp_section .tops_howhelp_item .tops_howhelp_inner .tops_howhelp_boxcontent {
+		padding: 40px;
+		padding-left: 30px;
+		padding-right: 30px;
 	}
 
 	.tops_eventsingle_section .row div.tops_eventsingle_content {
