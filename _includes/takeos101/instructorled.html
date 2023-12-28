@@ -44,7 +44,13 @@
                         <td>{{ row.eventtype }}</td>
                         <td>{{ row.location }}</td>
                         <td>{{ row.module }}</td>
-                        <td>{{ row.moreinfo }}</td>
+                        <td>
+                          {% if row.moreinfo_link %}
+                            <a href="{{ row.moreinfo_link }}" target="_blank">{{ row.moreinfo }}</a>
+                          {% else %}
+                            {{ row.moreinfo }}
+                          {% endif %}
+                        </td>
                         </tr>
                       {% endfor %}
                     </tbody>
@@ -77,7 +83,13 @@
                         <td>{{ row.eventtype }}</td>
                         <td>{{ row.module }}</td>
                         <td>{{ row.instructor }}</td>
-                        <td>{{ row.register }}</td>
+                        <td>
+                          {% if row.register_link %}
+                            <a href="{{ row.register_link }}" target="_blank">{{ row.register }}</a>
+                          {% else %}
+                            {{ row.register }}
+                          {% endif %}
+                        </td>
                         </tr>
                       {% endfor %}
                     </tbody>

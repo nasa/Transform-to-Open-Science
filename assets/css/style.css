@@ -1274,6 +1274,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	word-wrap: break-word;
 	border-right: 1px solid #DDD;
 	box-sizing: border-box;
+	color: #222;
 }
 
 .tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_table tr th:last-of-type {
@@ -1287,6 +1288,20 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	word-wrap: break-word;
 	border-right: 1px solid #DDD;
 	box-sizing: border-box;
+	color: #222;
+}
+
+.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_table tr td a {
+	color: #D83E00;
+    -webkit-transition: opacity 0.3s ease;
+    -moz-transition: opacity 0.3s ease;
+    -ms-transition: opacity 0.3s ease;
+    -o-transition: opacity 0.3s ease;
+    transition: opacity 0.3s ease;
+}
+
+.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_table tr td a:hover, .tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_table tr td a:active, .tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_table tr td a:focus {
+	opacity: 0.65;
 }
 
 .tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_table tr td:last-of-type {
