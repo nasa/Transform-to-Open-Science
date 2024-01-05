@@ -1,6 +1,0 @@
----
-title: "What is the difference between open-source science and open science?"
-date: 2023-10-02
----
-
-Turpis tincidunt id aliquet risus feugiat in ante metus dictum. Dignissim convallis aenean et tortor at risus. Scelerisque purus semper eget duis at tellus at urna. Tincidunt dui ut ornare lectus sit amet est. Fermentum leo vel orci porta non pulvinar neque laoreet. Suspendisse sed nisi lacus sed viverra. Adipiscing vitae proin sagittis nisl rhoncus. Nibh tortor id aliquet lectus proin. A scelerisque purus semper eget duis at. Convallis convallis tellus id interdum velit laoreet id donec ultrices. Elementum nisi quis eleifend quam adipiscing vitae proin sagittis. Sit amet massa vitae tortor condimentum lacinia quis. Vestibulum mattis ullamcorper velit sed. Blandit aliquam etiam erat velit scelerisque. Sit amet dictum sit amet justo donec enim diam vulputate. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Amet nisl purus in mollis nunc sed. Est lorem ipsum dolor sit amet consectetur adipiscing.

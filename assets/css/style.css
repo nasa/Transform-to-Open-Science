@@ -1764,7 +1764,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	padding-bottom: 30px;
 }
 
-.accordion-body, .accordion-body p {
+.accordion-body p {
 	display: block;
     width: 100%;
     font-size: 16px;
@@ -1772,23 +1772,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 400;
     color: #777;
 	font-family: 'Nunito', sans-serif;
-}
-
-.accordion-body strong, .accordion-body p strong {
-	color: #222;
-}
-
-.accordion-body a, .accordion-body p a {
-	color: #D83E00;
-	-webkit-transition: opacity 0.3s ease;
-    -moz-transition: opacity 0.3s ease;
-    -ms-transition: opacity 0.3s ease;
-    -o-transition: opacity 0.3s ease;
-    transition: opacity 0.3s ease;
-}
-
-.accordion-body a:hover, .accordion-body p a:hover, .accordion-body a:active, .accordion-body p a:active, .accordion-body a:focus, .accordion-body p a:focus {
-	opacity: 0.65;
+	margin-bottom: 12px;
 }
 
 /* Event Styling */
@@ -2262,6 +2246,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	color: #FFF;
 }
 
+.accordion-body p strong {
+	color: #222;
+}
+
 .tops_eventsingle_content_text h2, .tops_eventsingle_content_text h3, .tops_eventsingle_content_text h4, .tops_eventsingle_content_text h5, .tops_eventsingle_content_text h6 {
 	display: block;
 	width: 100%;
@@ -2313,6 +2301,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: #777;
 }
 
+.tops_eventsingle_content_text ul li strong, .tops_eventsingle_content_text ol li strong, .tops_eventsingle_content_text ul li b, .tops_eventsingle_content_text ol li b {
+	color: #222;
+}
+
 .tops_eventsingle_content_text li a {
 	color: #D83E00;
 	-webkit-transition: opacity 0.3s ease;
@@ -2323,6 +2315,52 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .tops_eventsingle_content_text li a:hover, .tops_eventsingle_content_text li a:active, .tops_eventsingle_content_text li a:focus {
+	opacity: 0.65;
+}
+
+.accordion-body p a {
+	color: #D83E00;
+	-webkit-transition: opacity 0.3s ease;
+    -moz-transition: opacity 0.3s ease;
+    -ms-transition: opacity 0.3s ease;
+    -o-transition: opacity 0.3s ease;
+    transition: opacity 0.3s ease;
+}
+
+.accordion-body p a:hover, .accordion-body p a:active, .accordion-body p a:focus {
+	opacity: 0.65;
+}
+
+.accordion-body ul, .accordion-body ol {
+	width: 100%;
+	margin-bottom: 12px;
+}
+
+.accordion-body ul ul, .accordion-body ol ol {
+	margin-bottom: 0;
+}
+
+.accordion-body ul li, .accordion-body ol li {
+	font-size: 16px;
+    line-height: 1.6rem;
+    font-weight: 400;
+    color: #777;
+}
+
+.accordion-body ul li strong, .accordion-body ol li strong, .accordion-body ul li b, .accordion-body ol li b {
+	color: #222;
+}
+
+.accordion-body li a {
+	color: #D83E00;
+	-webkit-transition: opacity 0.3s ease;
+	-moz-transition: opacity 0.3s ease;
+	-ms-transition: opacity 0.3s ease;
+	-o-transition: opacity 0.3s ease;
+	transition: opacity 0.3s ease;
+}
+
+.accordion-body li a:hover, .accordion-body li a:active, .accordion-body li a:focus {
 	opacity: 0.65;
 }
 
