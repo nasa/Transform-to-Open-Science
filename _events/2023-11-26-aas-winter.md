@@ -12,4 +12,33 @@ map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d221274.5
 imageattribution: <a href="https://commons.wikimedia.org/wiki/User:Mattfryou">Mattfryou</a>, <a href="https://commons.wikimedia.org/wiki/File:New_Orleans_Ernest_N._Morial_Convention_Center.jpg">New Orleans Ernest N. Morial Convention Center</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA 4.0</a>
 ---
 
-TOPS is diligently gathering details about this event.  Stay tuned for more details!
+Come join TOPS @ AAS 243! 
+
+**Workshop:**
+
+How to write an Open Science & Data Management Plan
+- Sunday, Jan. 7, 9 - 4:30 p.m. CT
+- Rm. 207
+
+**Splinter:**
+
+Transform to Open Science Ethos Training
+- Wednesday, Jan. 10, 9 - 11:30 a.m. CT
+- Rm. 242
+
+**Session:**
+
+- Astrophysics and Open Science
+- Wednesday, Jan. 10, 1 - 2:30 p.m. CT
+  - Rm. 237
+
+**Exhibit Hall:**
+
+- NASA Exhibit Booth #702
+- Hyperwall Talk:
+  - Monday, Jan. 8, 9:20 - 9:35 a.m.
+
+**NASA Town Hall:**
+
+- Monday, Jan. 8, 12:45 - 1:45 p.m.
+- Great Hall A
