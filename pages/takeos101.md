@@ -27,19 +27,19 @@ Prefer a more self-paced virtual option? We've got you covered! Our MOOC option 
 Register Now
 {% endcapture %}
 
-<!---Contact Us Text-->
-{% capture takeos101-selfpaced-contactus-text %}
-Contact Us
-{% endcapture %}
-
 <!---Register Now Link-->
 {% capture takeos101-selfpaced-registernow-link %}
 https://openscience101.org/
 {% endcapture %}
 
+<!---Contact Us Text-->
+{% capture takeos101-selfpaced-contactus-text %}
+Contact Us
+{% endcapture %}
+
 <!---Contact Us Link-->
 {% capture takeos101-selfpaced-contactus-link %}
-mailto:hq-openscience@nasa.gov
+{{site.baseurl}}/contact
 {% endcapture %}
 <!---END Self Paced-->
 
@@ -73,7 +73,7 @@ Contact Us
 
 <!---Contact Us Link-->
 {% capture takeos101-instructorled-contactus-link %}
-mailto:hq-openscience@nasa.gov
+{{site.baseurl}}/contact
 {% endcapture %}
 <!---END Instructor Led-->
 
@@ -121,7 +121,7 @@ Contact Us
 
 <!---Contact Us Link-->
 {% capture takeos101-getinvolved-contact-link %}
-mailto:hq-openscience@nasa.gov
+{{site.baseurl}}/contact
 {% endcapture %}
 
 <!---Get Involved / Join Our Community Title (Plain Text)-->
