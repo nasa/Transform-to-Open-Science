@@ -34,7 +34,7 @@ Contact Us
 
 <!---Why Do Open Science Contact Button Link-->
 {% capture about-why-contact-link %}
-mailto:hq-openscience@nasa.gov
+{{site.baseurl}}/contact
 {% endcapture %}
 
 <!---Why Do Open Science / Embracing Title (Plain Text)-->
@@ -83,7 +83,7 @@ Contact Us
 
 <!---Strategic Objectives Contact Button Link-->
 {% capture about-strat-contact-link %}
-mailto:hq-openscience@nasa.gov
+{{site.baseurl}}/contact
 {% endcapture %}
 
 <!---Strategic Objectives / Accelerate Title (Plain Text)-->
@@ -142,7 +142,7 @@ Contact Us
 
 <!---Shoulders of Giants Contact Button Link-->
 {% capture about-giants-contact-link %}
-mailto:hq-openscience@nasa.gov
+{{site.baseurl}}/contact
 {% endcapture %}
 <!---END Shoulders of Giants-->
 
