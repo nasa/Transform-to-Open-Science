@@ -48,6 +48,10 @@ footermenu:
   url: "https://www.nasa.gov/privacy/"
   external: true
 
+- title: Past Newsletter Releases
+  url: "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Newsletters"
+  external: true
+
 # Curriculum Modules
 cmodules:
 
