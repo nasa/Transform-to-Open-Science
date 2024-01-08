@@ -65,7 +65,7 @@ Short presentation on TOPS initiative:
 ## Join TOPS Mailing List
 Please [join the TOPS email list](https://nasa.github.io/Transform-to-Open-Science/signup/) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations there.
 
-### Past Newsletters
+### Past Newsletter Releases
 For a preview of our content from our email list, feel free to read our [past newsletter releases](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Newsletters).
 
 ## Repository
