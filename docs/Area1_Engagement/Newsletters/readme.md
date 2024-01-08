@@ -1,6 +1,6 @@
 # TOPS Newsletters
-Browse through our archive of past TOPS newsletters to rediscover valuable news, content, and links that were previously distributed.
-
+Browse through our archive of past TOPS newsletters to rediscover valuable news, content, and links that were previously distributed.  Enjoying this content?  Stay up to date with our monthly newsletter releases and [sign up](https://nasa.github.io/Transform-to-Open-Science/signup/) for our email list.
+https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Newsletters
 ## 2023
 - [June Newsletter](https://conta.cc/43UWT0T)
 - [July Newsletter](https://conta.cc/3pvUriO)
