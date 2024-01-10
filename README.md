@@ -36,7 +36,7 @@ Open Science creates more advanced and inclusive research faster, builds a more 
 2023 is the Year of Open Science, a NASA initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) community coordinates efforts designed to rapidly transform agencies, organizations, and communities.* Learn more about NASA's Year of Open Science activities [here](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html).
 
 ### Thank You for Joining Us in a Year of Open Science!
-We would like to give a special thank you to organizations that participated with us in a Year of Open Science.
+We would like to give a special thank you to [organizations that participated](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html#id1) with us in a Year of Open Science.
 
 ### Join Us At Conferences! 
 Does your organization host a conference? Navigate straight to our [Year of Open Science Conferences](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/conferences_for_the_year_of_open_science.md) page to learn more about how TOPS wishes to work with you.
