@@ -9,7 +9,7 @@ The curriculum is available on the [NASA TOPS Github site](https://nasa.github.i
 1.  [Ethos of Open Science](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_science_ethos_module.md)
 2.  [Open Tools and Resources](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_tools_module.md)
 3.  [Open Data](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_data_module.md)
-4.  [Open Code](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_software_module.md)
+4.  [Open Code](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_code_module.md)
 5.  [Open Results](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_results_module.md)
 
 <img src="./images/overviewimage.png" style="width: 100%; height: auto;" />

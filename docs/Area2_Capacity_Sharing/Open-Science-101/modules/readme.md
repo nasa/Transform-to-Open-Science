@@ -19,7 +19,7 @@ Want to learn about the OS101 curriculum modules with brief overviews?  Read thr
 1. [Ethos of Open Science Overview](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_science_ethos_module.md)
 2. [Open Tools and Resources Overview](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_tools_module.md)
 3. [Open Data Overview](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_data_module.md)
-4. [Open Code Overview](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_software_module.md)
+4. [Open Code Overview](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_code_module.md)
 5. [Open Results Overview](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_results_module.md)
 
 ## Full OS101 Curriculum Modules
