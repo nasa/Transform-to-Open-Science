@@ -65,7 +65,7 @@ cmodules:
   url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_data_module.md"
 
 - title: Open Code
-  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_software_module.md"
+  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_code_module.md"
 
 - title: Open Results
   url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_results_module.md"
