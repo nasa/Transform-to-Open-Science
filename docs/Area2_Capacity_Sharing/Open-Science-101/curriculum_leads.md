@@ -17,6 +17,11 @@ Shilaan Alzahawi (Lead), Batool Almarzouq, Flavio Azevedo, Saranjeet Kaur Bhogal
 ### Open Results
 Natasha Batalha (Lead), Reina Camacho Toro, Elio Campitelli, Daniel Dunleavy, Anne Fouilloux, Michel Lacerda, Daniela Saderi, Malvika Sharan, Christopher Erdmann
 
+## Initial Module 1 (Ethos) slide development 2022
+Slides for Module 1 (Ethos of Open Science) were initially developed from the Opensciency material for a Nov 2, 2022 science team meeting. The material was taught and iterated on through 2023.  
+### Ethos of Open Science
+Chelle Gentemann, Yvonne Ivey, Cynthia Hall, Isabella Martinez, Jerika Christman, Paige Martin, Ryan McGranaghan, Diana Ly, Paul Bremner, Amy Truong, Kaylin Bugbee, Richard Barry, Karen Yuen, Cassie Conley, Rachel Paseka
+
 ## Champions Curriculum Development 2023
 
 TOPS Champions were selected as open science experts from across multiple NASA centers and across all NASA Science Divisions. The Champions help to promote TOPS and serve as an open science liaison for their centers. This team built off of previous OpenSciency content and made significant additions, edits, and/or updates to the ideas and written text in the corresponding module.
