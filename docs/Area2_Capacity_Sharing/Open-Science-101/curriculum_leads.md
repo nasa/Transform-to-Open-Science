@@ -42,21 +42,20 @@ Natasha Batalha (Lead), Pam Marcum (Co-Lead), Michael Barker, Jennifer Burt, Mag
 This team built off of previous content and made significant additions, edits, and/or updates to the ideas and written text in the corresponding module. This team also took part in the creative direction of what content to include and how the content fits together within the module, and across modules.
 
 ### Ethos of Open Science
-Paul Bremner, Chelle Gentemann, Paige Martin, Demitri Muna, Yo Yehudi 
+Chelle Gentemann, Yo Yehudi, Holly Norton, Malcolm Glover, Paige Martin, Steve Crawford, Paul Bremner, Natasha Batalha
 ### Open Tools and Resources
-Paul Bremner, Chelle Gentemann, Malcolm Glover, Paige Martin, James Munroe, Holly Norton
+James Munroe, Paige Martin, Chelle Gentemann, Steve Crawford, Holly Norton, Malcolm Glober, Paul Bremner
 ### Open Data
-Paul Bremner, Sara El-Gebali, Chelle Gentemann, Brian Knosp, Paige Martin, Demitri Muna
+Chelle Gentemann, Sara El-Gebali, Paige Martin, Steve Crawford, Brian Knosp, Paul Bremner, Demitri Muna
 ### Open Code
-Richard Barry, Paul Bremner, Chelle Gentemann, Paige Martin, Demitri Muna, Daniel Whitt
+Chelle Gentemann, Daniel Whitt, Demitri Muna, Paige Martin, Steve Crawford, Richard Barry, Paul Bremner
 ### Open Results
-Paul Bremner, Chelle Gentemann, Malcolm Glover, Paige Martin, Holly Norton, James Munroe, Malvika Sharan
-OS101 TOPS
+Malvika Sharan, Chelle Gentemann, James Munroe, Paige Martin, Steve Crawford, Paul Bremner
 
 ## Editors
 Editors are those who have taken part in the creative direction and visioning of content across all modules, ensuring consistency and appropriate level of content throughout the curriculum.
 
-Katherine Blanchette, Paul Bremner, Steve Crawford, Chelle Gentemann, Diana Ly, Paige Martin, Aaron McKinnon
+Chelle Gentemann, Steve Crawford, Aaron McKinnon, Diana Ly, Katherine Blanchette
 
 ## Original Artwork and Graphics
 Miki Huynh
