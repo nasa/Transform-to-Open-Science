@@ -43,6 +43,10 @@ Short presentation on TOPS initiative:
 
 The Open Science 101 curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan. Expand your Open Science expertise and equip yourself with the essential skills required to excel in the realm of open science. [Sign up today](https://nasa.github.io/Transform-to-Open-Science/take-os101/) to embark on your journey towards advancing your open science proficiency and gain your NASA Open Science Certification.
 
+### Get your NASA Open Science Badge
+
+To get badged for Open Science 101, find enrollment information [here](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
+
 ### Cite Open Science 101
 
 Are you researcher looking to cite our curriculum?  The following DOI information will allow you to cite the current version:
@@ -52,6 +56,10 @@ Are you researcher looking to cite our curriculum?  The following DOI informatio
 ### Contribute to Open Science 101
 
 TOPS has created a development version of the curriculum written in Markdown to enable the community to help make it even better.  It can be found [here](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).
+
+**Note:** This version of the curriculum will not allow  you to get badged.  To get badged for Open Science 101 [ enroll here](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
+
+#### Methods of Contributing
 
 To contribute, you can [create a pull request](https://github.com/nasa/Transform-to-Open-Science/pulls), [open an issue](https://github.com/nasa/Transform-to-Open-Science/issues), or [start a discussion](https://github.com/nasa/Transform-to-Open-Science/discussions). 
 
