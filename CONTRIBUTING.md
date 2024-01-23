@@ -88,3 +88,77 @@ Once you've identified something you'd like to help with you're ready to make a 
 For accepting new contributions, TOPS uses the [forking workflow](https://guides.github.com/activities/forking/). As the first step of your contribution, you'll want to fork this repository, make a local clone of it, add your contribution, and then create a pull request back to the TOPS repository.  
 
 All documentation should be written using Markdown and Github Markdown-supported HTML.  
+
+## Contributing to Open Science 101 on GitHub
+
+There are a few mechanisms that you can make use of to contribute to the OS 101 curriculum on GitHub.  Those methods specifically being Issues, Pull Requests, and Discussions. When suggesting a change to the curriculum, it is always recommended to link to a [specific part of the curriculum](#) and add screenshots so we know exactly what needs to be looked at.
+
+The below terms describe how we suggest using each mechanism for contributing to OS 101.
+
+**Issues:** Submit encountered issues or suggest improvements.  Links and images (screenshots) are highly recommended so we can identify the location in the curriculum that is being referred to.
+
+[Submit an Issue](https://github.com/nasa/Transform-to-Open-Science/issues)
+
+**Pull Requests:** Much like issues, links and images can be provided for context, but a direct change to files on the GitHub repository is proposed to apply a fix. TOPS will merge the change, modify the change if corrections are needed, or reject the change if no action is necessary.  To create a pull request, you will make use of a fork as previously described.
+
+[Submit a Pull Request](https://github.com/nasa/Transform-to-Open-Science/pulls)
+
+**Discussions:** Used to communicate with the community or TOPS, whether that is related to theory, application of concepts, curriculum feedback, sharing experiences, and more.
+
+[Start a Discussion](https://github.com/nasa/Transform-to-Open-Science/discussions)
+
+### How TOPS Keeps OS101 Contributions Organized
+
+To organize and add context to Issues, Pull Requests, and Discussions, this GitHub repository makes use of Labels.  Categories are used specifically for Discussions to help further organize them.  
+
+The definitions below will allow you to identify useful details for a specific contribution or discussion:
+
+#### Labels (Issues, Pull Requests, and Discussions)
+
+**Descriptive Labels - Gives more context as to the type of feedback being provided**
+
+- OS101 Curriculum: General Suggestions
+  - General feedback for the curriculum without needing to point to a specific part of the curriculum.
+- OS101 Curriculum: Content Suggestions
+  - Suggestions for text found in the open science 101 curriculum. Use Lesson and Module labels.
+- OS101 Curriculum: Graphic Suggestions
+  - Suggestions for graphics found in the open science 101 curriculum.  Use Lesson and Module Labels.
+- OS101 Curriculum: Knowledge Checks
+  - If feedback is with relation to a knowledge check, this label is useful for this.
+- OS101 Curriculum: Bug Report
+  - Bug reports that are specific to openscience101.org.
+
+**Status Labels - Used to indicate whether changes still need to be implemented on either GitHub or openscience101.org**
+
+- OS101 Status: Curriculum
+  - Openscience101.org still needs changes implemented.
+- OS101 Status: GitHub
+  - GitHub still needs changes implemented.
+- OS101 Status: No Change Needed
+  - Changes are not needed on either GitHub or Openscience101.org.
+
+**Module Labels - Used to point to specific module content**
+
+- Module: 1
+- Module: 2
+- Module: 3
+- Module: 4
+- Module: 5
+
+**Lesson Labels - Used to point to specific lesson content**
+
+- Lesson: 1
+- Lesson: 2
+- Lesson: 3
+- Lesson: 4
+- Lesson: 5
+
+#### Discussion Categories (Discussions Only)
+
+**OS101 Curriculum**
+
+- General: General questions, feedback, and comments for the OS101 curriculum.
+- Concepts: Talk about concepts taught in OS101, theory, applications in your research, potential for OS101 concepts to help solve difficult problems, and much more.
+- Why OS101?: If you are curious about taking the curriculum but not quite sure if it is right for your career path, we encourage you to voice questions/concerns you may have.
+- Workshops: Engage in discussions with fellow researchers about a specific workshop session, or workshops in general.
+- Success Stories: What kind of success has the OS101 curriculum enabled in your research?
