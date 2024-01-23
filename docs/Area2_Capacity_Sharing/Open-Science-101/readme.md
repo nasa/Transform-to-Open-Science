@@ -63,6 +63,10 @@ In order for the TOPS Open Science badge to be offered as part of in-person or v
 
 TOPS has created a development version of the curriculum written in Markdown to enable the community to help make it even better.  It can be found [here](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).
 
+**Note:** This version of the curriculum will not allow  you to get badged.  To get badged for Open Science 101 [ enroll here](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
+
+### Methods of Contributing
+
 To contribute, you can [create a pull request](https://github.com/nasa/Transform-to-Open-Science/pulls), [open an issue](https://github.com/nasa/Transform-to-Open-Science/issues), or [start a discussion](https://github.com/nasa/Transform-to-Open-Science/discussions). 
 
 For technical details on contributing to OS 101 and our GitHub in general please visit our [contributing page](../../../CONTRIBUTING.md#contributing-to-open-science-101-on-github).
