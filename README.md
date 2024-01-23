@@ -51,7 +51,7 @@ Are you researcher looking to cite our curriculum?  The following DOI informatio
 
 ### Contribute to Open Science 101
 
-TOPS has created a development version of the curriculum written in Markdown to enable the community to help make it even better.  It can be found [here](https://github.com/bressler1995/Transform-to-Open-Science/tree/open-science-101).
+TOPS has created a development version of the curriculum written in Markdown to enable the community to help make it even better.  It can be found [here](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).
 
 To contribute, you can [create a pull request](https://github.com/nasa/Transform-to-Open-Science/pulls), [open an issue](https://github.com/nasa/Transform-to-Open-Science/issues), or [start a discussion](https://github.com/nasa/Transform-to-Open-Science/discussions). 
 
@@ -59,7 +59,7 @@ For technical details on contributing to OS 101 and our GitHub in general please
 
 ### Documentation
 
-For documentation and resources related to the curriculum, check [this directory](./docs/Area2_Capacity_Sharing/Open_Science_101/).
+For documentation and resources related to the curriculum, check [this directory](./docs/Area2_Capacity_Sharing/Open-Science-101/).
 
 ## TOPS and the Year of Open Science
 
