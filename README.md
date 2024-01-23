@@ -45,9 +45,9 @@ The Open Science 101 curriculum is a 5-module curriculum designed to equip resea
 
 ### Cite Open Science 101
 
-Are you researcher looking to cite our curriculum?  The following DOI information will allow you to do this:
+Are you researcher looking to cite our curriculum?  The following DOI information will allow you to cite the current version:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5621674.svg)](https://doi.org/10.5281/zenodo.5621674)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10161527.svg)](https://doi.org/10.5281/zenodo.10161527)
 
 ### Contribute to Open Science 101
 
@@ -115,6 +115,7 @@ Reach out to TOPS directly [using our contact form](https://docs.google.com/form
 
 ## Announcements!
 
+- Open Science 101 has been released and is now citable!
 - The TOPS resource on [Open Science funding opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md) has been updated to highlight current NASA solicitations for open science.
 - Materials from the CERN-NASA 2023 Open Science Summit “[Accelerating the Adoption of Open Science](https://home.cern/news/news/knowledge-sharing/cern-and-nasa-join-forces-commit-research-future-open-and-accessible)” are openly available and may be of interest to those who wish to learn about developing policies and strategic plans for open science. View the presentation [recordings](https://cds.cern.ch/search?f=490__a&p=Accelerating%20the%20Adoption%20of%20Open%20Science) and [slides](https://zenodo.org/communities/cern-nasa-open-science-summit-july-2023/?page=1&size=20).
 - NASA is pleased to announce [award selections](https://www.nasa.gov/centers/marshall/news/releases/2023/nasa-boosts-open-science-through-innovative-training) for the Transform to Open Science Training [TOPST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init) proposals. These exciting projects showcase open science in action and will advance adoption of open science by helping participants earn their NASA Open Science Certification through summer schools and virtual cohorts. [Enroll here](https://nasa.github.io/Transform-to-Open-Science/signup/) to learn more about opportunities to participate and earn your NASA open science certification!
