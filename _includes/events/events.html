@@ -14,7 +14,7 @@
 			<div class="tops_events_tiles">
 				{% assign sorted = site.events | sort: 'date' | reverse %}
 				{% for event in sorted %}
-					
+					{% unless event.invisible == true %}
 					<div class="tops_events_tile {% if forloop.index == 1 %}tops_events_tile_larger{% endif %}">
 						<a href="{{ event.url | absolute_url }}">
 							<div class="tops_events_tile_image"><img src="{{ site.baseurl }}/{{ event.image }}"></div>
@@ -40,7 +40,7 @@
 							</div>
 						</a>
 					</div>
-					
+					{% endunless %}
 				{% endfor %}
 			</div>
 		</div>
