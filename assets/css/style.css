@@ -576,8 +576,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-size: 16px;
 	line-height: 1.6rem;
 	font-weight: 400;
-	color: #777;
 	margin-bottom: 12px;
+}
+
+.tops_half_section:not(.tops_overlay_section) p {
+	color: #777;
+}
+
+.tops_half_section.tops_overlay_section p {
+	color: rgba(255, 255, 255, 0.85);
 }
 
 .tops_half_section p:last-of-type {
@@ -607,9 +614,16 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .tops_half_section .tops_half_section_shinysquare {
 	display: block;
 	position: absolute;
-	background: linear-gradient(132deg, #D83E00 0%, #0D425F 49.95%);
 	z-index:2;
 	border-radius: 5px;
+}
+
+.tops_half_section:not(.blue_overlay) .tops_half_section_shinysquare {
+	background: linear-gradient(132deg, #D83E00 0%, #0D425F 49.95%);
+}
+
+.tops_half_section.blue_overlay .tops_half_section_shinysquare {
+	background: linear-gradient(132deg, #1E8806 0%, #D83E00 49.95%);
 }
 
 .tops_half_section.half_section_left .tops_half_section_shinysquare {
@@ -891,7 +905,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     transform: rotate(180deg);
 }
 
-.tops_blue_divider_section h2 {
+.tops_blue_divider_section:not(.tops_half_section) h2 {
 	display: block;
 	width: 100%;
 	font-size: 42px;
@@ -2238,6 +2252,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	color: #222;
 }
 
+.tops_overlay_section.tops_half_section p b, .tops_overlay_section.tops_half_section p strong {
+	color: #FFF;
+}
+
 .tops_eventsingle_content_text p b, .tops_eventsingle_content_text p strong {
 	color: #222;
 }
@@ -2453,6 +2471,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	
 	.tops_hero.home_hero {
 		min-height: 520px;
+	}
+	
+	.tops_hero_align_50_55 {
+		background-position: 50% 50%;
+	}
+	
+	.tops_hero_align_50_60 {
+		background-position: 50% 50%;
 	}
 	
 	.tops_hero_align_50_65 {
@@ -2783,6 +2809,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 		min-height: 60vh;
 	}
 	
+	.tops_hero_align_50_55 {
+		background-position: 50% 50%;
+	}
+	
+	.tops_hero_align_50_60 {
+		background-position: 50% 50%;
+	}
+	
 	.tops_hero_align_50_65 {
 		background-position: 50% 50%;
 	}
@@ -3000,6 +3034,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	
 	.tops_hero.home_hero {
 		min-height: 75vh;
+	}
+	
+	.tops_hero_align_50_55 {
+		background-position: 50% 55%;
+	}
+	
+	.tops_hero_align_50_60 {
+		background-position: 50% 60%;
 	}
 	
 	.tops_hero_align_50_65 {
