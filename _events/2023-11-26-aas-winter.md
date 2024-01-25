@@ -1,9 +1,10 @@
 ---
 layout: event
-title:  "American Astronomical Society (AAS) Winter"
+title:  "American Astronomical Society (AAS)"
 permalink: "/events/aas-2024/"
 image: assets/img/events/aaswinter.jpg
 imagecaption: "An image of the Ernest N. Morial Convention Center in New Orleans, LA where AAS will be held."
+date: 2023-11-26
 daterange: "Jan 7 - 11, 2024"
 location: "New Orleans, LA"
 venue: "Ernest N. Morial Convention Center"

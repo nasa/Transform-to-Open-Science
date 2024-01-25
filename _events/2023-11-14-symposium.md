@@ -5,8 +5,8 @@ invisible: true
 permalink: "/events/tops-symposium/"
 image: assets/img/events/symposium.jpg
 imagecaption: "An image of Kennedy Space Center in Cape Canaveral, FL where TOPS Symposium will be held."
+date: 2023-11-14
 daterange: "Feb 28 - Mar 1, 2024"
-date: 2023-11-15
 location: "Cape Canaveral, FL"
 venue: "Kennedy Space Center"
 acronyms: "BPS,Planetary,Helio,Earth,Astro"
