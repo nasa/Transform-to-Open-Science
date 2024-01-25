@@ -1,10 +1,11 @@
 ---
 layout: event
-title:  "Geological Society of America Annual Meeting"
-permalink: "/events/gsa-annual-2024/"
+title:  "The Geological Society of America (GSA) Connects"
+permalink: "/events/gsa-connects-2024/"
 image: assets/img/events/gsa.jpg
 imagecaption: "An image of Anaheim, CA where GSA will be held."
-daterange: "Sep 22 - 25, 2024"
+date: 2023-11-19
+daterange: "Sep 22 - 24, 2024"
 location: "Anaheim, CA"
 venue: "To be announced"
 acronyms: "Earth"
