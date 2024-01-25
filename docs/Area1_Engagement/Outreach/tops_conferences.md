@@ -4,7 +4,7 @@ Sync your calendar to ours using Google Calendar! [GCAL](https://calendar.google
 
 |Date |Conference |City | TOPS Conference Focus Area | 
 | - | - | - | - |
-| Dec 11 - 15, 2023 | American Geophysical Union (AGU) Fall | San Francisco, CA | BPS, Planetary, Helio, Earth, Astro |
+| Dec 11 - 15, 2023 | American Geophysical Union (AGU) Fall Meeting | San Francisco, CA | BPS, Planetary, Helio, Earth, Astro |
 | Jan 7 - 11, 2024 | American Astronomical Society (AAS) | New Orleans, LA | Astro |
 | Jan 28 - Feb 1, 2024 | American Meteorological Society (AMS) | Baltimore, MD | Helio, Earth |
 | Feb 15 - 17, 2024 | American Association for the Advancement of Science (AAAS) Meeting | Denver, CO | BPS, Planetary, Helio, Earth, Astro |
@@ -14,8 +14,7 @@ Sync your calendar to ours using Google Calendar! [GCAL](https://calendar.google
 | Sep 22 - 24, 2024 | The Geological Society of America (GSA) Connects | Anaheim, CA | Earth |
 | Oct 31 - Nov 2, 2024 | Society for the Advancement of Chicanos and Native Americans in Science (SACNAS) | Phoenix, AZ | HUGs |
 | Oct-24 | HBCU Climate Change Conference | TBD | HUGs |
-| Dec-24 | American Geophysical Union (AGU) Fall | San Francisco, CA | BPS, Planetary, Helio, Earth, Astro |
-| Dec 9 - 13, 2024 | American Geophysical Union (AGU) Fall Meeting | San Francisco, CA | BPS, Planetary, Helio, Earth, Astro |
+| Dec 9 - 13, 2024 | American Geophysical Union (AGU) Fall Meeting | Washington, D.C. | BPS, Planetary, Helio, Earth, Astro |
 
 #### Acronyms
 * BPS = Biological and Physical Sciences Division
