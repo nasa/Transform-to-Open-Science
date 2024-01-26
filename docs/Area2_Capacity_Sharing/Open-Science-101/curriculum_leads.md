@@ -43,7 +43,7 @@ Editors are those who have taken part in the creative direction and visioning of
 **All modules -** Chelle Gentemann, Steve Crawford, Aaron McKinnon, Diana Ly, Katherine Blanchette
 
 ## Original Artwork and Graphics
-Miki Huynh
+Miki Huynh, Tanner Boeger
 
 ## Reviewers
 Reviewers are those who have reviewed the curriculum content and provided meaningful feedback.
