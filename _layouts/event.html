@@ -73,9 +73,15 @@ layout: default
         </div>
         <div class="col-12 col-md-4 col-lg-3 tops_eventsingle_sidebar">
           <div class="tops_eventsingle_sidebar_widget">
-              <h3 class="mb-2">Event Details</h3>
+              <h3 class="mb-2">
+                {% if page.symposium %}
+                  Event Location Details
+                {% else %}
+                  Event Details
+                {% endif %}
+              </h3>
               <div class="tops_divider div_smallest justify-content-start mb-3"><div class="div_inner"></div></div>
-              <p class="tops_eventsingle_widgetdescription">Interested in going to this event?  Below is basic information about when the event will happen and how to get there.</p>
+              <p class="tops_eventsingle_widgetdescription">{% if page.symposium %}Refer to event description for more details.{% else %}Interested in going to this event?  Below is basic information about when the event will happen and how to get there.{% endif %}</p>
               <div class="tops_eventsingle_image_box d-flex flex-row flex-wrap align-items-start">
                   <div class="tops_image_box_imagecol text-start">
                       <div class="tops_image_box_imageinner"><i class="fa-solid fa-calendar-days"></i></div>
