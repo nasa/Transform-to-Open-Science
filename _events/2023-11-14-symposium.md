@@ -5,7 +5,7 @@ invisible: true
 symposium: true
 permalink: "/events/tops-symposium/"
 image: assets/img/events/symposium.jpg
-imagecaption: "An image of the Astronaut Memorial Foundation(AMF) in Kennedy Space Center, FL."
+imagecaption: "An image of the Astronaut Memorial Foundation (AMF), The Center for Space Education."
 date: 2023-11-14
 daterange: "Feb 27 - 29, 2024"
 location: "Kennedy Space Center, FL"
@@ -62,7 +62,7 @@ Please be aware that the launch may potentially affect tours.
     - Address: 1275 N. Atlantic Ave, Cocoa Beach, FL., 32931
     - Amenities: Free wifi, free parking, free breakfast, Cocoa Beach location, and restaurant/bar on premises. 
 
-Special Instructions for Foreign Nationals:
+**Special Instructions for Foreign Nationals:**
 
 - Contact: Please send the required information to Kaitlyn A. Hedderman at kaitlyn.a.hedderman@nasa.gov and Shannon N. Gant at shannon.n.gant@nasa.gov <span style="color:red;">as soon as possible.</span>
 - Required Information:
