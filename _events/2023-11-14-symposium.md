@@ -5,7 +5,7 @@ invisible: true
 symposium: true
 permalink: "/events/tops-symposium/"
 image: assets/img/events/symposium.jpg
-imagecaption: "An image of Kennedy Space Center in Cape Canaveral, FL."
+imagecaption: "An image of the Astronaut Memorial Foundation(AMF) in Kennedy Space Center, FL."
 date: 2023-11-14
 daterange: "Feb 27 - 29, 2024"
 location: "Kennedy Space Center, FL"
@@ -54,12 +54,12 @@ Please be aware that the launch may potentially affect tours.
 - Book Travel and Transportation: Arrange your flights and vehicle accommodations. We advise NASA Civil Servants and Contractors to adhere to the travel guidelines set by their respective offices or companies. (NCST # to be provided here asap.) 
 - Book Hotel Accommodations:  [List of Area Hotels](https://hotelpackages.kennedyspacecenter.com/site/welcome/14588/kennedy-space-center-discount-hotel-packages?_gl=1*1yw5agw*_gcl_au*MTI3NzAzMDc0Mi4xNzAxODAyMzQy) and [Visit Space Coast Hotel Options](https://www.visitspacecoast.com/stay/) for recommendations. 
   - Currently, we have secured a limited number of hotel rooms. Should the TOPS PMO successfully secure additional accommodations, we will promptly inform you of the updates here: 
-    - [La Quinta Inn Cocoa Beach-Port Canaveral](https://www.wyndhamhotels.com/laquinta/cocoa-beach-florida/la-quinta-inn-cocoa-beach-port-canaveral/overview?CID=LC:6ysy27krtpcrqev:52698) offered us a negotiated rate for 20 rooms - first come first serve - with a reservation cut off date of 2/12/2024. This is for arrival between 02/26/2024 and check out by 03/01/2024, with a negotiated daily rate of $175.00 a night (after tax and  fees total of $204.75 per night).
+    - Hotel: [La Quinta Inn Cocoa Beach-Port Canaveral](https://www.wyndhamhotels.com/laquinta/cocoa-beach-florida/la-quinta-inn-cocoa-beach-port-canaveral/overview?CID=LC:6ysy27krtpcrqev:52698) offered us a negotiated rate for 20 rooms - first come first serve - with a reservation cut off date of 2/12/2024. This is for arrival between 02/26/2024 and check out by 03/01/2024, with a negotiated daily rate of $175.00 a night (after tax and  fees total of $204.75 per night).
       - To receive this rate, use:
         - Group Code: NASA
         - Group Name: NASA TOPS 
         - Book before 2/12/2024
-    - 1275 N. Atlantic Ave, Cocoa Beach, FL., 32931
+    - Address: 1275 N. Atlantic Ave, Cocoa Beach, FL., 32931
     - Amenities: Free wifi, free parking, free breakfast, Cocoa Beach location, and restaurant/bar on premises. 
 
 Special Instructions for Foreign Nationals:
