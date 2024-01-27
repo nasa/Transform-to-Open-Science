@@ -65,7 +65,7 @@ Amanda Adams, Paul Bremner, Brian Ressler, Adam Farragut, Jaclyn Stursma, Shanno
 ## TOPS Team at NASA Headquarters
 This team is responsible for the overall vision and scope of the TOPS initiative.  The team is part of the Office of the Chief Science Data Officer for the Science Mission Directorate. 
 
-Kevin Murphy, Steve Crawford, Chelle Gentemann, Paige Martin, Holly Norton, Malcolm Glover, Cynthia Hall, Yvonne Ivey-Parker, Isabella Martinez, Yaitza Luna-Cruz
+Kevin Murphy, Steve Crawford, Chelle Gentemann, Yvonne Ivey-Parker, Isabella Martinez, Paige Martin, Holly Norton, Malcolm Glover, Cynthia Hall, Yaitza Luna-Cruz
 
 Some early material was developed under a NASA grant to the AGU #80NSSC22K0734 PI: Shelley Stall. 
 
