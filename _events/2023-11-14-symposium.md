@@ -15,7 +15,7 @@ map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17668.21
 
 The TOPS Symposium is a pivotal event under NASA's Transform to Open Science initiative, designed to mainstream the OS101 curriculum and advance an inclusive culture of open science! This three-day symposium will include plenary talks, working sessions, time to network, and tours of NASA's facilities. There may even be a [launch](https://www.visitspacecoast.com/launches/) during our time there!
 
-**The goals of the TOPS Symposium include:**
+**TOPS Symposium Goals**
 
 - Laying the foundation for creating a unified approach to training people in open science
 - Learning from those that have begun to teach the curriculum
@@ -51,7 +51,7 @@ Please be aware that the launch may potentially affect tours.
 
 **Action Items for In-Person Attendees:**
 
-- Book Travel and Transportation: Arrange your flights and vehicle accommodations. We advise NASA Civil Servants and Contractors to adhere to the travel guidelines set by their respective offices or companies. (NCST # to be provided here asap.) 
+- Book Travel and Transportation: Arrange your flights and vehicle accommodations. We advise NASA Civil Servants and Contractors to adhere to the travel guidelines set by their respective offices or companies. (NCST # and attendance registration for NASA attendees provided in the following section within this event page.) 
 - Book Hotel Accommodations:  [List of Area Hotels](https://hotelpackages.kennedyspacecenter.com/site/welcome/14588/kennedy-space-center-discount-hotel-packages?_gl=1*1yw5agw*_gcl_au*MTI3NzAzMDc0Mi4xNzAxODAyMzQy) and [Visit Space Coast Hotel Options](https://www.visitspacecoast.com/stay/) for recommendations. 
   - Currently, we have secured a limited number of hotel rooms. Should the TOPS PMO successfully secure additional accommodations, we will promptly inform you of the updates here: 
     - Hotel: [La Quinta Inn Cocoa Beach-Port Canaveral](https://www.wyndhamhotels.com/laquinta/cocoa-beach-florida/la-quinta-inn-cocoa-beach-port-canaveral/overview?CID=LC:6ysy27krtpcrqev:52698) offered us a negotiated rate for 20 rooms - first come first serve - with a reservation cut off date of 2/12/2024. This is for arrival between 02/26/2024 and check out by 03/01/2024, with a negotiated daily rate of $175.00 a night (after tax and  fees total of $204.75 per night).
@@ -61,6 +61,23 @@ Please be aware that the launch may potentially affect tours.
         - Book before 2/12/2024
     - Address: 1275 N. Atlantic Ave, Cocoa Beach, FL., 32931
     - Amenities: Free wifi, free parking, free breakfast, Cocoa Beach location, and restaurant/bar on premises. 
+
+**Registering Attendance for In-Person and Virtual <u>NASA</u> Attendees:** Register your attendance <span style="color:red;">as soon as possible.</span>
+
+- Navigate to the internal site: [NCTS SITE](https://ncts.nasa.gov/ncts.ui/index.html?ACSREQUESTID=Kd708f1de5b3e5d3a1f58ea049298da4ec3f3d6b1).
+- On the left side toolbar, select "Find a Conference".
+- Under the “Conference Records” window, search for the Conference Number using the "Filter" search bar.
+- Find the NCTS Conference Number for the event in this format: XXXX-XX .
+- Double click the event, which will pop open a separate window.
+- Click "Request Attendance", which will route you to a separate web page under NCTS.
+- Complete the form:
+  - For internal SMD Attendees, select "HQ/SMD" as your Center; this will ensure your request is routed to the proper POC – Org. code and Employee type should auto populate.
+  - For Attendee Type, select the most appropriate option.  
+  - For Participant Type, select "In Person" or "Virtual".  
+  - For Justification, provide a brief reason for attendance; this should not affect your approval, but it should be completed.
+- Submit to register your attendance. You will receive an email notification stating your submission has been received.
+- Upon approval, you will receive an email confirming approval; this may take a few days.
+- Once approved, route through your typical channels for allocating travel.
 
 **Special Instructions for Foreign Nationals:**
 
