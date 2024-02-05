@@ -4,13 +4,15 @@
 
 To support everyone's path to a more open and equitable scientific future, TOPS has created an Open Science 101 (OS101) curriculum. The curriculum aims to introduce learners to a nuanced understanding of open science, enabling participants to actively participate in open science. The five modules introduce participants to the definitions, tools, and resources available to share their research process and products more openly.
 
-The curriculum is available on the [NASA TOPS Github site](https://nasa.github.io/Transform-to-Open-Science/) and can be taken as a massive open online course (MOOC). NASA TOPS Open Science 101 was developed by the [global open science community](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/curriculum_leads.md) to help everyone learn the key practical skills and useful tools that help us all work openly together. The five Open Science 101 modules are:
+The curriculum is available on the [NASA TOPS Github site](https://nasa.github.io/Transform-to-Open-Science/) and can be taken as a massive open online course (MOOC). NASA TOPS Open Science 101 was developed by the [global open science community](./curriculum_leads.md) to help everyone learn the key practical skills and useful tools that help us all work openly together.
 
-1.  [Ethos of Open Science](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_science_ethos_module.md)
-2.  [Open Tools and Resources](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_tools_module.md)
-3.  [Open Data](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_data_module.md)
-4.  [Open Code](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_code_module.md)
-5.  [Open Results](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_results_module.md)
+## Overview of 5 Modules
+
+1.  [Ethos of Open Science](./modules/open_science_ethos_module.md)
+2.  [Open Tools and Resources](./modules/open_tools_module.md)
+3.  [Open Data](./modules/open_data_module.md)
+4.  [Open Code](./modules/open_code_module.md)
+5.  [Open Results](./modules/open_results_module.md)
 
 <img src="./images/overviewimage.png" style="width: 100%; height: auto;" />
 
@@ -32,7 +34,7 @@ Open Science 101 aims to introduce learners to a nuanced understanding of open s
 
 The curriculum is designed to be completed either independently, through a MOOC or in a group, at in-person or online workshops. The NASA TOPS site has more information about other modes for taking the curriculum. The time commitment to complete all five modules is about 3 - 12 hours, depending on your knowledge of open science.
 
-Additional information about the module [structure](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/curriculum_structure.md) is provided.
+Additional information about the module [structure](./curriculum_structure.md) is provided.
 
 ### Course Creation
 
@@ -48,11 +50,23 @@ For instructor-led workshops (in-person and virtual), the materials will be orga
 
 ## Badging
 
-Upon completion of all five [Open Science 101](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/readme.md) modules, you will earn a NASA Open Science digital badge! The NASA Open Science badge is issued through Credly and is linked to your [ORCID](https://orcid.org/) account. These digital badges can be added to resumes, personal websites, professional networking websites, or social media websites.
+Upon completion of all five [Open Science 101](./readme.md) modules, you will earn a NASA Open Science digital badge! The NASA Open Science badge is issued through Credly and is linked to your [ORCID](https://orcid.org/) account. These digital badges can be added to resumes, personal websites, professional networking websites, or social media websites.
 In order for the TOPS Open Science badge to be offered as part of in-person or virtual workshops, the following minimum requirements must be met.
 - The event must be registered with the TOPS team at hq-openscience@nasa.gov.
 - Teach at least one module in full (Note: Although modules can stand alone, we recommend teaching The Ethos of Open Science alongside your chosen module, as it provides the foundational understanding for open science practices and benefits to users).
 - Have at least one [certified](https://carpentries.org/instructors/) instructor or apply for a waiver (application link TBD).
 - Must use TOPS Open Science 101 curriculum materials.
 - Survey course participants before and after completion, using a survey that TOPS will provide for your use.
-- Abide by the TOPS [Code of Conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md).
+- Abide by the TOPS [Code of Conduct](../../../CODE_OF_CONDUCT.md).
+
+## Contribute to Open Science 101
+
+TOPS has created a development version of the curriculum written in Markdown to enable the community to help make it even better.  It can be found [here](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).
+
+**Note:** This version of the curriculum will not allow  you to get badged.  To get badged for Open Science 101 [ enroll here](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
+
+### Methods of Contributing
+
+To contribute, you can [create a pull request](https://github.com/nasa/Transform-to-Open-Science/pulls), [open an issue](https://github.com/nasa/Transform-to-Open-Science/issues), or [start a discussion](https://github.com/nasa/Transform-to-Open-Science/discussions). 
+
+For technical details on contributing to OS 101 and our GitHub in general please visit our [contributing page](../../../CONTRIBUTING.md#contributing-to-open-science-101-on-github).
