@@ -1,3 +1,0 @@
-# Resources for Writing a NASA Inclusion Plan
-
-ROSES-2022 introduced the [requirement](https://science.nasa.gov/researchers/sara/faqs#1) of **Inclusion Plans** for several NASA proposals. Although [F.14: TOPST](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860824/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/F.14_TOPST_Amend46.pdf) does not require an Inclusion Plan, we note that the spirit of such a plan is in line with the values of TOPS. As the resource page for writing Inclusion plans is under development, we have curated a few resources from the community [here](https://nasa.github.io/Transform-to-Open-Science-Book/Proposal_Resources/inclusion_plan_resources.html).
