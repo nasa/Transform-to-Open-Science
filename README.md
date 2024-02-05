@@ -129,7 +129,7 @@ Reach out to TOPS directly [using our contact form](https://docs.google.com/form
 
 ## Announcements!
 
-- Open Science 101 has been released and is now citable!
+- Open Science 101 has been [released](https://github.com/nasa/Transform-to-Open-Science/releases/tag/v1.0.0) and is now citable!
 - The development version of Open Science 101 has been relocated [here](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).  Read more about contributing [here](./CONTRIBUTING.md#contributing-to-open-science-101-on-github).
 - The TOPS resource on [Open Science funding opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md) has been updated to highlight current NASA solicitations for open science.
 - Materials from the CERN-NASA 2023 Open Science Summit “[Accelerating the Adoption of Open Science](https://home.cern/news/news/knowledge-sharing/cern-and-nasa-join-forces-commit-research-future-open-and-accessible)” are openly available and may be of interest to those who wish to learn about developing policies and strategic plans for open science. View the presentation [recordings](https://cds.cern.ch/search?f=490__a&p=Accelerating%20the%20Adoption%20of%20Open%20Science) and [slides](https://zenodo.org/communities/cern-nasa-open-science-summit-july-2023/?page=1&size=20).
