@@ -45,6 +45,8 @@ Event Dates and Schedule:
 - February 28th: 10:00 AM - 5:00 PM (Presentations & Working Sessions, breakouts by topic - OS101 Training and Science Core)
 - February 29th: 8:30 AM - 4:30 PM (Kennedy Space Center Round-Robin Tours and Co-working Time)
 
+<span style="color:red;">We ask that all attendees complete the OS101 training prior to the event.</span> Attendees will receive a certificate and pin, in addition to the digital badge awarded through the MOOC. 
+
 Please be aware that the launch may potentially affect tours.
 
 **Details for Virtual Attendees:** Information and the joining link for the event will be provided here shortly.
