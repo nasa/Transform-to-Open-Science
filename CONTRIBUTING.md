@@ -91,7 +91,7 @@ All documentation should be written using Markdown and Github Markdown-supported
 
 ## Contributing to Open Science 101 on GitHub
 
-There are a few mechanisms that you can make use of to contribute to the OS 101 curriculum on GitHub.  Those methods specifically being Issues, Pull Requests, and Discussions. When suggesting a change to the curriculum, it is always recommended to link to a [specific part of the curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101) and add screenshots so we know exactly what needs to be looked at.
+There are a few mechanisms that you can make use of to contribute to the [OS 101 curriculum on GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).  Those methods specifically being Issues, Pull Requests, and Discussions. When suggesting a change to the curriculum, it is always recommended to link to a [specific part of the curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101) and add screenshots so we know exactly what needs to be looked at.
 
 The below terms describe how we suggest using each mechanism for contributing to OS 101.
 
