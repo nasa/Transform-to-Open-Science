@@ -157,8 +157,8 @@ The definitions below will allow you to identify useful details for a specific c
 
 **OS101 Curriculum**
 
-- General: General questions, feedback, and comments for the OS101 curriculum.
-- Concepts: Talk about concepts taught in OS101, theory, applications in your research, potential for OS101 concepts to help solve difficult problems, and much more.
+- OS101 General: General questions, feedback, and comments for the OS101 curriculum.
+- OS101 Concepts: Talk about concepts taught in OS101, theory, applications in your research, potential for OS101 concepts to help solve difficult problems, and much more.
 - Why OS101?: If you are curious about taking the curriculum but not quite sure if it is right for your career path, we encourage you to voice questions/concerns you may have.
-- Workshops: Engage in discussions with fellow researchers about a specific workshop session, or workshops in general.
-- Success Stories: What kind of success has the OS101 curriculum enabled in your research?
+- OS101 Workshops: Engage in discussions with fellow researchers about a specific workshop session, or workshops in general.
+- OS101 Success Stories: What kind of success has the OS101 curriculum enabled in your research?
