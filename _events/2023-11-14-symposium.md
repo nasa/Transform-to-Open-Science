@@ -49,9 +49,9 @@ Event Dates and Schedule:
 
 Please be aware that the launch may potentially affect tours.
 
-**Details for Virtual Attendees:** Information and the joining link for the event will be provided here shortly.
+**Guidance for Virtual Attendees:** Information and the joining link for the event will be provided here shortly.
 
-**Action Items for In-Person Attendees:**
+**Guidance for In Person Attendees:**
 
 - Book Travel and Transportation: Arrange your flights and vehicle accommodations. We advise NASA Civil Servants and Contractors to adhere to the travel guidelines set by their respective offices or companies. (NCTS # and attendance registration guidance for NASA attendees is provided in the following section within this event page.) 
 - Book Hotel Accommodations:  [List of Area Hotels](https://hotelpackages.kennedyspacecenter.com/site/welcome/14588/kennedy-space-center-discount-hotel-packages?_gl=1*1yw5agw*_gcl_au*MTI3NzAzMDc0Mi4xNzAxODAyMzQy) and [Visit Space Coast Hotel Options](https://www.visitspacecoast.com/stay/) for recommendations. 
@@ -64,7 +64,7 @@ Please be aware that the launch may potentially affect tours.
     - Address: 1275 N. Atlantic Ave, Cocoa Beach, FL., 32931
     - Amenities: Free wifi, free parking, free breakfast, Cocoa Beach location, and restaurant/bar on premises. 
 
-**Registering Attendance for In-Person and Virtual <u>NASA</u> Attendees:** Register your attendance <span style="color:red;">as soon as possible.</span>
+**Registering Attendance for In Person and Virtual <u>NASA</u> Attendees:** Register your attendance <span style="color:red;">as soon as possible.</span>
 
 - Navigate to the internal site: [NCTS SITE](https://ncts.nasa.gov/ncts.ui/index.html?ACSREQUESTID=Kd708f1de5b3e5d3a1f58ea049298da4ec3f3d6b1).
 - On the left side toolbar, select "Find a Conference".
