@@ -99,13 +99,13 @@ Before someone else can use your code, they're going to ask some questions:
 - In what ways am I allowed to use your code?
 - Will you accept changes to your code? If I find a bug, what do I do?
 - How do I trust your code works?
-- How do I know if the code will be supported long term?
+- How do I know if the code will be supported long-term?
 
 ## Importance of Version Control
 
 Your code will change significantly over the lifetime of your project. Just as we appreciate the ability to track earlier versions of documents or versions created by different people, inevitably someone will want to be able to revert, compare, and synthesize changes in code.
 
-The most popular tool for version control is git. Git is a system that tracks changes in computer files, similar to Google Docs or SharePoint but more applicable to code script. Git is usually used in conjunction with a version control platform such as GitHub, Gitlab, or Bitbucket. These tools were covered in Module 2.2.
+The most popular tool for version control is git. Git is a system that tracks changes in computer files, similar to Google Docs or SharePoint but more applicable to code script. Git is usually used in conjunction with a version control platform such as GitHub, GitLab, or Bitbucket. These tools were covered in Module 2.2.
 
 Version control enables the following:
 
@@ -134,9 +134,9 @@ At the minimum, a README should contain the name of the project and a very short
 | **Bad** README example | "This code recomputes the fundamental permutation factor of the downward flow (for J < 10, obviously)." |
 | **Good** README example | "LeapKitten. This Python software package takes any picture of a kitten (JPEG, PNG) and uses artificial intelligence to output what it would look like leaping into the air. In addition, the code takes leap years into account on the timestamp on the image." |
 
-In addition, the following information is helpful to add to the README especially if they are not listed elsewhere:
+In addition, the following information is helpful to add to the README, especially if they are not listed elsewhere:
 
-- A list of any code dependencies the software has, e.g. "Numpy, kitten-rng, and human- readable must be installed to run this software."
+- A list of any code dependencies the software has, e.g. "Numpy, kitten-rng, and human-readable must be installed to run this software."
 - How to install and a brief description of how to run the software.
 - Detailed description of the software, especially if there is no external documentation.
 - Examples of how to use the software.
@@ -170,13 +170,13 @@ Your software should be documented within the source code. Each function should 
 >
 > Without going into details of the data type, calling parameters, etc. this description immediately puts someone looking at the code into the context of what the function aims to accomplish; they can then explore the details.
 >
-> While you should consider placing a description at the start of a function, use your discretion on where you put similar descriptions of code. At the start of a complex loop or analysis would be good ideas. Don’t go overboard - things like this aren’t useful:
+> While you should consider placing a description at the start of a function, use your discretion on where you put similar descriptions of code. At the start of a complex loop or analysis would be a good idea. Don’t go overboard - things like this aren’t useful:
 >
 > \# set x to 17 
 >
 > x = 17
 >
-> Descriptive variable, class, and function names can make your code very readable. . Sometimes even great coders are working fast and will name variables 'a', 'temp', or other names that probably won't make a lot of sense in a week or two when they come back to something they were working on. Names like 'baking_time' or 'velocity' are more clear. Variable names should be easy to understand and clearly represent what they are.
+> Descriptive variable, class, and function names can make your code very readable. Sometimes even great coders are working fast and will name variables 'a', 'temp', or other names that probably won't make a lot of sense in a week or two when they come back to something they were working on. Names like 'baking_time' or 'velocity' are more clear. Variable names should be easy to understand and clearly represent what they are.
 >
 > Ideally, someone who doesn't write in the software language of the code can read the comments in the file and have a rough idea of what is happening.
 >
@@ -362,7 +362,7 @@ A software license states the rights of the developer and user for a piece of so
 
 **Statement 2:**
 
-Without a license, software is assumed copyrighted and without permissions.
+Without a license, software is assumed copyrighted and without permission.
 
 - True
 - False
@@ -389,9 +389,9 @@ In this section, some best practices in development are provided including on co
 
 Code benefits from peer review in the same way as science. Having someone else read over your code and test it is one of the best ways to improve the quality of the code.
 
-Many version control platforms have built in tools that enable developers to review, comment, and iterate on each other’s code. These can be done in the open and allow anyone to comment.
+Many version control platforms have built-in tools that enable developers to review, comment, and iterate on each other’s code. These can be done in the open and allow anyone to comment.
 
-Here is a great example of the discussion that can happen when the original creator of an algorithm [comments on a python implementation made by a first time contributor to the Astropy project](https://github.com/astropy/astropy/pull/4301). The open and constructive discussion led to a better implementation of the algorithm along with possible future improvements.
+Here is a great example of the discussion that can happen when the original creator of an algorithm [comments on a python implementation made by a first-time contributor to the Astropy project](https://github.com/astropy/astropy/pull/4301). The open and constructive discussion led to a better implementation of the algorithm along with possible future improvements.
 
 Software packages can be reviewed as their own products as well. Many scientific publications now accept papers focused on software. There are entities like [PyOpenSci](https://www.pyopensci.org/) and the [Journal of Open Source Software](https://joss.theoj.org/) that provide open peer review of scientific packages. See more details about JOSS in the next lesson on sharing your code.
 
@@ -405,7 +405,7 @@ The main objective of code testing is to evaluate if a code does what its author
   <thead>
     <tr>
         <th>SCIENTIFIC VALIDATION &#9745;</th>
-        <th>REPRODUCI-BILITY TESTING</th>
+        <th>REPRODUCIBILITY TESTING</th>
         <th>BUILT IN TESTS</th>
         <th>AUTOMATED TESTING</th>
     </tr>
@@ -423,7 +423,7 @@ The main objective of code testing is to evaluate if a code does what its author
   <thead>
     <tr>
         <th>SCIENTIFIC VALIDATION</th>
-        <th>REPRODUCI-BILITY TESTING &#9745;</th>
+        <th>REPRODUCIBILITY TESTING &#9745;</th>
         <th>BUILT IN TESTS</th>
         <th>AUTOMATED TESTING</th>
     </tr>
@@ -441,7 +441,7 @@ The main objective of code testing is to evaluate if a code does what its author
   <thead>
     <tr>
         <th>SCIENTIFIC VALIDATION</th>
-        <th>REPRODUCI-BILITY TESTING</th>
+        <th>REPRODUCIBILITY TESTING</th>
         <th>BUILT IN TESTS &#9745;</th>
         <th>AUTOMATED TESTING</th>
     </tr>
@@ -459,7 +459,7 @@ The main objective of code testing is to evaluate if a code does what its author
   <thead>
     <tr>
         <th>SCIENTIFIC VALIDATION</th>
-        <th>REPRODUCI-BILITY TESTING</th>
+        <th>REPRODUCIBILITY TESTING</th>
         <th>BUILT IN TESTS</th>
         <th>AUTOMATED TESTING &#9745;</th>
     </tr>
@@ -467,7 +467,7 @@ The main objective of code testing is to evaluate if a code does what its author
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Built in tests can usually be run both manually and automatically. Most version control platforms offer services for running tests automatically. When run this way, code can be checked to see if changes raise any problems. This process of checking the code automatically as it is developed is called continuous development or continuous integration (CI/CD). If a small change made in one part of the code results in an unexpected change in another part, running the tests will uncover this immediately.</p>
+            <p>Built-in tests can usually be run both manually and automatically. Most version control platforms offer services for running tests automatically. When run this way, code can be checked to see if changes raise any problems. This process of checking the code automatically as it is developed is called continuous development or continuous integration (CI/CD). If a small change made in one part of the code results in an unexpected change in another part, running the tests will uncover this immediately.</p>
         </td>
     </tr>
   </tbody>
@@ -524,7 +524,7 @@ Whether using open source, closed source, or commercial software, it is importan
     <tr>
         <th>FINDABLE &#9745;</th>
         <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE</th>
+        <th>INTEROPERABLE</th>
         <th>REUSABLE</th>
     </tr>
   </thead>
@@ -542,7 +542,7 @@ Whether using open source, closed source, or commercial software, it is importan
     <tr>
         <th>FINDABLE</th>
         <th>ACCESSIBLE &#9745;</th>
-        <th>INTER-OPERABLE</th>
+        <th>INTEROPERABLE</th>
         <th>REUSABLE</th>
     </tr>
   </thead>
@@ -560,7 +560,7 @@ Whether using open source, closed source, or commercial software, it is importan
     <tr>
         <th>FINDABLE</th>
         <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE &#9745;</th>
+        <th>INTEROPERABLE &#9745;</th>
         <th>REUSABLE</th>
     </tr>
   </thead>
@@ -578,7 +578,7 @@ Whether using open source, closed source, or commercial software, it is importan
     <tr>
         <th>FINDABLE</th>
         <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE</th>
+        <th>INTEROPERABLE</th>
         <th>REUSABLE &#9745;</th>
     </tr>
   </thead>
@@ -602,7 +602,7 @@ Here are some further suggestions on how to make your code more accessible, repr
 | **Operation Documentation** | Share details about how you are running the code. For example, document the version of a software library you are using, or the version of the compiler. These are often shared in an 'environment.yml' file. |
 | **Automation** | Consider the following scenario:<br><br>You are getting ready to publish your paper that includes 17 plots that all depend on a data set released by a mission. Right before you are about to submit, the mission releases an updated version of the data set.<br><br> How easy will it be to recreate those plots?<br><br> Software allows you to automate the running of scripts and alert programmers when written so that input files are not hardcoding. This allows programmers to easily re-run code if an initial parameter changes. |
 | **Using Standards** | Most languages have their own coding style adopted by their respective communities. Following those conventions makes it easier for others to contribute to your code and makes your project more inclusive. |
-| **Portability** | Share details about how you are running the code, for example the version of a software library you are using, or the version of the compiler. These are often shared in an 'environment.yml' file. |
+| **Portability** | Share details about how you are running the code, for example, the version of a software library you are using, or the version of the compiler. These are often shared in an 'environment.yml' file. |
 | **Naming** | Many historical terms used in software have negative connotations depending on the context. When considering different terms or naming, consider how different audiences may react to those terms. |
 
 ## Lesson 3: Summary
@@ -658,7 +658,7 @@ Select two items that are good to include in a README file from the list below:
 
 **04/05**
 
-Which of the following licenses allows users to reuse, but also require users to share their changes with the community using the same license?
+Which of the following licenses allows users to reuse, but also requires users to share their changes with the community using the same license?
 
 - Public Domain
 - Lesser general domain
