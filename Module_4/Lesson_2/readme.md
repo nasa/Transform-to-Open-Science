@@ -187,7 +187,7 @@ These are a few links to NASA-specific repositories that may be of interest:
 
 So, you've discovered some exciting open code that might help you solve your scientific problem. Can you trust this code you discovered on the web? Will it be useful? How much time will it take to learn it? Could the code contain malware? Could you get in legal trouble for using it?
 
-**Examples:** You found the “General Ocean Turbulence Model (GOTM)” on the internet, and it looks promising. Or, you just found lots of code snippets and functions related to the Lomb-Scargle power spectrum. Now you would like to assess these pieces of code to help you decide if you should use them. This section discusses some best practices for assessing if the code will help you.
+**Examples:** You found the “General Ocean Turbulence Model (GOTM)” on the internet, and it looks promising. Or, you just found lots of code snippets and functions related to the Lomb-Scargle power spectrum. Now, you would like to assess these pieces of code to help you decide if you should use them. This section discusses some best practices for assessing if the code will help you.
 
 ### Four General Considerations for Assessing Open Software
 
@@ -200,7 +200,7 @@ Software assessment criteria are similar, for any level of openness:
 
 ### Functionality: Assessing Scientiﬁc Utility
 
-#### Does the software meet your scientiﬁc needs?** 
+#### Does the software meet your scientific needs? 
 
 - Does it address your specific science question? 
 - Do studies similar to yours use it?
@@ -251,7 +251,7 @@ The risks are relatively low for small snippets of code that are easy for you to
 Open software is perceived to have more security risks. This is generally less of a problem for open source code than executables because the code can be audited for security vulnerabilities by the community. How can you assess security in this case?
 
 - Consult with your institutional open software policies and IT staff
-- Use authoritative reputable sources to minimize security risks
+- Use authoritative, reputable sources to minimize security risks
 - Set strict security rules and standards when using a dependency
 - Use security tools to check for vulnerabilities (e.g., [Open Worldwide Application Security</u> Project®](https://owasp.org/))
 - Avoid unsupported open-source software. Switch to actively developed components or develop it yourself
@@ -341,7 +341,7 @@ Cite any code that you view as having contributed to your research:
 - Did the code play a critical part in your research?
 - Did the code provide something novel?
 
-In most cases, a code snippet on Stack Overflow does not constitute a citable research contribution. However, an author can still decide to cite it if they chose.
+In most cases, a code snippet on Stack Overflow does not constitute a citable research contribution. However, an author can still decide to cite it if they choose.
 
 Instances when shared code directly impacts the scientific results and requires a detailed description include:
 
@@ -350,11 +350,11 @@ Instances when shared code directly impacts the scientific results and requires 
 
 See the journal where you are publishing if they have any specific instructions on how to cite software (e.g., [AAS Software Citation Suggestions](https://journals.aas.org/news/software-citation-suggestions/)).
 
-In some cases, a software’s licensing terms and conditions require acknowledgement or citation in the references or bibliography of any publications based on research that made use of the software.
+In some cases, a software’s licensing terms and conditions require acknowledgment or citation in the references or bibliography of any publications based on research that made use of the software.
 
 ### How to cite?
 
-Ideally, use and cite code that is archived in a long-term repository with a persistent DOI. Follow the guidance about the preferred citation format, which is provided in the long- term repository and may appear in a README or a CITATION file.
+Ideally, use and cite code that is archived in a long-term repository with a persistent DOI. Follow the guidance about the preferred citation format, which is provided in the long-term repository and may appear in a README or a CITATION file.
 
 DOIs provide a persistent identifier/link for research outputs. Thus, it is preferable to cite code in long-term repositories linked to a DOI. URLs (e.g., Stack Overflow) and active repositories (e.g., on GitHub) are mutable but can be used if there is no alternative.
 
