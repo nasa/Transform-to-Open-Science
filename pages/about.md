@@ -49,7 +49,7 @@ Fostering Equity and Inclusion
 
 <!---Why Do Open Science / Embracing Description (Markdown)-->
 {% capture about-why-embracing-desc %}
-Closed science, hoarding information and resources, silos of knowledge holds science back by limiting who can participate. We need more voices that work together and share knowledge and resources. Only then will we find new and better solutions. NASA’s Transform to Open Science (TOPS) mission will allow us to create a scientific culture that is ready for 21st century challenges. Open Science will broaden participation, increase accessibility to knowledge, and embrace new technologies that can respond to these changes at scale. We hope you will join us in creating an open science infrastructure in your organization. TOPS will show you how!
+Closed science, hoarding information and resources, silos of knowledge holds science back by limiting who can participate. We need more voices that work together and share knowledge and resources. Only then will we find new and better solutions. NASA’s Transform to Open Science (TOPS) initiative will allow us to create a scientific culture that is ready for 21st century challenges. Open Science will broaden participation, increase accessibility to knowledge, and embrace new technologies that can respond to these changes at scale. We hope you will join us in creating an open science infrastructure in your organization. TOPS will show you how!
 {% endcapture %}
 
 <!---Why Do Open Science / Fostering Description (Markdown)-->
