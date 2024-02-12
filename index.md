@@ -49,7 +49,7 @@ What is TOPS?
 
 <!---What is TOPS Description (Markdown)-->
 {% capture home-whatistops-description %}
-The Transform to Open Science (TOPS) mission is a NASA initiative designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science. TOPS is part of NASA’s Open-Source Science Initiative. NASA's TOPS mission will allow us to create a scientific culture that is ready for 21st century challenges.
+Transform to Open Science (TOPS) is a NASA initiative designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science. TOPS is part of NASA's Open-Source Science Initiative. NASA's TOPS initiative will allow us to create a scientific culture that is ready for 21st century challenges.
 {% endcapture %}
 
 <!---What is TOPS Enroll Now Text (Plain Text)-->
