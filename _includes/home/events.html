@@ -13,10 +13,12 @@
         </div>
         <div class="row mt-5 mt-md-4">
             <div class="tops_events_tiles">
-				{% assign sorted = site.events | sort: 'date' | reverse %}
+				{% assign sorted = site.events | sort: 'date' %}
+				{% assign eventcounter = 0 %}
 				{% for event in sorted limit:9 %}
 					{% unless event.invisible == true %}
-					<div class="tops_events_tile {% if forloop.index == 1 %}tops_events_tile_larger{% endif %}">
+					{% assign eventcounter = eventcounter | plus: 1 %}
+					<div class="tops_events_tile {% if eventcounter == 1 %}tops_events_tile_larger{% endif %}">
 						<a href="{{ event.url | absolute_url }}">
 							<div class="tops_events_tile_image"><img src="{{ site.baseurl }}/{{ event.image }}"></div>
 							<div class="tops_events_tile_overlay"></div>
