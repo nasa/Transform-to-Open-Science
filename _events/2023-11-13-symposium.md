@@ -6,7 +6,7 @@ symposium: true
 permalink: "/events/tops-symposium/"
 image: assets/img/events/symposium.jpg
 imagecaption: "An image of the Astronaut Memorial Foundation (AMF), The Center for Space Education."
-date: 2023-11-14
+date: 2023-11-13
 daterange: "Feb 27 - 29, 2024"
 location: "Kennedy Space Center, FL"
 venue: "The Astronaut Memorial Foundation (AMF), The Center for Space Education"
