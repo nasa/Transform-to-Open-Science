@@ -35,7 +35,6 @@ NASA's Transform to Open Science (TOPS) initiative is designed to transform agen
 {% assign home-fourcta-desc-three = "Attend conferences with TOPS to learn about open science and the Open Science 101 curriculum." %}
 {% assign home-fourcta-desc-four = "Engage with our community, learn more about open science, and contribute to our curriculum." %}
 <!---Four Column Orange CTA Links-->
-{% assign home-fourcta-link-three = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md" %}
 {% assign home-fourcta-link-four = "https://github.com/nasa/Transform-to-Open-Science/" %}
 <!---END Four Column Orange CTA-->
 
@@ -233,6 +232,7 @@ Contact Us
 
 {% assign home-fourcta-link-one = site.baseurl | append: "/" | append: site.enrollbutton %}
 {% assign home-fourcta-link-two = site.baseurl | append: "/" | append: site.signupbutton %}
+{% assign home-fourcta-link-three = site.baseurl | append: "/" | append: site.eventsbutton %}
 
 {% assign home-fourcta-icon-one = "fa-solid fa-chalkboard-user" %}
 {% assign home-fourcta-icon-two = "fa-brands fa-readme" %}
