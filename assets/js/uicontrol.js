@@ -4,8 +4,14 @@ document.addEventListener("DOMContentLoaded", function() {
   function inject_tops_tables() {
 	  let tops_tables = document.getElementsByClassName("workshop_table");
 	  
+	  //Workshop Link Injection
+	  reset_workshop_eventlisteners(true);
+	  
+	  
 	  if(tops_tables != null) {
-		  if(tops_tables.length > 0) {
+		  if(tops_tables.length > 0) {  
+			  
+			  //Filters Injection
 			  console.log("TOPS: Found total of " + tops_tables.length + " tables");
 			  
 			  for(i = 0; i < tops_tables.length; i++) {
@@ -100,7 +106,7 @@ document.addEventListener("DOMContentLoaded", function() {
 															  the_table_contents_obj.innerHTML = generate_filter_html(the_table_storage, selected_filters);
 														  }
 														  
-														  console.log("");
+														  reset_workshop_eventlisteners(false, the_table_contents_obj);
 														  
 													  });
 												  }
@@ -327,5 +333,124 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 
   inject_tops_opensocial();
+  
+  function tops_open_popup(titleParam, descParam, linkParam) {
+	let tops_popup = document.getElementById("tops_popup");
+	
+	if(tops_popup != null) {
+		if(tops_popup.classList.contains("show") == false) {
+			tops_popup.classList.add("show");
+		}
+		
+		setTimeout(function(){
+			let tops_popup_overlay = document.getElementById("tops_popup_overlay");
+			let tops_popup_window = document.getElementById("tops_popup_window");
+			
+			let tops_popup_title = document.getElementById("tops_popup_title");
+			let tops_popup_desc = document.getElementById("tops_popup_desc");
+			let tops_popup_button = document.getElementById("tops_popup_button");
+			
+			if(tops_popup_overlay.classList.contains("show") == false) {
+				tops_popup_overlay.classList.add("show");
+			}
+			
+			if(tops_popup_window.classList.contains("show") == false) {
+				tops_popup_window.classList.add("show");
+			}
+			
+			tops_popup_title.innerHTML = titleParam;
+			tops_popup_desc.innerHTML = descParam;
+			tops_popup_button.href = linkParam;
+			
+		}, 300);
+	}
+	
+  }
+  
+  function inject_tops_popup_close() {
+	  let tops_popup = document.getElementById("tops_popup");
+	  
+	  if(tops_popup != null) {
+		  let tops_popup_close = document.getElementById("tops_popup_close");
+		  let tops_popup_closeTwo = document.getElementById("tops_popup_closeTwo");
+		  let tops_popup_overlay = document.getElementById("tops_popup_overlay");
+		  let tops_popup_window = document.getElementById("tops_popup_window");
+		  
+		  tops_popup_close.addEventListener("click", function(){
+			  
+			  if(tops_popup_overlay.classList.contains("show") == true) {
+				tops_popup_overlay.classList.remove("show");
+			  }
+				
+			  if(tops_popup_window.classList.contains("show") == true) {
+				tops_popup_window.classList.remove("show");
+			  }
+			  
+			  setTimeout(function(){
+				  if(tops_popup.classList.contains("show") == true) {
+					tops_popup.classList.remove("show");
+				  }
+			  }, 1500);
+		  });
+		  
+		  tops_popup_closeTwo.addEventListener("click", function(){
+			  
+			  if(tops_popup_overlay.classList.contains("show") == true) {
+				tops_popup_overlay.classList.remove("show");
+			  }
+				
+			  if(tops_popup_window.classList.contains("show") == true) {
+				tops_popup_window.classList.remove("show");
+			  }
+			  
+			  setTimeout(function(){
+				  if(tops_popup.classList.contains("show") == true) {
+					tops_popup.classList.remove("show");
+				  }
+			  }, 1500);
+		  });
+		  
+	  }
+  }
+  
+  inject_tops_popup_close();
+  
+  function reset_workshop_eventlisteners(allParam, tableParam) {
+	  if(allParam == true) {
+		  let tops_workshop_links = document.getElementsByClassName("tops_workshop_link");
+	  
+		  if(tops_workshop_links != null) {
+			if(tops_workshop_links.length > 0) {
+				for(wsl = 0; wsl < tops_workshop_links.length; wsl++) {
+					let current_wsl = tops_workshop_links[wsl];
+					let current_wsl_title = current_wsl.dataset.regtitle;
+					let current_wsl_desc = current_wsl.dataset.regdesc;
+					let current_wsl_link = current_wsl.dataset.reglink;
+						  
+					current_wsl.addEventListener("click", function(){
+						tops_open_popup(current_wsl_title, current_wsl_desc, current_wsl_link);
+					});
+				}
+			}
+		  }
+	  } else {
+		  let tops_workshop_links = tableParam.getElementsByClassName("tops_workshop_link");
+		  
+		  if(tops_workshop_links != null) {
+			if(tops_workshop_links.length > 0) {
+				for(wsl = 0; wsl < tops_workshop_links.length; wsl++) {
+					let current_wsl = tops_workshop_links[wsl];
+					let current_wsl_title = current_wsl.dataset.regtitle;
+					let current_wsl_desc = current_wsl.dataset.regdesc;
+					let current_wsl_link = current_wsl.dataset.reglink;
+						  
+					current_wsl.addEventListener("click", function(){
+						tops_open_popup(current_wsl_title, current_wsl_desc, current_wsl_link);
+					});
+				}
+			}
+		  }
+	  }
+  }
 
 });

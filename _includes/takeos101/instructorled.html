@@ -35,7 +35,7 @@
                 </div>
                 <div class="workshop_table_table">
                   <table>
-                    <thead><tr><th>Date</th><th>Time</th><th>Event Type</th><th>Location</th><th>Module</th><th>More Info</th></tr></thead>
+                    <thead><tr><th>Date</th><th>Time</th><th>Event Type</th><th>Location</th><th>Module</th><th>NASA Internal?</th><th>More Info</th></tr></thead>
                     <tbody>
                       {% for row in site.data.inperson %}
                         <tr>
@@ -44,9 +44,34 @@
                         <td>{{ row.eventtype }}</td>
                         <td>{{ row.location }}</td>
                         <td>{{ row.module }}</td>
+						<td>
+							{% if row.nasa %}
+								{{ row.nasa }}
+							{% else %}
+								no
+							{% endif %}
+						</td>
                         <td>
                           {% if row.moreinfo_link %}
-                            <a href="{{ row.moreinfo_link }}" target="_blank">{{ row.moreinfo }}</a>
+							  {% assign registercalculate = row.moreinfo_link %}
+							  {% assign registernewwin = "_blank" %}
+							  
+							  {% assign registertitle = "This Workshop is NASA Internal" %}
+							  {% assign registerdesc = "If you are not a NASA civil servant or contractor, this workshop is unfortunately not available to you and proceeding will result in a not found error message. However, there are still many incredible OS101 workshops for you to choose from!" %}
+							  {% assign registerlink = row.moreinfo_link %}
+							  
+							  {% assign registeronclick = "no" %}
+							  
+							
+							  {% if row.nasa %}
+								{% if row.nasa == "yes" or row.nasa == "Yes" %}
+									{% assign registercalculate = "javascript:void(0)" %}
+									{% assign registernewwin = "_self" %}
+									{% assign registeronclick = "yes" %}
+								{% endif %}
+							  {% endif %}
+						  
+							  <a class="{% if registeronclick == "yes" %}tops_workshop_link{% endif %}" href="{{ registercalculate }}" target="{{ registernewwin }}" {% if registeronclick == "yes" %}data-regtitle="{{ registertitle }}" data-regdesc="{{ registerdesc }}" data-reglink="{{ registerlink }}"{% endif %}>{{ row.moreinfo }}</a>
                           {% else %}
                             {{ row.moreinfo }}
                           {% endif %}
@@ -74,7 +99,7 @@
                 </div>
                 <div class="workshop_table_table">
                   <table>
-                    <thead><tr><th>Date</th><th>Time</th><th>Event Type</th><th>Module</th><th>Instructor</th><th>Register</th></tr></thead>
+                    <thead><tr><th>Date</th><th>Time</th><th>Event Type</th><th>Module</th><th>Instructor</th><th>NASA Internal?</th><th>Register</th></tr></thead>
                     <tbody>
                       {% for row in site.data.virtual %}
                         <tr>
@@ -83,9 +108,34 @@
                         <td>{{ row.eventtype }}</td>
                         <td>{{ row.module }}</td>
                         <td>{{ row.instructor }}</td>
+						<td>
+							{% if row.nasa %}
+								{{ row.nasa }}
+							{% else %}
+								no
+							{% endif %}
+						</td>
                         <td>
-                          {% if row.register_link %}
-                            <a href="{{ row.register_link }}" target="_blank">{{ row.register }}</a>
+						  {% if row.register_link %}
+							  {% assign registercalculate = row.register_link %}
+							  {% assign registernewwin = "_blank" %}
+							  
+							  {% assign registertitle = "This Workshop is NASA Internal" %}
+							  {% assign registerdesc = "If you are not a NASA civil servant or contractor, this workshop is unfortunately not available to you and proceeding will result in a not found error message. However, there are still many incredible OS101 workshops for you to choose from!" %}
+							  {% assign registerlink = row.register_link %}
+							  
+							  {% assign registeronclick = "no" %}
+							  
+							
+							  {% if row.nasa %}
+								{% if row.nasa == "yes" or row.nasa == "Yes" %}
+									{% assign registercalculate = "javascript:void(0)" %}
+									{% assign registernewwin = "_self" %}
+									{% assign registeronclick = "yes" %}
+								{% endif %}
+							  {% endif %}
+						  
+							  <a class="{% if registeronclick == "yes" %}tops_workshop_link{% endif %}" href="{{ registercalculate }}" target="{{ registernewwin }}" {% if registeronclick == "yes" %}data-regtitle="{{ registertitle }}" data-regdesc="{{ registerdesc }}" data-reglink="{{ registerlink }}"{% endif %}>{{ row.register }}</a>
                           {% else %}
                             {{ row.register }}
                           {% endif %}
