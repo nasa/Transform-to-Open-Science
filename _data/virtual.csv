@@ -1,5 +1,5 @@
-date,time,eventtype,module,instructor,register,register_link
-Dec. 12,12 - 2:30 p.m,Event Type 1,1,"Person's Name 1, TOPS",CC Form,
-Dec. 12 - Jan. 25 (Fridays),8:00 a.m - 10:30,Event Type 2,"1, 2, 3, 4, 5","Person's Name 2, Don't Use This Code",DUTC Form,
-Feb. 14,1:00 p.m - 2:00,Event Type 3,3,"Person's Name 3, TOPS",Test Form,
-Mar. 17,5:00 a.m - 7:00,Event Type 4,"2, 3, 4","Person's Name 4, TOPS",Test Form,https://example.com
+date,time,eventtype,module,instructor,nasa,register,register_link
+Dec. 12,12 - 2:30 p.m,Event Type 1,1,"Person's Name 1, TOPS",no,CC Form,
+Dec. 12 - Jan. 25 (Fridays),8:00 a.m - 10:30,Event Type 2,"1, 2, 3, 4, 5","Person's Name 2, Don't Use This Code",yes,DUTC Form,https://nasa.gov
+Feb. 14,1:00 p.m - 2:00,Event Type 3,3,"Person's Name 3, TOPS",,Test Form,
+Mar. 17,5:00 a.m - 7:00,Event Type 4,"2, 3, 4","Person's Name 4, TOPS",no,Test Form,https://example.com
