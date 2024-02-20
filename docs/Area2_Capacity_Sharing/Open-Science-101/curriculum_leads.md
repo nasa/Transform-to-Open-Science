@@ -50,6 +50,11 @@ Reviewers are those who have reviewed the curriculum content and provided meanin
 
 Laura Acion, Laura Ascenzi, Mónica Alonso, Melissa Black, Julián Buede, James Colliander, Cassie Conley, Michael Croteau, Kylie Yui Dan, Katie Dejwakh, Emily Faber, Jesica Formoso, J.L. Galache, Shannon Gant, Chelle Gentemann, Monica Granados, Pen-Yuan Hsing, SherAaron Hurt, Ian Jian, Logan Kilpatrick, Sheikh Mahtab, Avi Mandell, Pamela Marcum, Brian Nosek, Paola Lefer, Patricia Loto, Paz Míguez, Nicolás Palopoli, Rachel E. Paseka, Romina Pendino, Iván Poggio, Fernando Perez, Junellie Gonzalez Quiles, Mariela Rajngewerc, Disha Sardana, Malvika Sharan, Leo Singer,Irene Vazano, Qiusheng Wu
 
+## TOPS Community Panel
+The TOPS Community Panel reviews and provides input on NASA’s strategy for transitioning to open-source science and has provided extensive input into OS101 from formulation through release. 
+
+James Colliander, Monica Granados, Kelsey Hightower, Pen-Yuan Hsing, Logan Kilpatrick, Brian Nosek, Fernando Perez, Malvika Sharan, Gloria Washington, Qiusheng Wu, SherAaron Hurt, H. Justin Ballenger, 
+
 ## TOPS OS101 Curriculum Development Management at NASA's Ames Research Center
 
 This team manages the curriculum content creation and the work to facilitate content dissemination, such as managing development of an OS101 online course. In addition, everyone on this team serves as copy editors across the entire curriculum.
@@ -65,7 +70,7 @@ Amanda Adams, Paul Bremner, Brian Ressler, Adam Farragut, Jaclyn Stursma, Shanno
 ## TOPS Team at NASA Headquarters
 This team is responsible for the overall vision and scope of the TOPS initiative.  The team is part of the Office of the Chief Science Data Officer for the Science Mission Directorate. 
 
-Kevin Murphy, Steve Crawford, Chelle Gentemann, Yvonne Ivey-Parker, Isabella Martinez, Paige Martin, Holly Norton, Malcolm Glover, Cynthia Hall, Yaitza Luna-Cruz
+Kevin Murphy, Steve Crawford, Chelle Gentemann, Yvonne Ivey-Parker, Isabella Martinez, Paige Martin, Holly Norton, Malcolm Glover, Cynthia Hall, Yaitza Luna-Cruz, Kevin Ward, Emily Cassidy, Katie Baynes
 
 Some early material was developed under a NASA grant to the AGU #80NSSC22K0734 PI: Shelley Stall. 
 
