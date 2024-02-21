@@ -14,7 +14,7 @@ overlay: "opacity-70"
 <!---START Events-->
 <!---Events Title (Plain Text)-->
 {% capture events-events-title %}
-All TOPS Events
+TOPS Events
 {% endcapture %}
 
 <!---Events Description (Markdown)-->
