@@ -210,7 +210,7 @@ We invite you to visit us at various events where TOPS will be featured, includi
 
 <!---Events View All Button Text-->
 {% capture home-events-view-all-text %}
-View All
+View More
 {% endcapture %}
 
 <!---Events Contact Button Text-->
