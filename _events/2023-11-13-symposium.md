@@ -13,14 +13,14 @@ venue: "The Astronaut Memorial Foundation (AMF), The Center for Space Education"
 map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17668.211620921105!2d-80.68363317924783!3d28.515145175939733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e0ae323bf8b095%3A0x6d2c49c8109fb4d1!2sThe%20Astronauts%20Memorial%20Foundation!5e0!3m2!1sen!2sus!4v1706298033602!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ---
 
-The TOPS Symposium is a pivotal event under NASA's Transform to Open Science initiative, designed to mainstream the OS101 curriculum and advance an inclusive culture of open science! This three-day symposium will include plenary talks, working sessions, time to network, and tours of NASA's facilities. There may even be a [launch](https://www.visitspacecoast.com/launches/) during our time there!
+The TOPS Symposium is a pivotal event under NASA's Transform to Open Science initiative, designed to mainstream the OS101 curriculum and advance an inclusive culture of open science. This three-day symposium will include plenary talks, working sessions, time to network, and tours of NASA's facilities. There may even be a [launch](https://www.visitspacecoast.com/launches/) during our time there!
 
 **TOPS Symposium Goals:**
 
 - Laying the foundation for creating a unified approach to training people in open science
 - Learning from those that have begun to teach the curriculum
 - Identifying specific challenges and opportunities for open science training
-- Understanding our roles and next steps in supporting OS101 and Science Core.
+- Understanding our roles and next steps in supporting OS101 and Science Core
 
 **Symposium Logistics Information:**
 
@@ -33,6 +33,7 @@ Event Location:
 Entry and Parking Information:
 
 - Entry and parking will be at the Kennedy Space Center Visitor Complex. 
+- Guest access directions and parking placard to waive fees - <a href="https://science.nasa.gov/wp-content/uploads/2024/02/nasa-tops-access-package.pdf" target="_blank">NASA TOPS KSC Access Package</a> and <a href="https://science.nasa.gov/wp-content/uploads/2024/02/advance-team-and-vip-cse-guest-directions.pdf" target="_blank">Advance Team and VIP CSE Guest Directions</a>
 - Parking Opens: 8:30 AM
 - Turnstiles Open: 9:00 AM 
 - Security Checkpoint: All attendees must enter through the Kennedy Space Center Visitor Complex security checkpoint and turnstiles with the AMF-provided ticket or paperwork. Please allow sufficient time for security procedures.
@@ -41,28 +42,64 @@ Entry and Parking Information:
 
 Event Dates and Schedule:
 
-- February 27th: 10:00 AM - 5:00 PM (General TOPS Presentations & Working Sessions )
-- February 28th: 10:00 AM - 5:00 PM (Presentations & Working Sessions, breakouts by topic - OS101 Training and Science Core)
-- February 29th: 8:30 AM - 4:30 PM (Kennedy Space Center Round-Robin Tours and Co-working Time)
+- February 27th:
+  - 9:00 AM - 10:00AM: Beverages and breakfast grazing will be available in the event space.
+  - 10:00 AM - 5:00 PM: General TOPS presentations and working sessions; lunch options include "make a plate" and Kennedy Space Center Visitor Complex restaurants.
+
+- February 28th:
+  - 9:00 AM - 10:00AM: Beverages and breakfast grazing will be available in the event space.
+  - 10:00 AM - 5:00 PM: Presentations and working sessions, with breakouts by topic including OS101 training and Science Core; lunch options include "make a plate" and Kennedy Space Center Visitor Complex restaurants.
+
+- February 29th:
+  - 9:00 AM - 11:30 AM: Coffee and tea will be available in the event space.
+  - 9:00 AM - 12:00 PM: Attendees have the opportunity to explore the Kennedy Space Center Visitor Complex, accommodating for the impact on tours due to the launch. The event space will also be open for co-working and networking, with the TOPS PMO available until noon.
+
 
 <span style="color:red;">We ask that all attendees complete the OS101 training prior to the event.</span> Attendees will receive a certificate and pin, in addition to the digital badge awarded through the MOOC. 
 
 Please be aware that the launch may potentially affect tours.
 
-**Guidance for Virtual Attendees:** Information and the joining link for the event will be provided here shortly.
+**Guidance for Virtual Attendees:**
+
+Please use the following links to join the event virtually...
+
+<u>Webinar topic: TOPS Symposium Day 1</u>
+
+Date and time: Tuesday, February 27, 2024 9:00 AM &#124; (UTC-06:00) Central Time (US & Canada)
+
+Join link: [https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma1ac87531f410da906cfe9f0ea6c3df6](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma1ac87531f410da906cfe9f0ea6c3df6)
+
+Webinar number: 2821 527 9055
+
+Webinar password: ppMu5fS8Z@2 (77685378 from phones and video systems)
+
+Join by phone
+- +1-929-251-9612 United States Toll (New York City)
+- +1-415-527-5035 United States Toll
+
+Access code: 282 152 79055
+
+
+<u>Webinar topic: TOPS Symposium Day 2</u>
+
+Date and time: Wednesday, February 28, 2024 9:00 AM &#124; (UTC-06:00) Central Time (US & Canada)
+
+Join link: [https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma8a3b27afc30bd05dceb098559acb3ad](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma8a3b27afc30bd05dceb098559acb3ad)
+
+Webinar number: 2822 447 3286
+
+Webinar password: kVDyf28Ms$2 (58393286 from phones and video systems)
+
+Join by phone
+- +1-929-251-9612 United States Toll (New York City)
+- +1-415-527-5035 United States Toll
+
+Access code: 282 244 73286
 
 **Guidance for In Person Attendees:**
 
 - Book Travel and Transportation: Arrange your flights and vehicle accommodations. We advise NASA Civil Servants and Contractors to adhere to the travel guidelines set by their respective offices or companies. (NCTS # and attendance registration guidance for NASA attendees is provided in the following section within this event page.) 
-- Book Hotel Accommodations:  [List of Area Hotels](https://hotelpackages.kennedyspacecenter.com/site/welcome/14588/kennedy-space-center-discount-hotel-packages?_gl=1*1yw5agw*_gcl_au*MTI3NzAzMDc0Mi4xNzAxODAyMzQy) and [Visit Space Coast Hotel Options](https://www.visitspacecoast.com/stay/) for recommendations. 
-  - Currently, we have secured a limited number of hotel rooms. Should the TOPS PMO successfully secure additional accommodations, we will promptly inform you of the updates here: 
-    - Hotel: [La Quinta Inn Cocoa Beach-Port Canaveral](https://www.wyndhamhotels.com/laquinta/cocoa-beach-florida/la-quinta-inn-cocoa-beach-port-canaveral/overview?CID=LC:6ysy27krtpcrqev:52698) offered us a negotiated rate for 20 rooms - first come first serve - with a reservation cut off date of 2/12/2024. This is for arrival between 02/26/2024 and check out by 03/01/2024, with a negotiated daily rate of $175.00 a night (after tax and  fees total of $204.75 per night).
-      - To receive this rate, use:
-        - Group Code: NASA
-        - Group Name: NASA TOPS 
-        - Book before 2/12/2024
-    - Address: 1275 N. Atlantic Ave, Cocoa Beach, FL., 32931
-    - Amenities: Free wifi, free parking, free breakfast, Cocoa Beach location, and restaurant/bar on premises. 
+- Book Hotel Accommodations:  [List of Area Hotels](https://hotelpackages.kennedyspacecenter.com/site/welcome/14588/kennedy-space-center-discount-hotel-packages?_gl=1*1yw5agw*_gcl_au*MTI3NzAzMDc0Mi4xNzAxODAyMzQy) and [Visit Space Coast Hotel Options](https://www.visitspacecoast.com/stay/) for recommendations.
 
 **Registering Attendance for In Person and Virtual <u>NASA</u> Attendees:** Register your attendance <span style="color:red;">as soon as possible.</span>
 
