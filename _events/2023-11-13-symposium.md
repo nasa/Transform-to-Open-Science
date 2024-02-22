@@ -32,7 +32,7 @@ Event Location:
 
 Entry and Parking Information:
 
-- Entry and parking will be at the Kennedy Space Center Visitor Complex. 
+- Entry and parking are available at the Kennedy Space Center Visitor Complex (KSC VC). Upon parking, please proceed to the gate to meet with TOPS PMO team members, who will provide you with a three-day event ticket. This ticket grants access to both the KSC VC and the AMF event space, without the need for additional ticket purchases. Please look for the table with TOPS signage to sign in and receive your ticket (and OS101 certificate and pin if applicable).
 - Guest access directions and parking placard to waive fees: <a href="https://science.nasa.gov/wp-content/uploads/2024/02/nasa-tops-access-package.pdf" target="_blank">NASA TOPS KSC Access Package</a> (present the last page to the parking attendant, either digitally on your phone or as a printed copy) and <a href="https://science.nasa.gov/wp-content/uploads/2024/02/advance-team-and-vip-cse-guest-directions.pdf" target="_blank">Advance Team and VIP CSE Guest Directions</a>
 - Parking Opens: 8:30 AM
 - Turnstiles Open: 9:00 AM 
@@ -59,8 +59,6 @@ Entry and Parking Information:
 
 
 <span style="color:red;">We ask that all attendees complete the OS101 training prior to the event.</span> Attendees will receive a certificate and pin, in addition to the digital badge awarded through the MOOC. 
-
-Please be aware that the launch may potentially affect tours.
 
 **Guidance for Virtual Attendees:**
 
