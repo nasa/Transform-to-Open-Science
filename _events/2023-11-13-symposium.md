@@ -44,12 +44,12 @@ Entry and Parking Information:
 
 <u>February 27th</u>
 
-- 9:00 AM - 10:00AM: Beverages and breakfast grazing will be available in the event space.
+- 9:00 AM - 10:00 AM: Beverages and breakfast grazing will be available in the event space.
 - 10:00 AM - 5:00 PM: General TOPS presentations and working sessions; lunch options include "make a plate" and Kennedy Space Center Visitor Complex restaurants.
 
 <u>February 28th</u>
 
-- 9:00 AM - 10:00AM: Beverages and breakfast grazing will be available in the event space.
+- 9:00 AM - 10:00 AM: Beverages and breakfast grazing will be available in the event space.
 - 10:00 AM - 5:00 PM: Presentations and working sessions, with breakouts by topic including OS101 training and Science Core; lunch options include "make a plate" and Kennedy Space Center Visitor Complex restaurants.
 
 <u>February 29th</u>
