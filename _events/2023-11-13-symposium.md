@@ -33,26 +33,29 @@ Event Location:
 Entry and Parking Information:
 
 - Entry and parking will be at the Kennedy Space Center Visitor Complex. 
-- Guest access directions and parking placard to waive fees - <a href="https://science.nasa.gov/wp-content/uploads/2024/02/nasa-tops-access-package.pdf" target="_blank">NASA TOPS KSC Access Package</a> and <a href="https://science.nasa.gov/wp-content/uploads/2024/02/advance-team-and-vip-cse-guest-directions.pdf" target="_blank">Advance Team and VIP CSE Guest Directions</a>
+- Guest access directions and parking placard to waive fees - <a href="https://science.nasa.gov/wp-content/uploads/2024/02/nasa-tops-access-package.pdf" target="_blank">NASA TOPS KSC Access Package</a> (present the last page to the parking attendant, either digitally on your phone or as a printed copy) and <a href="https://science.nasa.gov/wp-content/uploads/2024/02/advance-team-and-vip-cse-guest-directions.pdf" target="_blank">Advance Team and VIP CSE Guest Directions</a>
 - Parking Opens: 8:30 AM
 - Turnstiles Open: 9:00 AM 
 - Security Checkpoint: All attendees must enter through the Kennedy Space Center Visitor Complex security checkpoint and turnstiles with the AMF-provided ticket or paperwork. Please allow sufficient time for security procedures.
 - GPS Coordinates for entrance at Kennedy Space Center Visitor Complex: 28°30'56.0"N, 80°40'54"W. (Note: Search for "Kennedy Space Center Visitor Complex" in your GPS, not just "Kennedy Space Center" to avoid being directed to the wrong location.) 
 - [KSCVC Travel Information](https://www.kennedyspacecenter.com/info/travel-information)
 
-Event Dates and Schedule:
+**Event Dates and Schedule:**
 
-- February 27th:
-  - 9:00 AM - 10:00AM: Beverages and breakfast grazing will be available in the event space.
-  - 10:00 AM - 5:00 PM: General TOPS presentations and working sessions; lunch options include "make a plate" and Kennedy Space Center Visitor Complex restaurants.
+<u>February 27th</u>
 
-- February 28th:
-  - 9:00 AM - 10:00AM: Beverages and breakfast grazing will be available in the event space.
-  - 10:00 AM - 5:00 PM: Presentations and working sessions, with breakouts by topic including OS101 training and Science Core; lunch options include "make a plate" and Kennedy Space Center Visitor Complex restaurants.
+- 9:00 AM - 10:00AM: Beverages and breakfast grazing will be available in the event space.
+- 10:00 AM - 5:00 PM: General TOPS presentations and working sessions; lunch options include "make a plate" and Kennedy Space Center Visitor Complex restaurants.
 
-- February 29th:
-  - 9:00 AM - 11:30 AM: Coffee and tea will be available in the event space.
-  - 9:00 AM - 12:00 PM: Attendees have the opportunity to explore the Kennedy Space Center Visitor Complex, accommodating for the impact on tours due to the launch. The event space will also be open for co-working and networking, with the TOPS PMO available until noon.
+<u>February 28th</u>
+
+- 9:00 AM - 10:00AM: Beverages and breakfast grazing will be available in the event space.
+- 10:00 AM - 5:00 PM: Presentations and working sessions, with breakouts by topic including OS101 training and Science Core; lunch options include "make a plate" and Kennedy Space Center Visitor Complex restaurants.
+
+<u>February 29th</u>
+
+- 9:00 AM - 11:30 AM: Coffee and tea will be available in the event space.
+- 9:00 AM - 12:00 PM: Attendees have the opportunity to explore the Kennedy Space Center Visitor Complex, accommodating for the impact on tours due to the launch. The event space will also be open for co-working and networking, with the TOPS PMO available until noon.
 
 
 <span style="color:red;">We ask that all attendees complete the OS101 training prior to the event.</span> Attendees will receive a certificate and pin, in addition to the digital badge awarded through the MOOC. 
@@ -63,38 +66,25 @@ Please be aware that the launch may potentially affect tours.
 
 Please use the following links to join the event virtually...
 
-<u>Webinar topic: TOPS Symposium Day 1</u>
+<u>February 27th</u>
 
-Date and time: Tuesday, February 27, 2024 9:00 AM &#124; (UTC-06:00) Central Time (US & Canada)
+- Join link: [https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma1ac87531f410da906cfe9f0ea6c3df6](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma1ac87531f410da906cfe9f0ea6c3df6)
+- Webinar number: 2821 527 9055
+- Webinar password: ppMu5fS8Z@2 (77685378 from phones and video systems)
+- Join by phone
+  - +1-929-251-9612 United States Toll (New York City)
+  - +1-415-527-5035 United States Toll
+  - Access code: 282 152 79055
 
-Join link: [https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma1ac87531f410da906cfe9f0ea6c3df6](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma1ac87531f410da906cfe9f0ea6c3df6)
+<u>February 28th</u>
 
-Webinar number: 2821 527 9055
-
-Webinar password: ppMu5fS8Z@2 (77685378 from phones and video systems)
-
-Join by phone
-- +1-929-251-9612 United States Toll (New York City)
-- +1-415-527-5035 United States Toll
-
-Access code: 282 152 79055
-
-
-<u>Webinar topic: TOPS Symposium Day 2</u>
-
-Date and time: Wednesday, February 28, 2024 9:00 AM &#124; (UTC-06:00) Central Time (US & Canada)
-
-Join link: [https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma8a3b27afc30bd05dceb098559acb3ad](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma8a3b27afc30bd05dceb098559acb3ad)
-
-Webinar number: 2822 447 3286
-
-Webinar password: kVDyf28Ms$2 (58393286 from phones and video systems)
-
-Join by phone
-- +1-929-251-9612 United States Toll (New York City)
-- +1-415-527-5035 United States Toll
-
-Access code: 282 244 73286
+- Join link: [https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma8a3b27afc30bd05dceb098559acb3ad](https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=ma8a3b27afc30bd05dceb098559acb3ad)
+- Webinar number: 2822 447 3286
+- Webinar password: kVDyf28Ms$2 (58393286 from phones and video systems)
+- Join by phone
+  - +1-929-251-9612 United States Toll (New York City)
+  - +1-415-527-5035 United States Toll
+  - Access code: 282 244 73286
 
 **Guidance for In Person Attendees:**
 
