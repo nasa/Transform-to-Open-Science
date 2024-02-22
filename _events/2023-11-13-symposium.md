@@ -55,7 +55,7 @@ Entry and Parking Information:
 <u>February 29th</u>
 
 - 9:00 AM - 11:30 AM: Coffee and tea will be available in the event space.
-- 9:00 AM - 12:00 PM: Attendees have the opportunity to explore the Kennedy Space Center Visitor Complex, accommodating for the impact on tours due to the launch. The event space will also be open for co-working and networking, with the TOPS PMO available until noon.
+- 9:00 AM - 12:00 PM: Attendees have the opportunity to explore the Kennedy Space Center Visitor Complex [attractions](https://www.kennedyspacecenter.com/explore-attractions/all-attractions), accommodating for the impact on tours due to the launch. The event space will also be open for co-working and networking, with the TOPS PMO available until noon.
 
 
 <span style="color:red;">We ask that all attendees complete the OS101 training prior to the event.</span> Attendees will receive a certificate and pin, in addition to the digital badge awarded through the MOOC. 
