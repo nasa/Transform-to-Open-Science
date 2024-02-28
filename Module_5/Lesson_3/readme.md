@@ -26,7 +26,7 @@ After completing this lesson, you should be able to:
 
 ### Capturing the Research Process Accurately in the Making of Results
 
-> I am aware of the reproducibility crisis and how open science can help combat it. What practical ways can I apply to my research outputs to make open results? How can I ensure that the results I share can be reproduced by others? How can I publish scientiﬁc publications that do not add to, but combat the reproducibility crisis?
+> I am aware of the reproducibility crisis and how open science can help combat it. What practical ways can I apply to my research outputs to make open results? How can I ensure that the results I share can be reproduced by others? How can I publish scientific publications that do not add to, but combat the reproducibility crisis?
 
 In the Ethos of Open Science, you learned about the ethics and principles underlying responsible open science practices. In Open Software, you explored and identified the right tools and methods that ensure the usability and reproducibility of your analysis. In Open Data, you developed a data management plan that can ensure the Findability, Accessibility, Interoperability and Reusability (FAIR) of your data throughout the research process, and not just at the end when the final report from the project is released. These open science approaches directly address the root causes of the reproducibility crisis, which are a lack of openness throughout the scientific process, lack of documentation, poor description of intermediate methods or missing data that were used at intermediate stages of the research process. In this lesson, you will learn to put all of these together to ensure that you are prepared to make your open results easy to reproduce by others.
 
@@ -175,7 +175,7 @@ Using this definition, results that can be computationally reproduced by others 
 
 Ideally, anyone, anywhere, must be able to read a publication and understand the results, easily find methods applied, as well as properly follow procedures to achieve the same results as shared in that study. However, as already learned, the issue of reproducibility is prevalent across all scientific fields (refer to this Nature [report](https://www.nature.com/articles/533452a)). A well-intentioned scientist may share all research objects and describe all steps applied in their research, but failing to provide the research environment or other technical setup they used for analyzing their data can prohibit others from reproducing their results. This issue is further compounded by [human bias and errors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4776714/). For example, individuals may not always be able to identify how their interests and experiences inform their decisions that impact their research conclusions. This makes the issue of combating the reproducibility crisis even bigger.
 
-Approaches for making open results should integrate reproducible tools and methods, such as version control, continuous integration, containerisation, code review, code testing and documentation. Furthermore, to extend the reproducibility beyond computational aspects of research, reporting and documentation for different types of outputs and decisions should also be supplied transparently.
+Approaches for making open results should integrate reproducible tools and methods, such as version control, continuous integration, containerization, code review, code testing and documentation. Furthermore, to extend the reproducibility beyond computational aspects of research, reporting and documentation for different types of outputs and decisions should also be supplied transparently.
 
 ### How to Make Different Types of Open Results
 
@@ -343,7 +343,7 @@ Let's first define contributor and author roles.
 
 An author is a contributor who actively carries out one or several of the tasks listed above ([National Institute of Health - NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) and [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)). All authors are contributors, but all contributors may not be authors, for example, someone serving as a mentor, trainer or infrastructure maintainer. Ideally, all contributors are given the opportunity to author research outputs.
 
-Given the importance traditionally placed on authorship in scientific publication and the fuzziness of the definitions (that often contain relative terms such as "substantial" or "extensive" leaving too much room for interpretation), it is not surprising that determining who amongst the contributors gets to be an author can lead to biased or unfair decisions, disputes between contributors, or at the very least leave someone resentful and feeling unappreciated.
+Given the importance traditionally placed on authorship in scientific publication and the fuzziness of the definitions (that often contain relative terms such as "substantial" or "extensive" leaving too much room for interpretation), it is not surprising that determining who among the contributors gets to be an author can lead to biased or unfair decisions, disputes between contributors, or at the very least leave someone resentful and feeling unappreciated.
 
 There is no single approach for recognizing contributors as authors, but here is what you should consider:
 
@@ -424,7 +424,7 @@ It is important to set a reference for each research team/project about differen
     </tr>
     <tr>
         <td>Engagement with Experts and Policymakers</td>
-        <td>Pre-publication review, external advisory board meetings, regular reporting, post-publication reporting, and reaching out to the relevant policy makers actively</td>
+        <td>Pre-publication review, external advisory board meetings, regular reporting, post-publication reporting, and reaching out to the relevant policymakers actively</td>
     </tr>
     <tr>
         <td>Recognition and Credit</td>
@@ -538,7 +538,7 @@ Across [several preprints](https://arxiv.org/search/astro-ph?searchtype=author&q
 
 Open results such as reports, publications, code, white papers, press releases, blog posts, videos, TED talks and social media posts add to the comprehensive repertoire of open results supported by EHTC. Resources are centralized on the [EHTC website](https://eventhorizontelescope.org/), [GitHub organization](https://github.com/eventhorizontelescope) and [YouTube channel](https://www.youtube.com/%40ehtelescope) among others to provide easy access to all open results.
 
-It's important to highlight that their efforts have led to independent reanalysis and regeneration of black hole images. Specifically, [Patel et. al. (2022)](https://arxiv.org/abs/2205.10267) not only reproduced the original finding, but also contributed additional documentation, code, and a computational environment as open-source containerized software package to ensure future testing. Some of the original authors reviewed this work and [made their comments also available online](https://quarxiv.authorea.com/users/557984/articles/607408-review-reproducibility-of-the-first-image-of-a-black-hole-in-the-galaxy-m87-from-the-event-horizon-telescope-eht-collaboration) (Authorea).
+It's important to highlight that their efforts have led to independent reanalysis and regeneration of black hole images. Specifically, [Patel et al. (2022)](https://arxiv.org/abs/2205.10267) not only reproduced the original finding, but also contributed additional documentation, code, and a computational environment as open-source containerized software package to ensure future testing. Some of the original authors reviewed this work and [made their comments also available online](https://quarxiv.authorea.com/users/557984/articles/607408-review-reproducibility-of-the-first-image-of-a-black-hole-in-the-galaxy-m87-from-the-event-horizon-telescope-eht-collaboration) (Authorea).
 
 ### How Do I Connect Open Results to Make Reproducible Publications
 
