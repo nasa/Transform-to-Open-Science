@@ -31,7 +31,7 @@ This is the first lesson in the module on the Ethos of Open Science. Let's begin
 
 "Ethos is the distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group,"
 
-**Merriam Webster**
+**Merriam-Webster**
 
 ---
 
@@ -95,7 +95,7 @@ Source: [https://www.pnas.org/doi/full/10.1073/pnas.1708290115](https://www.pnas
 
 **Open Results Enable Iteration and Improve Error-Detection**
 
-In this section, we will look at an example of how closed science can restrict research impact by [following the outcome](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1318&context=usdeptcommercepub) of a highly cited journal article to understand how science functions to inform a field’s state of research, the decisions of policy makers, and the actions of society.
+In this section, we will look at an example of how closed science can restrict research impact by [following the outcome](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1318&context=usdeptcommercepub) of a highly cited journal article to understand how science functions to inform a field’s state of research, the decisions of policymakers, and the actions of society.
 
 <img src="../images/media/image220.png" style="width: 100%; height: auto;"/>
 
@@ -146,7 +146,7 @@ The Ethos of Open Science is a broad term that encompasses the moral and ethical
 Diverse practices, assumptions, and goals are just part of the complexity of open science. There are also divergent moral principles that guide open science communities. Such principles are captured in "codes of conduct". A code of conduct is a community governance mechanism that outlines the principles and practices expected of a given research community’s members, as well as the process for investigating and reprimanding those in violation of the code.
 
 In a sense, a code of conduct constitutes the moral backbone of a research community. However, as with the numerous schools of thought, there are similarly many codes of conduct. In other words, there is no one set of universal principles that all open science
-practitioners abide by. For example, consider how [OLS](https://openlifesci.org/code-of-conduct),  [INOSC](https://osf.io/6gsye), [allea](https://allea.org/portfolio-item/the-european-code-of-conduct-for-research-integrity-2/), [AGU](https://www.agu.org/Plan-for-a-Meeting/AGUMeetings/Meetings-Resources/Meetings-code-of-conduct) and [Ethical Source](https://ethicalsource.dev/community-code-of-conduct/) all have different codes of conducts and guiding principles.
+practitioners abide by. For example, consider how [OLS](https://openlifesci.org/code-of-conduct), [INOSC](https://osf.io/6gsye), [allea](https://allea.org/portfolio-item/the-european-code-of-conduct-for-research-integrity-2/), [AGU](https://www.agu.org/Plan-for-a-Meeting/AGUMeetings/Meetings-Resources/Meetings-code-of-conduct) and [Ethical Source](https://ethicalsource.dev/community-code-of-conduct/) all have different codes of conducts and guiding principles.
 
 This great diversity responds to the growing proliferation of open science initiatives and the great use we can make of open science approaches to knowledge.
 
@@ -297,7 +297,7 @@ As briefly discussed in previous lessons, open science doesn’t only involve re
 
 <img src="../images/media/image217.png" style="width: 100%; height: auto;" />
 
-Scientific research should benefit humanity. Although open science has many stakeholders, the advantageous interaction between science and society takes place among three core groups: scientific researchers, policymakers, and the public. Researchers do science and share their results with policy makers and the general public to inform their decisions and improve their lives. The public helps to fund research through taxes and can provide input to future areas of study. Policymakers help to implement measures that are informed by scientific results to improve the health, environment, and livability of society.
+Scientific research should benefit humanity. Although open science has many stakeholders, the advantageous interaction between science and society takes place among three core groups: scientific researchers, policymakers, and the public. Researchers do science and share their results with policymakers and the general public to inform their decisions and improve their lives. The public helps to fund research through taxes and can provide input to future areas of study. Policymakers help to implement measures that are informed by scientific results to improve the health, environment, and livability of society.
 
 These three stakeholder groups remain central to the world of open science. However, the inclusive nature of open science demands participation from the broader public. Growth in public participation in science can occur by removing barriers to those historically excluded and by expanding the community of people who support the scientific research itself.
 
@@ -334,7 +334,7 @@ Here we list some core groups who we envision as taking part in and/or benefitti
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Policymakers represent another key community in the science environment. Policy makers can reference scientific findings to inform their decisions for the betterment of society. Those who help in the understanding and dissemination of these policies (including educators and science journalists) are crucial to this process. Policy makers can also play important roles in ensuring and facilitating open science by setting data management processes, encouraging open access legislation, and developing ethical guidelines for experiments. Policy makers can benefit from open science by gaining better access to scientific output via the open sharing of research results.</p>
+            <p>Policymakers represent another key community in the science environment. policymakers can reference scientific findings to inform their decisions for the betterment of society. Those who help in the understanding and dissemination of these policies (including educators and science journalists) are crucial to this process. policymakers can also play important roles in ensuring and facilitating open science by setting data management processes, encouraging open access legislation, and developing ethical guidelines for experiments. policymakers can benefit from open science by gaining better access to scientific output via the open sharing of research results.</p>
         </td>
     </tr>
   </tbody>
@@ -406,8 +406,8 @@ Why is open science happening now?
 
 - Communicating research results is an integral aspect of science.
 - The internet and increasing availability of computers enables access by a much wider segment of society.
-- Researchers are mandated by law to share all their findings  and raw data immediately after conducting their experiments.
-- Open Science is happening now because of a global  shortage in academic professionals, necessitating widespread public involvement.
+- Researchers are mandated by law to share all their findings and raw data immediately after conducting their experiments.
+- Open Science is happening now because of a global shortage in academic professionals, necessitating widespread public involvement.
 
 *Question*
 
