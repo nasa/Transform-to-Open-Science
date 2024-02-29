@@ -39,7 +39,7 @@ Planning for outputs in advance includes:
 - Identifying journals (or other outlets) for publications
 - Highlighting these approaches in your grant and much more
 
-In reality, there is an exploratory stage where sharing one’s product may not be part of the plan. During active research and data exploration, data, code, and ideas may be created and deleted even daily. It may not be efficient to spend time making these fully open (eg. creating DOIs, documentation) because you are just exploring! Still, one may choose to make their code public through this process (it should be in some version control repository anyway, no harm in making it public). Part of this planning is beginning to think about what would be valuable to science and figuring out how you might share it.
+In reality, there is an exploratory stage where sharing one’s product may not be part of the plan. During active research and data exploration, data, code, and ideas may be created and deleted even daily. It may not be efficient to spend time making these fully open (e.g., creating DOIs, documentation) because you are just exploring! Still, one may choose to make their code public through this process (it should be in some version control repository anyway, no harm in making it public). Part of this planning is beginning to think about what would be valuable to science and figuring out how you might share it.
 
 It is important to discuss open science with your research team, lab, group or partners regularly. Much of responsible open science may seem to be related to outputs – such as data, software, and publications – but preparing and organizing work for these in advance is critical. It is much more difficult to follow leading practices for these at the end of research, in the 'afterthought' mode. Open science is both a mindset and culture that starts when you begin a project.
 
@@ -132,7 +132,7 @@ In this section, we introduce the "Use, Make, Share" framework that can start to
 
 ### What Resources Will You Use?
 
-There are already many open science resources for you to use! Open science already has a long history. For example, the act that created NASA mandated sharing of its discoveries with all of humanity and NASA has been sharing its data openly on the internet since the 1980’s. Now, there are already over 100 Petabytes of openly available NASA data for you to search, download, and use and examples of these services are provided in Module 3. Technology and practices have been developed around code that make it easy to collaborate on building complex solutions, and examples are given in Module 4. A range of services make it easy to share and discover open access publications and these are discussed in Module 5.
+There are already many open science resources for you to use! Open science already has a long history. For example, the act that created NASA mandated sharing of its discoveries with all of humanity and NASA has been sharing its data openly on the internet since the 1980s. Now, there are already over 100 Petabytes of openly available NASA data for you to search, download, and use and examples of these services are provided in Module 3. Technology and practices have been developed around code that make it easy to collaborate on building complex solutions, and examples are given in Module 4. A range of services make it easy to share and discover open access publications and these are discussed in Module 5.
 
 In Module 2, we will introduce you to some of the tools that not only make open science possible, but also easy.
 
@@ -152,7 +152,7 @@ Image Credit: Freepik.com
 
 Where you choose to share your research materials and results will have a large influence on its impact – how easy it is for others to find it, how long it is available, and how easy it is to reuse.
 
-Will you share data in a file filled with columns of unlabelled numbers without any units or explanations or will it be in an open, standard format and following the  [Findable, Accessible, Interoperable, Reusable (FAIR) principles](https://www.go-fair.org/fair-principles/)? Module 3 has more details to help you better understand how to share your data and explains ideas like FAIR and best practices in sharing data. This includes different considerations for where to share your data as well so that it is both accessible and preserved.
+Will you share data in a file filled with columns of unlabeled numbers without any units or explanations, or will it be in an open, standard format and following the [Findable, Accessible, Interoperable, Reusable (FAIR) principles](https://www.go-fair.org/fair-principles/)? Module 3 has more details to help you better understand how to share your data and explains ideas like FAIR and best practices in sharing data. This includes different considerations for where to share your data as well so that it is both accessible and preserved.
 
 For software, since it is often updated and changed, many researchers first share it on a version control platform like GitHub or GitLab but then archive a version of it in a repository that has long-term preservation capabilities – more on this in Module 4!
 
@@ -280,7 +280,7 @@ Like most data, JWST is complicated and it needs processing and data pipelines. 
 During the implementation phase, the team collaborated on creating the data processing software together, so that everyone would benefit. Imagine the wasted effort if all 400 people had written the software themselves. The benefit and outcome was that by collaborating on this effort, the team decreased duplicative efforts, contributors got credit for their work, the software was more accurate, and this effort accelerated the data wrangling process. EUREKA!, the software created, was [created openly](https://github.com/kevin218/Eureka)
 with [documentation](https://eurekadocs.readthedocs.io/en/latest/) and published with [peer-review of the software package.](https://joss.theoj.org/papers/10.21105/joss.04503)
 
-But they didn’t have to to start from scratch! The ERS-TRANSIT team was able to build on the work of others. The software built on the [JWST pipeline software](https://github.com/spacetelescope/jwst) developed openly by the JWST mission team. Furthermore, they were able to build on a much larger open source software ecosystem using python and Astropy.
+But they didn’t have to start from scratch! The ERS-TRANSIT team was able to build on the work of others. The software built on the [JWST pipeline software](https://github.com/spacetelescope/jwst) developed openly by the JWST mission team. Furthermore, they were able to build on a much larger open source software ecosystem using python and Astropy.
 
 ### Open Access to Results
 
@@ -470,7 +470,7 @@ Which item is NOT one of the four steps to open science that anyone can take?
 
 Select all that apply.
 
-- Engage with underrepresented communities to ensure  science encourages a more equitable, impactful, and
+- Engage with underrepresented communities to ensure science encourages a more equitable, impactful, and
 positive future.
 - Ask colleagues about open science activities, and award credit for them in evaluations.
 - Think about all the different types of reviews you are involved with, and how to improve them with a goal of openness.
@@ -501,7 +501,7 @@ Congratulations! Now you should be able to:
 
 [CLICK TO LEARN](http://doi.org/10.1007/978-3-319-00026-8_2)
 
-**EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science**
+**EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practice Open Science**
 
 [CLICK TO LEARN](http://ec.europa.eu/)
 

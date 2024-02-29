@@ -22,7 +22,7 @@ After completing this lesson, you should be able to:
 
 ## What Research Objects are Created Throughout the Research Cycle?
 
-### The Traditional Depiction of a "Scientiﬁc Result" Has Changed Over Time
+### The Traditional Depiction of a "Scientific Result" Has Changed Over Time
 
 When we think of results, most people think of just the final publication.
 
@@ -30,7 +30,7 @@ When we think of results, most people think of just the final publication.
 
 <img src="../images/media/image4.jpeg" style="width:350px;height:auto;" />
 
-This publication dates back to 1665 when the first scientific journal Philosophical Transactions was established to publish letters about scientific observations and experimentations.
+This publication dates back to 1665 when the first scientific journal Philosophical Transactions was established to publish letters about scientific observations and experimentation.
 
 **1940s**
 
@@ -42,7 +42,7 @@ Later in the 1940s, publishing became commercialized and took over as the mechan
 
 <img src="../images/media/image6.png" style="width:350px;height:auto;" />
 
-Only by the 21st century did the scientific community expand the meaning of open results. The evolution of this definition was driven by technological advances, such as the internet, and advances in modes to share information. The open access movement was established by the [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) in 2002 and the [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration) in 2003, both of which formalized the idea that, with regards to new knowledge, there should be "free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles" (Budapest Open Access Initiative).
+Only by the 21st century did the scientific community expand the meaning of open results. The evolution of this definition was driven by technological advances, such as the internet, and advances in modes to share information. The open access movement was established by the [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) in 2002 and the [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration) in 2003, both of which formalized the idea that, with regard to new knowledge, there should be "free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles" (Budapest Open Access Initiative).
 
 ### But Results Have Always Been Far More Than Just the Publication
 
@@ -142,7 +142,7 @@ Figure Credit: https://arxiv.org/abs/2208.11692
 
 ---
 
-The public is interested in what you are doing, and reaching them can involve communication through traditional and new platforms. Publishing results on platforms such as Twitter/X, Youtube, TikTok, blogs, websites, and other social media platforms is becoming more common. Awareness through social media drastically increases the reach and audience of your work. There have been studies on how this impacts citation rates. For example, The Journal of Medical Internet Research (JMIR) conducted a three-year [study](https://www.jmir.org/) of the relative success of JMIR articles in both Twitter and academic worlds. They found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.
+The public is interested in what you are doing, and reaching them can involve communication through traditional and new platforms. Publishing results on platforms such as Twitter/X, YouTube, TikTok, blogs, websites, and other social media platforms is becoming more common. Awareness through social media drastically increases the reach and audience of your work. There have been studies on how this impacts citation rates. For example, The Journal of Medical Internet Research (JMIR) conducted a three-year [study](https://www.jmir.org/) of the relative success of JMIR articles in both Twitter and academic worlds. They found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.
 
 Open communication platforms noticeably furthered the reach and audience of results.
 
@@ -160,7 +160,7 @@ YouTube: https://www.youtube.com/watch?v=cI-kM_wPbbQ
 
 ## What is the Reproducibility Crisis?
 
-A 2016 [Nature survey](https://www.nature.com/articles/533452a) on reproducibility found that of 1,576 researchers, "More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. "The 'reproducibility crisis' in science is a growing concern over several reproducibility studies where previous positive results were not reproduced.
+A 2016 [Nature survey](https://www.nature.com/articles/533452a) on reproducibility found that of 1,576 researchers, "More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments." The 'reproducibility crisis' in science is a growing concern over several reproducibility studies where previous positive results were not reproduced.
 
 We must consider the full research workflow if we are to solve the reproducibility crisis. The fact that 70% of researchers could not reproduce other scientists' results is shocking, especially considering that the reproducibility of science is the cornerstone of the scientific method.
 
@@ -190,7 +190,7 @@ Without access to the source codes for the papers, reproducibility has been show
 
 If your research workflow uses principles of open results, as showcased in the example, this will help you to combat the reproducibility crisis.
 
-We can create reproducible workﬂows and combat this crisis by considering open results at each stage of the research lifecycle. An Open Science and Data Management Plan (OSDMP) helps researchers think and plan for all aspects of sharing by determining how they will make software and data available. This plan can be shared publicly early on through a practice called pre-registering, where researchers determine their analysis plan and data collection procedure before a study begins (discussed previously in Lesson 2 of Module 2).
+We can create reproducible workflows and combat this crisis by considering open results at each stage of the research lifecycle. An Open Science and Data Management Plan (OSDMP) helps researchers think and plan for all aspects of sharing by determining how they will make software and data available. This plan can be shared publicly early on through a practice called pre-registering, where researchers determine their analysis plan and data collection procedure before a study begins (discussed previously in Lesson 2 of Module 2).
 
 ### Activity 1.1: What Could You Do?
 

@@ -108,7 +108,7 @@ Data can be easily shared through many different services - the best way for sci
 
 ### Sharing Open Code
 
-When sharing open code, it is often through an online version controlled platform that allows others to contribute to the software and provides a history of changes to the software. For example, many researchers choose to post code files on  [GitHub](https://github.com/) with a BSD 3-Clause license. This permits others to contribute and reuse the software. Steps to preserve code and make it discoverable are discussed in Module 4 - Open Code.
+When sharing open code, it is often through an online version controlled platform that allows others to contribute to the software and provides a history of changes to the software. For example, many researchers choose to post code files on [GitHub](https://github.com/) with a BSD 3-Clause license. This permits others to contribute and reuse the software. Steps to preserve code and make it discoverable are discussed in Module 4 - Open Code.
 
  <img src="../images/media/image9.png" style="width:100%;height:auto;" />
 
@@ -132,9 +132,9 @@ Here is an example of how one group openly shared their data, results, software,
 
  **Data**
 
- This version:  [https://doi.org/10.5281/zenodo.3688691](https://doi.org/10.5281/zenodo.3688691)
+ This version: [https://doi.org/10.5281/zenodo.3688691](https://doi.org/10.5281/zenodo.3688691)
 
-All versions:  [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/zenodo.3688690)
+All versions: [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/zenodo.3688690)
 
 <img src="../images/media/image12.jpeg" style="width:100%;height:auto;" />
 
@@ -146,9 +146,9 @@ All versions:  [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/
 
 Software
 
-This version:  [https://github.com/c-h-david/rapid](https://github.com/c-h-david/rapid) 
+This version: [https://github.com/c-h-david/rapid](https://github.com/c-h-david/rapid) 
 
-All versions:  [https://doi.org/10.5281/zenod](https://doi.org/10.5281/zenod)
+All versions: [https://doi.org/10.5281/zenod](https://doi.org/10.5281/zenod)
 
 
 ## Lesson 1: Summary

@@ -73,13 +73,13 @@ There are lots of ways that open science can extend the span or scope of project
 - Contribute to documentation to improve the open-source tools based on your own experience.
 - Connect your repository to Binder to allow online testing of your code and executable notebooks.
 - Link all the outputs that are generated outside this repository (like blog, video, forum post and podcast among others as discussed above).
-- Some advanced steps that should be applied as the project develops include continuous integration, containerisation, Citation CFF file and the creation of a simple web page to link all information.
+- Some advanced steps that should be applied as the project develops include continuous integration, containerization, Citation CFF file and the creation of a simple web page to link all information.
 
 ## How Emerging Technology Like AI is Changing How We Do Science
 
 Throughout these modules, the internet has been identified as a fundamental disruptive technology that changed how almost all of science is accomplished. Scientists rarely go to libraries to read the latest journal articles. Data is no longer mailed around the world on tape drives. Software isn’t shared via floppy disks. The internet helped create the modern scientific workflow and made science more interactive and accessible. Now AI tools are starting to disrupt science in a similar manner. AI is not only revolutionizing many aspects of our lives, it is also changing how we do science. As companies race to create and integrate new generative AI tools into every aspect of our lives, many scientists, institutions, journal publishers, and agencies are looking to see how to use these tools effectively, understand their reliability, accuracy, biases, and how to also use these cutting edge tools ethically. An additional concern is how any information shared with AI tools may be used to intentionally or unintentionally disclose confidential data, leading to privacy concerns.
 
-AI can help us use and share research. It can act as an accelerant, taking care of tedious tasks while leaving scientits free for more creative thought. These tools are better than humans at processing vast amounts of data, but humans are better at creative and nuanced thought. This is important to consider when determining whether or not to use AI. As an example, many people already use AI tools to help with their inbox management and writing emails with AI generated suggested content. Within science, there are many potential tasks that could potentially be expedited using AI, according to three studies published in Nature:
+AI can help us use and share research. It can act as an accelerant, taking care of tedious tasks while leaving scientists free for more creative thought. These tools are better than humans at processing vast amounts of data, but humans are better at creative and nuanced thought. This is important to consider when determining whether or not to use AI. As an example, many people already use AI tools to help with their inbox management and writing emails with AI generated suggested content. Within science, there are many potential tasks that could potentially be expedited using AI, according to three studies published in Nature:
 
 - [AI science search engines are exploding in number — are they any good?](https://www.nature.com/articles/d41586-023-01273-w)
 - [How AI technology can tame the scientific literature](https://www.nature.com/articles/d41586-018-06617-5)
@@ -195,7 +195,7 @@ AI can help us use and share research. It can act as an accelerant, taking care 
 
 Journals are increasingly implementing guidelines and requirements concerning the usage of AI tools during the writing process. Many require that the use of AI tools for writing, images creation, or other elements must be disclosed and their method of use identified. As is the case with all other material within an article, authors are fully responsible for ensuring that content is correct. Examples of this policy can be read in the AI guidelines of [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) and [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/).
 
-Furthermore, there are numerous examples of generative AI (for both code and content) delivering plagiarized information in violation of licenses, as well as fabricateding material including citations. Using these AI tools may lead to findings of academic and research misconduct should fabrication, falsification or plagiarism be contained within AI generated materials. So BE CAREFUL. Learn more about possible issues with AI in a [Nature example](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) here.
+Furthermore, there are numerous examples of generative AI (for both code and content) delivering plagiarized information in violation of licenses, as well as fabricating material including citations. Using these AI tools may lead to findings of academic and research misconduct should fabrication, falsification or plagiarism be contained within AI generated materials. So BE CAREFUL. Learn more about possible issues with AI in a [Nature example](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) here.
 
 At this time, and for these reasons, AI tools are generally not allowed in grant applications or in peer- review or proposal review activities.
 
@@ -255,7 +255,7 @@ Which of the following are steps you can take to share your open results online?
 
 ## Open Results Summary
 
-### Moving Toward an Open, Collaborative, and Inclusive Scientiﬁc Future
+### Moving Toward an Open, Collaborative, and Inclusive Scientific Future
 
 Science is meant to benefit society. Sharing our science helps ensure that it benefits society and informs the decisions of the public and policymakers, especially when funded by public agencies or governments. Going back to the 'Ethos of Open Science' module:
 

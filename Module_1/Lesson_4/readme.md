@@ -23,7 +23,7 @@ After completing this lesson, you should be able to:
 
 ## Common Fears Around Openness
 
-### Activity 4.1: Self Reﬂection on Open Science Concerns
+### Activity 4.1: Self Reflection on Open Science Concerns
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
 

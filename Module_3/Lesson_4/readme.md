@@ -144,7 +144,7 @@ If you do not already have a data repository in mind, consider the following to 
 - Do you think the tools offered by the repository for data discovery and distribution are suitable for your data and FAIR?
 - Does the repository require funding from your project, does it fit within your budget and does it require sustained support beyond the project life cycle?
 
-Find and compare the services, beneﬁts and limitations of the repositories you are considering. Each repository will have its own processes and requirements for accepting and hosting your data depending on their level of funding, purpose, and user base.
+Find and compare the services, benefits and limitations of the repositories you are considering. Each repository will have its own processes and requirements for accepting and hosting your data depending on their level of funding, purpose, and user base.
 
 Similarly, each repository will provide a different set of functionality and services depending on their level of funding, purpose, and user base.
 
@@ -301,7 +301,7 @@ Sharing data should be respectful of the communities that may be involved. This 
 - Privacy concerns and approval processes for release - is the data appropriately anonymized?
 - How to engage with communities that data may be about.
 - How data can be correctly interpreted.
-- Are there any data restrictions that may be necessary to ensure the sharing is respectful of the community the data involves, eg. collective and individual rights to free, prior, and informed consent in the collection and use of such data, including the development of data policies and protocols for collection?
+- Are there any data restrictions that may be necessary to ensure the sharing is respectful of the community the data involves, e.g., collective and individual rights to free, prior, and informed consent in the collection and use of such data, including the development of data policies and protocols for collection?
 
 ## Lesson 4: Summary
 

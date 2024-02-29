@@ -12,7 +12,7 @@
 
 ## Overview
 
-In this lesson, you learn the criteria and tasks needed to ensure that the datasets you make are open and reusable. The lesson starts with a discussion on creating a data management plan and then continues with topics on selecting open data formats and how to include metadata, readme files, and version control for your data. It wraps up with a discussion on open licenses for data.
+In this lesson, you learn the criteria and tasks needed to ensure that the datasets you make are open and reusable. The lesson starts with a discussion on creating a data management plan and then continues with topics on selecting open data formats and how to include metadata, README files, and version control for your data. It wraps up with a discussion on open licenses for data.
 
 ## Learning Objectives
 
@@ -80,10 +80,10 @@ Some examples of open data formats include:
 |  |  |
 |---|---|
 | Comma Separated Values (CSV) | For simplicity, readability, compatibility, easy data exchange. |
-| Hierarchical Data Format (HDF) | For efﬁcient storing and retrieving data, compression, multi-dimensional support. |
-| Network Common Data Form (NetCDF) | For self-describing and portability, efﬁcient data subsetting (extract speciﬁc portions of large datasets), standardization and interoperability. |
+| Hierarchical Data Format (HDF) | For efficient storing and retrieving data, compression, multi-dimensional support. |
+| Network Common Data Form (NetCDF) | For self-describing and portability, efficient data subsetting (extract specific portions of large datasets), standardization and interoperability. |
 | Investigation-Study- Assay (ISA) model for life science studies | For structured data organization, data integration and interoperability among experiments, reproducibility and transparency. |
-| Flexible Image Transport System (FITS) | As a standard for astronomical data, ﬂexible and extensible metadata and image headers, efﬁcient data compression and archiving of large datasets. |
+| Flexible Image Transport System (FITS) | As a standard for astronomical data, flexible and extensible metadata and image headers, efficient data compression and archiving of large datasets. |
 | Common Data Format (CDF) | For self-describing format readable across multiple operating systems, programming languages, and software environments, multidimensional data, and metadata inclusion. |
 
 By embracing open standards, authors can avoid unnecessary barriers and maximize their chances of making data useful to their communities.
@@ -92,7 +92,7 @@ By embracing open standards, authors can avoid unnecessary barriers and maximize
 
 ### Adding Documentation and Metadata for Reusability
 
-Metadata and data documentation describe data so that we and others can use and better understand data. While metadata and documentation are related, there is an important distinction. Metadata are structured, standardized, and machine readable. Documentation is unstructured and can be any format (often a text file that accompanies the data).
+Metadata and data documentation describe data so that we and others can use and better understand data. While metadata and documentation are related, there is an important distinction. Metadata are structured, standardized, and machine-readable. Documentation is unstructured and can be any format (often a text file that accompanies the data).
 
 To better understand documentation and metadata, let’s take an example of an online recipe. Many online recipes start with a long description and history of the recipe, and perhaps cooking or baking tips for the dish, before listing ingredients and step-by-step cooking instructions.
 
@@ -119,10 +119,10 @@ Metadata can facilitate the assessment of dataset quality and data sharing by an
 Metadata enhances searchability and findability of the data by potentially allowing both humans and machines to read and interpret datasets. Benefits to creating metadata about your data include:
 
 - Helps users understand what the data are and if/how they can use/cite it.
-- Helps users find the data, particularly when metadata is machine- readable and standardized.
+- Helps users find the data, particularly when metadata is machine-readable and standardized.
 - Can make analysis easier with software tools that interpret standardized metadata (e.g. Xarray).
 
-To be machine readable, the metadata needs to be standardized. See an example of a community-accepted standard for labeling climate datasets with the [CF Conventions](http://cfconventions.org/).
+To be machine-readable, the metadata needs to be standardized. See an example of a community-accepted standard for labeling climate datasets with the [CF Conventions](http://cfconventions.org/).
 
 There are also software packages that can read metadata and enhance the user experience significantly as a result. For instance, [Xarray](https://docs.xarray.dev/en/stable/index.html) is an open-source, community developed software package that is widely used in the climate and biomedical fields, among many others. According to their website, "Xarray makes working with labeled multi-dimensional arrays in Python simple, efficient, and fun!". It's the "labeled" part where standardized metadata comes in! Xarray can interpret variable and dimension names without user input, making the workflow easier and less prone to making mistakes (e.g. users don’t have to remember which axis is "time" - they just need to call the axis with the label "time").
 
@@ -205,7 +205,7 @@ Understanding when and where the license applies is crucial. For example, data c
 
 <img src="../images/media/image34.jpeg" style="width:100%;height:auto;" />
 
-There are several different types of licenses that build on each other. Creative Commons (CC) licenses are often used for datasets. CC0 (also known as "public domain") is the license that allows for the most reuse because it has the least restrictions on what users can do with it. Although the CC0 license does not explicitly require citation, you should still follow community best practices and cite the data source. CC-BY is another common license used for scientific data that requires citation. From there, you can add restrictions around commercial use, ability to adapt or modify the data, or requirements to share with the same license. These other flavors all reduce usability by adding restrictions, such that other scientists may be unable to use the data because of institutional or legal restrictions. Funding agencies may require use of a specific license. For public agencies, this is often CC-0 or CC-BY, to maximize their return on investment and ensure widest possible re-use.
+There are several different types of licenses that build on each other. Creative Commons (CC) licenses are often used for datasets. CC0 (also known as "public domain") is the license that allows for the most reuse because it has the least restrictions on what users can do with it. Although the CC0 license does not explicitly require citation, you should still follow community best practices and cite the data source. CC-BY is another common license used for scientific data that requires citation. From there, you can add restrictions around commercial use, ability to adapt or modify the data, or requirements to share with the same license. These other flavors all reduce usability by adding restrictions, such that other scientists may be unable to use the data because of institutional or legal restrictions. Funding agencies may require use of a specific license. For public agencies, this is often CC-0 or CC-BY, to maximize their return on investment and ensure the widest possible re-use.
 
 ### Example Data Licenses and Reuse
 

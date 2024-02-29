@@ -68,7 +68,7 @@ The following material assumes that you have met the threshold and are writing a
 
 ### Pen to Paper: Getting Started Writing a Plan
 
-If you are applying for funding, it is almost guaranteed that there will be specific data management requirements detailed in the funding opportunity. For example, the funder may require a certain license or use of a specific repository. Make sure to cross reference your plan with these requirements.
+If you are applying for funding, it is almost guaranteed that there will be specific data management requirements detailed in the funding opportunity. For example, the funder may require a certain license or use of a specific repository. Make sure to cross-reference your plan with these requirements.
 
 **Examples of Software Management Plans**
 
@@ -168,7 +168,7 @@ Subscribe to and/or participate in forums (e.g., GitHub discussions, Stack Overf
 
 **Explore: The Turing Way**
 
-**Hit the button to ﬁnd out more information on building a community.**
+**Hit the button to find out more information on building a community.**
 
 [CLICK TO LEARN](https://the-turing-way.netlify.app/collaboration/new-community.html)
 
@@ -237,7 +237,7 @@ In this lesson, you learned:
 
 - When a SMP should be written and that your funding organization or institution may have rules around how you develop and share your code.
 - That joining software communities can be a great way to exchange knowledge and learn new skills around open code.
-- That there are many ways to contribute to open code, and that not all of them require writing code."
+- That there are many ways to contribute to open code, and that not all of them require writing code.
 
 ## Lesson 5: Knowledge Check
 

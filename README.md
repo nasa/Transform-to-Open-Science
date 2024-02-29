@@ -6,7 +6,7 @@ Transform to Open Science (TOPS) is a NASA initiative designed to rapidly transf
 
 ## Open Science Curriculum: Open Science 101 
 
-### 5 Modules Organized as a Scientiﬁc Workﬂow
+### 5 Modules Organized as a Scientific Workflow
 
 <img src="./Module_1/images/media/image441.png" style="width:100%;height:auto;" />
 

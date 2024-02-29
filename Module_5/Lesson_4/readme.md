@@ -63,7 +63,7 @@ Here are some specific examples of engagement across contemporary platforms for 
 - Conference proceedings, such as from the [Society of Photo-Optical Instrumentation Engineers.](https://spie.org/publications/conference-proceedings)
 - Social media posts: [https://twitter.com/MartianColonist/status/1706824699349488036](https://twitter.com/MartianColonist/status/1706824699349488036)
 
-<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **Over the course of a 3 year study, the Journal of Medical Internet Research found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.**
+<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **Over the course of a 3-year study, the Journal of Medical Internet Research found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.**
 
 ### Publishing Reproducible Reports and Publications
 
@@ -180,7 +180,7 @@ Without a license, all rights are with the author of the research result. That m
 
 Creative Commons licenses are usually used for written content (see Lesson 3 for a full description!). The benefit of a license, as opposed to the public domain, is that most require attribution to the original creators. The Creative Commons Attribution License, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc), is the most common open access license for sharing publications as it requires attribution. There are other Creative Commons licenses used that may have different limitations on whether or not they can be commercially used, whether or not they can be modified and copied, and whether or not the licenses can be changed in further adaptations of code.
 
-Your institutions, funding agency, or research proposal may require use of a specific license depending on the type of material that you produce from your research. For public agencies, CC-0 or CC-BY are generally recommended (or required) to maximize their return on investment and ensure widest possible re-use. Choosing a CC license that has additional restrictions (eg. -ND, -SA, -NC) can result in less reuse of data. As you share results on different platforms, look carefully to see what license is being applied!
+Your institutions, funding agency, or research proposal may require use of a specific license depending on the type of material that you produce from your research. For public agencies, CC-0 or CC-BY are generally recommended (or required) to maximize their return on investment and ensure the widest possible re-use. Choosing a CC license that has additional restrictions (e.g., -ND, -SA, -NC) can result in less reuse of data. As you share results on different platforms, look carefully to see what license is being applied!
 
 ### Routes for Open Access Publishing
 
@@ -249,7 +249,7 @@ The most common types of open access publishing are Green, Gold, and Diamond.
 
 When publishing in a peer-reviewed journal, you can decide to share a pre-print. A preprint is a version of a paper prior to its publication in a journal\*. This can be the author’s version of the accepted manuscript after peer review or a version prior to submission to a journal.
 
-<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **The accepted manuscript is the final, peer-reviewed version of the article that has been accepted for publication by a publisher. The accepted manuscript includes all changes made during the peer review process and contains the same content as the ﬁnal published article, but it does not include the publisher’s copyediting, stylistic, or formatting edits that will appear in the ﬁnal journal publication (i.e., the version of record).**
+<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **The accepted manuscript is the final, peer-reviewed version of the article that has been accepted for publication by a publisher. The accepted manuscript includes all changes made during the peer review process and contains the same content as the final published article, but it does not include the publisher’s copy editing, stylistic, or formatting edits that will appear in the final journal publication (i.e., the version of record).**
 
 **Source: https://science.nasa.gov/researchers/sara/faqs/osdmp.**
 

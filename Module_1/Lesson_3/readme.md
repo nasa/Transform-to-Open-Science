@@ -105,7 +105,7 @@ Many organizations have groups that will support the development and commerciali
 
 **Public Domain**
 
-In some cases, intellectual property is not protected at all. Public domain is when a creative work has no intellectual property rights associated with it. Some types of intellectual property expires after a certain time scale. Some types of work, such as those created by civil servants in the United States, is not covered by copyright and can appear immediately in the public domain. For others, the creator donates the work to the public domain or intellectual property rights are not applicable.
+In some cases, intellectual property is not protected at all. Public domain is when a creative work has no intellectual property rights associated with it. Some types of intellectual property expires after a certain time scale. Some types of work, such as those created by civil servants in the United States, are not covered by copyright and can appear immediately in the public domain. For others, the creator donates the work to the public domain or intellectual property rights are not applicable.
 
 ### Why Should You Care About Intellectual Property Policies?
 
@@ -382,7 +382,7 @@ Remember, sometimes what they say may conflict, for example:
 - If your grant / funder says outputs should be open, usually your institute will permit you to share items even if they are normally more restrictive.
 - Different types of outputs may have different types of restrictions. (e.g. software or hardware might have one expectation, whilst data might have others).
 
-Universities and other institutions may have OSPOs (Open Source Policy Office) or commercialisation offices. Most institutes will have intellectual property counsel to help answer questions. Librarians are another good resource to consult when looking for advice on sharing. Considering these policies earlier in your research can save you time and energy down the road, which is why...
+Universities and other institutions may have OSPOs (Open Source Policy Office) or commercialization offices. Most institutes will have intellectual property counsel to help answer questions. Librarians are another good resource to consult when looking for advice on sharing. Considering these policies earlier in your research can save you time and energy down the road, which is why...
 
 ### Early is Better
 

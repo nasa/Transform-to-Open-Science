@@ -42,7 +42,7 @@ There are also public examples of data management plans at
 
 [https://dmponline.dcc.ac.uk/public_plans](https://dmponline.dcc.ac.uk/public_plans).
 
-If you are applying for funding, it is almost guaranteed that there will be specific requirements detailed in the funding opportunity. For example, the funder may require a certain license or use of a specific repository. Make sure to cross reference your plan with these requirements!
+If you are applying for funding, it is almost guaranteed that there will be specific requirements detailed in the funding opportunity. For example, the funder may require a certain license or use of a specific repository. Make sure to cross-reference your plan with these requirements!
 
 ### Activity 5.1: Review a data management plan
 
@@ -231,5 +231,5 @@ Congratulations! Now that you have completed the module, you should be able to d
 
 - Explain what open data means, its benefits, and how FAIR principles are used.
 - Discover open data, assess the data for reuse by evaluating provided documentation, and cite the data as instructed.
-- Create an open data management plan, select open data formats, add the needed documentation, including metadata, readme files and version control, to make the data reusable and findable.
+- Create an open data management plan, select open data formats, add the needed documentation, including metadata, README files and version control, to make the data reusable and findable.
 - Evaluate whether your data should and can be shared, and use the data accessibility process, including adding a DOI and citation instructions to enable it to be findable and citable.

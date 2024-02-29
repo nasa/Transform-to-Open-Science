@@ -38,7 +38,7 @@ There are two major categories of sharing: sharing for development and providing
 
 ### Open Source Code Development
 
-Writing scientific code is often a dynamic and collaborative process in which multiple people contribute and the code evolves over time. In such projects, it is beneficial to develop open code within a public repository hosting platform such as Github, Bitbucket, GitLab etc. from the beginning of a project. This ensures that all updates are shared openly on the web and can reach potentially interested collaborators and users in near real time.
+Writing scientific code is often a dynamic and collaborative process in which multiple people contribute and the code evolves over time. In such projects, it is beneficial to develop open code within a public repository hosting platform such as GitHub, Bitbucket, GitLab etc. from the beginning of a project. This ensures that all updates are shared openly on the web and can reach potentially interested collaborators and users in near real time.
 
 ### Archiving Open Code
 
@@ -168,10 +168,10 @@ First, consider your institutional or funding agency policies that may dictate w
 #### What are some good options and best practices for archiving your code?
 
 - Archive open code with an open access journal article.
-- If the open code is in an active online development repository such as Github, then create a version and archive the code at a long-term repository with a DOI such as Zenodo, which can be integrated with Github (more details on this process later).
+- If the open code is in an active online development repository such as GitHub, then create a version and archive the code at a long-term repository with a DOI such as Zenodo, which can be integrated with GitHub (more details on this process later).
 - Archive the code in other long-term public repositories, such as Software Heritage.
 
-#### Is your code a substantial software package and of interest to a signiﬁcant number of users from various disciplines? Where else can your open code be shared?
+#### Is your code a substantial software package and of interest to a significant number of users from various disciplines? Where else can your open code be shared?
 
 <img src="../images/media/image332.png" style="width:350px;height:auto;" />
 
@@ -181,7 +181,7 @@ First, consider your institutional or funding agency policies that may dictate w
 - Publish the software in a Journal dedicated to open software (ex. JOSS). 
 - Get your software peer reviewed through communities like PyOpenSci.
 
-#### To share my code, I can just add it to github, right?
+#### To share my code, I can just add it to GitHub, right?
 
 Not necessarily. Sharing on a repository is encouraged, but a researcher’s funding organization may require a DOI from an archival repository, such as Zenodo, for long-term preservation of your code at the time of publication or version releases.
 
@@ -229,7 +229,7 @@ Steps for this activity:
 8.  You will be automatically directed to your new repository webpage.
 9.  Now we will get a DOI from the Zenodo application. Note that we are going to use [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/) to do this. This offers all the same capabilities as [https://zenodo.org](https://zenodo.org/) but is a testing site! Create a free account if you have not already.
 
-**Part 2: Create an archived repository and afﬁliated DOI.**
+**Part 2: Create an archived repository and affiliated DOI.**
 
 1.  Navigate to the [Zenodo GitHub page](https://sandbox.zenodo.org/account/settings/github/). Click on the button 'Connect' to allow Zenodo to access your GitHub repositories.
 
@@ -272,7 +272,7 @@ CITATION files are a means to make citation information easily accessible in ope
 
 If you are hoping for community input on your software, it is a best practice to include CONTRIBUTING and CODE_OF_CONDUCT files in your repository that outline expectations for member interactions.
 
-We won't go into these in detail here, but you can check out the [Xarray package's github repository](https://github.com/pydata/xarray/tree/main) for a good example.
+We won't go into these in detail here, but you can check out the [Xarray package's GitHub repository](https://github.com/pydata/xarray/tree/main) for a good example.
 
 ## Who: Roles and Responsibilities of the Team Members in Implementing the SMP
 
