@@ -85,6 +85,7 @@ Welcome to Open Results! This module focuses on giving you the tools you need to
 
 <!---FOR DEVELOPER ONLY (UNLESS YOU FEEL BRAVE)-->
 
+{% include os101modules/earnbadge.html %}
 {% include os101modules/module_1.html %}
 {% include os101modules/module_2.html %}
 {% include os101modules/module_3.html %}
