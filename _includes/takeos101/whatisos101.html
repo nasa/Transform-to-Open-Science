@@ -1,0 +1,21 @@
+<div class="tops_white_section tops_half_section half_section_right">
+              <div class="container tops_container">
+                <div class="d-flex flex-row flex-wrap align-items-start">
+                  <div class="d-flex flex-column flex-wrap justify-content-center tops_half_section_column_big">
+                    <h2 class="mb-2">What is Open Science 101?</h2>
+                    <div class="tops_divider div_smaller mb-3"><div class="div_inner"></div></div>
+                    <p>The Open Science 101 curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan. Expand your Open Science expertise and equip yourself with the essential skills required to excel in the realm of open science. Sign up today to embark on your journey towards advancing your open science proficiency and gain your NASA Open Science Certification.</p>
+					<h3 class="mt-3 mb-2">Explore Curriculum Modules</h3>
+					<ul class="d-flex flex-row flex-wrap tops_list_icons">
+						{% for cmodules-home-item in site.data.menus.cmodules %}
+							<li class="me-3"><a href="{{cmodules-home-item.url}}" target="_blank"><span class="list_external"><i class="fa-solid fa-up-right-from-square"></i></span>{{cmodules-home-item.title}}</a></li>
+						{% endfor %}
+					</ul>
+                  </div>
+                  <div class="tops_half_section_column_small">
+                    <div class="tops_half_section_shinysquare"></div>
+                    <div class="tops_half_section_imageoutter"><!--<img src="assets/img/videothumbv2.jpg" class="tops_half_section_image">--><iframe width="560" height="315" src="https://www.youtube.com/embed/RJAcQ3TxlAc?si=JtQi5PJdCGJkx9mY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+                  </div>
+                </div>
+              </div>
+            </div>

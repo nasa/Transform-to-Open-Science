@@ -1335,6 +1335,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	padding:25px;
 	padding-top: 50px;
 	padding-bottom: 50px;
+	background-color: #F0F0F0;
+}
+
+.tops_gray_section .no_workshops {
+	background-color: #FFFFFF;
 }
 
 .no_workshops .noworkshops_icon_holder, .no_workshops p {
@@ -1786,6 +1791,72 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: #777;
 	font-family: 'Nunito', sans-serif;
 	margin-bottom: 12px;
+}
+
+.tops_earnbadge_section h2 {
+    display: block;
+    width: 100%;
+    font-size: 42px;
+    line-height: 46px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #222;
+}
+
+.tops_earnbadge_section p {
+    display: block;
+    width: 100%;
+    font-size: 16px;
+    line-height: 1.6rem;
+    font-weight: 400;
+    color: #777;
+}
+
+.tops_earnbadge_section .tops_earnbadge_primary_content p {
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.tops_earnbadge_section .tops_earnbadge_primary_content p:last-of-type {
+    margin-bottom: 0;
+}
+
+.tops_earnbadge_section .tops_earnbadge_badges h4 {
+	font-size: 16px;
+	line-height: 20px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.tops_earnbadge_section .tops_earnbadge_badges .tops_earnbadge_badge a {
+	transition: color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out, box-shadow .15s ease-in-out, opacity .3s ease-in-out;
+}
+
+.tops_earnbadge_section .tops_earnbadge_badges .tops_earnbadge_badge a:hover, .tops_earnbadge_section .tops_earnbadge_badges .tops_earnbadge_badge a:active, .tops_earnbadge_section .tops_earnbadge_badges .tops_earnbadge_badge a:focus {
+	opacity: 0.65;
+}
+
+.tops_earnbadge_section .tops_earnbadge_badges .tops_earnbadge_badge:nth-of-type(1) h4 {
+	color: #D11F5E;
+}
+
+.tops_earnbadge_section .tops_earnbadge_badges .tops_earnbadge_badge:nth-of-type(2) h4 {
+	color: #D83E00;
+}
+
+.tops_earnbadge_section .tops_earnbadge_badges .tops_earnbadge_badge:nth-of-type(3) h4 {
+	color: #0D405C;
+}
+
+.tops_earnbadge_section .tops_earnbadge_badges .tops_earnbadge_badge:nth-of-type(4) h4 {
+	color: #1E8706;
+}
+
+.tops_earnbadge_section .tops_earnbadge_badges .tops_earnbadge_badge:nth-of-type(5) h4 {
+	color: #007F95;
+}
+
+.tops_earnbadge_section .tops_earnbadge_badges .tops_earnbadge_badge:nth-of-type(6) h4 {
+	color: #988549;
 }
 
 /* Event Styling */
