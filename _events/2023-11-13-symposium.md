@@ -3,6 +3,7 @@ layout: event
 title:  "TOPS Symposium"
 invisible: true
 symposium: true
+disclaimer: true
 permalink: "/events/tops-symposium/"
 image: assets/img/events/symposium.jpg
 imagecaption: "An image of the Astronaut Memorial Foundation (AMF), The Center for Space Education."

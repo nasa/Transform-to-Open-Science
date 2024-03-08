@@ -1,6 +1,7 @@
 ---
 layout: event
 title:  "The Geological Society of America (GSA) Connects"
+disclaimer: true
 permalink: "/events/gsa-connects-2024/"
 image: assets/img/events/gsa.jpg
 imagecaption: "An image of Anaheim, CA where GSA will be held."

@@ -1,6 +1,27 @@
 ---
 layout: default
 ---
+
+{% assign symposium_enabled = false %}
+{% assign dislaimer_enabled = false %}
+{% if page.symposium %}
+	{% if page.symposium == true %}
+		{% assign symposium_enabled = true %}
+	{% else %}
+		{% assign symposium_enabled = false %}
+	{% endif %}
+{% else %}
+	{% assign symposium_enabled = false %}
+{% endif %}
+{% if page.disclaimer %}
+	{% if page.disclaimer == true %}
+		{% assign dislaimer_enabled = true %}
+	{% else %}
+		{% assign dislaimer_enabled = false %}
+	{% endif %}
+{% else %}
+	{% assign dislaimer_enabled = false %}
+{% endif %}
 <div style="background-image: url('{{ site.baseurl }}/assets/img/abstractlines.jpg');" class="d-flex flex-column justify-content-center tops_hero sub_hero tops_hero_align_50_100 tops_overlay_section black_overlay">
     <div class="the_overlay opacity-70"></div>
     <div class="container tops_container">
@@ -37,7 +58,9 @@ layout: default
           <div class="tops_eventsingle_content_text">
               {{content}}
           </div>
+		  {% if dislaimer_enabled == true %}
 		  <div class="tops_eventsingle_eventdisclaimer bg-primary text-white"><i class="fa-solid fa-circle-info"></i>NASA cannot link to external events that charge a fee.  Please visit this event's website to register.</div>
+		  {% endif %}
           <h2 class="text-start mb-2 tops_eventsingle_moretitle">Upcoming Events</h2>
           <div class="tops_divider div_smaller justify-content-start mb-0"><div class="div_inner"></div></div>
           <div class="tops_events_tiles tops_eventsingle_tiles">
@@ -74,14 +97,14 @@ layout: default
         <div class="col-12 col-md-4 col-lg-3 tops_eventsingle_sidebar">
           <div class="tops_eventsingle_sidebar_widget">
               <h3 class="mb-2">
-                {% if page.symposium %}
-                  Event Location Details
-                {% else %}
-                  Event Details
-                {% endif %}
+                {% if symposium_enabled == true %}
+					Event Location Details
+				{% else %}
+				    Event Details
+				{% endif %}
               </h3>
               <div class="tops_divider div_smallest justify-content-start mb-3"><div class="div_inner"></div></div>
-              <p class="tops_eventsingle_widgetdescription">{% if page.symposium %}Please refer to the event description for more details.{% else %}Interested in going to this event?  Below is basic information about when the event will happen and how to get there.{% endif %}</p>
+              <p class="tops_eventsingle_widgetdescription">{% if symposium_enabled == true %}Please refer to the event description for more details.{% else %}Interested in going to this event?  Below is basic information about when the event will happen and how to get there.{% endif %}</p>
               <div class="tops_eventsingle_image_box d-flex flex-row flex-wrap align-items-start">
                   <div class="tops_image_box_imagecol text-start">
                       <div class="tops_image_box_imageinner"><i class="fa-solid fa-calendar-days"></i></div>
@@ -111,7 +134,7 @@ layout: default
               </div>
               {{ page.map }}
           </div>
-          {% if page.symposium != true %}
+          {% if symposium_enabled == false %}
           <div class="tops_eventsingle_sidebar_widget">
               <h3 class="mb-2">Share This Event</h3>
               <div class="tops_divider div_smallest justify-content-start mb-3"><div class="div_inner"></div></div>
