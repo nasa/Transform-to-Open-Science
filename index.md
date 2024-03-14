@@ -191,7 +191,7 @@ Learn More
 
 <!---OS 101 Learn More Button Link-->
 {% capture home-os101-learn-more-link %}
-https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules
+{{site.baseurl}}/os101-modules
 {% endcapture %}
 <!---END OS 101-->
 

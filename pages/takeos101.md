@@ -21,6 +21,16 @@ What Is Open Science 101?
 {% capture takeos101-whatisos101-description %}
 The Open Science 101 curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan. Expand your Open Science expertise and equip yourself with the essential skills required to excel in the realm of open science. Sign up today to embark on your journey towards advancing your open science proficiency and gain your NASA Open Science Certification.
 {% endcapture %}
+
+<!---What Is Open Science 101 Learn More Button Text-->
+{% capture takeos101-whatisos101-learn-more-text %}
+Learn More
+{% endcapture %}
+
+<!---What Is Open Science 101 Learn More Button Link-->
+{% capture takeos101-whatisos101-learn-more-link %}
+{{site.baseurl}}/os101-modules
+{% endcapture %}
 <!---END What Is Open Science 101?-->
 
 
