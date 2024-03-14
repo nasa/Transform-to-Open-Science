@@ -2,9 +2,9 @@
               <div class="container tops_container">
                 <div class="d-flex flex-row flex-wrap align-items-start">
                   <div class="d-flex flex-column flex-wrap justify-content-center tops_half_section_column_big">
-                    <h2 class="mb-2">What is Open Science 101?</h2>
+                    <h2 class="mb-2">{{ takeos101-whatisos101-title }}</h2>
                     <div class="tops_divider div_smaller mb-3"><div class="div_inner"></div></div>
-                    <p>The Open Science 101 curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan. Expand your Open Science expertise and equip yourself with the essential skills required to excel in the realm of open science. Sign up today to embark on your journey towards advancing your open science proficiency and gain your NASA Open Science Certification.</p>
+                    {{ takeos101-whatisos101-description | markdownify }}
 					<h3 class="mt-3 mb-2">Explore Curriculum Modules</h3>
 					<ul class="d-flex flex-row flex-wrap tops_list_icons">
 						{% for cmodules-home-item in site.data.menus.cmodules %}
