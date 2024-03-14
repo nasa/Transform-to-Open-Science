@@ -1,13 +1,13 @@
-<div id="earnbadge" class="tops_white_section tops_earnbadge_section">
+<div id="earnbadge" class="tops_white_section tops_gray_section tops_earnbadge_section">
               <div class="container tops_container">
                 <div class="row">
                   <div class="col-12 tops_earnbadge_primary_content primary_content_md">
-                    <h2 class="text-center mb-2">Earn Your NASA OPEN SCIENCE Badge</h2>
+                    <h2 class="text-center mb-2">{{ os101modules-earnbadge-title }}</h2>
                     <div class="tops_divider div_larger justify-content-center mb-3"><div class="div_inner"></div></div>
-                    <p>To gain a solid grasp of the Open Science 101 curriculum, it’s crucial to take each of the five modules in order, starting with Module 1: The Ethos of Open Science.  By taking each module in order, learners can develop a strong foundation and understanding, ultimately enabling them to apply open science practices effectively.</p>
+                    {{ os101modules-earnbadge-description | markdownify }}
                     <div class="d-flex flex-row flex-wrap tops_doublebuttons justify-content-center">
-                      <a class="btn btn-primary" href="{{site.baseurl}}/{{site.enrollbutton}}" role="button">Enroll Now</a>
-					  <a class="btn btn-outline-primary" href="#" role="button">Contact Us</a>
+                      <a class="btn btn-primary" href="{{site.baseurl}}/{{site.enrollbutton}}" role="button">{{ os101modules-earnbadge-enroll-text }}</a>
+					  <a class="btn btn-outline-primary" href="{{ os101modules-earnbadge-contact-link }}" role="button">{{ os101modules-earnbadge-contact-text }}</a>
                     </div>
                   </div>
                 </div>

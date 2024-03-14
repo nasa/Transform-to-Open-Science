@@ -55,17 +55,20 @@ footermenu:
 # Curriculum Modules
 cmodules:
 
+- title: All Modules
+  url: "os101-modules/"
+
 - title: Ethos Of Open Science
-  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_science_ethos_module.md"
+  url: "os101-modules/#ethos"
 
 - title: Open Tools And Resources
-  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_tools_module.md"
+  url: "os101-modules/#toolsandresources"
 
 - title: Open Data
-  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_data_module.md"
+  url: "os101-modules/#data"
 
 - title: Open Code
-  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_code_module.md"
+  url: "os101-modules/#code"
 
 - title: Open Results
-  url: "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules/open_results_module.md"
+  url: "os101-modules/#results"

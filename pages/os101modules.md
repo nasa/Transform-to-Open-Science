@@ -11,6 +11,54 @@ overlay: "opacity-75"
 
 
 
+<!---START What Is Open Science 101?-->
+<!---What Is Open Science 101 Title (Plain Text)-->
+{% capture os101modules-whatisos101-title %}
+What Is Open Science 101?
+{% endcapture %}
+
+<!---What Is Open Science 101 Description (Markdown)-->
+{% capture os101modules-whatisos101-description %}
+The Open Science 101 curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan. Expand your Open Science expertise and equip yourself with the essential skills required to excel in the realm of open science. Sign up today to embark on your journey towards advancing your open science proficiency and gain your NASA Open Science Certification.
+{% endcapture %}
+
+<!---What Is Open Science 101 Enroll Button Text-->
+{% capture os101modules-whatisos101-enroll-text %}
+Enroll Now
+{% endcapture %}
+<!---END What Is Open Science 101?-->
+
+
+
+<!---START Earn Your Badge-->
+<!---Earn Your Badge Title (Plain Text)-->
+{% capture os101modules-earnbadge-title %}
+Earn Your NASA Open Science Badge
+{% endcapture %}
+
+<!---Earn Your Badge Description (Markdown)-->
+{% capture os101modules-earnbadge-description %}
+To gain a solid grasp of the Open Science 101 curriculum, it's crucial to take each of the five modules in order, starting with Module 1: The Ethos of Open Science. By taking each module in order, learners can develop a strong foundation and understanding, ultimately enabling them to apply open science practices effectively.
+{% endcapture %}
+
+<!---Earn Your Badge Enroll Button Text-->
+{% capture os101modules-earnbadge-enroll-text %}
+Enroll Now
+{% endcapture %}
+
+<!---Earn Your Badge Contact Button Text-->
+{% capture os101modules-earnbadge-contact-text %}
+Contact Us
+{% endcapture %}
+
+<!---Earn Your Badge Contact Button Link-->
+{% capture os101modules-earnbadge-contact-link %}
+{{site.baseurl}}/contact
+{% endcapture %}
+<!---END Earn Your Badge-->
+
+
+
 <!---START Module 1-->
 <!---Module 1 Title (Plain Text)-->
 {% capture os101modules-module1-title %}
@@ -85,6 +133,7 @@ Welcome to Open Results! This module focuses on giving you the tools you need to
 
 <!---FOR DEVELOPER ONLY (UNLESS YOU FEEL BRAVE)-->
 
+{% include os101modules/whatisos101.html %}
 {% include os101modules/earnbadge.html %}
 {% include os101modules/module_1.html %}
 {% include os101modules/module_2.html %}
