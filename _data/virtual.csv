@@ -1,5 +1,6 @@
-date,time,eventtype,module,instructor,nasa,register,register_link
-Dec. 12,12 - 2:30 p.m,Event Type 1,1,"Person's Name 1, TOPS",no,CC Form,
-Dec. 12 - Jan. 25 (Fridays),8:00 a.m - 10:30,Event Type 2,"1, 2, 3, 4, 5","Person's Name 2, Don't Use This Code",yes,DUTC Form,https://nasa.gov
-Feb. 14,1:00 p.m - 2:00,Event Type 3,3,"Person's Name 3, TOPS",,Test Form,
-Mar. 17,5:00 a.m - 7:00,Event Type 4,"2, 3, 4","Person's Name 4, TOPS",no,Test Form,https://example.com
+date,time,eventtype,topic,instructor,regtype,register,register_link
+Dec. 12,12 - 2:30 p.m,Event Type 1,OS101 Module 1,"Person's Name 1, TOPS",NASA (Internal Only),CC Form,https://nasa.gov
+Dec. 12 - Jan. 25 (Fridays),8:00 a.m - 10:30,Event Type 2,"OS101 Module 1, OS101 Module 2, OS101 Module 3","Person's Name 2, Don't Use This Code",External (NASA),DUTC Form,https://example.com
+Feb. 14,1:00 p.m - 2:00,Event Type 3,"OS101 Module 3, OS101 Module 4","Person's Name 3, TOPS",JPL (Internal Only),Test Form,https://www.jpl.nasa.gov/
+Mar. 17,5:00 a.m - 7:00,Event Type 4,"OS101 Module 4, OS101 Module 5","Person's Name 4, TOPS",,Test Form,https://example.com
+Apr. 15,6:00 p.m - 7:00 p.m,Event Type 4,OS101 Module 2,"Person's Name 2, DUTC",Other,DUTC Form,https://nasa.gov
