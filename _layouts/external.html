@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+    <head>
+		{% if site.domain == "nasa.github.io" %}
+			<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-MF64WH21TN"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+
+			  gtag('config', 'G-MF64WH21TN');
+			</script>
+		{% else %}
+			<!-- Disable Google tag on this domain (gtag.js) -->
+		{% endif %}
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>{{ page.title }} | {{site.title}}</title>
+		<meta http-equiv="refresh" content="0; URL={{ page.redirectto }}" />
+	</head>
+    <body>
+		<a href="{{ page.redirectto }}">Click here</a> if link does not redirect.
+	</body>
+</html>

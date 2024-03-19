@@ -32,6 +32,9 @@ collections:
     permalink: /:collection/:name
   faqs:
     output: false
+  externals:
+    output: true
+    permalink: /:collection/:name
   
 # Authors
 authors:
