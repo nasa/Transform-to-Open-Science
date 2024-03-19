@@ -288,20 +288,24 @@ Each row contains these columns that are specific to in person workshops.
 - time (Time)
   - Time or time range when the workshop will occur
   - No specific format is required, but it is recommended to keep this consistent with other entries.
-- Eventtype (Event Type)
+- eventtype (Event Type)
   - Generic description of workshop, it can be anything but if another workshop exists with an event type that matches yours, make sure to use the same wording as that one.
   - For example you see a workshop with an event type of **"TOPST Summer School"** and that seems to describe your workshop as well. So you copy and paste how that has been worded into the eventtype column on the row you are working on.
 - location (Location)
   - Location of your workshop, anything can be put in here but it is suggested that you use this format: Venue Name, City Name, State Abbreviation
   - For example: **Moscone Center, San Francisco, CA**
-- module (Module)
-  - Module(s) that your workshop will be teaching, it is suggested that if you are teaching multiple modules that you separate each with a comma.
-  - Example of one module being taught: **2**
-  - Example of multiple modules being taught: **2,3,4**
+- topic (Topic)
+  - The topic of the workshop, usually an OS101 module.
+  - If there are multiple topics, you can separate them with commas like so: **OS101 Module 1, OS101 Module 2.**
+- regtype (Registration Type)
+  - This will determine whether a popup will be shown with a disclaimer message.
+  - If this parameter contains the words **"NASA"** and **"Internal"**, a message will be displayed warning that the workshop is internal to NASA contractors and employees (not case sensitive).
+  - If this parameter contains the words **"JPL"** and **"Internal"**, a message will be displayed warning that the workshop is internal to JPL contractors and employees (not case sensitive).
+  - If this parameter contains the word **"External"**, a message will be displayed warning that the user will be taken to an external registration page (not case sensitive).
 - moreinfo (More Info)
   - Label for your more info / registration link, i.e **Learn More** or **Register Now.**
 - moreinfo_link (More Info Link)
-  - Link to a website.
+  - Link to a website with registration information.
 
 #### Virtual Columns
 
@@ -316,17 +320,21 @@ Each row contains these columns that are specific to virtual workshops.
 - eventtype (Event Type)
   - Generic description of workshop, it can be anything but if another workshop exists with an event type that matches yours, make sure to use the same wording as that one.
   - For example you see a workshop with an event type of **"Virtual Cohort"** and that seems to describe your workshop as well. So you copy and paste how that has been worded into the eventtype column on the row you are working on.
-- module (Module)
-  - Module(s) that your workshop will be teaching, it is suggested that if you are teaching multiple modules that you separate each with a comma.
-  - Example of one module being taught: **2**
-  - Example of multiple modules being taught: **2,3,4**
+- topic (Topic)
+  - The topic of the workshop, usually an OS101 module.
+  - If there are multiple topics, you can separate them with commas like so: **OS101 Module 1, OS101 Module 2.**
 - instructor (Instructor)
   - Instructor for you workshop, anything can be put in here but it is suggested that you use this format: Person’s Name, Organization
   - For example: **John Doe, NASA**
+- regtype (Registration Type)
+  - This will determine whether a popup will be shown with a disclaimer message.
+  - If this parameter contains the words **"NASA"** and **"Internal"**, a message will be displayed warning that the workshop is internal to NASA contractors and employees (not case sensitive).
+  - If this parameter contains the words **"JPL"** and **"Internal"**, a message will be displayed warning that the workshop is internal to JPL contractors and employees (not case sensitive).
+  - If this parameter contains the word **"External"**, a message will be displayed warning that the user will be taken to an external registration page (not case sensitive).
 - register (Register)
   - Label for your registration link, i.e **Learn More** or **Register Now.**
 - register_link (Register Link)
-  - Link to a website.
+  - Link to a website with registration information.
 
 ### NASA Internal Workshops
 
