@@ -46,6 +46,6 @@ Below are the details that TOPS will ask for when you request your virtual works
 
 ## Adding a Workshop to the TOPS Website Yourself
 
-Once you have cleared your request to list your workshop(s) with TOPS, you can allow us to take care of adding it for you.  This will communicated to our GitHub Lead.  
+Once you have cleared your request to list your workshop(s) with TOPS, you can allow us to take care of adding it to the website on your behalf. This will be communicated to our GitHub Lead.
 
-If have experience with GitHub and creating Pull Requests, you can optionally choose to add the workshop(s) yourself, and the GitHub Lead will help you merge it in.  You can find instructions on how to do this [here](https://github.com/nasa/Transform-to-Open-Science/tree/website#os101-workshops).
+If you have experience with GitHub and creating Pull Requests, you can optionally choose to add the workshop(s) yourself, and the GitHub Lead will help you merge it in.  You can find instructions on how to do this [here](https://github.com/nasa/Transform-to-Open-Science/tree/website#os101-workshops).
