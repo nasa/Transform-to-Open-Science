@@ -70,3 +70,13 @@ TOPS has created a development version of the curriculum written in Markdown to 
 To contribute, you can [create a pull request](https://github.com/nasa/Transform-to-Open-Science/pulls), [open an issue](https://github.com/nasa/Transform-to-Open-Science/issues), or [start a discussion](https://github.com/nasa/Transform-to-Open-Science/discussions). 
 
 For technical details on contributing to OS 101 and our GitHub in general please visit our [contributing page](../../../CONTRIBUTING.md#contributing-to-open-science-101-on-github).
+
+## Teaching Open Science 101
+
+### New Instructors
+
+To become an instructor for Open Science 101, [contact TOPS](mailto:hq-openscience@nasa.gov) to find out more about this process.  More details will be posted soon.
+
+### Existing Instructors
+
+Are you already teaching OS101?  Learn how you can get your instructor-led training listed on our website by reading our [workshop listing requirements]().
