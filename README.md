@@ -170,6 +170,7 @@ Front matter is defined in detail in the "[editing a page](#editing-a-page)" sec
 - layout - Required, takes value of "default", "event", "newsletter", "page", or "post", since we are dealing with events we will keep it as "event".
 - title - Required, title of Event.
 - permalink - Optional and defaults to **"/events/yourtitle"**. Make sure this starts with a "/events/" and refrain from using spaces as is best practice for web links, use a "-" instead. For example: **"/events/agu-2023"**. Dynamic values can be used for permalinks too, find out more about these values in [Jekyll's documentation](https://jekyllrb.com/docs/permalinks/).
+- disclaimer - Optional, set it to true or false to show or hide the blue disclaimer bar containing "NASA cannot link to external events that charge a fee".
 - image - Required, points to a directory with your image, should always start with **assets/img/** as images are stored here. This defines the featured image for an event.
 - imagecaption - Optional, short caption for image.
 - daterange - Required, format for date range is flexible but keep it consistent. A good example is: **"Dec 9 -13, 2024"**.
