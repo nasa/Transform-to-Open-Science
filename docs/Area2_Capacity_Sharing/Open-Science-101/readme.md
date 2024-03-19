@@ -79,4 +79,4 @@ To become an instructor for Open Science 101, [contact TOPS](mailto:hq-openscien
 
 ### Existing Instructors
 
-Are you already teaching OS101?  Learn how you can get your instructor-led training listed on our website by reading our [workshop listing requirements]().
+Are you already teaching OS101?  Learn how you can get your instructor-led training listed on our website by reading our [workshop listing requirements](./workshop_listings.md).
