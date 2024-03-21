@@ -298,6 +298,9 @@ Each row contains these columns that are specific to in person workshops.
 - topic (Topic)
   - The topic of the workshop, usually an OS101 module.
   - If there are multiple topics, you can separate them with commas like so: **OS101 Module 1, OS101 Module 2.**
+- instructor (Instructor)
+  - Instructor for you workshop, anything can be put in here but it is suggested that you use this format: Person's Name, Organization
+  - For example: **John Doe, NASA**
 - regtype (Registration Type)
   - This will determine whether a popup will be shown with a disclaimer message.
   - If this parameter contains the words **"NASA"** and **"Internal"**, a message will be displayed warning that the workshop is internal to NASA contractors and employees (not case sensitive).
@@ -325,7 +328,7 @@ Each row contains these columns that are specific to virtual workshops.
   - The topic of the workshop, usually an OS101 module.
   - If there are multiple topics, you can separate them with commas like so: **OS101 Module 1, OS101 Module 2.**
 - instructor (Instructor)
-  - Instructor for you workshop, anything can be put in here but it is suggested that you use this format: Person’s Name, Organization
+  - Instructor for you workshop, anything can be put in here but it is suggested that you use this format: Person's Name, Organization
   - For example: **John Doe, NASA**
 - regtype (Registration Type)
   - This will determine whether a popup will be shown with a disclaimer message.

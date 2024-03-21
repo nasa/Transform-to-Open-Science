@@ -1,8 +1,8 @@
-date,time,eventtype,location,topic,regtype,moreinfo,moreinfo_link
-"Mar. 3 - 7, 2024",12:00 - 2:30 PM,"Event Type 1, Event Name","Venue Name, San Francisco, CA",OS101 Module 1,NASA (Internal Only),Example Website,https://nasa.sharepoint.com/teams/TOPSOpenScience101Events
-"Apr. 8, 2024",1:00 - 3:30 PM,"Event Type 2, Event Name","Venue Name, New Orleans, LA","OS101 Module 2, OS101 Module 3, OS101 Module 4",JPL (Internal Only),Example Website,https://nasa.sharepoint.com/teams/TOPSOpenScience101Events
-"Apr. 29, 2024",4:00 - 5:00 PM,"Event Type 2, Event Name","Venue Name, Houston, TX",OS101 Module 5,External (TOPST),Example Website,https://example.com
-"Sept.2, 2024",7:00 - 9:00 AM,"Event Type 4, Event Name","Venue Name, Huntsville, AL","OS101 Module 1, OS101 Module 2",,Example Website,https://example.com
-"Nov. 5, 2024",3:00 - 4:00 PM,"Event Type 1, Event Name","Venue Name, Huntsville, AL",OS101 Module 1,Other,Example Website,https://example.com
-"Dec. 6, 2024",7:00 - 9:00 AM,"Event Type 3, Event Name","Venue Name, Huntsville, AL",OS101 Module 4,Other,Example Website,
-"Jan. 3, 2025",7:00 - 9:00 AM,"Event Type 4, Event Name","Venue Name, San Francisco, CA",OS101 Module 5,External (NASA),Example Website,https://nasa.gov
+date,time,eventtype,location,topic,instructor,regtype,moreinfo,moreinfo_link
+"Mar. 3 - 7, 2024",12:00 - 2:30 PM,"Event Type 1, Event Name","Venue Name, San Francisco, CA",OS101 Module 1,"Person's Name 1, TOPS",NASA (Internal Only),Example Website,https://nasa.sharepoint.com/teams/TOPSOpenScience101Events
+"Apr. 8, 2024",1:00 - 3:30 PM,"Event Type 2, Event Name","Venue Name, New Orleans, LA","OS101 Module 2, OS101 Module 3, OS101 Module 4","Person's Name 2, Don't Use This Code",JPL (Internal Only),Example Website,https://nasa.sharepoint.com/teams/TOPSOpenScience101Events
+"Apr. 29, 2024",4:00 - 5:00 PM,"Event Type 2, Event Name","Venue Name, Houston, TX",OS101 Module 5,"Person's Name 3, TOPS",External (TOPST),Example Website,https://example.com
+"Sept.2, 2024",7:00 - 9:00 AM,"Event Type 4, Event Name","Venue Name, Huntsville, AL","OS101 Module 1, OS101 Module 2","Person's Name 4, TOPS",,Example Website,https://example.com
+"Nov. 5, 2024",3:00 - 4:00 PM,"Event Type 1, Event Name","Venue Name, Huntsville, AL",OS101 Module 1,"Person's Name 2, DUTC",Other,Example Website,https://example.com
+"Dec. 6, 2024",7:00 - 9:00 AM,"Event Type 3, Event Name","Venue Name, Huntsville, AL",OS101 Module 4,"Person's Name 5, NASA",Other,Example Website,
+"Jan. 3, 2025",7:00 - 9:00 AM,"Event Type 4, Event Name","Venue Name, San Francisco, CA",OS101 Module 5,"Person's Name 5, NASA",External (NASA),Example Website,https://nasa.gov
