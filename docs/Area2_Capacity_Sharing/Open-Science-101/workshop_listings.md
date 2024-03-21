@@ -7,8 +7,9 @@ TOPS offers the option to take Open Science 101 modules at workshops in both vir
 These requirements apply to both in person and virtual instructor-led workshops that wish to be listed on the TOPS website.
 
 * Your workshop must be free of charge.
+* You must have funding from NASA (for example: TOPST).
 * If you have not been provided with a registration page or registration information page, you are expected to create your own.
-* You must clear your submission with TOPS by emailing [hq-openscience@nasa.gov](mailto:hq-openscience@nasa.gov) even if you would prefer to list your workshop through the steps outlined in our [website documentation](https://github.com/nasa/Transform-to-Open-Science/tree/website#os101-workshops).
+* You must clear your listing with TOPS by emailing [hq-openscience@nasa.gov](mailto:hq-openscience@nasa.gov) even if you would prefer to list your workshop through the steps outlined in our [website documentation](https://github.com/nasa/Transform-to-Open-Science/tree/website#os101-workshops).
 
 ## In-Person Workshop Requirements
 
@@ -22,6 +23,8 @@ Below are the details that TOPS will ask for when you request your in-person wor
   * This includes the city name and the venue name.  An example of this is "Moscone Center, San Francisco, CA".
 * The topic(s) of the workshop.
   * This is usually an OS 101 module such as "OS101 Module 2".
+* The instructor and their affiliation.
+  * For example "John Doe, NASA".
 * Whether your workshop is internal to NASA or JPL.
   * Only contractors and employees will be able to attend these types of workshops.
 * Whether your workshop is using a form from an external service.
