@@ -21,7 +21,7 @@ sass:
 
 
 # Workshops
-hideinperson: true
+# hideinperson: true
 hidevirtual: true
 
 

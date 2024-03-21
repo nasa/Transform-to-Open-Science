@@ -32,6 +32,19 @@
 						<option value="Event Type 2">Event Type 2</option>
 						<option value="Event Type 3">Event Type 3</option>
 						<option value="Event Type 4">Event Type 4</option>
+						{% assign all_eventtypes = '' %}
+						{% for row in site.data.inperson %}
+							{% if forloop.index == 1 %}
+								{% assign all_eventtypes = all_eventtypes | append: row.eventtype %}
+							{% else %}
+								{% assign all_eventtypes = all_eventtypes | append: '_' | append: row.eventtype %}
+							{% endif %}
+						{% endfor %}
+						{% assign split_eventtypes = all_eventtypes | split: '_' %}
+						{% assign unique_eventtypes = split_eventtypes | uniq %}
+						{% for unique_eventtype in unique_eventtypes %}
+							<option value="{{ unique_eventtype }}">{{ unique_eventtype }}</option>
+						{% endfor %}
 					</select>
                     <select class="form-select" data-col-index="3">
 						<option selected="">Locations</option>
@@ -48,14 +61,6 @@
 						<option value="OS101 Module 4">OS101 Module 4</option>
 						<option value="OS101 Module 5">OS101 Module 5</option>
 					</select>
-					<select class="form-select" data-col-index="5">
-						<option selected="">Instructors</option>
-						<option value="Person's Name 1">Person's Name 1</option>
-						<option value="Person's Name 2">Person's Name 2</option>
-						<option value="Person's Name 3">Person's Name 3</option>
-						<option value="Person's Name 4">Person's Name 4</option>
-						<option value="Person's Name 5">Person's Name 5</option>
-					</select>
                   </div>
                   <div class="d-flex flex-row flex-wrap justify-content-end workshop_table_filters_resetoutter">
                     <a class="btn btn-primary workshop_table_resetopt" href="javascript:void(0)" role="button">Reset</a>
@@ -63,7 +68,7 @@
                 </div>
                 <div class="workshop_table_table">
                   <table>
-                    <thead><tr><th>Date</th><th>Time</th><th>Event Type</th><th>Location</th><th>Topic</th><th>Instructor</th><th>Registration Type</th><th>More Info</th></tr></thead>
+                    <thead><tr><th>Date</th><th>Time</th><th>Event Type</th><th>Location</th><th>Topic</th><th>Registration Type</th><th>More Info</th></tr></thead>
                     <tbody>
                       {% for row in site.data.inperson %}
                         <tr>
@@ -72,7 +77,6 @@
                         <td>{{ row.eventtype }}</td>
                         <td>{{ row.location }}</td>
                         <td>{{ row.topic }}</td>
-						<td>{{ row.instructor }}</td>
 						<td>
 							{% if row.regtype %}
 								{{ row.regtype }}
