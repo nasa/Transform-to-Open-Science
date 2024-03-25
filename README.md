@@ -67,11 +67,17 @@ To contribute, you can [create a pull request](https://github.com/nasa/Transform
 
 For technical details on contributing to OS 101 and our GitHub in general please visit our [contributing page](./CONTRIBUTING.md#contributing-to-open-science-101-on-github).
 
-### Become an Instructor
+### Teaching Open Science 101
+
+#### New Instructors
 
 To become an instructor for Open Science 101, [contact TOPS](mailto:hq-openscience@nasa.gov) to find out more about this process.  More details will be posted soon.
 
-### Documentation
+#### Existing Instructors
+
+Are you already teaching OS101?  Learn how you can get your instructor-led training listed on our website by reading our [workshop listing requirements](./docs/Area2_Capacity_Sharing/Open-Science-101/workshop_listings.md).
+
+### Open Science 101 Documentation
 
 For documentation and resources related to the curriculum, check [this directory](./docs/Area2_Capacity_Sharing/Open-Science-101/).
 
