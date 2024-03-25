@@ -255,19 +255,19 @@ Before attempting to add a workshop to the TOPs community website, make sure tha
 
 ### Workshops For Everyone
 
-Workshop data is stored in the **"/\_data "** folder in the **root directory** within two CSV files: **inperson.csv**, and **virtual.csv**. Each of these likewise corresponds to in person workshops and virtual workshops. Each row in these files is representative of a separate workshop.
+Workshop data is stored in the **"/\_data "** folder in the root directory within two CSV files: **inperson.csv**, and **virtual.csv**.  Each of these likewise corresponds to in person workshops and virtual workshops.  Each row in these files is representative of a separate workshop.
 
 #### Request for Your Workshop to be Added for You
 
-Understandably, adding workshops to the TOPS website may come with a technical learning curve. If you wish, you can [submit an issue](https://github.com/nasa/Transform-to-Open-Science/issues) on GitHub where we can ask for more information.
+Understandably, adding workshops to the TOPS website may come with a technical learning curve.  If you wish, you can email [hq-openscience@nasa.gov](mailto:hq-openscience@nasa.gov) or [submit an issue](https://github.com/nasa/Transform-to-Open-Science/issues) on GitHub where we can ask for more information.
 
 #### Editing Files Yourself
 
-The most convenient method of changing these files is by making use of a fork of the TOPS repository, containing the **Website Branch.** Find out more about working with forks [here](https://github.com/nasa/Transform-to-Open-Science/blob/main/CONTRIBUTING.md).
+The most convenient method of changing these files is by making use of a fork of the TOPS repository, containing the **Website Branch**.  Find out more about working with forks [here](https://github.com/nasa/Transform-to-Open-Science/blob/main/CONTRIBUTING.md).
 
 <img src="./assets/img/documentation/image7.jpg" style="width:350px;height:auto;" />
 
-You can download the files, change them in Excel or an equivalent open source program, and replace them with your updated files ensuring to retain the same file name and CSV format. If you are using **git** or **GitHub Desktop**, you can even more conveniently edit these files on your computer and push changes to your fork.
+You can download the files, change them in Excel or an equivalent open source program, and replace them with your updated files ensuring to retain the same file name and CSV format.  If you are using **git** or **GitHub Desktop**, you can even more conveniently edit these files on your computer and push changes to your fork.
 
 <img src="./assets/img/documentation/image6.png" style="width:350px;height:auto;" />
 
@@ -279,67 +279,51 @@ You can download the files, change them in Excel or an equivalent open source pr
 
 **Note: Do not change the first row in either workshop file as they are the columns that Jekyll will be looking for.**
 
-#### In Person Columns
-
-Each row contains these columns that are specific to in person workshops.
-
-- date (Date)
-  - Date or date range when the workshop will occur
-  - No specific format is required, but it is recommended to keep this consistent with other entries.
-- time (Time)
-  - Time or time range when the workshop will occur
-  - No specific format is required, but it is recommended to keep this consistent with other entries.
-- eventtype (Event Type)
-  - Generic description of workshop, it can be anything but if another workshop exists with an event type that matches yours, make sure to use the same wording as that one.
-  - For example you see a workshop with an event type of **"TOPST Summer School"** and that seems to describe your workshop as well. So you copy and paste how that has been worded into the eventtype column on the row you are working on.
-- location (Location)
-  - Location of your workshop, anything can be put in here but it is suggested that you use this format: Venue Name, City Name, State Abbreviation
-  - For example: **Moscone Center, San Francisco, CA**
-- topic (Topic)
-  - The topic of the workshop, usually an OS101 module.
-  - If there are multiple topics, you can separate them with commas like so: **OS101 Module 1, OS101 Module 2.**
-- instructor (Instructor)
-  - Instructor for you workshop, anything can be put in here but it is suggested that you use this format: Person's Name, Organization
-  - For example: **John Doe, NASA**
-- regtype (Registration Type)
-  - This will determine whether a popup will be shown with a disclaimer message.
-  - If this parameter contains the words **"NASA"** and **"Internal"**, a message will be displayed warning that the workshop is internal to NASA contractors and employees (not case sensitive).
-  - If this parameter contains the words **"JPL"** and **"Internal"**, a message will be displayed warning that the workshop is internal to JPL contractors and employees (not case sensitive).
-  - If this parameter contains the word **"External"**, a message will be displayed warning that the user will be taken to an external registration page (not case sensitive).
-- moreinfo (More Info)
-  - Label for your more info / registration link, i.e **Learn More** or **Register Now.**
-- moreinfo_link (More Info Link)
-  - Link to a website with registration information.
-
 #### Virtual Columns
 
-Each row contains these columns that are specific to virtual workshops.
+When editing **virtual.csv**, you will find the following columns.  Each column is thoroughly documented below.
+
+Please note that formatting for the examples provided are suggestions and are not strictly required.  However, it is recommended to keep entries consistent.
 
 - date (Date)
-  - Date or date range when the workshop will occur
-  - No specific format is required, but it is recommended to keep this consistent with other entries.
+  - Date(s) of the workshop.
+  - For example: Mar. 3 - 7, 2024.
 - time (Time)
-  - Time or time range when the workshop will occur
-  - No specific format is required, but it is recommended to keep this consistent with other entries.
+  - The time(s) that the workshop will take place with the time zone.
+  - For example: 4:00 - 5:00 PM EST
 - eventtype (Event Type)
-  - Generic description of workshop, it can be anything but if another workshop exists with an event type that matches yours, make sure to use the same wording as that one.
-  - For example you see a workshop with an event type of **"Virtual Cohort"** and that seems to describe your workshop as well. So you copy and paste how that has been worded into the eventtype column on the row you are working on.
+  - The type of workshop.
+  - This should be a general description (a few words) that best describes the workshop, and other useful information such as your organization name or the name of the conference. For example **"TOPST Summer School - My Org Name"** or **"Conference Workshop - AAS"** would be great event type examples.
 - topic (Topic)
-  - The topic of the workshop, usually an OS101 module.
-  - If there are multiple topics, you can separate them with commas like so: **OS101 Module 1, OS101 Module 2.**
+  - The topic(s) of the workshop.
+  - This is usually an OS 101 module such as **"OS101 Module 2"**.
 - instructor (Instructor)
-  - Instructor for you workshop, anything can be put in here but it is suggested that you use this format: Person's Name, Organization
-  - For example: **John Doe, NASA**
+  - The instructor(s) and their affiliation.
+  - For example **"John Doe, NASA"**.
 - regtype (Registration Type)
   - This will determine whether a popup will be shown with a disclaimer message.
   - If this parameter contains the words **"NASA"** and **"Internal"**, a message will be displayed warning that the workshop is internal to NASA contractors and employees (not case sensitive).
   - If this parameter contains the words **"JPL"** and **"Internal"**, a message will be displayed warning that the workshop is internal to JPL contractors and employees (not case sensitive).
   - If this parameter contains the word **"External"**, a message will be displayed warning that the user will be taken to an external registration page (not case sensitive).
 - register (Register)
-  - Label for your registration link, i.e **Learn More** or **Register Now.**
+  - Label for your registration link, i.e **Learn More** or **Register Now**.
 - register_link (Register Link)
-  - Link to a website with registration information.
+  - A link to your registration page or information.
+
+#### In Person Columns
+
+When editing **inperson.csv**, you will find mostly the same columns as **virtual.csv* with the exception of the columns listed below.
+
+Please note that formatting for the examples provided are suggestions and are not strictly required.  However, it is recommended to keep entries consistent.
+
+- location (Location)
+  - The location of the workshop.
+  - This includes the city name and the venue name. An example of this is **"Moscone Center, San Francisco, CA"**.
+- moreinfo (More Info)
+  - Label for your more info / registration link, i.e **Learn More** or **Register Now**.
+- moreinfo_link (More Info Link)
+  - A link to your registration page or information.
 
 ### NASA Internal Workshops
 
-You can request a NASA internal workshop by [submitting an issue](https://github.com/nasa/Transform-to-Open-Science/issues) where we can request more information.
+You can request a NASA internal workshop by emailing [hq-openscience@nasa.gov](mailto:hq-openscience@nasa.gov) or [submitting an issue](https://github.com/nasa/Transform-to-Open-Science/issues) where we can request more information.
