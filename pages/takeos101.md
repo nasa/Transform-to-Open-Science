@@ -97,7 +97,7 @@ List a Workshop
 
 <!---Instructor Led / List Workshop Button Link-->
 {% capture takeos101-instructorled-listworkshop-link %}
-https://github.com/bressler1995/Transform-to-Open-Science/blob/workshop-guidelines/docs/Area2_Capacity_Sharing/Open-Science-101/workshop_listings.md
+https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/workshop_listings.md
 {% endcapture %}
 
 <!---Instructor Led Contact Button Text-->
