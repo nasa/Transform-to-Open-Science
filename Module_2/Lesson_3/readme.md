@@ -73,7 +73,7 @@ To be [Accessible:](https://www.go-fair.org/fair-principles/metadata-retrievable
 - Data and results are retrievable by their identifiers using a standardized communication protocol.
 - The protocol is open, free, and universally implementable.
 - The protocol allows for an authentication and authorization procedure, where necessary. Data and results are publicly accessible and licensed under the public domain.
-  - Metadata are accessible, even when the data are no longer available Data and metadata will be retained for the lifetime of the repository.
+  - Metadata are accessible, even when the data are no longer available. Data and metadata will be retained for the lifetime of the repository.
   - Metadata are stored in high-availability database servers.
 
 Current Enabling Tech:
