@@ -1,6 +1,3 @@
 date,time,eventtype,topic,instructor,regtype,register,register_link
-Dec. 12,12 - 2:30 p.m,Event Type 1,OS101 Module 1,"Person's Name 1, TOPS",NASA (Internal Only),CC Form,https://nasa.gov
-Dec. 12 - Jan. 25 (Fridays),8:00 a.m - 10:30,Event Type 2,"OS101 Module 1, OS101 Module 2, OS101 Module 3","Person's Name 2, Don't Use This Code",External (NASA),DUTC Form,https://example.com
-Feb. 14,1:00 p.m - 2:00,Event Type 3,"OS101 Module 3, OS101 Module 4","Person's Name 3, TOPS",JPL (Internal Only),Test Form,https://www.jpl.nasa.gov/
-Mar. 17,5:00 a.m - 7:00,Event Type 4,"OS101 Module 4, OS101 Module 5","Person's Name 4, TOPS",,Test Form,https://example.com
-Apr. 15,6:00 p.m - 7:00 p.m,Event Type 4,OS101 Module 2,"Person's Name 2, DUTC",Other,DUTC Form,https://nasa.gov
+"Jun 21 & 28, 2024",11am - 2pm (Eastern),"Cohort 1, TOPST Summer School","OS101 Module 1, OS101 Module 2, OS101 Module 3, OS101 Module 4, OS101 Module 5","Cameron Riddell, Dont Use This Code",External (TOPST),Register Now,https://forms.gle/TnEJQmYst3QvfZVp9
+"Jul 19 & 26, 2024",11am - 2pm (Eastern),"Cohort 2,  TOPST Summer School","OS101 Module 1, OS101 Module 2, OS101 Module 3, OS101 Module 4, OS101 Module 5","Cameron Riddell, Dont Use This Code",External (TOPST),Register Now,https://forms.gle/TnEJQmYst3QvfZVp9
