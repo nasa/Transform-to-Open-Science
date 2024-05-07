@@ -22,7 +22,7 @@ sass:
 
 # Workshops
 hideinperson: false
-hidevirtual: true
+hidevirtual: false
 
 
 # Collections
