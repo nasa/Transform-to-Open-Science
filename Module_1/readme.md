@@ -35,7 +35,7 @@ Select the term to see the description.
 
 **Equitable** – Indicates the absence of unfair, avoidable or remediable differences among groups of people, whether those groups are defined socially, economically, demographically, or geographically or by other dimensions of inequality (e.g. sex, gender, ethnicity, disability, or sexual orientation). Learn more [here.](https://www.who.int/health-topics/health-equity)
 
-**Citizen Science or Community Science** – The practice of public participation and collaboration in scientific research to increase scientific knowledge. Learn more [here.](https://education.nationalgeographic.org/resource/citizen-science/)
+**Citizen Science or Community Science** – The practice of public participation and collaboration in scientific research to increase scientific knowledge. Learn more [here](https://science.nasa.gov/citizen-science/) and [here](https://education.nationalgeographic.org/resource/citizen-science-collection/).
 
 **Open Research** – How research is performed and how knowledge is shared based on the principle that research should be as open as possible. Learn more [here.](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/)
 
