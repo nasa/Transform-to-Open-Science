@@ -3417,8 +3417,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 	.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_filters .workshop_table_filters_selectoutter select {
 		width: auto;
-		margin-right: 12px;
-		margin-bottom: 12px;
+        max-width: 200px;
+        margin-right: 12px;
+        margin-bottom: 12px;
+        text-overflow: ellipsis;
 	}
 
 	.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_filters .workshop_table_filters_selectoutter select:last-of-type {
