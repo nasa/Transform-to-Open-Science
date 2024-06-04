@@ -1296,7 +1296,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_table tr td {
-    font-size: 15px;
+    font-size: 14.5px;
     line-height: 19px;
 	font-weight: 400;
 	word-wrap: break-word;
@@ -2854,7 +2854,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	}
 	
 	.tops_workshops_container .tops_workshops_tables table {
-		min-width: 950px;
+		min-width: 1100px;
 	}
 	
 }
@@ -2901,7 +2901,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	}
 	
 	.tops_workshops_container .tops_workshops_tables table {
-		min-width: 875px;
+		min-width: 1100px;
 	}
 
 }
@@ -3134,11 +3134,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	}
 	
 	.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_table tr th {
-		padding: 10px 20px;
+		padding: 10px 15px;
 	}
 	
 	.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_table tr td {
-		padding: 10px 20px;
+		padding: 10px 15px;
 	}
 	
 	.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_filters {
@@ -3384,11 +3384,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	}
 	
 	.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_table tr th {
-		padding: 15px 25px;
+		padding: 15px 20px;
 	}
 	
 	.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_table tr td {
-		padding: 15px 25px;
+		padding: 15px 20px;
 	}
 	
 	.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_filters {
