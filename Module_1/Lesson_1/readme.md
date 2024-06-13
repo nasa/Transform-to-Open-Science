@@ -334,7 +334,7 @@ Here we list some core groups who we envision as taking part in and/or benefitti
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Policymakers represent another key community in the science environment. policymakers can reference scientific findings to inform their decisions for the betterment of society. Those who help in the understanding and dissemination of these policies (including educators and science journalists) are crucial to this process. policymakers can also play important roles in ensuring and facilitating open science by setting data management processes, encouraging open access legislation, and developing ethical guidelines for experiments. policymakers can benefit from open science by gaining better access to scientific output via the open sharing of research results.</p>
+            <p>Policymakers represent another key community in the science environment. Policymakers can reference scientific findings to inform their decisions for the betterment of society. Those who help in the understanding and dissemination of these policies (including educators and science journalists) are crucial to this process. Policymakers can also play important roles in ensuring and facilitating open science by setting data management processes, encouraging open access legislation, and developing ethical guidelines for experiments. Policymakers can benefit from open science by gaining better access to scientific output via the open sharing of research results.</p>
         </td>
     </tr>
   </tbody>
