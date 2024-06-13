@@ -81,9 +81,9 @@ In addition to improved scientific accuracy, adhering to open science practices 
 
 #### Emerging evidence that some aspects of open science can increase your citations.
 
-Publishing open access increases citation count by 18%, according to a 2018 [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176083/).
+Publishing open access increases citation count by 18%, according to a 2018 [study](https://peerj.com/articles/4375/).
 
-Articles that make their data openly accessible via a direct link to a repository see ~25% higher citation impact, according to a 2020 study.
+Articles that make their data openly accessible via a direct link to a repository see ~25% higher citation impact, according to a 2020 [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176083/).
 
 Publishing as open access may have prohibitive costs for some researchers depending on the venue. There are often other options that allow authors to share their work freely and openly. In Module 5 on Open Results, we discuss some of these other options including preprints and diamond open access.
 
