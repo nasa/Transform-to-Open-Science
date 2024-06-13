@@ -344,7 +344,7 @@ Answer the following questions to test what you have learned so far.
 
 Read the statement below and decide whether it's true or false:
 
-*Software is referred to as open source when it is publicly accessible; anyone can see, modify, and distribute the code as they see fit.*
+*Software is referred to as open source when it is publicly accessible; anyone can see, modify, and distribute the code as they see fit within the constraints set by the software license.*
 
 - True
 - False
