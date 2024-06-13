@@ -19,4 +19,4 @@ jobs:
             with:
               check_filenames: true
               skip: "*.yml,*.cff,*.js,*.lock"
-              ignore_words_list: stip,leary,hsi,aas,re-usable,re-use,criticall,ublished,re-use,hart,ges,automatize,programers
+              ignore_words_list: stip,leary,hsi,aas,re-usable,re-use,criticall,ublished,re-use,hart,ges,automatize,programers,sme
