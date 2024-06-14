@@ -196,7 +196,7 @@ Open science reciprocates the benefits it provides to researchers onto the commu
 
 Through open science practices, research waste can be avoided, such as unintentional and costly repetition of previous studies, according to a 2020 European Commission [report](https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1). In the human sciences, this also reduces participant fatigue in the long term. By maximizing what is learned from publicly available data, one does not need to test repeatedly, especially on already vulnerable communities. By “giving away” science, individuals, communities and organizations can more easily adopt research results to inform interventions for their own needs without the knowledge being gatekept by the original researchers and organizations involved. In this way, open science can strengthen the social and economic impacts of scientific results.
 
-### Open Science Attracts a Diverse Set of Participant
+### Open Science Attracts a Diverse Set of Participants
 
 <img src="../images/media/image265.jpg" style="width: 350px; height: auto;" />
 
