@@ -47,7 +47,7 @@ Select the term to see the description.
 
 **FAIR principles** – Principles to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets. The principles emphasize machine- actionability (i.e., the capacity of computational systems to find, access, interoperate, and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data as a result of the increase in volume, complexity, and creation speed of data.
 
-**Metrics (in context of scientiﬁc merit)** – Quantitative tools used to help assess the quality and impact of research outputs (eg. scientific articles, researchers, and more). Learn more [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8397294/) and [here.](https://editorresources.taylorandfrancis.com/understanding-research-metrics/)
+**Metrics (in context of scientific merit)** – Quantitative tools used to help assess the quality and impact of research outputs (e.g., scientific articles, researchers, and more). Learn more [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8397294/) and [here.](https://editorresources.taylorandfrancis.com/understanding-research-metrics/)
 
 **Altmetrics** – Alternative tools to assess the impact of a scientific article that do not involve journal-level usage information like impact factors.
 Learn more [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)

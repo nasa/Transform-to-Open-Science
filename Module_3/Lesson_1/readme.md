@@ -14,7 +14,7 @@
 
 ## Overview
 
-This lesson defines open data, its benefits, and the practices that enable data to be open. In addition, the lesson takes a closer look at how FAIR applies to open data as well as at the criticall role of metadata. It wraps up with a brief discussion on how to plan for open data in the scientific workflow and tasks guided by the use, make, share framework.
+This lesson defines open data, its benefits, and the practices that enable data to be open. In addition, the lesson takes a closer look at how FAIR applies to open data as well as at the critical role of metadata. It wraps up with a brief discussion on how to plan for open data in the scientific workflow and tasks guided by the use, make, share framework.
 
 ## Learning Objectives
 
@@ -48,7 +48,7 @@ Mitochondria are components within our cells that affect respiratory and energy 
 
 <img src="../images/media/image3.jpeg" style="width:350px;height:auto;" />
 
-The Turing Way Community. This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807
+The Turing Way Community. This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 license. DOI: 10.5281/zenodo.3332807
 
 ---
 
@@ -63,7 +63,7 @@ Data includes:
 - Data acquired from physical samples and specimens form the base of many studies.
 - Data generated from models and simulations.
 
-**Secondary & Processed data** – Secondary data typically refers to data that is used by someone different than who collected or generated the data. Often, this may include data that has been processed from its raw state to be more readily usable by others.
+**Secondary & Processed data** – Secondary data typically refers to data that is used by someone different from who collected or generated the data. Often, this may include data that has been processed from its raw state to be more readily usable by others.
 
 **Published data** – Published data are the data shared to address a particular scientific study and/or for general use. While published data can overlap with primary and secondary data types, we have "published data" as its own category to emphasize that such datasets are ideally well-documented and easy to use.
 
@@ -87,12 +87,12 @@ To quote from a [published paper about data reuse](https://www.ncbi.nlm.nih.gov/
 - Have the appropriate license, copyright, and citation information.
 - Have appropriate access information.
 - Be findable in an accredited or trustworthy resource.
-- Be accompanied with history of changes and versioning.
+- Be accompanied by history of changes and versioning.
 - Include details of all processing steps.
 
 Not all data may be shared or shared with all this information. There are different reasons why it might not be possible. However, the more information shared about data helps increase the reliability and reusability of the information.
 
-## Beneﬁts of Open Data
+## Benefits of Open Data
 
 Data underpins almost all of science. Openly sharing data with others enables reproducibility, transparency, validation, reuse, and collaborations. Data plays a significant role in our day-to-day lives. Open data, in particular, plays a key role. Open data are only common in our society and you have likely already benefited from this form in some way. The impacts of open data include facilitating:
 
@@ -148,7 +148,7 @@ Open data that are purposefully inclusive and open to scrutiny, benefit scientif
 
 Open data allows non-traditional researchers to contribute to scientific development and bring their unique insights to the table. With these benefits in mind, we should always bear in mind that Open Data requires careful consideration of its potential downsides that results from failure to provide due credit and consultation with potentially vulnerable and/or marginalized communities. The next lesson “Using Open Data” discusses important considerations for the responsible management, collection, and use of open data by all stakeholders.
 
-### Beneﬁts to You
+### Benefits to You
 
 Open data also benefits your research and career. For starters, you are your own future collaborator!
 
@@ -214,7 +214,7 @@ Ultimately, you are free to deploy the open data principles and resources in you
 
 <img src="../images/media/image9.png" style="width:100%;height:auto;" />
 
-Image by Patrick Hochstenbach, CC0 1.0; image illustrates the each FAIR principle
+Image by Patrick Hochstenbach, CC0 1.0; image illustrates each FAIR principle
 
 ---
 
