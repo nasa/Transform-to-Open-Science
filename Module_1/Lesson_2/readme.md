@@ -206,7 +206,7 @@ Image credit: Andy Brunning/Compound Interest. **CC BY-NC-ND 4.0 DEED**
 
 The open sharing of scientific products and processes makes science accessible to everyone. This allows full participation from everyone, and also maximizes the number of people who can benefit from the work.
 
-The best ways to include a diverse group of open science practitioners and stakeholders are to remove existing barriers and design for inclusion. Beyond this, it is important to learn how to communicate effectively with diverse collaborators, people at different skill levels, career levels, backgrounds, and areas of expertise. The ability to build diverse teams is a skill that everyone can learn.
+The best ways to include a diverse group of open science practitioners and stakeholders are to remove existing barriers and design for inclusion. Beyond this, it is important to learn how to communicate effectively with diverse collaborators, people at different skill levels, career levels, backgrounds, and areas of expertise. The ability to build diverse teams is a skill that everyone can learn. To learn more about NASA's commitment to diversity and inclusion, click [here](https://www.nasa.gov/odeo/diversity-and-inclusion/).
 
 ### Key Takeaways: Beneﬁts to Society
 
