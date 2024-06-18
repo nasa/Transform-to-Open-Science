@@ -245,8 +245,9 @@ Note that some of our example search portals are also repositories, but not alwa
             <p>Data stored in these repositories are often produced by the government.</p>
             <p>Examples include:</p>
             <ul>
-                <li><a href="https://data.gov/">https://data.gov/</a></li>
-                <li><a href="https://data.europa.eu/en">https://data.europa.eu/en</a></li>
+                <li>Sweden: <a href="https://snd.se/en">https://snd.se/en</a></li>
+                <li>European Union: <a href="https://data.europa.eu/en">https://data.europa.eu/en</a></li>
+                <li>Australia: <a href="https://www.naa.gov.au">https://www.naa.gov.au</a></li>
             </ul>
         </td>
     </tr>
