@@ -53,18 +53,13 @@ NASA funds research in fields from Astrobiology to Physics, and basic science to
 
 The open science practices and principles that play a critical role supporting NASA mission success are equally relevant to other government agencies and institutions. Similar considerations, approaches, and behaviors are needed in a variety of scientific contexts. Tools for open science frameworks and workflows follow generally similar models.
 
-Open science practices and principles can be applied to all stages of the research process. One early example of NASA’s efforts to involve more people in science is the [<u>exoplanet citizen science projects</u>](https://exoplanets.nasa.gov/citizen-science/). The [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) project posed the questions:
-
-- Are small planets (like Venus) more common than big ones (like Saturn)?
-- Are short-period planets (like Mercury) more common than those on long orbits (like Mars)?
-- Do planets more commonly occur around stars like the Sun, or around the more numerous, cooler, smaller red dwarfs?
+Open science practices and principles can be applied to all stages of the research process. One early example of NASA's efforts to involve more people in science is the [exoplanet citizen science projects](https://exoplanets.nasa.gov/citizen-science/), with the [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) being a significant part of this effort.
 
 <img src="../images/media/image266.jpg" style="width: 100%; height: auto;" />
 
-"Stargazing Live", a live television program, took place across three consecutive nights in 2017. The hosts invited viewers to contribute to their research question by classifying solar systems from an open access dataset. Within 48 hours of the program's
-debut, more than 10,000 people had participated in [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) and classified over 2 million systems.
+"Stargazing Live", a live television program, took place across three consecutive nights in 2017. The hosts invited viewers to identify exoplanets in an open access dataset. Within 48 hours of the program's debut, more than 10,000 people had participated in [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) and classified over 2 million systems.
 
-Following the first night of the program, the researchers watched the results roll in, as citizen scientists helped sift through the data. On the second night, enough people had participated that the researchers were able to share the demographics of the planet candidates that had already been flagged and were undergoing additional analysis: 44 Jupiter-size planets, 72 Neptune-size planets, 44 Earth-size planets and 53 sub-Neptunes (larger than Earth but smaller than Neptune).
+Following the first night of the program, the researchers watched the results roll in, as citizen scientists helped sift through the data. On the second night, enough people had participated that the researchers were able to share that 44 Jupiter-size candidate planets, 72 Neptune-size candidate planets, 53 sub-Neptune size candidate planets (larger than Earth but smaller than Neptune), and 44 Earth-size candidate planets had already been found and were undergoing additional analysis.
 
 Communities, working together on a problem, can rapidly find new results! Open science enables this and more.
 
