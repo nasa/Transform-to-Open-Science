@@ -84,7 +84,7 @@ Data repositories will typically instruct you on the exact way to cite their dat
 In this activity, you will search for a DOI for a data set or piece of software that you use, and you will then use the DOI website to “resolve” the DOI name. By "resolving", this means that you will be taken to the information about the product designated by that particular DOI.
 
 1. Find the DOI for a dataset or software you use often.
-   1. This should be listed either in the citation file, or in the website where that data/software is published.
+   1. This should be listed either in the citation file, or on the website where that data/software is published.
    2. If you can’t find a DOI, you can instead locate the DOI listed on this page: https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
 2. Go to https://www.doi.org/ and scroll down to the bottom of the page to "TRY
 RESOLVING A DOI NAME".
@@ -182,7 +182,7 @@ Metadata can facilitate the assessment of dataset quality and data sharing by an
 
 Metadata enhances searchability and findability of the data by potentially allowing other machines to read and interpret datasets.
 
-According to  [The University of Pittsburgh](https://pitt.libguides.com/metadatadiscovery/metadata-standards), "A metadata standard is a high level document which establishes a common way of structuring and understanding data, and includes principles and implementation issues for utilizing the standard."
+According to [The University of Pittsburgh](https://pitt.libguides.com/metadatadiscovery/metadata-standards), "A metadata standard is a high level document which establishes a common way of structuring and understanding data, and includes principles and implementation issues for utilizing the standard."
 
 Many standards exist for metadata fields and structures to describe general data information. It is a best practice to use a standard that is commonly used in your domain, when applicable, or that is requested by your data repository. Examples of metadata standards for different domains include:
 
@@ -465,7 +465,7 @@ produced
 used to share materials
 - How?
   - The details of how to enable reuse of
-materials (eg. licensing, documentation,
+materials (e.g., licensing, documentation,
 metadata)
 - Who?
   - Roles and responsibilities of the team members

@@ -35,7 +35,7 @@ Select the term to see the description.
 
 **Equitable** – Indicates the absence of unfair, avoidable or remediable differences among groups of people, whether those groups are defined socially, economically, demographically, or geographically or by other dimensions of inequality (e.g. sex, gender, ethnicity, disability, or sexual orientation). Learn more [here.](https://www.who.int/health-topics/health-equity)
 
-**Citizen Science or Community Science** – The practice of public participation and collaboration in scientific research to increase scientific knowledge. Learn more [here.](https://education.nationalgeographic.org/resource/citizen-science/)
+**Citizen Science or Community Science** – The practice of public participation and collaboration in scientific research to increase scientific knowledge. Learn more [here](https://science.nasa.gov/citizen-science/) and [here](https://education.nationalgeographic.org/resource/citizen-science-collection/).
 
 **Open Research** – How research is performed and how knowledge is shared based on the principle that research should be as open as possible. Learn more [here.](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/)
 
@@ -47,7 +47,7 @@ Select the term to see the description.
 
 **FAIR principles** – Principles to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets. The principles emphasize machine- actionability (i.e., the capacity of computational systems to find, access, interoperate, and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data as a result of the increase in volume, complexity, and creation speed of data.
 
-**Metrics (in context of scientiﬁc merit)** – Quantitative tools used to help assess the quality and impact of research outputs (eg. scientific articles, researchers, and more). Learn more [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8397294/) and [here.](https://editorresources.taylorandfrancis.com/understanding-research-metrics/)
+**Metrics (in context of scientific merit)** – Quantitative tools used to help assess the quality and impact of research outputs (e.g., scientific articles, researchers, and more). Learn more [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8397294/) and [here.](https://editorresources.taylorandfrancis.com/understanding-research-metrics/)
 
 **Altmetrics** – Alternative tools to assess the impact of a scientific article that do not involve journal-level usage information like impact factors.
 Learn more [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)

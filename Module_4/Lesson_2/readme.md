@@ -179,9 +179,9 @@ Most research code should be open source software, which is stored in code repos
 These are a few links to NASA-specific repositories that may be of interest: 
 - [NASA Open Source Software](https://code.nasa.gov/)
 - [NASA Open APIs](https://api.nasa.gov/)
-- [Science Discovery Engine A strophysics Data System](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
+- [Science Discovery Engine Astrophysics Data System](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
 - [Earthdata Developer Portal](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
-[Exoplanet Modeling and Analysis Center](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
+- [Exoplanet Modeling and Analysis Center](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
 
 ## Assessing Open Code and Software
 
@@ -198,16 +198,16 @@ Software assessment criteria are similar, for any level of openness:
 - **Security:** Is it safe? Would using the software create a security risk?
 - **Licenses/restrictions:** Can you use it? Is it legal to use the software in your project?
 
-### Functionality: Assessing Scientiﬁc Utility
+### Functionality: Assessing Scientific Utility
 
-#### Does the software meet your scientific needs? 
+#### Does the software meet your scientific needs?
 
 - Does it address your specific science question? 
 - Do studies similar to yours use it?
 - What papers cite it and how do they use it?
 - Talk to your advisors or colleagues that might have experience with it.
 
-#### Testing the scientiﬁc compatibility
+#### Testing the scientific compatibility
 
 - Does the software contain scientific test cases? If so, reproduce a case that is applicable to your problem; make sure the results are as expected.
 - If you’ve done similar scientific analysis/modeling previously, reproduce your prior results with the new software. Are the results consistent?
@@ -276,7 +276,7 @@ Consider the following when selecting among multiple versions of open source sof
 
 |  |  |
 |---|---|
-| Use the latest stable release when possible | Just like software updates to your phone or computer’s operating system or apps, it is important to use the latest stable release. Developers often release developmental versions that include new features or bug ﬁxes that are not fully tested. For this reason, using a developmental release is generally not recommended. |
+| Use the latest stable release when possible | Just like software updates to your phone or computer’s operating system or apps, it is important to use the latest stable release. Developers often release developmental versions that include new features or bug fixes that are not fully tested. For this reason, using a developmental release is generally not recommended. |
 | Determine the origin of the version you intend to use | Determine whether the version you intend to use comes from a modified open-source project or from its original source project. With this information, determine which source is more appropriate for your project. |
 | Check for issues and bugs | Check for any known issues or bugs with your selected version that could cause problems. Find current information on issues or bugs by checking release notes, issue trackers, and developer forums. |
 
@@ -285,7 +285,7 @@ Consider the following when selecting among multiple versions of open source sof
 - Implement tests to verify that the software performs as expected in your application.
 - If you run into problems, revisit the release notes, issue tracker, and/or user/developer forums.
 - Don't be afraid to ask experienced colleagues for help.
-- It is better to seek and obtain help in a public forum than in private (eg. email). Part of open science is working in the open. Often you may find through a search that other users have similar questions. Someone may have already offered a solution. If not, it is likely that others will benefit from your question being answered in public.
+- It is better to seek and obtain help in a public forum than in private (e.g., email). Part of open science is working in the open. Often you may find through a search that other users have similar questions. Someone may have already offered a solution. If not, it is likely that others will benefit from your question being answered in public.
 
 ### Activity 2.1: Ways to Get Help Using Open Software
 In this activity, you are asked to select from a list of ways you can resolve some common problems that arise when using open software.
@@ -384,7 +384,7 @@ Discovering open software successfully depends on which of the following:
 
 Select all that apply.
 
-- Well defined requirements
+- Well-defined requirements
 - Knowing where to search
 - FAIR open software exists to meet your needs
 - All of the above

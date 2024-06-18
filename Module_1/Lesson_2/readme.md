@@ -81,9 +81,9 @@ In addition to improved scientific accuracy, adhering to open science practices 
 
 #### Emerging evidence that some aspects of open science can increase your citations.
 
-Publishing open access increases citation count by 18%, according to a 2018 [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176083/).
+Publishing open access increases citation count by 18%, according to a 2018 [study](https://peerj.com/articles/4375/).
 
-Articles that make their data openly accessible via a direct link to a repository see ~25% higher citation impact, according to a 2020 study.
+Articles that make their data openly accessible via a direct link to a repository see ~25% higher citation impact, according to a 2020 [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176083/).
 
 Publishing as open access may have prohibitive costs for some researchers depending on the venue. There are often other options that allow authors to share their work freely and openly. In Module 5 on Open Results, we discuss some of these other options including preprints and diamond open access.
 
@@ -142,7 +142,7 @@ Here is an example of open science that was able to correct errors in a healthca
 
 ### Open Science Leads to More Discoveries
 
-The Solar and Heliospheric Observatory (SOHO) has been sending home images of our dynamic sun, opening up a new era of solar observation. It was designed for heliophysics. However, planetary scientists found SOHO useful for its ability to spot comets that pass extremely close to the sun, known as sungrazers. To this day, SOHO is one of the best sources for views of the giant surface explosions regularly produced by the sun called coronal mass ejections, or CMEs, which can hurl a million tons of solar particles off into space. This field of view is large enough to see a sungrazing comet as it sling shots around the sun.
+The Solar and Heliospheric Observatory (SOHO) has been sending home images of our dynamic sun, opening up a new era of solar observation. It was designed for heliophysics. However, planetary scientists found SOHO useful for its ability to spot comets that pass extremely close to the sun, known as sungrazers. To this day, SOHO is one of the best sources for views of the giant surface explosions regularly produced by the sun called coronal mass ejections, or CMEs, which can hurl a million tons of solar particles off into space. This field of view is large enough to see a sungrazing comet as it slingshots around the sun.
 
 SOHO's great success as a comet finder is, of course, dependent on the people who sift through SOHO's data – a task made open to the world through real-time publicly available data.
 
@@ -171,7 +171,7 @@ By using openly available tools and making our scientific process and products m
 
 The mainstream adoption of open science began relatively recently. The potential benefits of open science extend beyond research through contributions to society and policy.
 
-Collaboration, innovation, education, technology advancement, and science-based public policy are all improved by the open availability of research products. Sharing all research products (eg. data, code, results) makes the scientific process more transparent which may help increase public trust in science. Also, open science encourages IDEA (Inclusion, Diversity, Equity, Accessibility), and increases involvement of citizen-scientists and non-experts in the research process. The inclusion of diverse perspectives from an open community invites unique perspectives that contribute to a more robust and often more accurate scientific outcome.
+Collaboration, innovation, education, technology advancement, and science-based public policy are all improved by the open availability of research products. Sharing all research products (e.g., data, code, results) makes the scientific process more transparent which may help increase public trust in science. Also, open science encourages IDEA (Inclusion, Diversity, Equity, Accessibility), and increases involvement of citizen-scientists and non-experts in the research process. The inclusion of diverse perspectives from an open community invites unique perspectives that contribute to a more robust and often more accurate scientific outcome.
 
 <img src="../images/media/image264.png" style="width: 350px; height: auto;" />
 
@@ -196,7 +196,7 @@ Open science reciprocates the benefits it provides to researchers onto the commu
 
 Through open science practices, research waste can be avoided, such as unintentional and costly repetition of previous studies, according to a 2020 European Commission [report](https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1). In the human sciences, this also reduces participant fatigue in the long term. By maximizing what is learned from publicly available data, one does not need to test repeatedly, especially on already vulnerable communities. By “giving away” science, individuals, communities and organizations can more easily adopt research results to inform interventions for their own needs without the knowledge being gatekept by the original researchers and organizations involved. In this way, open science can strengthen the social and economic impacts of scientific results.
 
-### Open Science Attracts a Diverse Set of Participant
+### Open Science Attracts a Diverse Set of Participants
 
 <img src="../images/media/image265.jpg" style="width: 350px; height: auto;" />
 
@@ -206,7 +206,7 @@ Image credit: Andy Brunning/Compound Interest. **CC BY-NC-ND 4.0 DEED**
 
 The open sharing of scientific products and processes makes science accessible to everyone. This allows full participation from everyone, and also maximizes the number of people who can benefit from the work.
 
-The best ways to include a diverse group of open science practitioners and stakeholders are to remove existing barriers and design for inclusion. Beyond this, it is important to learn how to communicate effectively with diverse collaborators, people at different skill levels, career levels, backgrounds, and areas of expertise. The ability to build diverse teams is a skill that everyone can learn.
+The best ways to include a diverse group of open science practitioners and stakeholders are to remove existing barriers and design for inclusion. Beyond this, it is important to learn how to communicate effectively with diverse collaborators, people at different skill levels, career levels, backgrounds, and areas of expertise. The ability to build diverse teams is a skill that everyone can learn. To learn more about NASA's commitment to diversity and inclusion, click [here](https://www.nasa.gov/odeo/diversity-and-inclusion/).
 
 ### Key Takeaways: Beneﬁts to Society
 

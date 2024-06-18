@@ -103,7 +103,7 @@ Once you have found a few peer-reviewed articles that are highly relevant, to fi
 - YouTube
 - Google/Bing
 - Conference websites
-- X, formally known as Twitter
+- X, formerly known as Twitter
 - Facebook
 - Medium
 - Substack
@@ -121,7 +121,7 @@ Various research objects, including datasets and software, are frequently attach
 
 If you use poor quality data or materials from unreliable and unvetted sources as critical components of your research, you run the risk of producing flawed, or low-quality science that may harm your reputation as a scientist. Therefore, it is critical to assess the quality and reliability of open-results sources before you include them in your own work.
 
-What are best practices for assessing the quality of alternative sources of data to research articles such as blog posts, youtube videos, and other research objects?
+What are best practices for assessing the quality of alternative sources of data to research articles such as blog posts, YouTube videos, and other research objects?
 
 ### Attributes of Reputable Material
 
@@ -225,7 +225,7 @@ The practice of producing open results aims to foster a system where feedback lo
 
 ### Different Ways to Provide Feedback
 
-#### Use Github Issues
+#### Use GitHub Issues
 
 <table>
 <colgroup>
@@ -409,7 +409,7 @@ Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implicatio
 
 In the Lesson 1 blog post [example](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685), researchers acknowledged people they worked with in an article they wrote that they found helpful, and two different communities, as well as the computational environment they worked on. This is a great example of giving credit: "I would like to thank Rich Signell (USGS) and Martin Durant (Anaconda) for their help in learning this process. If you're interested in seeing more detail on how this works, I recommend Rich's article from 2020 on the topic. I would also like to recognize [Pangeo](https://pangeo.io/) and [Pangeo-forge](https://pangeo-forge.org/) who work hard to make working with big data in geoscience as easy as possible. Work on this project was done on the Pangeo AWS deployment."
 
-In Lesson 1, the JWST case study was presented. The peer-reviewed [publication](https://www.nature.com/articles/s41586-022-05269-w#Ack1) that reported the first discovery of CO2 on another planet has been accessed 18,000+ times. Notice is that the authorship is attributed to the entire team. The Acknowledgements section duly explains the contributions of their collaborators and partners, "The results reported herein benefited during the design phase from collaborations and/or information exchange within NASA’s Nexus for Exoplanet System Science (NExSS) research coordination network sponsored by NASA's Science Mission Directorate." Also, "All the data and models presented in this publication can be found at [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427)". And finally, they cite all the software! "The codes used in this publication to extract, reduce and analyze the data are as follows.."
+In Lesson 1, the JWST case study was presented. The peer-reviewed [publication](https://www.nature.com/articles/s41586-022-05269-w#Ack1) that reported the first discovery of CO2 on another planet has been accessed 18,000+ times. Notice is that the authorship is attributed to the entire team. The Acknowledgements section duly explains the contributions of their collaborators and partners, "The results reported herein benefited during the design phase from collaborations and/or information exchange within NASA’s Nexus for Exoplanet System Science (NExSS) research coordination network sponsored by NASA's Science Mission Directorate." Also, "All the data and models presented in this publication can be found at [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427)". And finally, they cite all the software! "The codes used in this publication to extract, reduce and analyze the data are as follows..."
 
 ## Lesson 2: Summary
 
