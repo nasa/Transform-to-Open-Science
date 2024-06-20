@@ -58,7 +58,6 @@ Investigate if your funding agency, institutions, and/or data repository has add
 A non-open (unsupported and closed/proprietary) data format refers to a file format that is not freely accessible, standardized, or widely supported by different software applications. Here are some examples of closed/proprietary data formats:
 
 - **Adobe Photoshop (.psd):** The default proprietary file format for Adobe Photoshop, a popular image editing software.
-- **Microsoft Word (.doc/.docx):** A proprietary file format used to store word processing data.
 - **AutoCAD Drawing (.dwg):** A proprietary data format used for computer-aided design (CAD).
 
 Software applications that can read but not create DOC, PSD, or DWG formatted data usually do not fully support all the features, layers, specifications, and inner workings of the original file.
@@ -85,6 +84,7 @@ Some examples of open data formats include:
 | Investigation-Study- Assay (ISA) model for life science studies | For structured data organization, data integration and interoperability among experiments, reproducibility and transparency. |
 | Flexible Image Transport System (FITS) | As a standard for astronomical data, flexible and extensible metadata and image headers, efficient data compression and archiving of large datasets. |
 | Common Data Format (CDF) | For self-describing format readable across multiple operating systems, programming languages, and software environments, multidimensional data, and metadata inclusion. |
+| Microsoft Word (.doc/.docx) | A proprietary file format used to store word processing data. |
 
 By embracing open standards, authors can avoid unnecessary barriers and maximize their chances of making data useful to their communities.
 
