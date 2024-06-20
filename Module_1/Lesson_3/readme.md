@@ -304,9 +304,7 @@ It is important to plan for the release of your data and results from the very b
 
 ### Sharing Controlled Research
 
-As we've previously shown, different kinds of intellectual property are released using different formal structures. For example, text and media products are released under copyright and software is released under a license.
-
-It is important to check with specialist communities when preparing your research plan. Methods for sharing results may follow different standards of practice or may require a special data format for distribution or submission to common repositories.
+As we've previously shown, different kinds of intellectual property are released using different formal structures. It is important to understand these structures and to check with specialist communities when preparing your research plan. Methods for sharing results may follow different standards of practice or may require a special data format for distribution or submission to common repositories.
 
 <table>
   <thead>
