@@ -19,7 +19,7 @@ After completing this lesson, you should be able to:
 - Define the different types of scientific data.
 - Define what the acronym FAIR means and explain how it supports the sharing of open data.
 - Identify data management practices and tools to locate data in repositories.
-- List and explain the purpose of the resources commonly used in making data including the data formats, inspecting data, and assessing 'FAIR'-ness of data.
+- List and explain the resources commonly used in making data, including formatting, inspecting, and assessing the 'FAIR'-ness of data.
 
 
 ## Introduction to Open Data
