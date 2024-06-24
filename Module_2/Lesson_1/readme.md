@@ -35,7 +35,9 @@ After completing this lesson, you should be able to:
 
 Scientific knowledge, or research products, take the form of:
 
- <img src="../images/media/image5.png" style="width:350px;height:auto;" />
+<img src="../images/media/image5.png" style="width:350px;height:auto;" />
+
+Within these research products are additional types of products, such as methodologies, algorithms, and physical artifacts.
 
 ### What is Data?
 
