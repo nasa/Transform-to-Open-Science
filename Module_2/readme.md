@@ -26,7 +26,7 @@ These key terms are important topics for this module. Select the term to see the
 
 **Computing Environment** – A platform that provides necessary software dependencies, a development area, and connections to computational resources to facilitate running code.
 
-**ORCiD** – A numeric code used to uniquely identify authors and contributors of scholarly communication. Researchers provide an ORCiD for publications and association memberships. ORCiD is also an international, interdisciplinary, open, non-proprietary, and not-for-profit organization created by the research community for the benefit of all stakeholders including ours and the organizations that support the research ecosystem.
+**ORCID** – A numeric code used to uniquely identify authors and contributors of scholarly communication. Researchers provide an ORCID for publications and association memberships. ORCID is also an international, interdisciplinary, open, non-proprietary, and not-for-profit organization created by the research community for the benefit of all stakeholders including ours and the organizations that support the research ecosystem.
 
 **Persistent Identifiers (PIDs)** - A long-lasting digital reference to an entity.
 
