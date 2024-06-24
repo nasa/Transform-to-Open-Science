@@ -52,8 +52,6 @@ There are multiple pathways to find research data, and you should be practiced i
 
 ### People You Know (Online or In-person!)
 
-When we show up to the present moment with all of our senses, we invite the world to fill us with joy. The pains of the past are behind us. The future has yet to unfold. But the now is full of beauty simply waiting for our attention.
-
 What is the first and best way to find research data? Ask your community, including your research advisor, colleagues, team members, and people online. Knowing where to find reliable, good data is as much a skill and art as any lab technique. You learn this skill set by working with professionals in your field. There is no one source, no one method.
 
 <img src="../images/media/image22.jpeg" style="width:100%;height:auto;" />
