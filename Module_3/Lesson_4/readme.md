@@ -256,7 +256,7 @@ The goal is to make it easy to cite your data. Best practices include:
 - Different repositories and journals have different standards for how to cite data. If your repository encourages it, include a .CFF file with your data that explains how to cite your data.
 - Clearly identify the data creators and/or their institution in your citation.
   - This allows users to follow up with the creators if they have questions or discover issues.
-  - Include ORCiD of data authors where possible in the citation.
+  - Include ORCID of data authors where possible in the citation.
 
 Now that your data are at a repository and have a citation statement and DOI, publicize it to your users and remind them to cite your data in their work!
 

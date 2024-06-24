@@ -64,7 +64,7 @@ Current Enabling Tech:
 - [DataCite's Metadata Schema](https://schema.datacite.org/)
 - PIDs: Persistent IDentifiers (additional details in the following sections)
   - [Digital Object Identifier](https://www.doi.org/) (DOI): A top-level and a mandatory field in the metadata of each record - for data, code, publications.
-  - [Open Research and Contributor ID](https://orcid.org/) (ORCiD) - A code that uniquely identifies authors and contributors of research products and scholarly communication.
+  - [Open Research and Contributor ID](https://orcid.org/) (ORCID) - A code that uniquely identifies authors and contributors of research products and scholarly communication.
 
 **Accessible**
 
@@ -139,6 +139,8 @@ A data repository is a digital space to house, curate, and share research output
 - [**OpenNeuro**](https://openneuro.org/) is an open platform for validating and sharing brain imaging data. The tools featured in Open Neuro enable easy access, search, and analysis of annotated datasets.
 
 Open science tools such as data repositories should implement FAIR principles, especially in the case of attribution of persistent identifiers (e.g., DOI), metadata annotation, and machine-readability.
+
+Additional examples of data repositories and other open science tools include but are not limited to:
 
 **ZENODO**
 
@@ -296,7 +298,7 @@ Choose the FAIR Principles from the list below. Select all that apply.
 
 Which of the following can help make your data FAIR? Select all that apply.
 - Get a license for your data
-- Make sure you develop your own metadata
+- Make your metadata accessible only as long as your data is available
 - Obtain a PID for your data
 
 *Question*
@@ -308,5 +310,4 @@ Which of the following are examples of repositories? Select all that apply.
 - Zenodo
 - Dataverse
 - Dryad
-- Datacite
 - Google

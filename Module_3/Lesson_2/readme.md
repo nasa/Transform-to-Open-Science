@@ -323,7 +323,7 @@ Many datasets and repositories explain how they’d prefer to be cited. The cita
 
 - Authors and their institutions
 - Title
-- ORCiD
+- ORCID
 - DOI
 - Version
 - URL
@@ -395,7 +395,7 @@ What information is commonly found in a citation file?
 
 - Authors and their institutions
 - Title
-- ORCiD
+- ORCID
 - DOI
 - Version
 - URL
