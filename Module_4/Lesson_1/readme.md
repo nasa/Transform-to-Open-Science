@@ -117,11 +117,11 @@ Scientists use and produce a wide variety of different types of software during 
 - Android operating system among others
   - You can look at the Android source code, but you can't modify it and install it on a device. And even if you could, you couldn't use any of the standard services (e.g. Google Store) with that. So it's "open" in the same sense that last night's lottery numbers are "open".
 
-**Operational Software** – Software delivered to individuals as part of a program or product. Examples include automated workflows, data consolidation, and role-based interfacing and reporting. For example:
+**Operational Software** – Software delivered to individuals as part of a program or product. Examples include automated workflows, data consolidation, and role-based interfacing and reporting.
 
 - [Fprime](https://nasa.github.io/fprime/) – Space mission flight software
 
-**Infrastructure Software** – Forms the central framework of computer systems, also as known as the computer's set up foundation. Examples include operating systems, database management systems, web servers, middleware, and virtualization software. Examples include:
+**Infrastructure Software** – Forms the central framework of computer systems, also as known as the computer's set up foundation. Examples include operating systems, database management systems, web servers, middleware, and virtualization software.
 - [Fprime](https://nasa.github.io/fprime/) – Space mission flight software
 - [PODAAC](https://github.com/podaac) – Distributed archiving and processing software
 - [UFS](https://github.com/ufs-community) – Operational weather forecasting model software
