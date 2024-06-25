@@ -104,7 +104,7 @@ This is how easy it should be for your readers to find and use your citation inf
 
 ### Examples of PIDs in Action
 
-<img src="../images/media/image22.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image22.png" style="width:100%;height:auto;" />
 
 <table>
   <thead>
