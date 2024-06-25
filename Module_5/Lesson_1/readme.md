@@ -116,7 +116,7 @@ Image credit: OpenStreetMap 2011, Ken Vermette. CC BY-SA 3.0
 
 ---
 
-From '2003: let's map the UK to 2023:\>1.5M contributors, 100M+ edits, using the data to map the world with applications ranging from Uber to mapping UN Sustainable Development Goals." [OpenStreetMaps is being used for GIS analysis](https://welcome.openstreetmap.org/about-osm-community/consumers/), such as planning or logistics for humanitarian groups, utilities, governments and more. This was only possible because it was set up and shared openly and built by a community devoted to improving it. You never know where your personal project might go or who might be interested in collaborating!
+From "2003: let's map the UK to 2023: using the data to map the world with applications ranging from Uber to mapping UN Sustainable Development Goals." (>1.5M contributors, 100M+ edits) [OpenStreetMaps is being used for GIS analysis](https://welcome.openstreetmap.org/about-osm-community/consumers/), such as planning or logistics for humanitarian groups, utilities, governments and more. This was only possible because it was set up and shared openly and built by a community devoted to improving it. You never know where your personal project might go or who might be interested in collaborating!
 
 ### New Visualizations to Share Results
 
