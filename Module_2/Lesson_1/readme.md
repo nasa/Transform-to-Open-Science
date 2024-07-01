@@ -150,7 +150,7 @@ Software
 
 This version: [https://github.com/c-h-david/rapid](https://github.com/c-h-david/rapid) 
 
-All versions: [https://doi.org/10.5281/zenod](https://doi.org/10.5281/zenod)
+All versions: [https://zenodo.org/records/10161527](https://zenodo.org/records/10161527)
 
 
 ## Lesson 1: Summary
