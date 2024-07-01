@@ -602,7 +602,7 @@ Here are some further suggestions on how to make your code more accessible, repr
 | **Operation Documentation** | Share details about how you are running the code. For example, document the version of a software library you are using, or the version of the compiler. These are often shared in an 'environment.yml' file. |
 | **Automation** | Consider the following scenario:<br><br>You are getting ready to publish your paper that includes 17 plots that all depend on a data set released by a mission. Right before you are about to submit, the mission releases an updated version of the data set.<br><br> How easy will it be to recreate those plots?<br><br> Software allows you to automate the running of scripts and alert programmers when written so that input files are not hardcoding. This allows programmers to easily re-run code if an initial parameter changes. |
 | **Using Standards** | Most languages have their own coding style adopted by their respective communities. Following those conventions makes it easier for others to contribute to your code and makes your project more inclusive. |
-| **Portability** | Share details about how you are running the code, for example, the version of a software library you are using, or the version of the compiler. These are often shared in an 'environment.yml' file. |
+| **Portability** | Allows individuals the ability to transfer their personal data between platforms. |
 | **Naming** | Many historical terms used in software have negative connotations depending on the context. When considering different terms or naming, consider how different audiences may react to those terms. |
 
 ## Lesson 3: Summary
