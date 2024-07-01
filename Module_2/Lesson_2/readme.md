@@ -40,7 +40,7 @@ In this lesson, we introduce you to some of the most general open science tools 
 
 ## Persistent Identifiers
 
-A digital persistent identifier (or "PID") is a “long-lasting reference to a digital resource” that is machine-readable and uniquely points to a digital entity, according to [ORCID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-) examples of persistent identifiers used in science are described below.
+A digital persistent identifier (or "PID") is a "long-lasting reference to a digital resource" that is machine-readable and uniquely points to a digital entity, according to [ORCID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-). Examples of persistent identifiers used in science are described below.
 
 ### ORCID
 
@@ -51,9 +51,9 @@ A digital persistent identifier (or "PID") is a “long-lasting reference to a d
  A free, nonproprietary numeric code that is:
 
 - Uniquely and persistently identifies authors and contributors of scholarly communication.
-- Similar to tax ID numbers for tax purposes.
+- Used similarly to how tax ID numbers are used for tax purposes.
 
-ORCIDs are used to link Used to link researchers to their research and research-related outputs. It is a 16-digit number that uniquely identifies researchers and is integrated with certain organizations (like some publishers) that will add research products (such as a published paper) to an individual's ORCID profile. ORCIDs are meant to last throughout ones career, and helps to avoid confusion when information about a researcher changes over time (e.g. career change or name change). (cite: [https://orcid.org/](https://orcid.org/))
+ORCIDs are used to link Used to link researchers to their research and research-related outputs. It is a 16-digit number that uniquely identifies researchers and is integrated with certain organizations (like some publishers) that will add research products (such as a published paper) to an individual's ORCID profile. ORCIDs are meant to last throughout ones career, and helps to avoid confusion when information about a researcher changes over time (e.g., career change or name change). (cite: [https://orcid.org/](https://orcid.org/))
 
 Many publishers, academic institutes, and government bodies support ORCID. In 2023, ORCID reported over 1,300 member organizations and over 9 million yearly live accounts. You can connect it with your professional information (affiliations, grants, publications, peer review, and more).
 
@@ -497,7 +497,7 @@ General components of a software management plan:
 - Personnel roles and responsibilities.
 - Any community-specific information of note.
 
-At a minimum, a software management plan for SMD-funded research should include:
+At a minimum, a software management plan SMD-funded (NASA Science Mission Directorate) research should include:
 - Description of the software expected to be produced from the proposed activities, including types of software to be produced, how the software will be developed, and the addition of new features or updates to existing software. This can include the platforms used for development, project management, and community-based best practices to be included such as documentation, testing, dependencies, and versioning.
 - The repository(ies) that will be used to archive software arising from the activities and the schedule for making the software publicly available.
 - Description of software that are subject to relevant laws, regulations, or policies that exclude them from software sharing requirements.
