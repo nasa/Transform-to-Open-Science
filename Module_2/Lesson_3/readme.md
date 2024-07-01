@@ -118,7 +118,7 @@ These are high-level guidelines, and much like open science, implementation is n
 
 ### Data Management Plan
 
-The previous lesson describes the requirements of a data management plan (DMP). Below are two open science resources to get you started or creating a data management plan:
+The previous lesson describes the requirements of a data management plan (DMP). Below are two open science resources to get you started on creating a data management plan:
 
 **DMPTool**
 
