@@ -290,7 +290,7 @@ Preprints come with many advantages as well as perceived or potential disadvanta
         <td colspan="2">
             <ul>
             <li>Work may be shared with critical errors that may have been caught in peer review.</li>
-            <li>In some fields, there is a perception of lessened reliability or quality of research published as a pre-print.</li>
+            <li>In some fields, there is a perception of lessened reliability or quality of research published as a preprint.</li>
             <li>Some journals do not allow or accept articles if they have been submitted to a preprint server.</li>
             </ul>
         </td>
