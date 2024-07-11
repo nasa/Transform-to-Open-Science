@@ -94,7 +94,7 @@ Not all data may be shared or shared with all this information. There are differ
 
 ## Benefits of Open Data
 
-Data underpins almost all of science. Openly sharing data with others enables reproducibility, transparency, validation, reuse, and collaborations. Data plays a significant role in our day-to-day lives. Open data, in particular, plays a key role. Open data are only common in our society and you have likely already benefited from this form in some way. The impacts of open data include facilitating:
+Data underpins almost all of science. Openly sharing data with others enables reproducibility, transparency, validation, reuse, and collaborations. The impacts of open data include facilitating:
 
 ---
 
