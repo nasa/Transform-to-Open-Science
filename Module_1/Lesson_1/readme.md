@@ -86,8 +86,6 @@ Source: [https://www.pnas.org/doi/full/10.1073/pnas.1708290115](https://www.pnas
 
 <img src="../images/media/image242.png" style="width: 350px; height: auto;" />
 
-<img src="../images/media/image218.png" style="width:0.16667in;height:0.16667in" /> **No <img src="../images/media/image270.png" style="width:0.16667in;height:0.16667in" /> Yes**
-
 **Open Results Enable Iteration and Improve Error-Detection**
 
 In this section, we will look at an example of how closed science can restrict research impact by [following the outcome](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1318&context=usdeptcommercepub) of a highly cited journal article to understand how science functions to inform a field’s state of research, the decisions of policymakers, and the actions of society.
