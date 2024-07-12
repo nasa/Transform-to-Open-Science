@@ -19,7 +19,7 @@ What Is Open Science 101?
 
 <!---What Is Open Science 101 Description (Markdown)-->
 {% capture takeos101-whatisos101-description %}
-The Open Science 101 curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan. Expand your Open Science expertise and equip yourself with the essential skills required to excel in the realm of open science. Sign up today to embark on your journey towards advancing your open science proficiency and gain your NASA Open Science Certification.
+The Open Science 101 curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan. Expand your Open Science expertise and equip yourself with the essential skills required to excel in the realm of open science. Sign up today to embark on your journey towards advancing your open science proficiency and earn your NASA Open Science digital badge.
 {% endcapture %}
 
 <!---What Is Open Science 101 Learn More Button Text-->
@@ -43,7 +43,7 @@ Self-Paced Virtual Training
 
 <!---Self Paced Description (Markdown)-->
 {% capture takeos101-selfpaced-description %}
-Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science Certification. Take the modules one at a time or all at once, available 24/7 at your fingertips!
+Prefer a more self-paced virtual option? We've got you covered! Our MOOC option guides you seamlessly through each of the five modules to earn your grand TOPS badge and your NASA Open Science digital badge. Take the modules one at a time or all at once, available 24/7 at your fingertips!
 {% endcapture %}
 
 <!---Register Now Text-->
