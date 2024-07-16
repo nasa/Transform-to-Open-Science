@@ -220,7 +220,7 @@ Image by Patrick Hochstenbach, CC0 1.0; image illustrates each FAIR principle
 
 ### FAIR: Findable, Accessible, Interoperable, Reusable
 
-The vast majority of data today is shared online. FAIR principles help researchers make better use of their scientific data, and engage with a broader audience, than outdated techniques would allow. FAIR data are more valuable for science because they are easier to use. Data can be FAIR regardless of whether it is openly shared or not. If data are openly shared, being FAIR helps with reuse and expands the scientific impact of the data.
+The vast majority of data today is shared online. Although FAIR has been introduced in Module 2, Lesson 3, some additional details are provided below. FAIR principles help researchers make better use of, and engage with a broader audience with, their scientific data than outdated techniques would allow. FAIR data are more valuable for science because they are easier to use. Data can be FAIR regardless of whether it is openly shared or not. If data are openly shared, being FAIR helps with reuse and expands the scientific impact of the data.
 
 FAIR principles don’t encompass comprehensive implementation instructions for every type of data, but offer general insights to improve shareability and reusability. Sometimes it takes a group effort and/or a long production process to make data and results FAIR. The process starts in the planning stage of a research project. A well-coordinated open science and data management plan is often needed for full compliance with FAIR, depending on the size and type of project the data are used for.
 
