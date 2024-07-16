@@ -20,7 +20,7 @@ This lesson defines open data, its benefits, and the practices that enable data 
 
 After completing this lesson, you should be able to:
 
-- Define what open data is and how the FAIR and CARE principles are used to guide open data practices
+- Define what open data is and how the FAIR principles are used to guide open data practices
 - List the benefits of open data
 - Explain how the use, make, share framework can be used to modify the scientific plan for open data
 
