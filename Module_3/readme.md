@@ -22,7 +22,7 @@ These key terms are important topics for this module. Select the term to see the
 
 **Copyright** – A type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression. Many different types of works are covered by copyright law including data products and software. (As well as books, poems, paintings, photographs, illustrations, musical compositions, and many more.)
 
-**Data** – Any type of information, recordable, or observable facts. Data are now most commonly stored electronically.
+**Data** – Factual information (such as measurements or statistics) used as a basis for reasoning, discussion, or calculation.
 
 **Data License** – Data licenses give any data creator a way to grant the public permission to use their products under copyright law. Similarly, data licenses give data users clear guidelines regarding how they can reuse the material.
 
