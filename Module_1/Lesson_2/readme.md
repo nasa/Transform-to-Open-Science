@@ -62,14 +62,13 @@ Well-documented research products also demonstrate the quality of your work, whi
 
 ### Give and Get Credit When Using Results of Others
 
-<img src="../images/media/image262.png" style="width: 350px; height: auto;" />
-
-
-In addition to documenting your own research, the practice of giving credit to everyone who has contributed will strengthen your scientific community reputation and actualize the shared values of open science. As people gain confidence in the benefits of cooperative research, they will also start giving credit to more contributions that might previously have gone unacknowledged. Different work performed as part of a paper can be given in an author contribution statement like the example shared here.
-
 <img src="../images/media/image260.jpg" style="width: 100%; height: auto;" />
 
 The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license. DOI: 10.5281/zenodo.3332807.
+
+In addition to documenting your own research, the practice of giving credit to everyone who has contributed will strengthen your scientific community reputation and actualize the shared values of open science. As people gain confidence in the benefits of cooperative research, they will also start giving credit to more contributions that might previously have gone unacknowledged. Different work performed as part of a paper can be given in an author contribution statement, often required by journals, like the example below taken from [this paper](https://journals.physiology.org/doi/full/10.1152/jn.00636.2019). Additionally, it is important to also include an acknowledgement statement to give credit to those who have shared resources, equipment, or knowledge, without which the final product or paper may not have been possible.
+
+<img src="../images/media/OS101_CJ_Author_Contributions.png" style="width:450px;height:auto;" />
 
 ---
 
