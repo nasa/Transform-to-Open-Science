@@ -70,11 +70,10 @@ As discussed previously in this curriculum, there are many benefits to sharing a
 
 ### Should the Data be Shared?
 
-Before datasets are shared, it’s important to consider any restrictions to your permission to share and ensure that your contributors – including sample and data donors – approve its release.
+Before datasets are shared, it's important to consider any restrictions to your permission to share and ensure that your contributors – including sample and data donors – approve its release.
 
-Data should be as open as possible and as closed as necessary.
+Data should be as open as possible and as closed as necessary. Opening our data is a powerful way to enable discovery, transparency, and scientific progress. However you may want to consider a couple of points before data is shared:
 
-- Opening our data is a powerful way to enable discovery, transparency, and scientific progress.
 - Some data are subject to laws, regulations, and policies which limit the release of the data.
 - Your local institution may have additional policies and resources – investigate them early and often.
 
