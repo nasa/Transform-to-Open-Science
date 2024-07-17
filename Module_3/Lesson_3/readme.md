@@ -199,7 +199,7 @@ Data is the intellectual property of the researcher(s), or possibly of their fun
 
 If you don't license your work, others can’t/shouldn’t re-use it - even if you want them to. As mentioned previously in this module, a license is a legal document that tells users how they can use the dataset. It is important to understand the licensing conditions of a dataset before data reuse to avoid any copyright infringement or other intellectual property issues.
 
-A dataset without a license does not mean that the data is open; using a licenseless dataset is not ethical. Contacting the data creator and getting explicit permission, while suggesting they apply a license, is the best path forward.
+A dataset without a license does not necessarily mean that the data is open. Using a license-less dataset may pose an ethical dilemma. Contacting the data creator and getting explicit permission, while suggesting they apply a license, is the best path forward.
 
 Understanding when and where the license applies is crucial. For example, data created using US Government public research funds is, by default, in the public domain. However, that only applies to the jurisdiction of the United States. In order for this to apply internationally, data creators need to select an open license.
 
