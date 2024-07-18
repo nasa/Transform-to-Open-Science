@@ -166,9 +166,7 @@ We must consider the full research workflow if we are to solve the reproducibili
 
 <img src="../images/media/image15.png" style="width:350px;height:auto;" />
 
-By now, it should be obvious that there are many personal incentives to implement open science principles throughout all stages of the research process. By making results open throughout, you increase your ability to reproduce your own results.
-
-Although reproducibility of one's own results might sound like a trivial achievement, a [2016 Nature study](https://www.nature.com/articles/533452a) found that 50% of researchers are unable to reproduce their own experiments. This highlights the critical nature of the reproducibility crisis. This also has implications for research beyond the ability to improve your research.
+There are many personal incentives to implement open science principles throughout all stages of the research process. By making results open throughout, you increase your ability to reproduce your own results. This also has implications for research beyond the ability to improve your research.
 
 ### What is the Cause of This Reproducibility Crisis?
 
