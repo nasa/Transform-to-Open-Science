@@ -17,3 +17,4 @@ Browse through our archive of past TOPS newsletters to rediscover valuable news,
 - [April Newsletter](https://conta.cc/3vBWZ1H)
 - [May Newsletter](https://conta.cc/4au3ja9)
 - [June Newsletter](https://conta.cc/4aPi3An)
+- [July Newsletter](https://conta.cc/4cBpcWy)
