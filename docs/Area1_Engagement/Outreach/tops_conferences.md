@@ -13,7 +13,6 @@ Sync your calendar to ours using Google Calendar! [GCAL](https://calendar.google
 | Apr 3 - 8, 2024 | ECLIPSE | Uvalde, TX | Planetary, Astro |
 | Sep 22 - 24, 2024 | The Geological Society of America (GSA) Connects | Anaheim, CA | Earth |
 | Oct 31 - Nov 2, 2024 | Society for the Advancement of Chicanos and Native Americans in Science (SACNAS) | Phoenix, AZ | HUGs |
-| Oct-24 | HBCU Climate Change Conference | TBD | HUGs |
 | Dec 9 - 13, 2024 | American Geophysical Union (AGU) Fall Meeting | Washington, D.C. | BPS, Planetary, Helio, Earth, Astro |
 
 #### Acronyms
