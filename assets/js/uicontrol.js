@@ -17,8 +17,29 @@ document.addEventListener("DOMContentLoaded", function() {
 			  for(i = 0; i < tops_tables.length; i++) {
 				  let current_table = tops_tables[i];
 				  let the_table = current_table.getElementsByTagName("table");
+				  let the_table_cue = current_table.getElementsByClassName("hcue");
 				  let the_table_obj;
 				  let the_table_storage = [];
+
+				  if(the_table_cue != null && the_table_cue.length == 1) {
+					const observer = new window.IntersectionObserver(([entry]) => {
+						if (entry.isIntersecting) {
+						  if(the_table_cue[0].classList.contains("hide") == false) {
+							console.log('ENTER');
+							setTimeout(function(){
+								the_table_cue[0].classList.add("hide");
+							}, 2000);
+						  }
+						  return
+						}
+						console.log('LEAVE')
+					  }, {
+						root: null,
+						threshold: 0.1, // set offset 0.1 means trigger if atleast 10% of element in viewport
+					  })
+					  
+					  observer.observe(the_table_cue[0]);
+				  }
 				  
 				  
 				  if(the_table != null) {
@@ -234,7 +255,7 @@ document.addEventListener("DOMContentLoaded", function() {
 				let tops_workshops_tables_containers = tops_workshops_tables_obj.getElementsByClassName("workshop_table");
 
 				if(tops_workshops_tabs_buttons != null && tops_workshops_tables_containers != null) {
-					if(tops_workshops_tabs_buttons.length == 2 && tops_workshops_tables_containers.length == 2) {
+					if(tops_workshops_tabs_buttons.length == 3 && tops_workshops_tables_containers.length == 3) {
 						console.log("TOPS: Workshop tables and workshop tabs are " + tops_workshops_tabs_buttons.length);
 
 						tops_workshops_tabs_buttons[0].addEventListener("click", function(){
@@ -248,12 +269,20 @@ document.addEventListener("DOMContentLoaded", function() {
 								tops_workshops_tabs_buttons[1].classList.remove("active");
 							}
 
+							if(tops_workshops_tabs_buttons[2].classList.contains("active") == true){
+								tops_workshops_tabs_buttons[2].classList.remove("active");
+							}
+
 							if(tops_workshops_tables_containers[0].classList.contains("active") == false){
 								tops_workshops_tables_containers[0].classList.add("active");
 							}
 
 							if(tops_workshops_tables_containers[1].classList.contains("active") == true){
 								tops_workshops_tables_containers[1].classList.remove("active");
+							}
+
+							if(tops_workshops_tables_containers[2].classList.contains("active") == true){
+								tops_workshops_tables_containers[2].classList.remove("active");
 							}
 						});
 
@@ -268,12 +297,48 @@ document.addEventListener("DOMContentLoaded", function() {
 								tops_workshops_tabs_buttons[1].classList.add("active");
 							}
 
+							if(tops_workshops_tabs_buttons[2].classList.contains("active") == true){
+								tops_workshops_tabs_buttons[2].classList.remove("active");
+							}
+
 							if(tops_workshops_tables_containers[0].classList.contains("active") == true){
 								tops_workshops_tables_containers[0].classList.remove("active");
 							}
 							
 							if(tops_workshops_tables_containers[1].classList.contains("active") == false){
 								tops_workshops_tables_containers[1].classList.add("active");
+							}
+
+							if(tops_workshops_tables_containers[2].classList.contains("active") == true){
+								tops_workshops_tables_containers[2].classList.remove("active");
+							}
+						});
+
+						tops_workshops_tabs_buttons[2].addEventListener("click", function(){
+							console.log("TOPS: Workshop tables changed to Tab 3");
+
+							if(tops_workshops_tabs_buttons[0].classList.contains("active") == true){
+								tops_workshops_tabs_buttons[0].classList.remove("active");
+							}
+							
+							if(tops_workshops_tabs_buttons[1].classList.contains("active") == true){
+								tops_workshops_tabs_buttons[1].classList.remove("active");
+							}
+
+							if(tops_workshops_tabs_buttons[2].classList.contains("active") == false){
+								tops_workshops_tabs_buttons[2].classList.add("active");
+							}
+
+							if(tops_workshops_tables_containers[0].classList.contains("active") == true){
+								tops_workshops_tables_containers[0].classList.remove("active");
+							}
+							
+							if(tops_workshops_tables_containers[1].classList.contains("active") == true){
+								tops_workshops_tables_containers[1].classList.remove("active");
+							}
+
+							if(tops_workshops_tables_containers[2].classList.contains("active") == false){
+								tops_workshops_tables_containers[2].classList.add("active");
 							}
 						});
 
