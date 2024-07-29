@@ -321,3 +321,7 @@ Ready to learn more? Here are some great next steps:
 [CLICK TO LEARN](https://www.openscience.nl/en)
 
 These are just a start - there are a lot more fantastic open science resources online! Keep your eye out for discipline-specific learning content that is currently being developed by NASA ScienceCore grantees, and that will be linked here once available!
+
+### Disclaimer
+
+Please note that we reference several papers throughout the course and depending on the paper, it might be blocked by a paywall. If you would like to get a copy of the paper, please contact the Author or search for it in an online preprint archive. For example, [bioRxiv.org](http://biorxiv.org/).

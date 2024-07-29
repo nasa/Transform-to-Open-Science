@@ -88,6 +88,10 @@ Tools to support reproducibility in research outputs:
 
 ## Additional Tools for Open Results
 
+### Disclaimer
+
+Please note that we reference several papers throughout the course and depending on the paper, it might be blocked by a paywall. If you would like to get a copy of the paper, please contact the Author or search for it in an online preprint archive. For example, [bioRxiv.org](http://biorxiv.org/).
+
 ### Tools for Open Project Management
 
 Advancements over the past few decades to tools that manage research projects and laboratories have helped to meet the ever-increasing demand for speed, innovation, and transparency in science. Such tools are developed to support collaboration, ensure data integrity, automate processes, create workflows and increase productivity.
