@@ -403,7 +403,11 @@ These events provide an opportunity for you to take Open Science 101 with others
 
 In addition to the resources listed elsewhere in this training, the below community resources are excellent sources of information about Open Software.
 
-**References and Guides**
+#### Disclaimer
+
+Please note that we reference several papers throughout the course and depending on the paper, it might be blocked by a paywall. If you would like to get a copy of the paper, please contact the Author or search for it in an online preprint archive. For example, [bioRxiv.org](http://biorxiv.org/).
+
+#### References and Guides
 
 - [OpenSciency](https://opensciency.github.io/sprint-content/)
 - NASA SMD's [Open-Source Science Guidance for researchers](https://smd-cms.nasa.gov/wp-content/uploads/2023/08/smd-open-source-science-guidance-v2-20230407.pdf)

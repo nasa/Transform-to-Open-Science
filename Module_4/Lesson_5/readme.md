@@ -203,6 +203,10 @@ There are several types of contributing to open software. Not all of them requir
 
 ## Additional Resources
 
+### Disclaimer
+
+Please note that we reference several papers throughout the course and depending on the paper, it might be blocked by a paywall. If you would like to get a copy of the paper, please contact the Author or search for it in an online preprint archive. For example, [bioRxiv.org](http://biorxiv.org/).
+
 ### References and Guides
 
 In addition to the resources listed elsewhere in this training, the below community resources are excellent sources of information about Open Software.
