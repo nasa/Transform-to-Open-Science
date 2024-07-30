@@ -80,7 +80,7 @@ Current Enabling Tech:
 - [File Transfer Protocol (FTP)](https://www.w3.org/Protocols/rfc959/), File Transfer Protocol Secure (FTPS)
 - [Hypertext Transfer Protocol (HTTP)](https://www.w3.org/Protocols/), Hypertext Transfer Protocol Secure (HTTPS)
 
-Note that Microsoft Exchange Server and Skype are examples of proprietary protocols.
+Note that Microsoft Exchange Server and Skype are examples of proprietary protocols. As always, it is necessary to balance accessibility with security concerns, which may impact the chosen protocol.
 
 **Interoperable**
 
