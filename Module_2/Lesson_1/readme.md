@@ -60,9 +60,7 @@ Many scientists write source code to produce software to analyze data or model o
 
 **Operational and Infrastructure Software** – Software used by data centers and large information technology facilities to provide data services.
 
-**Libraries** – No creative process is truly complete until it manifests a tangible reality. Whether your idea is an action or a physical creation, bringing it to life will likely involve the hard work of iteration, testing, and refinement.
-
-Just be wary of perfectionism. Push yourself to share your creations with others. By maintaining an open stance, you’ll be able to learn from their feedback. Consider their responses new material that you can draw from the next time you’re embarking on a creative endeavor.
+**Libraries** – Generic tools that implement well-known algorithms, provide statistical analysis or visualization, etc., which are incorporated in other software categories.
 
 **Modeling and Simulation Software** – Software that either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data.
 
