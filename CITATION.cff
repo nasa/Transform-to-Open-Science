@@ -1,9 +1,13 @@
 cff-version: 1.2.0
-message: "Are you a researcher looking to cite our curriculum? The following DOI information will allow you to cite the current version"
+message: "Are you a researcher looking to cite our curriculum? The following information will allow you to cite the current version."
+title: "NASA TOPS Open Science 101 Curriculum"
 authors:
 - name: "NASA TOPS Open Science 101 Curriculum Development Team"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 version: 1.0.0
 doi: 10.5281/zenodo.10161527
 date-released: 2024-02-05
-url: "https://github.com/nasa/Transform-to-Open-Science"
+repository-code: "https://github.com/nasa/Transform-to-Open-Science"
+type: software
+license: 
+- CC-BY-1.0
+license-url: https://github.com/nasa/Transform-to-Open-Science/blob/main/LICENSE.md
