@@ -416,7 +416,7 @@ It is important to set a reference for each research team/project about differen
     </tr>
     <tr>
         <td>Ethics Review</td>
-        <td>Ensure that if the research project needs to undergo an ethics review process</td>
+        <td>Verify whether the research project needs to undergo an ethics review process</td>
     </tr>
     <tr>
         <td>Communications and Engagement</td>
