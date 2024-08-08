@@ -102,7 +102,7 @@ In the first module of this curriculum, we listed several reasons why certain re
 Relevant laws and regulations that may prevent the release of data include but are not limited to:
 
 - [International Traffic in Arms Regulation](https://www.pmddtc.state.gov/?id=ddtc_public_portal_itar_landing) (ITAR), which regulates the manufacture, sale, distribution, and export of defense-related articles and services.
-- [Export Administration Regulations](https://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear) (EAR), which regulates the manufacture, sale, distribution, and export of commercial and dual- use items, technology, and information not already covered by ITAR.
+- [Export Administration Regulations](https://www.bis.gov/regulations/ear-overview) (EAR), which regulates the manufacture, sale, distribution, and export of commercial and dual- use items, technology, and information not already covered by ITAR.
 
 **Example: NASA Space System Protection Standard**
 
