@@ -22,9 +22,15 @@ These key terms are important topics for this module. Select the term to see the
 
 **Copyright** – A type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression. Many different types of works are covered by copyright law including data products and software. (As well as books, poems, paintings, photographs, illustrations, musical compositions, and many more.)
 
+Note: Raw data, which are considered facts, are not covered by copyright law.
+
 **Data** – Factual information (such as measurements or statistics) used as a basis for reasoning, discussion, or calculation.
 
 **Data License** – Data licenses give any data creator a way to grant the public permission to use their products under copyright law. Similarly, data licenses give data users clear guidelines regarding how they can reuse the material.
+
+Note: Raw data are not covered by copyright law.
+
+**Data Products** – Data Products are reusable assets that process data and generate insights that help organizations make better decisions. Data products can include datasets, data streams, data feeds, APIs, code, data models, analytics models, and dashboards.
 
 **CC-BY and CC0 License** – CC-BY and CC0 are Creative Commons data licenses. CC-BY allows reusers to distribute, remix, adapt, and build upon the material in any medium or format so long as attribution is given to the creator. The license allows for commercial use. CC0 allows creators to give up their copyright and put their works into the worldwide public domain. CC0 allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.
 
