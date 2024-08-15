@@ -4,11 +4,12 @@ Approximately once a month, we hold a public meeting where we discuss parts of t
 
 ## Next Forum
 
-* November 09 2023 [Forum](20231109_community_forum.md)
-Elevating Science Communication: Build a Better Poster Workshop 
+* August 13 2024 [Forum](20240813_community_forum.md)
+Exploring Citizen Science: Help NASA Make Space Discoveries
 
 ## Previous Forums
 
+* November 09 2023 [Forum](20231109_community_forum.md)
 * September 14 2023 [Forum](20230914_community_forum.md)
 * August 10 2023 [Forum](20230810_community_forum.md)
 * May 11 2023 [Forum](20230511_community_forum.md)
