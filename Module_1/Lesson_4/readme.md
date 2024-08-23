@@ -48,9 +48,9 @@ Now that you've reflected on some of your concerns or fears around open science,
 </thead>
 <tbody>
     <tr>
-        <td><strong>Mistakes:</strong> What if my work is wrong?</td>
+        <td><strong>Mistakes:</strong> What if my work is wrong or inelegant?</td>
         <td>
-            <p>It can be intimidating to share your research materials publicly, because someone might find a mistake. But isn’t it better for science if we can quickly find and fix mistakes? Peer review is a core pillar of the scientific method, and is a mechanism for others to help find and correct mistakes. To make this work, we will need to be more open to finding and fixing mistakes. It’s true that in many science communities, a mistake is considered a failure. However, open science policies aim to change the perception of mistakes from that of failure to a step in the discovery process that can be aided with open community feedback.</p>
+            <p>It can be intimidating to share your research materials publicly, because someone might find a mistake or inefficiency. But isn't it better for science if we can quickly find and fix mistakes or improve quality? Peer review is a core pillar of the scientific method, and is a mechanism for others to help find and correct mistakes and make improvements. To make this work, we will need to be more open to finding and fixing mistakes or inefficiencies. It's true that in many science communities, a mistake is considered a failure, or a certain style may be considered lackluster. However, open science policies aim to change the perception of mistakes from that of failure to a step in the discovery process that can be aided with open community feedback.</p>
         </td>
     </tr>
     <tr>
