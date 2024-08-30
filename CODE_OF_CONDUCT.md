@@ -2,10 +2,7 @@
 
 ## To Report a Code of Conduct Violation
 
-If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify a staff member.
-
-Notification should be done by contacting a staff person on site or by emailing Steve Crawford at
- [steven.m.crawford@nasa.gov](mailto:steven.m.crawford@nasa.gov?subject=TOPS%20Code%20of%20Conduct%20Report) and Chelle Gentemann at [chelle.gentemann@nasa.gov](mailto:chelle.gentemann@nasa.gov?subject=TOPS%20Code%20of%20Conduct%20Report).
+If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify a workshop instructor or facilitator.
 
 All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
