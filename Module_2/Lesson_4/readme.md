@@ -116,10 +116,10 @@ Git is very powerful and widely used (according to a Stack Overflow [ developer 
 
 Version control platforms, typically web-based software hosting platforms, expand the usefulness of version control by allowing for a centralized location to store and collaborate on code, along with many other helpful features for code development and sharing.
 
-Some examples of version control platforms:
+Examples of Git-based version control and software development collaboration platforms:
 
 - GitHub: a Git-based platform that allows collaboration and code history tracking. Owned by Microsoft.
-- GitLab: a Git-based platform that also offers DevOps and CI/CD functionalities.
+- GitLab: a Git-based platform (and software) that offers DevOps and CI/CD functionalities, as well as the ability to self-host GitLab instances.
 - BitBucket: a platform that can host Git and Mercurial repositories. Owned by Atlassian.
 
 GitHub is one of the most popular platforms, and so we will provide examples of how to use GitHub in the rest of this section. It is important to note that GitHub is where most open-source software packages are housed, and so if you are interested in getting more involved with the open source software community, GitHub is an essential tool to learn how to use!
@@ -424,14 +424,14 @@ Cons:
 #### Cloud Computing
 
 Pros:
-- Extremely high computational power 
+- High computational power
 - Minimal wait times to run code
 - Typically accessible to anyone with an internet connection
 - On-demand pricing options - You only have to pay for what you use
 
 Cons:
 - High cost per computation
-- Lack of transparency in costs - E.g. it can cost significant amounts to read in data from different Cloud regions, but may not always be clear which region your data and compute are in
+- Lack of transparency in costs - E.g. data usage can cost a significant amount from different Cloud regions, but it may not always be clear which region your data and compute are in
 - May require some extra knowledge in how Cloud computing works
 
  Examples of Cloud providers: 
@@ -452,7 +452,7 @@ Software repositories and archives provide centralized locations to store and sh
 
 A software repository is a dynamic and collaborative space where developers work on the latest code, making it the heart of ongoing software development and version control. It houses actively maintained codebases, which encourages collaboration and continuous, often community-driven, improvement.
 
-Conversely, a software archive is static storage where stable and thoroughly tested software releases are kept. Users access these archives to obtain reliable versions of software, ensuring stability and reliability in their applications. Understanding the difference between these two is crucial for effective software development and distribution.
+Conversely, a software archive is static storage where stable and thoroughly tested software releases are kept. Users access these archives to obtain reliable versions of software, ensuring stability and reliability in their applications. Furthermore, package managers facilitate the installation of specialized software archives within an application, or an operating system. Understanding the difference between these two is crucial for effective software development and distribution.
 
 <img src="../images/media/image45.png" style="width:350px;height:auto;" />
 
