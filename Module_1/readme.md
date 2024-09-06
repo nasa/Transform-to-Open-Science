@@ -48,7 +48,11 @@ Select the term to see the description.
 
 **Open Scholarship** – An expansive term meant to encompass the rapid and widespread sharing of a range of scholarly activities and outputs across multiple disciplines. Learn more [here.](https://www.heliosopen.org/about)
 
-**Reproducibility and Replicability** – Reproducibility is defined as obtaining consistent results using the same data and code as an original study (synonymous with computational reproducibility). Replicability means obtaining consistent results across studies aimed at answering the same scientific question using new data or other new computational methods. Learn more [here.](https://www.nationalacademies.org/news/2019/09/reproducibility-and-replicability-in-research)
+**Reproducibility and Replicability** – 
+
+- **Reproducibility** is defined as obtaining consistent results using the same data and code as an original study (synonymous with computational reproducibility). 
+- **Replicability** means obtaining consistent results across studies aimed at answering the same scientific question using new data or other new computational methods. Learn more [here.](https://www.nationalacademies.org/news/2019/09/reproducibility-and-replicability-in-research)
+- In a different context such as with computer science, **reproducibility** may refer to researchers arriving at the same results using their own data and methods.  While **replicability** may refer to arriving at the same results using the original author's data or artifacts.  Learn more [here.](https://www.ncbi.nlm.nih.gov/books/NBK547546/)
 
 **Peer Review** – The evaluation of work by one or more people with similar competencies as the producers of the work - that is, the authors' peers. Learn more [here.](https://en.wikipedia.org/wiki/Peer_review)
 
