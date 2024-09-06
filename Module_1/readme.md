@@ -35,7 +35,14 @@ Select the term to see the description.
 
 **Equitable** – Indicates the absence of unfair, avoidable or remediable differences among groups of people, whether those groups are defined socially, economically, demographically, or geographically or by other dimensions of inequality (e.g. sex, gender, ethnicity, disability, or sexual orientation). Learn more [here.](https://www.who.int/health-topics/health-equity)
 
-**Citizen Science or Community Science** – The practice of public participation and collaboration in scientific research to increase scientific knowledge, with or without  guidance from experts/specialists. Learn more [here](https://science.nasa.gov/citizen-science/), [here](https://education.nationalgeographic.org/resource/citizen-science-collection/), and [here](https://calacademy.org/Community-science). In recent years, participatory science has been introduced as a new term, creating a more inclusive approach for all who participate in scientific discovery. Learn more [here](https://serc.si.edu/participatory-science).
+**Citizen Science, Community Science, and Participatory Science** - Terms used to describe projects where members of the public participate in the scientific process.
+
+- **Citizen Science** is [defined by law](https://www.congress.gov/114/plaws/publ329/PLAW-114publ329.pdf) as "as a form of open collaboration in which individuals or organizations participate voluntarily in the scientific process in various ways". Below is additional information regarding NASA's Citizen Science efforts:
+  - NASA policy [defines citizen science projects](https://smd-cms.nasa.gov/wp-content/uploads/2023/04/SPD_33_Citizen_Science_TAGGED.pdf) as science projects that rely on volunteers.
+  - [NASA's citizen science projects](https://science.nasa.gov/citizen-science/) are held to the same rigorous standards as any NASA science project.
+  - This important ethical practice respects volunteers by helping ensure that their work will result in real contributions to science—ideally published in the scientific literature. You can [learn more here](https://science.nasa.gov/citizen-science/resources/) about leading a NASA citizen science project.
+- **[Community Science](https://calacademy.org/Community-science)** may include projects with or without professional scientists involved.
+- **[Participatory Science](https://serc.si.edu/why-do-we-call-it-participatory-science)**  is another term that avoids using the word "citizen" to avoid confusion and increase inclusiveness, since participation in citizen science and community science projects generally does not require citizenship in any particular country.
 
 **Open Research** – How research is performed and how knowledge is shared based on the principle that research should be as open as possible. Learn more [here.](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/)
 
