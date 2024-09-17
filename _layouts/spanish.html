@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+    <head>
+		{% if site.domain == "nasa.github.io" %}
+			<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-MF64WH21TN"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+
+			  gtag('config', 'G-MF64WH21TN');
+			</script>
+		{% else %}
+			<!-- Disable Google tag on this domain (gtag.js) -->
+		{% endif %}
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <link href="{{ site.baseurl }}/assets/css/all.min.css" rel="stylesheet">
+        <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
+        {% if page.symposium %}
+          <style>
+            .tops_eventsingle_section .tops_eventsingle_content .tops_eventsingle_content_text p a {
+              color: blue !important;
+            }
+
+            .tops_eventsingle_content_text li a {
+              color: blue !important;
+            }
+          </style>
+        {% endif %}
+        <title>{{ page.title }} | {{site.title}}</title>
+    </head>
+    <body>
+    <div class="top_bar" id="top_bar">
+        <div class="container tops_container">
+            <div class="row">
+                <div class="col-6"></div>
+                <div class="col-6 social_icons">
+                    <div class="sicon_container d-flex flex-row flex-wrap justify-content-end">
+                        {% if site.social.linkedin %}
+                          <a href="{{ site.social.linkedin }}" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+                        {% endif %}
+                        {% if site.social.github %}
+                          <a href="{{ site.social.github }}" target="_blank"><i class="fa-brands fa-github"></i></a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tops_nav" id="tops_nav">
+      <div class="container tops_container">
+          <nav class="navbar navbar-expand-md">
+              <div class="container-fluid">
+                <a class="navbar-brand p-0" href="{{site.baseurl}}/">
+                  <img class="tops_logo" src="{{site.baseurl}}/{{site.logo}}">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                  <i class="fa-solid fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarText">
+                  <ul class="navbar-nav ms-auto m-0">
+                    {% for topmenu-item in site.data.menus.topmenu_es %}
+                      {% if topmenu-item.special %}
+                      <li class="nav-item nav-special">
+                        <a class="nav-link" href="{% unless topmenu-item.external %}{{site.baseurl}}/{% endunless %}{{topmenu-item.url}}">{{topmenu-item.title}}</a>
+                      </li>
+                      {% else %}
+                        {% if topmenu-item.title == page.title %}
+                          <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="{% unless topmenu-item.external %}{{site.baseurl}}/{% endunless %}{{topmenu-item.url}}">{{topmenu-item.title}}</a>
+                          </li>
+                        {% else %}
+                          <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="{% unless topmenu-item.external %}{{site.baseurl}}/{% endunless %}{{topmenu-item.url}}">{{topmenu-item.title}}</a>
+                          </li>
+                        {% endif %}
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
+                </div>
+              </div>
+            </nav>
+      </div>
+    </div>
+    <div class="tops_content" id="tops_content">
+      {{ content }}
+    </div>
+    <div class="tops_footer_cta tops_overlay_section blue_overlay" id="tops_footer_cta">
+      <div class="the_overlay opacity-65"></div>
+      <div class="container tops_container">
+        <div class="row">
+          <div class="col-12 col-md-9 pe-0 pe-md-3">
+            <h2 class="text-white text-center text-md-start mb-2">Únase a la comunidad de ciencia abierta</h2>
+            <p class="text-white-85 text-center text-md-start mb-3 mb-md-0">Suscríbase a nuestro boletín informativo para mantenerse conectado con nuestra comunidad.</p>
+          </div>
+          <div class="col-12 col-md-3 text-center text-md-end">
+            <a class="btn btn-primary" href="{{site.baseurl}}/{{site.signupbutton}}" target="_blank" role="button">Suscríbase Ahora</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="tops_footer" id="tops_footer">
+      <div class="container tops_container">
+        <div class="tops_footer_columns">
+          <div class="footer_column_big text-center text-lg-start">
+            <a href="{{site.baseurl}}/" class="tops_footer_logo mb-4"><img class="" src="{{site.baseurl}}/{{site.footerlogo}}"></a>
+            <p class="tops_footer_bio text-center text-lg-start text-white-85 mb-0">La Iniciativa Transformar a la Ciencia Abierta (TOPS) de la NASA se complace en trabajar con una comunidad de científicos de diferentes disciplinas y orígenes. Al fomentar una cultura inclusiva de ciencia abierta, esperamos acelerar descubrimientos importantes, ampliar la participación de grupos históricamente excluidos y aumentar la adopción de principios de ciencia abierta. Lo alentamos a tomar nuestro curso de Introducción a la Ciencia Abierta para aumentar el impacto de sus investigaciones y esperamos saber de usted en nuestras discusiones de GitHub o a través de historias de éxito. Publicamos estas historias en nuestro boletín mensual.</p>
+          </div>
+
+          <div class="footer_column_small">
+            <h3 class="text-white text-center text-lg-start">Paginas</h3>
+            <div class="tops_divider div_smallest justify-content-center justify-content-lg-start mb-4"><div class="div_inner"></div></div>
+            <ul class="footer_submenu">
+              {% for footermenu-item in site.data.menus.footermenu_es %}
+                <li><a class="text-center text-lg-start" href="{% unless footermenu-item.external %}{{site.baseurl}}/{% endunless %}{{footermenu-item.url}}" target="{% if footermenu-item.external %}_blank{% else %}_self{% endif %}">{{footermenu-item.title}} {% if footermenu-item.external %}<i class="fa-solid fa-up-right-from-square"></i>{% endif %}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="footer_column_small">
+            <h3 class="text-white text-center text-lg-start">Curso</h3>
+            <div class="tops_divider div_smallest justify-content-center justify-content-lg-start mb-4"><div class="div_inner"></div></div>
+            <ul class="footer_submenu">
+              {% for cmodules-item in site.data.menus.cmodules_es %}
+                <li><a class="text-center text-lg-start" href="{{site.baseurl}}/{{cmodules-item.url}}">{{cmodules-item.title}}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="footer_column_small">
+            <h3 class="text-white text-center text-lg-start">Síganos</h3>
+            <div class="tops_divider div_smallest justify-content-center justify-content-lg-start mb-4"><div class="div_inner"></div></div>
+            <div class="social_icons_footer d-flex flex-row flex-wrap justify-content-center justify-content-lg-start">
+              {% if site.social.linkedin %}
+                <a href="{{ site.social.linkedin }}" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+              {% endif %}
+              {% if site.social.github %}
+                <a href="{{ site.social.github }}" target="_blank"><i class="fa-brands fa-github"></i></a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="tops_footer_copyright" id="tops_footer">
+      <div class="container tops_container">
+        <div class="row">
+          <div class="col-12"><p class="text-white text-center m-0">Oficial Responsable de la NASA: Paul M. Bremner</p></div>
+        </div>
+      </div>
+    </div>
+	<div id="tops_popup" class="tops_popup">
+		<div id="tops_popup_overlay" class="tops_popup_overlay"></div>
+		<div id="tops_popup_window" class="tops_popup_window">
+			<button class="tops_popup_close" id="tops_popup_close"><i class="fa-solid fa-xmark"></i></button>
+			<div class="tops_popup_icon mb-4"><i class="fa-solid fa-circle-info"></i></div>
+			<div class="tops_popup_content mb-3">
+				<h2 id="tops_popup_title" class="mb-2">Title</h2>
+				<p id="tops_popup_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+			</div>
+			<div class="tops_popup_button_holder">
+				<a id="tops_popup_button" class="btn btn-primary" target="_blank" href="#">Proceed to Sign Up</a>
+				<a id="tops_popup_closeTwo" class="btn btn-outline-primary" href="javascript:void(0)">Cancel</a>
+			</div>
+		</div>
+	</div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="{{ site.baseurl }}/assets/js/uicontrol.js"></script>
+  </body>
+</html>

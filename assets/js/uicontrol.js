@@ -561,4 +561,53 @@ document.addEventListener("DOMContentLoaded", function() {
 		newsletterLoad();
 	}
 
+	let tops_countdown = document.getElementById("tops_countdown");
+
+	function start_countdown() {
+		let tops_countdown_days = document.getElementById("tops_countdown_days");
+		let tops_countdown_hours = document.getElementById("tops_countdown_hours");
+		let tops_countdown_minutes = document.getElementById("tops_countdown_minutes");
+		let tops_countdown_seconds = document.getElementById("tops_countdown_seconds");
+
+		let calcNewYear = setInterval(function(){
+			date_future = new Date(2024, 8, 30, 11, 59, 59);
+			date_now = new Date();
+
+			console.log(date_future);
+			console.log(date_now);
+			console.log("");
+
+			seconds = Math.floor((date_future - (date_now))/1000);
+			minutes = Math.floor(seconds/60);
+			hours = Math.floor(minutes/60);
+			days = Math.floor(hours/24);
+			
+			hours = hours-(days*24);
+			minutes = minutes-(days*24*60)-(hours*60);
+			seconds = seconds-(days*24*60*60)-(hours*60*60)-(minutes*60);
+
+			if(tops_countdown_days != null && tops_countdown_hours != null && tops_countdown_minutes != null && tops_countdown_seconds != null) {
+				let days_objects = tops_countdown_days.getElementsByTagName("p");
+				let hours_objects = tops_countdown_hours.getElementsByTagName("p");
+				let minutes_objects = tops_countdown_minutes.getElementsByTagName("p");
+				let seconds_objects = tops_countdown_seconds.getElementsByTagName("p");
+
+				if(days_objects.length == 2 && hours_objects.length == 2 && minutes_objects.length == 2 && seconds_objects.length == 2) {
+					days_objects[0].innerHTML = double_digit(days);
+					hours_objects[0].innerHTML = double_digit(hours);
+					minutes_objects[0].innerHTML = double_digit(minutes);
+					seconds_objects[0].innerHTML = double_digit(seconds);
+				}
+			}
+		},1000);
+	}
+
+	if(tops_countdown != null) {
+		start_countdown();
+	}
+
+	function double_digit(n){
+		return n > 9 ? "" + n: "0" + n;
+	}
+
 });

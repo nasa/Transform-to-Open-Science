@@ -72,3 +72,78 @@ cmodules:
 
 - title: Open Results
   url: "os101-modules/#results"
+
+# Top Menu Spanish
+topmenu_es:
+
+- title: Inicio
+  url: ""
+
+- title: Quienes Somos
+  url: "about/"
+
+- title: Eventos
+  url: "events/"
+
+- title: Blog
+  url: "blog/"
+
+- title: Contáctanos
+  url: "contact/"
+
+- title: Inscribir
+  url: "take-os101/"
+  special: true
+
+# Footer Menu Spanish
+footermenu_es:
+
+- title: Inicio
+  url: ""
+
+- title: Quienes Somos
+  url: "about/"
+
+- title: Eventos
+  url: "events/"
+
+- title: Blog
+  url: "blog/"
+
+- title: Contáctanos
+  url: "contact/"
+
+- title: Inscribirse en OS101
+  url: "take-os101/"
+
+- title: Suscríbase Para Recibir Boletín
+  url: "signup/"
+
+- title: Política de Privacidad de la NASA
+  url: "https://www.nasa.gov/privacy/"
+  external: true
+
+- title: Boletínes Pasados
+  url: "https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Newsletters"
+  external: true
+
+# Curriculum Modules Spanish
+cmodules_es:
+
+- title: Todos Los Módulos
+  url: "os101-modules/"
+
+- title: El Ethos de la Ciencia Abierta
+  url: "os101-modules/#ethos"
+
+- title: Herramientas y recursos abiertos
+  url: "os101-modules/#toolsandresources"
+
+- title: Datos Abiertos
+  url: "os101-modules/#data"
+
+- title: Código Abierto
+  url: "os101-modules/#code"
+
+- title: Resultados abiertos
+  url: "os101-modules/#results"
