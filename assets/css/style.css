@@ -2641,6 +2641,89 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	color: #999 !important;
 }
 
+.tops_countdown_promo {
+	padding-top: 85px;
+	background-size: cover;
+	background-position: center 15%;
+}
+
+.tops_countdown_promo img {
+	display: block;
+	max-width: 100%;
+}
+
+.tops_countdown_promo .tops_countdown {
+	display: flex;
+	flex-flow: row wrap;
+	width: 100%;
+	height: auto;
+	justify-content: flex-start;
+}
+
+.tops_countdown_promo .tops_countdown_number {
+	display: flex;
+	flex-flow: column wrap;
+	background-color: #FFF;
+	border-radius: 5px;
+	align-items: center;
+	justify-content: center;
+	-webkit-box-shadow: 7px 7px 7px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 7px 7px 7px 0px rgba(0,0,0,0.2);
+	box-shadow: 7px 7px 7px 0px rgba(0,0,0,0.2);
+}
+
+.tops_countdown_promo .tops_countdown_colon {
+	display: block;
+	color: white;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+
+.tops_countdown_promo h2 {
+	display: block;
+	width: 100%;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.tops_countdown_promo h3 {
+	display: block;
+	width: 100%;
+    font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
+.tops_countdown_promo p.tops_countdown_disclaimer {
+	display: block;
+	width: 100%;
+    font-size: 16px;
+    line-height: 1.6rem;
+    font-weight: 400;
+	margin-bottom: 0;
+}
+
+.tops_countdown_promo .tops_countdown_number p {
+	display: block;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.tops_countdown_promo .tops_countdown_number p:first-of-type {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+}
+
+.tops_countdown_promo .tops_countdown_number p:last-of-type {
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #666
+}
+
 @media (max-width: 767.9px) {
     .container {
         padding-left: 30px;
@@ -2930,6 +3013,16 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 		opacity: 0;
 		visibility: hidden;
 	}
+
+	.tops_countdown_promo .row .col-12:first-of-type {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-bottom: 45px;
+	}
+
+	.tops_countdown_promo img {
+		margin-bottom: 80px;
+	}
 	
 }
 
@@ -3186,6 +3279,16 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	.tops_eventsingle_section .tops_eventsingle_sidebar .tops_eventsingle_sidebar_widget iframe {
 		height: 250px;
 	}
+
+	.tops_countdown_promo .row .col-12:first-of-type {
+		padding-left: 0px;
+		padding-right: 50px;
+		padding-bottom: 85px;
+	}
+
+	.tops_countdown_promo img {
+		margin-bottom: 0;
+	}
 }
 
 @media(max-width: 991.9px) {
@@ -3255,6 +3358,38 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_filters .workshop_table_filters_selectoutter select {
 		width: 100%;
 		margin-bottom: 12px;
+	}
+
+	.tops_countdown_promo .tops_countdown_colon {
+		width: 20px;
+		height: 55px;
+		font-size: 25px;
+		line-height: 55px;
+	}
+	
+	.tops_countdown_promo .tops_countdown_number {
+		width: 55px;
+		height: 55px;
+	}
+
+	.tops_countdown_promo .tops_countdown_number p:first-of-type {
+		font-size: 28px;
+		line-height: 32px;
+	}
+	
+	.tops_countdown_promo .tops_countdown_number p:last-of-type {
+		font-size: 14px;
+		line-height: 16px;
+	}
+
+	.tops_countdown_promo h2 {
+		font-size: 44px;
+		line-height: 48px;
+	}
+
+	.tops_countdown_promo h3 {
+		font-size: 18px;
+		line-height: 22px;
 	}
 }
 
@@ -3520,5 +3655,53 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 	.tops_workshops_container .tops_workshops_tables .workshop_table .workshop_table_filters .workshop_table_filters_selectoutter select:last-of-type {
 		margin-right: 0;
+	}
+
+	.tops_countdown_promo .tops_countdown_colon {
+		width: 25px;
+		height: 70px;
+		font-size: 30px;
+		line-height: 70px;
+	}
+	
+	.tops_countdown_promo .tops_countdown_number {
+		width: 70px;
+		height: 70px;
+	}
+
+	.tops_countdown_promo .tops_countdown_number p:first-of-type {
+		font-size: 38px;
+		line-height: 42px;
+	}
+	
+	.tops_countdown_promo .tops_countdown_number p:last-of-type {
+		font-size: 16px;
+		line-height: 18px;
+	}
+
+	.tops_countdown_promo .row .col-12:first-of-type {
+		padding-left: 0px;
+		padding-right: 70px;
+		padding-bottom: 85px;
+	}
+
+	.tops_countdown_promo h2 {
+		font-size: 48px;
+		line-height: 52px;
+	}
+
+	.tops_countdown_promo img {
+		margin-bottom: calc(-140px);
+	}
+
+	.tops_countdown_promo h3 {
+		font-size: 20px;
+		line-height: 24px;
+	}
+}
+
+@media (min-width: 1500px) {
+	.tops_countdown_promo {
+		margin-bottom: 80px;
 	}
 }
