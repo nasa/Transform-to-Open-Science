@@ -1,0 +1,153 @@
+---
+layout: default
+---
+<style>
+    .ctct-form-defaults {
+        padding: 30px !important;
+        padding-top: 40px !important;
+        padding-bottom: 40px !important;
+        min-height: 400px;
+    }
+
+    div.ctct-form-embed form.ctct-form-custom label.ctct-form-label, div.ctct-form-embed form.ctct-form-custom fieldset.ctct-form-lists legend.ctct-form-lists-legend {
+        font-family: 'Roboto', sans-serif !important;
+        color: #222 !important;
+        margin-bottom: 8px !important;
+        font-size: 15px !important;
+        line-height: 17px !important;
+    }
+
+    div.ctct-form-embed form.ctct-form-custom button.ctct-form-button {
+        font-family: 'Nunito', sans-serif;
+        text-transform: uppercase;
+        color: #222;
+        font-weight: 700;
+        background-color: #0d425f;
+        border: 1px solid #0d425f;
+        color: #ffffff;
+        padding: 30px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: center;
+        color: #FFF;
+    }
+
+    div.ctct-form-embed form.ctct-form-custom button.ctct-form-button:hover, div.ctct-form-embed form.ctct-form-custom button.ctct-form-button:active {
+        font-family: 'Nunito', sans-serif;
+        text-transform: uppercase;
+        color: #222;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 18px;
+        background-color: #0d425f !important;
+        border: 1px solid #0d425f !important;
+        color: #FFF;
+        opacity: 0.65;
+    }
+
+    div.ctct-form-embed form.ctct-form-custom div.ctct-form-field {
+        margin: 0 !important;
+        margin-bottom: 14px !important;
+    }
+
+    .tops_hero.sub_hero h1 {
+        display: block;
+        width: 100%;
+    }
+
+    .tops_hero.sub_hero h3 {
+        display: block;
+        width: 100%;
+        font-family: 'Nunito', sans-serif !important;
+        opacity: 0.8;
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 400;
+    }
+
+    .ctct-form-success {
+        position: relative;
+        width: 100%;
+        min-height: calc(400px - 80px) !important;
+        text-align: center;
+    }
+
+    .ctct-form-success:before {
+        content: '';
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+        background: #1E8806;
+        margin-bottom: 12px;
+        border-radius: 50%;
+        background-image: url('{{ site.baseurl }}/assets/img/check-solid-01.png');
+        background-size: cover;
+    }
+
+    .ctct-form-success h2, .ctct-form-success p {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .ctct-form-success h2 {
+        font-family: 'Roboto', sans-serif !important;
+        font-size: 32px !important;
+        line-height: 36px !important;
+        text-transform: uppercase !important;
+        font-weight: 900 !important;
+        color: #222 !important;
+    }
+
+    .ctct-form-success p {
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        line-height: 1.6rem;
+        font-weight: 400;
+        color: #777;
+    }
+
+    .grecaptcha-badge {
+	    visibility: hidden;
+    }
+
+    @media(max-width: 767.9px) {
+        .tops_hero.sub_hero h1 {
+            font-size: 40px;
+            line-height: 44px;
+        } 
+    }
+
+    @media(min-width: 768px) {
+        .tops_hero.sub_hero h1 {
+            font-size: 36px;
+            line-height: 40px;
+        }
+    }
+
+    @media(min-width: 992px) {
+        .tops_hero.sub_hero h1 {
+            font-size: 44px;
+            line-height: 48px;
+        }
+    }
+</style>
+<div style="background-image: url('{{ site.baseurl }}/{{ page.image }}');" class="d-flex flex-column justify-content-center tops_hero sub_hero tops_overlay_section black_overlay {% if page.imagealign %}{{page.imagealign}}{% endif %}">
+    <div class="the_overlay {% if page.overlay %}{{page.overlay}}{% endif %}"></div>
+    <div class="container tops_container">
+        <div class="row align-items-center">
+          <div class="col-12 col-md-6 col-lg-8 pb-5 pb-md-0 pe-md-5">
+            <h1 class="text-center text-md-start text-white mb-0">{{ page.title }}</h1>
+            <h3 class="text-center text-md-start text-white mb-0 mt-2">Suscríbete a nuestra lista de correo electrónico para recibir actualizaciones sobre el lanzamiento de Introducción a la Ciencia Abierta en español.</h3>
+          </div>
+          <div class="col-12 col-md-6 col-lg-4"><div id="tops_spanishForm" class="ctct-inline-form" data-form-id="4b6f8172-adc6-4dd2-8d3b-45fcea129731"></div></div> 
+          </div>
+        </div>
+    </div>
+  </div>
+  {{content}}
+
+<script> var _ctct_m = "e2d4cf466848010ee197a5b822e5f9b5"; </script>
+<script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
