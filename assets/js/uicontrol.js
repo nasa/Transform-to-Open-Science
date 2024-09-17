@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
   console.log("TOPS: Injecting UI...");
+  let tops_spanishForm = document.getElementById('tops_spanishForm');
   
   function inject_tops_tables() {
 	  let tops_tables = document.getElementsByClassName("workshop_table");
@@ -517,5 +518,47 @@ document.addEventListener("DOMContentLoaded", function() {
 		  }
 	  }
   }
+
+  function newsletterLoad() {
+
+		observer = new MutationObserver(function(mutationsList, observer) {
+			console.log(mutationsList);
+			let tops_cc_labels = document.getElementsByClassName("ctct-form-label");
+			let tops_cc_gdpr = document.getElementsByClassName("ctct-gdpr-text");
+			
+			if(tops_cc_labels != null && tops_cc_labels.length > 0) {
+				for(let i = 0; i < tops_cc_labels.length; i++) {
+					let current_cc_label = tops_cc_labels[i];
+					let current_cc_labelHTML = current_cc_label.innerHTML;
+					
+					
+					if(current_cc_labelHTML == 'Email') {
+						current_cc_label.innerHTML = current_cc_labelHTML.replace('Email', 'Correo Electrónico');
+					} else if(current_cc_labelHTML == 'First Name') {
+						current_cc_label.innerHTML = current_cc_labelHTML.replace('First Name', 'Nombre');
+					} else if(current_cc_labelHTML == 'Last Name') {
+						current_cc_label.innerHTML = current_cc_labelHTML.replace('Last Name', 'Apellido');
+					}
+					
+				}
+			}
+
+			if(tops_cc_gdpr != null && tops_cc_gdpr.length == 1) {
+				tops_cc_gdpr[0].innerHTML = tops_cc_gdpr[0].innerHTML.replace('By submitting this form, you are consenting to receive updates from:', 'Al enviar este formulario, usted acepta recibir actualizaciones de esta dirección:');
+				tops_cc_gdpr[0].innerHTML = tops_cc_gdpr[0].innerHTML.replace('You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email.', 'Puede revocar su consentimiento para recibir correos electrónicos en cualquier momento utilizando el enlace SafeUnsubscribe®, que se encuentra en la parte inferior de cada correo electrónico.');
+				tops_cc_gdpr[0].innerHTML = tops_cc_gdpr[0].innerHTML.replace('Emails are serviced by Constant Contact.', 'Los correos electrónicos son atendidos por Constant Contact.');
+				tops_cc_gdpr[0].innerHTML = tops_cc_gdpr[0].innerHTML.replace('Our Privacy Policy.', 'Nuestra Política de Privacidad.');
+			}
+			
+		});
+
+		// call 'observe' on that MutationObserver instance, 
+		// passing it the element to observe, and the options object
+		observer.observe(tops_spanishForm, {characterData: false, childList: true, attributes: false});
+	}
+
+	if(tops_spanishForm != null) {
+		newsletterLoad();
+	}
 
 });
