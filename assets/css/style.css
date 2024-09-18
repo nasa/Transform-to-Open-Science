@@ -3693,7 +3693,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 	.tops_countdown_promo img {
 		margin-bottom: 0;
-		transform: translateY(50px);
+		transform: translateY(12%);
 	}
 
 	.tops_countdown_promo h3 {
