@@ -2649,6 +2649,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .tops_countdown_promo img {
 	display: block;
+	position: relative;
 	max-width: 100%;
 }
 
@@ -3691,7 +3692,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	}
 
 	.tops_countdown_promo img {
-		margin-bottom: calc(-140px);
+		margin-bottom: 0;
+		transform: translateY(50px);
 	}
 
 	.tops_countdown_promo h3 {
