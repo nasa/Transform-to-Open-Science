@@ -15,13 +15,13 @@
       <div class="col-12">
         <div id="tops_workshops_container" class="d-flex flex-column flex-wrap tops_workshops_container">
           <div class="d-flex flex-row flex-wrap justify-content-center tops_workshops_tabs">
-            <button class="workshop_tab" type="button"><i class="fa-solid fa-users"></i><span>In Person</span></button>
-            <button class="workshop_tab active" type="button"><i class="fa-solid fa-desktop"></i><span>Virtual</span></button>
+            <button class="workshop_tab active" type="button"><i class="fa-solid fa-users"></i><span>In Person</span></button>
+            <button class="workshop_tab" type="button"><i class="fa-solid fa-desktop"></i><span>Virtual</span></button>
 			<button class="workshop_tab" type="button"><i class="fa-solid fa-hourglass-end"></i><span>Past</span></button>
           </div>
           <div class="tops_workshops_tables">
             
-            <div class="workshop_table">
+            <div class="workshop_table active">
               {% if site.hideinperson %}
                 <div class="no_workshops"><div class="noworkshops_icon_holder"><div><i class="fa-solid fa-calendar-days"></i></div></div><p>Stay tuned!  More training dates will be coming soon...</p></div>
               {% else %}
@@ -29,9 +29,11 @@
                   <div class="d-flex flex-row flex-wrap justify-content-start workshop_table_filters_selectoutter">
                     <select class="form-select" data-col-index="2">
 						<option selected="">Event Types</option>
+						<option value="JPL Internal">JPL Internal</option>
 					</select>
                     <select class="form-select" data-col-index="3">
 						<option selected="">Locations</option>
+						<option value="Pasadena, CA">Pasadena, CA</option>
 					</select>
                     <select class="form-select" data-col-index="4">
 						<option selected="">Topics</option>
@@ -43,6 +45,9 @@
 					</select>
 					<select class="form-select" data-col-index="5">
 						<option selected="">Instructors</option>
+						<optgroup label="NASA">
+							<option value="JPL TOPS Team">JPL TOPS Team</option>
+						</optgroup>
 					</select>
                   </div>
                   <div class="d-flex flex-row flex-wrap justify-content-end workshop_table_filters_resetoutter">
@@ -115,11 +120,16 @@
                       {% endfor %}
                     </tbody>
                   </table>
+
+				  <div class="hcue">
+					<div class="hcue_icon"><img src="{{ site.baseurl }}/assets/img/swipe-left.png"></div>
+					<p>Swipe Horizontally to View More</p>
+				  </div>
 				  
                 </div>
               {% endif %}
             </div>
-            <div class="workshop_table active">
+            <div class="workshop_table">
               {% if site.hidevirtual %}
                 <div class="no_workshops"><div class="noworkshops_icon_holder"><div><i class="fa-solid fa-calendar-days"></i></div></div><p>Stay tuned!  More training dates will be coming soon...</p></div>
               {% else %}
@@ -232,10 +242,6 @@
                     </tbody>
                   </table>
 
-				  <div class="hcue">
-					<div class="hcue_icon"><img src="{{ site.baseurl }}/assets/img/swipe-left.png"></div>
-					<p>Swipe Horizontally to View More</p>
-				  </div>
                 </div>
               {% endif %}
             </div>
