@@ -41,6 +41,9 @@ footermenu:
 - title: Take OS101
   url: "take-os101/"
 
+- title: OS101 En Español
+  url: "os101-en-espanol/"
+
 - title: Sign Up For Newsletter
   url: "signup/"
 
@@ -113,8 +116,11 @@ footermenu_es:
 - title: Contáctanos
   url: "contact/"
 
-- title: Inscribirse en OS101
+- title: OS101 En Ingles
   url: "take-os101/"
+
+- title: OS101 En Español
+  url: "os101-en-espanol/"
 
 - title: Suscríbase Para Recibir Boletín
   url: "signup/"

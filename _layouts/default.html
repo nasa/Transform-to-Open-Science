@@ -36,7 +36,18 @@
     <div class="top_bar" id="top_bar">
         <div class="container tops_container">
             <div class="row">
-                <div class="col-6"></div>
+                <div class="col-6">
+                  <div class="dropdown tops_language">
+                    <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      <span class="tops_language_icon">EN</span> English
+                    </a>
+                  
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="{{ site.baseurl }}/take-os101/"><span class="tops_language_icon_dark">EN</span> English</a></li>
+                      <li><a class="dropdown-item" href="{{ site.baseurl }}/os101-en-espanol/"><span class="tops_language_icon_dark">ES</span> Español</a></li>
+                    </ul>
+                  </div>
+                </div>
                 <div class="col-6 social_icons">
                     <div class="sicon_container d-flex flex-row flex-wrap justify-content-end">
                         {% if site.social.linkedin %}
