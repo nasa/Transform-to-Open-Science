@@ -357,6 +357,68 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     transform: translate(-50%, -50%)
 }
 
+.top_bar .tops_language .dropdown-toggle {
+	display: inline-block;
+    padding: 0;
+    height: 27px;
+    background: transparent;
+    border: 0;
+    font-size: 15px;
+    line-height: 27px;
+    font-weight: 300;
+}
+
+.top_bar .tops_language li a.dropdown-item {
+	border-bottom: 1px solid #CCC;
+	color: #222;
+}
+
+.top_bar li .dropdown-item:focus, .top_bar li .dropdown-item:hover {
+	background-color: rgba(0, 0, 0, 0.2);
+	color: #222;
+}
+
+.top_bar .dropdown-item.active, .top_bar .dropdown-item:active {
+	background-color: rgba(0, 0, 0, 0.2);
+	color: #222;
+}
+
+.top_bar .tops_language li:last-of-type a.dropdown-item {
+	border-bottom: none;
+}
+
+.top_bar .tops_language .dropdown-menu {
+	background-color: #EFF2F1;
+	border: 1px solid #CCC;
+	border-radius: 5px;
+}
+
+.top_bar .tops_language .tops_language_icon {
+	display: inline;
+    background-color: #FFF;
+    color: #0D425F;
+    margin-right: 5px;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    padding: 3px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.top_bar .tops_language .tops_language_icon_dark {
+	display: inline;
+    background-color: #0D425F;
+    color: #FFF;
+    margin-right: 5px;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    padding: 3px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
 .tops_nav .navbar .container-fluid {
   padding-left: 0;
   padding-right: 0;
