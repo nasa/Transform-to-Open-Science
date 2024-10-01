@@ -59,22 +59,22 @@ footermenu:
 cmodules:
 
 - title: All Modules
-  url: "os101-modules/"
+  url: "https://science.nasa.gov/open-science/tops/os101/"
 
 - title: Ethos Of Open Science
-  url: "os101-modules/#ethos"
+  url: "https://science.nasa.gov/open-science/tops/os101/#ethos-tools-data"
 
 - title: Open Tools And Resources
-  url: "os101-modules/#toolsandresources"
+  url: "https://science.nasa.gov/open-science/tops/os101/#ethos-tools-data"
 
 - title: Open Data
-  url: "os101-modules/#data"
+  url: "https://science.nasa.gov/open-science/tops/os101/#ethos-tools-data"
 
 - title: Open Code
-  url: "os101-modules/#code"
+  url: "https://science.nasa.gov/open-science/tops/os101/#code-results"
 
 - title: Open Results
-  url: "os101-modules/#results"
+  url: "https://science.nasa.gov/open-science/tops/os101/#code-results"
 
 # Top Menu Spanish
 topmenu_es:
@@ -137,19 +137,19 @@ footermenu_es:
 cmodules_es:
 
 - title: Todos Los Módulos
-  url: "os101-modules/"
+  url: "https://science.nasa.gov/open-science/tops/os101/"
 
 - title: El Ethos de la Ciencia Abierta
-  url: "os101-modules/#ethos"
+  url: "https://science.nasa.gov/open-science/tops/os101/#ethos-tools-data"
 
 - title: Herramientas y recursos abiertos
-  url: "os101-modules/#toolsandresources"
+  url: "https://science.nasa.gov/open-science/tops/os101/#ethos-tools-data"
 
 - title: Datos Abiertos
-  url: "os101-modules/#data"
+  url: "https://science.nasa.gov/open-science/tops/os101/#ethos-tools-data"
 
 - title: Código Abierto
-  url: "os101-modules/#code"
+  url: "https://science.nasa.gov/open-science/tops/os101/#code-results"
 
 - title: Resultados abiertos
-  url: "os101-modules/#results"
+  url: "https://science.nasa.gov/open-science/tops/os101/#code-results"

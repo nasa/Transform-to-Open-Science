@@ -1,10 +1,6 @@
 ---
-layout: page
-title: Contact
+layout: external
+title:  "Contact"
 permalink: "/contact/"
-image: assets/img/contactbg.jpg
-overlay: "opacity-70"
+redirectto: "https://science.nasa.gov/open-science/tops/"
 ---
-
-{% include contact/howcanwehelp.html %}
-{% include contact/faq.html %}

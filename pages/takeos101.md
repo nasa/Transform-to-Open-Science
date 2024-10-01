@@ -239,7 +239,6 @@ Open Science 101 was developed by TOPS Champions across five NASA Centers and th
 
 
 {% include takeos101/anchors.html %}
-{% include takeos101/promo.html %}
 {% include takeos101/whatisos101.html %}
 {% include takeos101/selfpaced.html %}
 {% include takeos101/instructorled.html %}
