@@ -582,6 +582,8 @@ document.addEventListener("DOMContentLoaded", function() {
 			minutes = Math.floor(seconds/60);
 			hours = Math.floor(minutes/60);
 			days = Math.floor(hours/24);
+
+			console.log(seconds);
 			
 			hours = hours-(days*24);
 			minutes = minutes-(days*24*60)-(hours*60);
