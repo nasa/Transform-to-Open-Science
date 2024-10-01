@@ -570,7 +570,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		let tops_countdown_seconds = document.getElementById("tops_countdown_seconds");
 
 		let calcNewYear = setInterval(function(){
-			date_future = new Date(Date.UTC(2024, 10, 1, 3, 59, 59));
+			date_future = new Date(Date.UTC(2024, 9, 2, 3, 59, 59));
 			date_now = new Date();
 			date_future_edt_string = date_future.toLocaleString('en-US', {timeZone: 'America/New_York'});
 
