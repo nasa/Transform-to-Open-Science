@@ -570,7 +570,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		let tops_countdown_seconds = document.getElementById("tops_countdown_seconds");
 
 		let calcNewYear = setInterval(function(){
-			date_future = new Date(Date.UTC(2024, 9, 2, 3, 59, 59));
+			date_future = new Date(Date.UTC(2024, 9, 1, 3, 59, 59));
 			date_now = new Date();
 			date_future_edt_string = date_future.toLocaleString('en-US', {timeZone: 'America/New_York'});
 
@@ -584,24 +584,41 @@ document.addEventListener("DOMContentLoaded", function() {
 			days = Math.floor(hours/24);
 
 			console.log(seconds);
-			
-			hours = hours-(days*24);
-			minutes = minutes-(days*24*60)-(hours*60);
-			seconds = seconds-(days*24*60*60)-(hours*60*60)-(minutes*60);
 
-			if(tops_countdown_days != null && tops_countdown_hours != null && tops_countdown_minutes != null && tops_countdown_seconds != null) {
-				let days_objects = tops_countdown_days.getElementsByTagName("p");
-				let hours_objects = tops_countdown_hours.getElementsByTagName("p");
-				let minutes_objects = tops_countdown_minutes.getElementsByTagName("p");
-				let seconds_objects = tops_countdown_seconds.getElementsByTagName("p");
+			if(seconds <= 0) {
+				if(tops_countdown_days != null && tops_countdown_hours != null && tops_countdown_minutes != null && tops_countdown_seconds != null) {
+					let days_objects = tops_countdown_days.getElementsByTagName("p");
+					let hours_objects = tops_countdown_hours.getElementsByTagName("p");
+					let minutes_objects = tops_countdown_minutes.getElementsByTagName("p");
+					let seconds_objects = tops_countdown_seconds.getElementsByTagName("p");
 
-				if(days_objects.length == 2 && hours_objects.length == 2 && minutes_objects.length == 2 && seconds_objects.length == 2) {
-					days_objects[0].innerHTML = double_digit(days);
-					hours_objects[0].innerHTML = double_digit(hours);
-					minutes_objects[0].innerHTML = double_digit(minutes);
-					seconds_objects[0].innerHTML = double_digit(seconds);
+					if(days_objects.length == 2 && hours_objects.length == 2 && minutes_objects.length == 2 && seconds_objects.length == 2) {
+						days_objects[0].innerHTML = double_digit(0);
+						hours_objects[0].innerHTML = double_digit(0);
+						minutes_objects[0].innerHTML = double_digit(0);
+						seconds_objects[0].innerHTML = double_digit(0);
+					}
+				}
+			} else {
+				hours = hours-(days*24);
+				minutes = minutes-(days*24*60)-(hours*60);
+				seconds = seconds-(days*24*60*60)-(hours*60*60)-(minutes*60);
+
+				if(tops_countdown_days != null && tops_countdown_hours != null && tops_countdown_minutes != null && tops_countdown_seconds != null) {
+					let days_objects = tops_countdown_days.getElementsByTagName("p");
+					let hours_objects = tops_countdown_hours.getElementsByTagName("p");
+					let minutes_objects = tops_countdown_minutes.getElementsByTagName("p");
+					let seconds_objects = tops_countdown_seconds.getElementsByTagName("p");
+
+					if(days_objects.length == 2 && hours_objects.length == 2 && minutes_objects.length == 2 && seconds_objects.length == 2) {
+						days_objects[0].innerHTML = double_digit(days);
+						hours_objects[0].innerHTML = double_digit(hours);
+						minutes_objects[0].innerHTML = double_digit(minutes);
+						seconds_objects[0].innerHTML = double_digit(seconds);
+					}
 				}
 			}
+			
 		},1000);
 	}
 
