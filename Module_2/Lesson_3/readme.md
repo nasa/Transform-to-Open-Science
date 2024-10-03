@@ -213,7 +213,7 @@ These files require special software tools to view their contents. Many of these
 
 ### FAIR Assessment
 
-How 'FAIR' is your data? Two groups - [ FAIRsharing.org](https://fairsharing.org/) and the Research Data Alliance ([RDA](https://www.rd-alliance.org/)) - have developed the [ FAIR Metrics](https://www.nature.com/articles/sdata2018118) and [ FAIR Data Maturity Model](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0) to help assess the 'FAIR'-ness of a dataset. There are open-source tools that help researchers assess their data:
+How 'FAIR' is your data? Two groups - [ FAIRsharing.org](https://fairsharing.org/) and the Research Data Alliance ([RDA](https://www.rd-alliance.org/)) - have developed the [ FAIR Metrics](https://www.nature.com/articles/sdata2018118) and [ FAIR Data Maturity Model](http://dx.doi.org/10.15497/RDA00050) to help assess the 'FAIR'-ness of a dataset. There are open-source tools that help researchers assess their data:
 
 **AUSTRALIAN RESEARCH DATA COMMONS (ARDC)**
 
