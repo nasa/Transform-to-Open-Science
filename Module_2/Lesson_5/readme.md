@@ -33,9 +33,8 @@ Pre-prints have gained particular significance during the COVID-19 pandemic, whe
 
 1. **Rapid Dissemination:** Pre-prints enable researchers to swiftly share their findings with the scientific community and the public, sometimes within days of completing their research. This swift dissemination is particularly beneficial when dealing with urgent or rapidly evolving topics.
 2. **Peer Review:** While pre-prints are not peer-reviewed, they often undergo a form of community review. Researchers and experts can provide feedback and constructive criticism, helping authors improve their work before formal journal publication.
-
 3. **Variety of Fields:** Pre-prints are not limited to any specific scientific discipline. They are used in fields ranging from medicine and biology to physics and social sciences, making them a versatile tool for disseminating research.
-4. **Versions and Citations:** Pre-prints can have different versions, and the final peer- reviewed paper may differ. Researchers are encouraged to cite pre-prints when discussing ongoing research, allowing for transparency in the academic discourse.
+4. **Versions and Citations:** Pre-prints can have different versions, and the final peer- reviewed paper may differ. Pre-prints may be cited when discussing ongoing research, allowing for transparency in the academic discourse.<br><br><strong>Note: if the preprint is old and has been rejected by a journal it shouldn't be cited. It also shouldn't be cited if a full published version is available.</strong>
 5. **Free Access:** Pre-prints are typically freely accessible to anyone with an internet connection. This open access promotes equality and inclusivity in science, enabling researchers from various backgrounds and institutions to engage with the latest research.
 6. **Not a Replacement for Peer Review:** Although pre-prints are valuable tools for early sharing and collaboration, they are not a substitute for a formal peer-reviewed publication. Researchers and readers should examine pre-prints with the understanding that they have not undergone the rigorous peer review process that journals provide.
 
