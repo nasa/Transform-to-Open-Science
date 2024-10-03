@@ -71,7 +71,7 @@ The Internet creates many outlets for public hosting and free access to research
 
 ### Why Should We Do Open Science Now?
 
-Science and science communication increasingly face severe pushback from the public because of inadequacies in the reproducibility of results and the spread of misinformation, respectively, that foster mistrust. The practice of open science counteracts this by involving community feedback to validate results in a more robust manner and combats misinformation by making results available to the public.
+Science and science communication increasingly face severe pushback from the public because of inadequacies in the reproducibility and replicability of results and the spread of misinformation, respectively, that foster mistrust. The practice of open science counteracts this by involving community feedback to validate results in a more robust manner and combats misinformation by making results available to the public.
 
 **Reproduce Results**
 
