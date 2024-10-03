@@ -295,7 +295,7 @@ Making different research components and preparing to share them as open results
 - Providing feedback to the results
 - Designing experiments and interpreting results
 - Manuscript writing and review
-- And [more](https://the-turing-way.netlify.app/collaboration/shared-ownership/shared-ownership-projects.html)!
+- And [more](https://book.the-turing-way.org/)!
 
 Too often conversations about contribution and authorship take place towards the end of a project or when a scientific publication is drafted. However, as you learned in the previous lessons, research outputs are generated throughout the lifetime of a research project. Therefore, it is important to build an agreement at the beginning of the project for how contributorship in the project will be managed.
 
