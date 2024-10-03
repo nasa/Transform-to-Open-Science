@@ -94,7 +94,7 @@ To be [Interoperable:](https://www.go-fair.org/fair-principles/i1-metadata-use-f
 Current Enabling Tech:
 
 - [Zenodo](https://zenodo.org/) uses [JSON Schema](https://json-schema.org/) as internal representation of metadata and offers export to other popular formats such as [Dublin Core](https://www.dublincore.org/) or [MARCXML](https://www.loc.gov/marc/marcxml.html).
-- For certain terms we refer to open, external vocabularies, e.g.: license ([Open Definition](https://opendefinition.org/)), funders ([FundRef](https://www.crossref.org/services/funder-registry/)) and grants ([OpenAIRE](https://api.openaire.eu/)).
+- For certain terms we refer to open, external vocabularies, e.g.: license ([Open Definition](https://opendefinition.org/)), funders ([FundRef](https://www.crossref.org/services/funder-registry/)) and grants ([OpenAIRE](https://explore.openaire.eu/)).
 - Each referenced external piece of data is qualified by a resolvable URL.
 
 **Reusable**
