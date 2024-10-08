@@ -315,7 +315,7 @@ Many of these questions may be answered by viewing a dataset’s documentation a
 
 Acknowledgements and citations contribute towards fostering a culture of sharing data without fear of ideas or recognition being stolen. If a researcher can trust that their work will be cited, and used to further the development of science, the idea of making data open is more appealing and mutually beneficial. Use of standard citation practices are recommended to ensure due credit is given.
 
-Data citations also aid in the transparency of how data is being used. By citing data, original authors and new researchers can easily track how the data are being used to answer different questions.
+Data citations also aid in the transparency of how data are being used. By citing data, original authors and new researchers can easily track how the data are being used to answer different questions.
 
 ### Review Citing Guidelines
 

@@ -476,7 +476,7 @@ Every major research foundation and federal government agency now requires scien
 
 DMPs that are successful typically include a clear terminology about FAIR and CARE principles and how they will be applied.
 
-The data management lifecycle is typically circular. Research data are valuable and reusable long after the project's financial support ends. Data reuse can extend beyond our own lifetimes. Therefore, when designing a project or supporting an existing corpus of data, we need to remain cognizant of what happens to the data after our own research interaction ends.
+The data management lifecycle is typically circular. Research data is valuable and reusable long after the project's financial support ends. Data reuse can extend beyond our own lifetimes. Therefore, when designing a project or supporting an existing corpus of data, we need to remain cognizant of what happens to the data after our own research interaction ends.
 
 Data management plans typically include the following:
 
