@@ -48,7 +48,7 @@ Note: Raw data are not covered by copyright law.
 
 **Reusable (data)** – Data that has a clear license, detailed provenance, adequate description/definition and meets community/domain standards, and can be replicated or combined with other data.
 
-**Dataﬂow** – The data workflow that includes how data are used, made, and shared. Different actors will have different (or multiple) roles in this workflow.
+**Dataflow** – The data workflow that includes how data are used, made, and shared. Different actors will have different (or multiple) roles in this workflow.
 
 ## Navigation
 

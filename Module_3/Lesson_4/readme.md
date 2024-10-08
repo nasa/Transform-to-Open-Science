@@ -12,7 +12,7 @@
 
 ## Overview
 
-In this lesson, you learn about the practice of sharing your data. The discussion starts with a review of the sharing process and how to evaluate if your data are sharable. Next, you take a look at ensuring your data is accessible with a closer look at repositories and the lifecycle of data accessibility from the selecting a repository to maintaining and archiving your data. The lesson then discusses some steps to make the data as reusable as possible, and concludes with a section about considering who will help with the data sharing process.
+In this lesson, you learn about the practice of sharing your data. The discussion starts with a review of the sharing process and how to evaluate if your data is sharable. Next, you take a look at ensuring your data is accessible with a closer look at repositories and the lifecycle of data accessibility from the selecting a repository to maintaining and archiving your data. The lesson then discusses some steps to make the data as reusable as possible, and concludes with a section about considering who will help with the data sharing process.
 
 ## Learning Objectives
 
@@ -74,7 +74,7 @@ Before datasets are shared, it's important to consider any restrictions to your 
 
 Data should be as open as possible and as closed as necessary. Opening our data is a powerful way to enable discovery, transparency, and scientific progress. However you may want to consider a couple of points before data is shared:
 
-- Some data are subject to laws, regulations, and policies which limit the release of the data.
+- Some data is subject to laws, regulations, and policies which limit the release of the data.
 - Your local institution may have additional policies and resources – investigate them early and often.
 
 ### Verify Your Data is Sharable
@@ -84,7 +84,7 @@ Before you decide where to share your data, you must make sure you can share you
 Data needs to be as open as possible and as closed as necessary...
 
 - Open data is a powerful way to enable discovery, transparency, and scientific progress
-- But, some data are subject to laws, regulations, and policies which limit the release of the data
+- But, some data is subject to laws, regulations, and policies which limit the release of the data
 - Your local institution may have additional policies and resources – investigate them early and often
 
 Specific considerations that might prevent the sharing of your data include:
@@ -257,7 +257,7 @@ The goal is to make it easy to cite your data. Best practices include:
   - This allows users to follow up with the creators if they have questions or discover issues.
   - Include ORCID of data authors where possible in the citation.
 
-Now that your data are at a repository and have a citation statement and DOI, publicize it to your users and remind them to cite your data in their work!
+Now that your data is at a repository and has a citation statement and DOI, publicize it to your users and remind them to cite your data in their work!
 
 ## Who is Responsible for Sharing Data
 
