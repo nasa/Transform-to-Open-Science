@@ -1,0 +1,266 @@
+<div id="instructorled" class="tops_white_section tops_gray_section tops_workshops_section">
+    <div class="container tops_container">
+      <div class="row">
+        <div class="col-12 tops_workshops_primary_content primary_content_md">
+          <h2 class="text-center mb-2">Clases dirigidas por Instructores</h2>
+          <div class="tops_divider div_larger justify-content-center mb-3"><div class="div_inner"></div></div>
+          <p>¡Regrese a esta página para ver más clases que estarán disponibles pronto! Si desea recibir actualizaciones sobre las fechas de las clases, las ubicaciones y los detalles de inscripción, <a target="_blank" href="https://bressler1995.github.io/TOPS-Website-Development/signup/">suscríbase al boletín de TOPS.</a></p>
+          <p>Las clases dirigidas por instructores le brindan la oportunidad de realizar el curso Introducción a la ciencia abierta con un instructor en vivo y otros miembros de la comunidad.</p>
+          <p><strong>Clases de Verano y Clases Virtuales</strong></p>
+          <p>Las clases virtuales son sesiones en línea que ayudan a las personas a completar el curso y obtener una insignia digital.</p>
+        </div>
+      </div>
+      <div class="row mt-5">
+        <div class="col-12">
+          <div id="tops_workshops_container" class="d-flex flex-column flex-wrap tops_workshops_container">
+            <div class="d-flex flex-row flex-wrap justify-content-center tops_workshops_tabs">
+              <button class="workshop_tab active" type="button"><i class="fa-solid fa-desktop"></i><span>Virtual</span></button>
+              <button class="workshop_tab" type="button"><i class="fa-solid fa-hourglass-end"></i><span>Pasado</span></button>
+            </div>
+            <div class="tops_workshops_tables">
+              
+              <div class="workshop_table active">
+                {% if site.hidevirtual %}
+                  <div class="no_workshops"><div class="noworkshops_icon_holder"><div><i class="fa-solid fa-calendar-days"></i></div></div><p>Stay tuned!  More training dates will be coming soon...</p></div>
+                {% else %}
+                  <div class="workshop_table_filters">
+                    <div class="d-flex flex-row flex-wrap justify-content-start workshop_table_filters_selectoutter">
+                      <select class="form-select" data-col-index="2">
+                          <option selected="">Tipo de Evento</option>
+                          <option value="TOPST Virtual Cohort">TOPST Virtual Cohort</option>
+                          <option value="ALTa Ciencia Abierta">ALTa Ciencia Abierta</option>
+                          <option value="OLS Nebula Program">OLS Nebula Program</option>
+                      </select>
+                      <select class="form-select" data-col-index="3">
+                          <option selected="">Temas</option>
+                          <option value="OS101 Module 1">OS101 Module 1</option>
+                          <option value="OS101 Module 2">OS101 Module 2</option>
+                          <option value="OS101 Module 3">OS101 Module 3</option>
+                          <option value="OS101 Module 4">OS101 Module 4</option>
+                          <option value="OS101 Module 5">OS101 Module 5</option>
+                      </select>
+                      <select class="form-select" data-col-index="4">
+                          <option selected="">Instructores</option>
+                          <!-- DUTC -->
+                          <optgroup label="Don't Use This Code">
+                              <option value="Cameron Riddell">Cameron Riddell</option>
+                          </optgroup>
+                          <!-- Metadocencia -->
+                          <optgroup label="Metadocencia Team">
+                              <option value="Romina Pendino">Romina Pendino</option>
+                              <option value="Veronica Xhardez">Veronica Xhardez</option>
+                              <option value="Maria Nanton">Maria Nanton</option>
+                              <option value="Alejandra Calero">Alejandra Calero</option>
+                              <option value="Irene Vazano">Irene Vazano</option>
+                              <option value="Mariela Rajngewerc">Mariela Rajngewerc</option>
+                              <option value="Jesica Formoso">Jesica Formoso</option>
+                              <option value="Driselda Sanchez-Aguirre">Driselda Sanchez-Aguirre</option>
+                              <option value="Debora Burin">Debora Burin</option>
+                              <option value="Veronica Xhardez">Veronica Xhardez</option>
+                              <option value="Patricia Loto">Patricia Loto</option>
+                              <option value="Paz Miguez">Paz Miguez</option>
+                              <option value="Laurel Ascenzi">Laurel Ascenzi</option>
+                          </optgroup>
+                          <!-- OLS -->
+                          <optgroup label="OLS Team">
+                              <option value="Virginia Garcia Alonso">Virginia Garcia Alonso</option>
+                              <option value="Chad Sansing">Chad Sansing</option>
+                              <option value="Jafsia Elisee">Jafsia Elisee</option>
+                              <option value="Saranjeet Kaur Bhogal">Saranjeet Kaur Bhogal</option>
+                              <option value="Sara Villa">Sara Villa</option>
+                              <option value="Pauline Karega">Pauline Karega</option>
+                              <option value="Johanna Bayer">Johanna Bayer</option>
+                              <option value="Aman Goel">Aman Goel</option>
+                              <option value="Daniela Saderi">Daniela Saderi</option>
+                          </optgroup>
+                      </select>
+                    </div>
+                    <div class="d-flex flex-row flex-wrap justify-content-end workshop_table_filters_resetoutter">
+                      <a class="btn btn-primary workshop_table_resetopt" href="javascript:void(0)" role="button">Reiniciar</a>
+                    </div>
+                  </div>
+                  <div class="workshop_table_table">
+                    <table>
+                      <thead><tr><th>Dato</th><th>Tiempo</th><th>Tipo de Evento</th><th>Tema</th><th>Instructor</th><th>Tipo de Registro</th><th>Enlace de Registro</th></tr></thead>
+                      <tbody>
+                        {% for row in site.data.es.virtual %}
+                          {% if row.instructor contains "Metadocencia Team" %}
+                          <tr>
+                          <td>{{ row.date }}</td>
+                          <td>{{ row.time }}</td>
+                          <td>{{ row.eventtype }}</td>
+                          <td>{{ row.topic }}</td>
+                          <td>{{ row.instructor }}</td>
+                          <td>
+                            {% if row.regtype %}
+                              {{ row.regtype }}
+                            {% else %}
+                              Other
+                            {% endif %}
+                          </td>
+                          <td>
+                            {% if row.register_link %}
+                                {% assign registercalculate = row.register_link %}
+                                {% assign registernewwin = "_blank" %}
+                                
+                                {% assign registertitle = "This Workshop is Internal to NASA" %}
+                                {% assign registerdesc = "If you are not a NASA civil servant or contractor, this workshop is unfortunately not available to you and proceeding will result in a not found error message. However, there are still many incredible OS101 workshops for you to choose from!" %}
+                                {% assign registerlink = row.register_link %}
+                                {% assign registertype = row.regtype | downcase %}
+                                
+                                {% assign registeronclick = "no" %}
+                                
+                              
+                                {% if registertype %}
+                                  {% if registertype contains "nasa" and registertype contains "internal" %}
+                                      {% assign registercalculate = "javascript:void(0)" %}
+                                      {% assign registernewwin = "_self" %}
+                                      {% assign registeronclick = "yes" %}
+                                      
+                                      {% assign registertitle = "This Workshop is Internal to NASA" %}
+                                      {% assign registerdesc = "If you are not a NASA civil servant or contractor, this workshop is unfortunately not available to you and proceeding will result in a not found error message. However, there are still many incredible OS101 workshops for you to choose from!" %}
+                                  {% elsif registertype contains "jpl" and registertype contains "internal" %}
+                                      {% assign registercalculate = "javascript:void(0)" %}
+                                      {% assign registernewwin = "_self" %}
+                                      {% assign registeronclick = "yes" %}
+                                      
+                                      {% assign registertitle = "This Workshop is Internal to JPL" %}
+                                      {% assign registerdesc = "If you are not a JPL civil servant or contractor, this workshop is unfortunately not available to you and proceeding will result in a not found error message. However, there are still many incredible OS101 workshops for you to choose from!" %}
+                                  {% elsif registertype contains "external" %}
+                                      {% assign registercalculate = "javascript:void(0)" %}
+                                      {% assign registernewwin = "_self" %}
+                                      {% assign registeronclick = "yes" %}
+                                      
+                                      {% assign registertitle = "Este Evento es Externo" %}
+                                      {% assign registerdesc = "Queremos informarle que será llevado a un formulario de registro externo si decide continuar." %}
+                                  {% endif %}
+                                {% endif %}
+                            
+                                <a class="{% if registeronclick == "yes" %}tops_workshop_link{% endif %}" href="{{ registercalculate }}" target="{{ registernewwin }}" {% if registeronclick == "yes" %}data-regtitle="{{ registertitle }}" data-regdesc="{{ registerdesc }}" data-reglink="{{ registerlink }}"{% endif %}>{{ row.register }}</a>
+                            {% else %}
+                              {{ row.register }}
+                            {% endif %}
+                          </td>
+                          </tr>
+                          {% endif %}
+                        {% endfor %}
+                      </tbody>
+                    </table>
+
+                    <div class="hcue">
+                      <div class="hcue_icon"><img src="{{ site.baseurl }}/assets/img/swipe-left.png"></div>
+                      <p>Swipe Horizontally to View More</p>
+                    </div>
+  
+                  </div>
+                {% endif %}
+              </div>
+              <div class="workshop_table">
+                  {% if site.hidepast %}
+                    <div class="no_workshops"><div class="noworkshops_icon_holder"><div><i class="fa-solid fa-calendar-days"></i></div></div><p>Stay tuned!  More training dates will be coming soon...</p></div>
+                  {% else %}
+                    <div class="workshop_table_filters">
+                          <div class="d-flex flex-row flex-wrap justify-content-start workshop_table_filters_selectoutter">
+                              <select class="form-select" data-col-index="2">
+                                  <option selected="">Tipo de Evento</option>
+                                  <option value="Curriculum Beta Test">Curriculum Beta Test</option>
+                                  <option value="JPL Internal">JPL Internal</option>
+                                  <option value="ScienceCore">ScienceCore</option>
+                                  <option value="TOPS Champions Summer Workshop">TOPS Champions Summer Workshop</option>
+                                  <option value="TOPST">TOPST</option>
+                              </select>
+                              <select class="form-select" data-col-index="3">
+                                  <option selected="">Ubicaciones</option>
+                                  <option value="Pasadena, CA">Pasadena, CA</option>
+                                  <option value="Greenbelt, MD">Greenbelt, MD</option>
+                                  <option value="Tacoma, WA">Tacoma, WA</option>
+                                  <option value="Huntsville, AL">Huntsville, AL</option>
+                                  <option value="Chicago, IL">Chicago, IL</option>
+                                  <option value="Virtual">Virtual</option>
+                              </select>
+                              <select class="form-select" data-col-index="4">
+                                  <option selected="">Temas</option>
+                                  <option value="OS101 Module 1">OS101 Module 1</option>
+                                  <option value="OS101 Module 2">OS101 Module 2</option>
+                                  <option value="OS101 Module 3">OS101 Module 3</option>
+                                  <option value="OS101 Module 4">OS101 Module 4</option>
+                                  <option value="OS101 Module 5">OS101 Module 5</option>
+                                  <option value="Determining Climate Risks with NASA Earthdata Cloud">Determining Climate Risks with NASA Earthdata Cloud</option>
+                                  <option value="OLS Nebula Program">OLS Nebula Program</option>
+                              </select>
+                              <select class="form-select" data-col-index="5">
+                                  <option selected="">Instructores</option>
+                                  <!-- DUTC -->
+                                  <optgroup label="Don't Use This Code">
+                                      <option value="Cameron Riddell">Cameron Riddell</option>
+                                  </optgroup>
+                                  <!-- NLU -->
+                                  <optgroup label="National Louis University">
+                                      <option value="Antonio Tovar">Antonio Tovar</option>
+                                      <option value="Abdullah Alshboul">Abdullah Alshboul</option>
+                                      <option value="Ian Moncrief">Ian Moncrief</option>
+                                      <option value="Phuong Thai-Garcia">Phuong Thai-Garcia</option>
+                                      <option value="Robyn Moncrief">Robyn Moncrief</option>
+                                      <option value="Toni Holden-McGee">Toni Holden-McGee</option>
+                                  </optgroup>
+                                  <!-- 2i2c + metadocencia -->
+                                  <optgroup label="2i2c + Metadocencia">
+                                      <option value="Dhavide Aruliah">Dhavide Aruliah</option>
+                                      <option value="Patricia A. Loto">Patricia A. Loto</option>
+                                      <option value="Karthik Venkataramani">Karthik Venkataramani</option>
+                                  </optgroup>
+                                  <!-- NASA -->
+                                  <optgroup label="NASA">
+                                      <option value="Goddard TOPS Team">Goddard TOPS Team</option>
+                                      <option value="JPL TOPS Team">JPL TOPS Team</option>
+                                      <option value="Pontus Olofsson">Pontus Olofsson</option>
+                                      <option value="Genevieve Vigil">Genevieve Vigil</option>
+                                      <option value="Teresa Miller">Teresa Miller</option>
+                                      <option value="Adam Kobelski">Adam Kobelski</option>
+                                  </optgroup>
+                                  <!-- Other -->
+                                  <optgroup label="Other">
+                                      <option value="Self-paced">Self-paced</option>
+                                      <option value="Irene Ramos">Irene Ramos</option>
+                                  </optgroup>
+                              </select>
+                          </div>
+                          <div class="d-flex flex-row flex-wrap justify-content-end workshop_table_filters_resetoutter">
+                              <a class="btn btn-primary workshop_table_resetopt" href="javascript:void(0)" role="button">Reiniciar</a>
+                          </div>
+                    </div>
+                    <div class="workshop_table_table">
+                      <table>
+                          <thead><tr><th>Dato</th><th>Tiempo</th><th>Tipo de Evento</th><th>Ubicacion</th><th>Tema</th><th>Instructor</th><th>Tipo de Registro</th></tr></thead>
+                          <tbody>
+                            {% for row in site.data.es.past %}
+                              {% if row.instructor contains "Metadocencia Team" %}
+                              <tr>
+                              <td>{{ row.date }}</td>
+                              <td>{{ row.time }}</td>
+                              <td>{{ row.eventtype }}</td>
+                              <td>{{ row.location }}</td>
+                              <td>{{ row.topic }}</td>
+                              <td>{{ row.instructor }}</td>
+                              <td>
+                                  {% if row.regtype %}
+                                      {{ row.regtype }}
+                                  {% else %}
+                                      Other
+                                  {% endif %}
+                              </td>
+                              </tr>
+                              {% endif %}
+                            {% endfor %}
+                          </tbody>
+                      </table>
+                    </div>
+                  {% endif %}
+                </div>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
