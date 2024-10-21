@@ -362,7 +362,7 @@ A software license states the rights of the developer and user for a piece of so
 
 **Statement 2:**
 
-Without a license, software is assumed copyrighted and without permission.
+Without a license, software is assumed copyrighted and without permissions.
 
 - True
 - False
