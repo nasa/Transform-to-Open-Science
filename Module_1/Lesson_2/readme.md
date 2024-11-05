@@ -95,7 +95,7 @@ There are many different research outputs that can be openly shared and made cit
 - Blog posts
 - And more!
 
-All of these are tangible, scientific outputs! Much of our time as researchers is spent writing code, collecting data, putting together lectures and not \*just\* publications. Publicly sharing materials publicly makes receiving a citation more likely.
+All of these are tangible, scientific outputs! Much of our time as researchers is spent writing code, collecting data, putting together lectures and not \*just\* publications. Sharing materials publicly makes receiving a citation more likely.
 
 <img src="../images/media/image269.png" style="width: 100%; height: auto;" />
 
