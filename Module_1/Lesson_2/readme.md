@@ -176,7 +176,7 @@ Collaboration, innovation, education, technology advancement, and science-based 
 
 <img src="../images/media/image264.png" style="width: 350px; height: auto;" />
 
-Scientists study issues that affect every aspect of life. Yet, public interest in science remains low due to a lack of trust, understanding, and sociocultural factors. How can scientists expect the public to trust science about complex and often contentious issues, whether it is vaccine development or landing on the moon, if they don’t allow the public to see the process and results? Building trust in science is essential to a well-informed society. Open science provides a pathway to do this.
+Scientists study issues that affect every aspect of life. Yet, public interest in science remains low due to a lack of trust, understanding, and sociocultural factors. How can scientists expect the public to trust science about complex and often contentious issues, whether it is vaccine development or landing on the Moon, if they don’t allow the public to see the process and results? Building trust in science is essential to a well-informed society. Open science provides a pathway to do this.
 
 The public who funds government research through taxes should be entitled to its results and data, as long as safety and security are not an issue. Science should be more open to ensure its insights benefit the public who enables it.
 
@@ -185,11 +185,11 @@ Open science introduces more scrutiny into research that helps ensure accuracy a
 ### Open Science Can Accelerate the Pace of Science
 
 Open science practices accelerate the pace of scientific discovery by involving ideas and labor from the broader community. The rapid response to the 
-[Covid-19 Pandemic showed Open Science in action to accelerate discovery.](https://www.nejm.org/doi/full/10.1056/NEJMp2034518)
+[COVID-19 pandemic showed open science in action to accelerate discovery.](https://www.nejm.org/doi/full/10.1056/NEJMp2034518)
 
 <img src="../images/media/image41.png" style="width: 350px; height: auto;" />
 
-Researchers uploaded the initial genome sequence of SARS-CoV-2 into an open-access database in January 2020, creating a data-sharing precedent and metadata that would later enable insights about new Covid-19 variants. The NIH developed a dedicated platform for sharing research tools for Covid-19 and encouraged investigators to expedite reporting to ClinicalTrials.gov ahead of requirements. Open-science publishing agreements that support evidence dissemination have complemented these practices and policies. One day after the World Health Organization declared Covid-19 a public health emergency, more than 50 academic publishers issued a joint statement committing to open-access policies for Covid-19 research. Support for preprint servers has promoted awareness of research successes and failures, and journals have helped accelerate the distribution of actionable information, including by means of dedicated Covid-19 web pages, endorsement of preprints, and an emphasis on sharing data with public health authorities.
+Researchers uploaded the initial genome sequence of SARS-CoV-2 into an open-access database in January 2020, creating a data-sharing precedent and metadata that would later enable insights about new COVID-19 variants. The NIH developed a dedicated platform for sharing research tools for COVID-19 and encouraged investigators to expedite reporting to ClinicalTrials.gov ahead of requirements. Open-science publishing agreements that support evidence dissemination have complemented these practices and policies. One day after the World Health Organization declared COVID-19 a public health emergency, more than 50 academic publishers issued a joint statement committing to open-access policies for COVID-19 research. Support for preprint servers has promoted awareness of research successes and failures, and journals have helped accelerate the distribution of actionable information, including by means of dedicated COVID-19 web pages, endorsement of preprints, and an emphasis on sharing data with public health authorities.
 
 ### Open Science is Efﬁcient Science
 
@@ -209,7 +209,7 @@ The open sharing of scientific products and processes makes science accessible t
 
 The best ways to include a diverse group of open science practitioners and stakeholders are to remove existing barriers and design for inclusion. Beyond this, it is important to learn how to communicate effectively with diverse collaborators, people at different skill levels, career levels, backgrounds, and areas of expertise. The ability to build diverse teams is a skill that everyone can learn. To learn more about NASA's commitment to diversity and inclusion, click [here](https://www.nasa.gov/odeo/diversity-and-inclusion/).
 
-### Key Takeaways: Beneﬁts to Society
+### Key Takeaways: Benefits to Society
 
 - The public who funds government research through taxes should be entitled to its results and data, as long as safety and security are not an issue.
 - Open science allows for errors to be quickly corrected and accurate results to be built upon by others, impacting policies.
