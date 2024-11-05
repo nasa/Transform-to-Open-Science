@@ -232,7 +232,7 @@ Licenses take various forms in order to outline:
 
 *Click '+' to travel more information.*
 
-<img style="width:100%;height:auto;" src="../images/media/commonsoftwarelicenses.png">
+<img style="width:100%;height:auto;" src="../images/media/spectrum-of-openness.png">
 
 **Public Domain**
 
