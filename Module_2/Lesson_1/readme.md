@@ -33,17 +33,15 @@ After completing this lesson, you should be able to:
 
 ### Open Research Products
 
-Scientific knowledge, or research products, take the form of:
-
-<img src="../images/media/image5.png" style="width:350px;height:auto;" />
+Scientific knowledge, or research products, take the form of data, results, code, and software.
 
 Within these research products are additional types of products, such as methodologies, algorithms, and physical artifacts.
 
+<img src="../images/media/science-data.png" style="width:350px;height:auto;" />
+
 ### What is Data?
 
-<img src="../images/media/image6.png" style="width:350px;height:auto;" />
-
-In general, data are pieces of information about a subject, including theoretical truths, raw measurements, or highly processed values.
+In general, data are pieces of information about a subject, including theoretical truths, raw measurements, or highly processed values. 
 
 There can even be data about data, called metadata. In our lessons, when we talk about data we are referring to scientifically or technically relevant information that can be stored digitally and accessed electronically such as:
 
