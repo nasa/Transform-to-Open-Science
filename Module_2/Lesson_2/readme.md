@@ -497,7 +497,7 @@ General components of a software management plan:
 - Personnel roles and responsibilities.
 - Any community-specific information of note.
 
-At a minimum, a software management plan SMD-funded (NASA Science Mission Directorate) research should include:
+At a minimum, a software management plan for SMD-funded (NASA Science Mission Directorate) research should include:
 - Description of the software expected to be produced from the proposed activities, including types of software to be produced, how the software will be developed, and the addition of new features or updates to existing software. This can include the platforms used for development, project management, and community-based best practices to be included such as documentation, testing, dependencies, and versioning.
 - The repository(ies) that will be used to archive software arising from the activities and the schedule for making the software publicly available.
 - Description of software that are subject to relevant laws, regulations, or policies that exclude them from software sharing requirements.
