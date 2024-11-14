@@ -58,7 +58,7 @@ Many scientists write source code to produce software to analyze data or model o
 
 **Operational and Infrastructure Software** – Software used by data centers and large information technology facilities to provide data services.
 
-**Libraries** – Generic tools that implement well-known algorithms, provide statistical analysis or visualization, etc., which are incorporated in other software categories.
+**Libraries** – A collection of pre-written, reusable code that provides standardized implementations of common algorithms, utilities for tasks such as statistical analysis, data manipulation, and visualization, among others. These libraries are intended to be integrated into larger software systems, allowing developers to incorporate complex functionalities without the need to develop them from scratch.
 
 **Modeling and Simulation Software** – Software that either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data.
 
