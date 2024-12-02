@@ -53,7 +53,7 @@ A digital persistent identifier (or "PID") is a "long-lasting reference to a dig
 - Uniquely and persistently identifies authors and contributors of scholarly communication.
 - Used similarly to how tax ID numbers are used for tax purposes.
 
-ORCIDs are used to link Used to link researchers to their research and research-related outputs. It is a 16-digit number that uniquely identifies researchers and is integrated with certain organizations (like some publishers) that will add research products (such as a published paper) to an individual's ORCID profile. ORCIDs are meant to last throughout ones career, and helps to avoid confusion when information about a researcher changes over time (e.g., career change or name change). (cite: [https://orcid.org/](https://orcid.org/))
+ORCIDs are used to link researchers to their research and research-related outputs. It is a 16-digit number that uniquely identifies researchers and is integrated with certain organizations (like some publishers) that will add research products (such as a published paper) to an individual's ORCID profile. ORCIDs are meant to last throughout one's career, and helps to avoid confusion when information about a researcher changes over time (e.g., career change or name change). (cite: [https://orcid.org/](https://orcid.org/))
 
 Many publishers, academic institutes, and government bodies support ORCID. In 2023, ORCID reported over 1,300 member organizations and over 9 million yearly live accounts. You can connect it with your professional information (affiliations, grants, publications, peer review, and more).
 
