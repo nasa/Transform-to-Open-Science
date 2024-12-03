@@ -107,7 +107,9 @@ There are a variety of license choices that can be made for open software which 
 
 Scientists use and produce a wide variety of different types of software during projects. While many researchers might just use equations in a spreadsheet, others may use open source libraries for advanced machine learning model development and plotting results, while others may contribute to open-source libraries in their field and grow their reputation and impact that way. Here are some examples of different types of software that you might encounter.
 
-**General Purpose Software** – General purpose software is produced for wide use and not specialized scientific purposes. This includes both commercial software and open-source software. Many widely used productivity software packages are open- source success stories:
+<details> 
+  <summary><span>General Purpose Software</span></summary>
+  General purpose software is produced for wide use and not specialized scientific purposes. This includes both commercial software and open-source software. Many widely used productivity software packages are open- source success stories:
 
 - Linux kernel, GNU userspace, and various Linux and UNIX distributions 
 - PostgreSQL – open source enterprise-grade database
@@ -116,38 +118,56 @@ Scientists use and produce a wide variety of different types of software during 
   - Chrome's engine is Chromium which is forked from WebKit which was forked KHTML. This was possible because it had a license that allowed for this type of reuse. All major browsers today except Firefox can be traced back to KHTML.
 - Android operating system among others
   - You can look at the Android source code, but you can't modify it and install it on a device. And even if you could, you couldn't use any of the standard services (e.g. Google Store) with that. So it's "open" in the same sense that last night's lottery numbers are "open".
-
-**Operational Software** – Software delivered to individuals as part of a program or product. Examples include automated workflows, data consolidation, and role-based interfacing and reporting.
+</details>
+<details> 
+  <summary><span>Operational Software</span></summary>
+  Software delivered to individuals as part of a program or product. Examples include automated workflows, data consolidation, and role-based interfacing and reporting.
 
 - [Fprime](https://nasa.github.io/fprime/) – Space mission flight software
+</details>
+<details> 
+  <summary><span>Infrastructure Software</span></summary>
+  Forms the central framework of computer systems, also as known as the computer's set up foundation. Examples include operating systems, database management systems, web servers, middleware, and virtualization software.
 
-**Infrastructure Software** – Forms the central framework of computer systems, also as known as the computer's set up foundation. Examples include operating systems, database management systems, web servers, middleware, and virtualization software.
 - [Fprime](https://nasa.github.io/fprime/) – Space mission flight software
 - [PODAAC](https://github.com/podaac) – Distributed archiving and processing software
 - [UFS](https://github.com/ufs-community) – Operational weather forecasting model software
 - Metadata Compliance Checker, APIs, Web apps, [Giovanni](https://www.earthdata.nasa.gov/technology/giovanni), [McIDAS](https://en.wikipedia.org/wiki/McIDAS)
+</details>
+<details> 
+  <summary><span>Libraries</span></summary>
+  Libraries are generic tools for implementing well-known algorithms, providing statistical analysis, or visualization which are incorporated in other software categories. Examples include:
 
-**Libraries** – Libraries are generic tools for implementing well-known algorithms, providing statistical analysis, or visualization which are incorporated in other software categories. Examples include:
 - [NumPy](https://github.com/numpy) – Scientific computing with python
 - [scikit-image](https://github.com/scikit-image/) – Image processing algorithms in python
 - [deal.II](https://github.com/dealii/dealii) – Library of algorithms to solve partial differential equations with finite elements
-
-**Modeling and Simulation Software** – Modeling and Simulation Software either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data. They often use libraries.
+</details>
+<details> 
+  <summary><span>Modeling and Simulation Software</span></summary>
+  Modeling and Simulation Software either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data. They often use libraries.
 Examples include: first-principles models, data-assimilation tools, empirical models, machine learning, mission planning and engineering tools, among others.
+
 - [OpenFOAM](https://github.com/OpenFOAM) – Computational fluid dynamics software
 - [MOM6](https://github.com/mom-ocean/MOM6) – General ocean circulation model
 - [ASPECT](https://github.com/geodynamics/aspect) – Planetary convection software
 - Atmospheric radiative transfer, stellar evolution, upper ocean turbulence, solar wind predictions, orbit
 propagation (e.g., OpenGGCM, MESA)
+</details>
+<details> 
+  <summary><span>Analysis Software</span></summary>
+  Analysis software is developed to manipulate measurements or model results to visualize or gain understanding. This software often evolves from single-use utility software and may incorporate libraries.
 
-**Analysis Software** - Analysis software is developed to manipulate measurements or model results to visualize or gain understanding. This software often evolves from single-use utility software and may incorporate libraries.
 - [Photutils](https://photutils.readthedocs.io/en/stable/index.html) – tools for detecting and performing photometry of astronomical sources
+</details>
+<details> 
+  <summary><span>Single-Use Utility Software</span></summary>
+  Single-use utility software is written for use in unique instances, such as making a plot for a paper, or manipulating data in a specific way. This code often uses libraries for analysis, plotting, or reading data. This software is the most common type that gets included into Open Science and Data Management Plans (OSDMP), which we will talk about shortly. Examples include:
 
-**Single-Use Utility Software** – Single-use utility software is written for use in unique instances, such as making a plot for a paper, or manipulating data in a specific way. This code often uses libraries for analysis, plotting, or reading data. This software is the most common type that gets included into Open Science and Data Management Plans (OSDMP), which we will talk about shortly. Examples include:
 - [Angus et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A/abstract) – [Fitting a gyro relation to Praesepe](https://github.com/RuthAngus/stardate/blob/master/paper/code/Fitting_Praesepe.ipynb)
 - [Webb telescope spots CO2 on exoplanet for the first time: what it means for finding alien life](https://www.nature.com/articles/d41586-022-02350-2). All the data and models presented in this publication can be found [here](https://doi.org/10.5281/zenodo.6959427).
 - [Constraining the increased frequency of global precipitation extremes under warming](https://www.nature.com/articles/s41558-022-01329-1)
 - Code at: [https://doi.org/10.5281/zenodo.6288035](https://doi.org/10.5281/zenodo.6288035) (2022)
+</details>
 
 ## Principles, Benefits, and Challenges
 

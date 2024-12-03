@@ -73,7 +73,7 @@ The term open data is defined in the open data handbook from the Open Knowledge 
 
 <img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote.jpg">
 
-"Open data is data that can be freely used, reused and redistributed by anyone – subject only, at most, to the requirement to attribute and share alike."
+"Open data is data that can be freely used, re-used and redistributed by anyone – subject only, at most, to the requirement to attribute and share alike."
 
 **Open Data Handbook from the Open Knowledge Foundation**
 

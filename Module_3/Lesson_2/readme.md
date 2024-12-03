@@ -38,8 +38,6 @@ If you start with Google and search for "Mauna Loa carbon dioxide data" you will
 
 How do you decide which one to use? In this lesson we will cover how to find, assess relevance, and use open data.
 
----
-
 ## Discovering Open Data
 
 Open data can be discovered by accessing data repositories, search portals, and publications. A wide variety of these resources are available. A key step is identifying the appropriate search terms for your application. Learning community-specific nomenclature and standards can accelerate your search.
