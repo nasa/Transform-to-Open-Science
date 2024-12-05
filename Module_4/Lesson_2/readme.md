@@ -251,7 +251,7 @@ The risks are relatively low for small snippets of code that are easy for you to
 Open software is perceived to have more security risks. This is generally less of a problem for open source code than executables because the code can be audited for security vulnerabilities by the community. How can you assess security in this case?
 
 - Consult with your institutional open software policies and IT staff
-- Use authoritative,reputable sources to minimize security risks
+- Use authoritative, reputable sources to minimize security risks
 - Set strict security rules and standards when using a dependency
 - Use security tools to check for vulnerabilities (e.g., [Open Worldwide Application Security Project®](https://owasp.org/))
 - Avoid unsupported open-source software. Switch to actively developed components or develop it yourself
