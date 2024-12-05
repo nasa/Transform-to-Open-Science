@@ -187,7 +187,7 @@ These are a few links to NASA-specific repositories that may be of interest:
 
 So, you've discovered some exciting open code that might help you solve your scientific problem. Can you trust this code you discovered on the web? Will it be useful? How much time will it take to learn it? Could the code contain malware? Could you get in legal trouble for using it?
 
-**Examples:** You found the “General Ocean Turbulence Model (GOTM)” on the internet, and it looks promising. Or, you just found lots of code snippets and functions related to the Lomb-Scargle power spectrum. Now, you would like to assess these pieces of code to help you decide if you should use them. This section discusses some best practices for assessing if the code will help you.
+**Examples:** You found the "General Ocean Turbulence Model (GOTM)" on the internet, and it looks promising. Or, you just found lots of code snippets and functions related to the Lomb-Scargle power spectrum. Now, you would like to assess these pieces of code to help you decide if you should use them. This section discusses some best practices for assessing if the code will help you.
 
 ### Four General Considerations for Assessing Open Software
 
@@ -253,7 +253,7 @@ Open software is perceived to have more security risks. This is generally less o
 - Consult with your institutional open software policies and IT staff
 - Use authoritative, reputable sources to minimize security risks
 - Set strict security rules and standards when using a dependency
-- Use security tools to check for vulnerabilities (e.g., [Open Worldwide Application Security</u> Project®](https://owasp.org/))
+- Use security tools to check for vulnerabilities (e.g., [Open Worldwide Application Security Project®](https://owasp.org/))
 - Avoid unsupported open-source software. Switch to actively developed components or develop it yourself
 - Check with your latest institutional policies on using Machine Learning and Artificial Intelligence tools
 - Use caution when using external tools with secure or closed access data. It may be possible for the external tool to publicly share what should be restricted information
