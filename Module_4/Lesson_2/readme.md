@@ -179,7 +179,8 @@ Most research code should be open source software, which is stored in code repos
 These are a few links to NASA-specific repositories that may be of interest: 
 - [NASA Open Source Software](https://code.nasa.gov/)
 - [NASA Open APIs](https://api.nasa.gov/)
-- [Science Discovery Engine Astrophysics Data System](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
+- [Science Discovery Engine](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
+- [Astrophysics Data System](https://ui.adsabs.harvard.edu/)
 - [Earthdata Developer Portal](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
 - [Exoplanet Modeling and Analysis Center](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
 
@@ -274,11 +275,21 @@ If you simply intend to reuse a code snippet, continuously test that your select
 
 Consider the following when selecting among multiple versions of open source software.
 
-|  |  |
-|---|---|
-| Use the latest stable release when possible | Just like software updates to your phone or computer’s operating system or apps, it is important to use the latest stable release. Developers often release developmental versions that include new features or bug fixes that are not fully tested. For this reason, using a developmental release is generally not recommended. |
-| Determine the origin of the version you intend to use | Determine whether the version you intend to use comes from a modified open-source project or from its original source project. With this information, determine which source is more appropriate for your project. |
-| Check for issues and bugs | Check for any known issues or bugs with your selected version that could cause problems. Find current information on issues or bugs by checking release notes, issue trackers, and developer forums. |
+<details> 
+  <summary><span>Use the latest stable release when possible</span></summary>
+  
+  Just like software updates to your phone or computer’s operating system or apps, it is important to use the latest stable release. Developers often release developmental versions that include new features or bug fixes that are not fully tested. For this reason, using a developmental release is generally not recommended.
+</details>
+<details> 
+  <summary><span>Determine the origin of the version you intend to use</span></summary>
+  
+  Determine whether the version you intend to use comes from a modified open-source project or from its original source project. With this information, determine which source is more appropriate for your project.
+</details>
+<details> 
+  <summary><span>Check for issues and bugs</span></summary>
+  
+  Check for any known issues or bugs with your selected version that could cause problems. Find current information on issues or bugs by checking release notes, issue trackers, and developer forums.
+</details>
 
 ### Resolve Problems in Reusing Software
 

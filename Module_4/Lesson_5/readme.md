@@ -70,19 +70,23 @@ The following material assumes that you have met the threshold and are writing a
 
 If you are applying for funding, it is almost guaranteed that there will be specific data management requirements detailed in the funding opportunity. For example, the funder may require a certain license or use of a specific repository. Make sure to cross-reference your plan with these requirements.
 
-**Examples of Software Management Plans**
+<details> 
+  <summary><span>Examples of Software Management Plans</span></summary>
+  
+  - [software.ac.uk/resources/guides/software-management-plans](https://www.software.ac.uk/resources/guides/software-management-plans)
+  - [software.ac.uk/software-management-plans](https://www.software.ac.uk/resources/guides/software-management-plans)
+  - [esciencecenter.nl/national-guidelines-for-software-management-plans/](https://www.esciencecenter.nl/national-guidelines-for-software-management-plans/)
+  - [https://zenodo.org/record/7589725](https://zenodo.org/record/7589725)
+</details>
+<details> 
+  <summary><span>Policies</span></summary>
+  
+  What are the policies for a SMP? (what does the funding agency say to do?)
 
-- [software.ac.uk/resources/guides/software-management-plans](https://www.software.ac.uk/resources/guides/software-management-plans)
-- [software.ac.uk/software-management-plans](https://www.software.ac.uk/resources/guides/software-management-plans)
-- [esciencecenter.nl/national-guidelines-for-software-management-plans/](https://www.esciencecenter.nl/national-guidelines-for-software-management-plans/)
-- [https://zenodo.org/record/7589725](https://zenodo.org/record/7589725)
-
-**Policies**
-
-What are the policies for a SMP? (what does the funding agency say to do?) 
 - Data formats
 - Plan for data/code archival/preservation 
 - Roles and responsibilities
+</details>
 
 ### Funding Agencies
 

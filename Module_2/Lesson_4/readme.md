@@ -284,13 +284,13 @@ From VS Code you can:
 - Upload your changes directly to GitHub.
 - Download changes from other team members to your local system.
 
- **IDE Example: RStudio – IDE**
+ ### IDE Example: RStudio – IDE
 
 While Visual Studio Code is a more generic IDE where you can use plugins to specialize it, there are also IDEs, such as RStudio, that have specialized features for specific languages right out of the gate.
 
 Researchers conducting statistical analysis tend to use the coding languages of R and Python. RStudio has built-in tools for that very purpose, including data visualization.
 
- <img src="../images/media/image36.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image36.jpeg" style="width:100%;height:auto;" />
 
 Source: https://en.wikipedia.org/wiki/File:RStudio_IDE_screenshot.png
 
@@ -439,7 +439,7 @@ Cons:
  - Google Cloud
  - Microsoft Azure
 
-Many data providers, especially of large datasets, are migrating their data to the Cloud to increase accessibility and to make use of the large storage capacity that the Cloud provides. For instance, NASA Earthdata (which houses all NASA Earth science data) is now using AWS to store the majority of its data. Many Cloud providers also have a number of publicly available datasets, including [Google Cloud](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items) and [AWS](https://registry.opendata.aws/)[.](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items)
+Many data providers, especially of large datasets, are migrating their data to the Cloud to increase accessibility and to make use of the large storage capacity that the Cloud provides. For instance, NASA Earthdata (which houses all NASA Earth science data) is now using AWS to store the majority of its data. Many Cloud providers also have a number of publicly available datasets, including [Google Cloud](https://cloud.google.com/storage/docs/public-datasets/#:~:text=Available%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A,from%202015%20through%20the%20present.%20...%20More%20items) and [AWS](https://registry.opendata.aws/).
 
  When choosing a computing platform, it is important to consider where your datasets are saved and how big the datasets are. For instance, when working with small datasets, it is often preferable to use a personal computer since data download will take minimal time and large computing resources likely aren’t needed. When working with large datasets, however, it is best to minimize the amount of downloading and uploading data that is needed, as this can take significant amounts of time and internet bandwidth. If your large datasets are stored on the Cloud already, it is typically best to use Cloud resources for the computation as well, and likewise for HPC use.
 
