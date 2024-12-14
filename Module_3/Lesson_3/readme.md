@@ -76,15 +76,41 @@ Some examples of open data formats include:
 
 *Select each card to find out more information.*
 
-|  |  |
-|---|---|
-| Comma Separated Values (CSV) | For simplicity, readability, compatibility, easy data exchange. |
-| Hierarchical Data Format (HDF) | For efficient storing and retrieving data, compression, multi-dimensional support. |
-| Network Common Data Form (NetCDF) | For self-describing and portability, efficient data subsetting (extract specific portions of large datasets), standardization and interoperability. |
-| Investigation-Study- Assay (ISA) model for life science studies | For structured data organization, data integration and interoperability among experiments, reproducibility and transparency. |
-| Flexible Image Transport System (FITS) | As a standard for astronomical data, flexible and extensible metadata and image headers, efficient data compression and archiving of large datasets. |
-| Common Data Format (CDF) | For self-describing format readable across multiple operating systems, programming languages, and software environments, multidimensional data, and metadata inclusion. |
-| Microsoft Word (.doc/.docx) | A proprietary file format used to store word processing data. |
+<details> 
+  <summary><span>Comma Separated Values (CSV)</span></summary>
+  
+  For simplicity, readability, compatibility, easy data exchange.
+</details>
+<details> 
+  <summary><span>Hierarchical Data Format (HDF)</span></summary>
+  
+  For efficient storing and retrieving data, compression, multi-dimensional support.
+</details>
+<details> 
+  <summary><span>Network Common Data Form (NetCDF)</span></summary>
+  
+  For self-describing and portability, efficient data subsetting (extract specific portions of large datasets), standardization and interoperability.
+</details>
+<details> 
+  <summary><span>Investigation-Study-Assay (ISA) model for life science studies</span></summary>
+  
+  For structured data organization, data integration and interoperability among experiments, reproducibility and transparency.
+</details>
+<details> 
+  <summary><span>Flexible Image Transport System (FITS)</span></summary>
+  
+  As a standard for astronomical data, flexible and extensible metadata and image headers, efficient data compression and archiving of large datasets.
+</details>
+<details> 
+  <summary><span>Common Data Format (CDF)</span></summary>
+  
+  For self-describing format readable across multiple operating systems, programming languages, and software environments, multidimensional data, and metadata inclusion.
+</details>
+<details> 
+  <summary><span>Microsoft Word (.doc/.docx)</span></summary>
+
+  A proprietary file format used to store word processing data.
+</details>
 
 By embracing open standards, authors can avoid unnecessary barriers and maximize their chances of making data useful to their communities.
 

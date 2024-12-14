@@ -219,7 +219,7 @@ A software license is a legal document that states the rights of the developer a
 
 An open source license is a type of software license, approved by the Open Source Initiative (OSI) as compliant with the Open Source Definition. An open source license grants permissions for anyone to inspect, use, modify, and distribute the software’s source code for any purpose.
 
-Licenses ensure that developers receive credit and control over how their work is used. Without a license, software is assumed copyrighted and without permissions. Programmers include licenses to allow reuse.
+Licenses ensure that developers receive credit and control over how their work is used. Without a license, software is assumed copyrighted and without permission. Programmers include licenses to allow reuse.
 
 Licenses take various forms in order to outline:
 

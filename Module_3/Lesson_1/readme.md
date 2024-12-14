@@ -56,20 +56,29 @@ Data are any type of information that is collected, observed, or created in the 
 
 Data includes:
 
-**Primary (raw) data** – Primary data refers to data that are directly collected or created by researchers. Research questions guide the collection of the data. Typically, a researcher will formulate a question, develop a methodology and start collecting the data. Some examples of primary data include:
+<details> 
+  <summary><span>Primary (raw) data</span></summary>
+  Primary data refers to data that are directly collected or created by researchers. Research questions guide the collection of the data. Typically, a researcher will formulate a question, develop a methodology and start collecting the data. Some examples of primary data include:
 
 - Responses to interviews, questionnaires, and surveys.
 - Data acquired from recorded measurements, including remote sensing data.
 - Data acquired from physical samples and specimens form the base of many studies.
 - Data generated from models and simulations.
+</details>
+<details> 
+  <summary><span>Secondary & Processed data</span></summary>
+  Secondary data typically refers to data that is used by someone different from who collected or generated the data. Often, this may include data that has been processed from its raw state to be more readily usable by others.
+</details>
+<details> 
+  <summary><span>Published data</span></summary>
+  Published data are the data shared to address a particular scientific study and/or for general use. While published data can overlap with primary and secondary data types, we have "published data" as its own category to emphasize that such datasets are ideally well-documented and easy to use.
+</details>
+<details> 
+  <summary><span>Metadata</span></summary>
+  Metadata are a special type of data that describe other data or objects (e.g. samples). They are often used to provide a standard set of information about a dataset to enable easy use and interpretation of the data.
 
-**Secondary & Processed data** – Secondary data typically refers to data that is used by someone different from who collected or generated the data. Often, this may include data that has been processed from its raw state to be more readily usable by others.
-
-**Published data** – Published data are the data shared to address a particular scientific study and/or for general use. While published data can overlap with primary and secondary data types, we have "published data" as its own category to emphasize that such datasets are ideally well-documented and easy to use.
-
-**Metadata** – Metadata are a special type of data that describe other data or objects (e.g. samples). They are often used to provide a standard set of information about a dataset to enable easy use and interpretation of the data.
-
-The term open data is defined in the open data handbook from the Open Knowledge Foundation:
+  The term open data is defined in the open data handbook from the Open Knowledge Foundation:
+</details><br><br>
 
 <img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote.jpg">
 

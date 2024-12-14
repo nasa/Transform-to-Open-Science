@@ -182,7 +182,7 @@ Metadata can facilitate the assessment of dataset quality and data sharing by an
 
 Metadata enhances searchability and findability of the data by potentially allowing other machines to read and interpret datasets.
 
-According to [The University of Pittsburgh](https://pitt.libguides.com/metadatadiscovery/metadata-standards), "A metadata standard is a high level document which establishes a common way of structuring and understanding data, and includes principles and implementation issues for utilizing the standard."
+According to [the University of Pittsburgh](https://pitt.libguides.com/metadatadiscovery/metadata-standards), "A metadata standard is a high level document which establishes a common way of structuring and understanding data, and includes principles and implementation issues for utilizing the standard."
 
 Many standards exist for metadata fields and structures to describe general data information. It is a best practice to use a standard that is commonly used in your domain, when applicable, or that is requested by your data repository. Examples of metadata standards for different domains include:
 

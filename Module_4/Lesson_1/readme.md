@@ -175,13 +175,31 @@ propagation (e.g., OpenGGCM, MESA)
 
 Open software principles are derived from open-source software best practices. They establish guidelines that advance open science and aim to enhance the value and impact of research.
 
-|  |  |
-|---|---|
-| Transparency | Whether you are developing software or solving a business problem, we all have access to the information and materials necessary for doing our best work. When these materials are accessible, we can build upon each other's ideas and discoveries. We can make more effective decisions and understand how those decisions affect us. |
-| Collaboration | When we're free to participate, we can enhance each other's work in unanticipated ways. When we can modify what others have shared, we unlock new possibilities. By initiating new projects together, we can solve problems that no one can solve alone. And when we implement open standards, we enable others to contribute in the future. |
-| Share early and often | Rapid prototypes can lead to rapid discoveries. An iterative approach leads to better solutions faster. When you're free to experiment, you can look at problems in new ways and seek answers in new places. You can learn by doing. |
-| Inclusive | Good ideas can come from anywhere, and the best ideas should win. Only by including diverse perspectives in our conversations can we be certain we've identified the best ideas, and good decision-makers continually seek those perspectives. We may not operate by consensus, but successful work determines which projects gather support and effort from the community. |
-| Community | Communities form when different people unite around a common purpose. Shared values guide decision-making, and community goals supersede individual interests and agendas. |
+<details> 
+  <summary><span>Transparency</span></summary>
+  
+  Whether you are developing software or solving a business problem, we all have access to the information and materials necessary for doing our best work. When these materials are accessible, we can build upon each other's ideas and discoveries. We can make more effective decisions and understand how those decisions affect us.
+</details>
+<details> 
+  <summary><span>Collaboration</span></summary>
+  
+  When we're free to participate, we can enhance each other's work in unanticipated ways. When we can modify what others have shared, we unlock new possibilities. By initiating new projects together, we can solve problems that no one can solve alone. And when we implement open standards, we enable others to contribute in the future.
+</details>
+<details> 
+  <summary><span>Share early and often</span></summary>
+  
+  Rapid prototypes can lead to rapid discoveries. An iterative approach leads to better solutions faster. When you're free to experiment, you can look at problems in new ways and seek answers in new places. You can learn by doing.
+</details>
+<details> 
+  <summary><span>Inclusive</span></summary>
+  
+  Good ideas can come from anywhere, and the best ideas should win. Only by including diverse perspectives in our conversations can we be certain we've identified the best ideas, and good decision-makers continually seek those perspectives. We may not operate by consensus, but successful work determines which projects gather support and effort from the community.
+</details>
+<details> 
+  <summary><span>Community</span></summary>
+  
+  Communities form when different people unite around a common purpose. Shared values guide decision-making, and community goals supersede individual interests and agendas.
+</details>
 
 Credit: [The open source way \| Opensource.com](https://opensource.com/open-source-way)
 

@@ -274,34 +274,39 @@ Match the repository type to the correct definition.
 
 Using open data for your project is contingent on a number of factors including quality of data, access and reuse conditions, data findability, and more. A few essential elements that enable you to assess the relevance and usability of datasets include (adapted from the [GODAN Action Open Data course](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
 
-**Practical Questions**
 
-- Is the data well described?
-- Is the reason the data is collected clear? Is the publisher’s use for the data clear?
-- Are any other existing uses of the data outlined? 
-- Is the data accessible?
-- Is the data timestamped or up to date?
-- Will the data be available for at least a year? 
-- Will the data be updated regularly?
-- Is there a quality control process?
-
-**Technical Questions**
-
-- Is the data available in a format appropriate for the content? 
-- Is the data available from a consistent location?
-- Is the data well-structured and machine-readable?
-- Are complex terms and acronyms in the data defined? 
-- Does the data use a schema or data standard?
-- Is there an API available for accessing the data? 
-- What tools or software are needed to use this data?
-
-**Social Questions**
-
-- Is there an existing community of users of the data?
-- Is the data already relied upon by large numbers of people? 
-- Is the data officially supported?
-- Are service level agreements available for the data?
-- It is clear who maintains and can be contacted about the data?
+<details> 
+  <summary><span>Practical Questions</span></summary>
+  
+  - Is the data well described?
+  - Is the reason the data is collected clear? Is the publisher’s use for the data clear?
+  - Are any other existing uses of the data outlined? 
+  - Is the data accessible?
+  - Is the data timestamped or up to date?
+  - Will the data be available for at least a year? 
+  - Will the data be updated regularly?
+  - Is there a quality control process?
+</details>
+<details> 
+  <summary><span>Technical Questions</span></summary>
+  
+  - Is the data available in a format appropriate for the content? 
+  - Is the data available from a consistent location?
+  - Is the data well-structured and machine-readable?
+  - Are complex terms and acronyms in the data defined? 
+  - Does the data use a schema or data standard?
+  - Is there an API available for accessing the data? 
+  - What tools or software are needed to use this data?
+</details>
+<details> 
+  <summary><span>Social Questions</span></summary>
+  
+  - Is there an existing community of users of the data?
+  - Is the data already relied upon by large numbers of people? 
+  - Is the data officially supported?
+  - Are service level agreements available for the data?
+  - It is clear who maintains and can be contacted about the data?
+</details>
 
 [[cite: https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)]
 
@@ -338,15 +343,17 @@ Most datasets require (at a minimum) that you list the data’s producers, name 
 
 ### Citing Open Data: Examples
 
-**Example from a NASA Distributed Active Archive Center (DAAC)**
 
-Matthew Rodell and Hiroko Kato Beaudoing, NASA/GSFC/HSL (08.16.2007), GLDAS CLM Land Surface Model L4 3 Hourly 1.0 x 1.0 degree Subsetted, version 001, Greenbelt, Maryland, USA:Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed on July 12th, 2018 at doi:10.5067/83NO2QDLG6M0
+<details> 
+  <summary><span>Example from a NASA Distributed Active Archive Center (DAAC)</span></summary>
+  Matthew Rodell and Hiroko Kato Beaudoing, NASA/GSFC/HSL (08.16.2007), GLDAS CLM Land Surface Model L4 3 Hourly 1.0 x 1.0 degree Subsetted, version 001, Greenbelt, Maryland, USA:Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed on July 12th, 2018 at doi:10.5067/83NO2QDLG6M0
+</details>
+<details> 
+  <summary><span>Example from NASA Planetary Data System (PDS)</span></summary>
+  Justin N. Maki. (2004). MER 1 MARS MICROSCOPIC IMAGER RADIOMETRIC
 
-**Example from NASA Planetary Data System (PDS)**
-
-Justin N. Maki. (2004). MER 1 MARS MICROSCOPIC IMAGER RADIOMETRIC
-
-RDR OPS V1.0 [Data set]. NASA Planetary Data System. [https://doi.org/10.17189/1520416](https://doi.org/10.17189/1520416)
+  RDR OPS V1.0 [Data set]. NASA Planetary Data System. [https://doi.org/10.17189/1520416](https://doi.org/10.17189/1520416)
+</details>
 
 ## Lesson 2: Summary
 
