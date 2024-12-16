@@ -22,3 +22,4 @@ Browse through our archive of past TOPS newsletters to rediscover valuable news,
 - [September Newsletter](https://conta.cc/4ggOc7O)
 - [October Newsletter](https://conta.cc/3ZZ3yYZ)
 - [November Newsletter](https://conta.cc/4ffIbr5)
+- [December Newsletter](https://conta.cc/3D3eYla)
