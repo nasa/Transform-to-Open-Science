@@ -191,7 +191,7 @@ Open science practices accelerate the pace of scientific discovery by involving 
 
 Researchers uploaded the initial genome sequence of SARS-CoV-2 into an open-access database in January 2020, creating a data-sharing precedent and metadata that would later enable insights about new COVID-19 variants. The NIH developed a dedicated platform for sharing research tools for COVID-19 and encouraged investigators to expedite reporting to ClinicalTrials.gov ahead of requirements. Open-science publishing agreements that support evidence dissemination have complemented these practices and policies. One day after the World Health Organization declared COVID-19 a public health emergency, more than 50 academic publishers issued a joint statement committing to open-access policies for COVID-19 research. Support for preprint servers has promoted awareness of research successes and failures, and journals have helped accelerate the distribution of actionable information, including by means of dedicated COVID-19 web pages, endorsement of preprints, and an emphasis on sharing data with public health authorities.
 
-### Open Science is Efﬁcient Science
+### Open Science is Efficient Science
 
 Open science reciprocates the benefits it provides to researchers onto the communities that scientists hope to serve. Data from one observation or science experiment can have unanticipated uses. In Lesson 1, we discussed an example where the use of radar data for tracking the effect of climate change was used to track bird migration.
 
