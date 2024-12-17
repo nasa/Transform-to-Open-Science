@@ -55,7 +55,7 @@ When considering the impacts of data sharing, it is important to recognize if th
 
 Another [example](https://www.theguardian.com/us-news/2023/feb/23/lidar-technology-archeology-radical-thinking) of how data can inadvertently impact vulnerable communities is the use of LiDAR by archaeologists to study remote areas. This type of data has the potential to reveal unprotected vulnerable indigenous sites in need of protection.
 
-<img src="../images/media/image352.png" style="width: 49%; height: auto;" /> <img src="../images/media/image347.png" style="width: 49%; height: auto;" />
+<img src="../images/media/genomics-research-white.png" style="width: 49%; height: auto;" /> <img src="../images/media/image347.png" style="width: 49%; height: auto;" />
 
 **CARE Principles**
 
