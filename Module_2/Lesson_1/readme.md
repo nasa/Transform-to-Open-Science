@@ -35,9 +35,9 @@ After completing this lesson, you should be able to:
 
 Scientific knowledge, or research products, take the form of data, results, code, and software.
 
-Within these research products are additional types of products, such as methodologies, algorithms, and physical artifacts.
-
 <img src="../images/media/science-data.png" style="width:350px;height:auto;" />
+
+Within these research products are additional types of products, such as methodologies, algorithms, and physical artifacts.
 
 ### What is Data?
 
