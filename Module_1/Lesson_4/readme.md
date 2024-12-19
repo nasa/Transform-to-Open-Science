@@ -116,11 +116,11 @@ Incentives can come in many forms, but most in science involve proposal funding 
 
 #### Challenge: Overvaluing Novelty
 
-<img src="../images/media/image330.jpg" style="width: 100%; height: auto;" />
-
 Awards (for example prizes or funding) are often given to those who make a big, new scientific discoveries or who create a new, exciting tool. This practice overlooks the community that wrote code, curated datasets, maintained fundamental existing tools, and many other important steps that enabled these novelties.
 
 Prizes often disincentivize crediting a team, since only one or a small group can be awarded a prize (for example, a Nobel Prize can be awarded to up to 3 people only). This emphasis on novelty and the individual are starting to change, with awards being offered to groups (e.g., The White House Office of Science & Technology Policy [Open Science Recognition Challenge](https://www.challenge.gov/?challenge=ostp-year-of-open-science-recognition-challenge)) and addition of funding solicitations offered for maintaining tools and infrastructure. However, it will take time for these changes to become the norm.
+
+<img src="../images/media/award-example.png" style="width: 350px; height: auto;" />
 
 #### Challenge: It Takes More Time to be Open
 
