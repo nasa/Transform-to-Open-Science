@@ -25,7 +25,7 @@ After completing this lesson, you should be able to:
 
 ## Planning for Open Science
 
-<img src="../images/media/image329.png" style="width: 100%; height: auto;" />
+<img src="../images/media/prof-paul-clouds.png" style="width: 100%; height: auto;" />
 
 It is important to think about, discuss, and plan for desired outcomes and processes when you begin your research. Learn about where the best repositories are for your materials; discuss credit and authorship for each separate open science output, and start using open science tools to organize your work. Reach out to repositories in your discipline and institution (usually library) for help. Including this information in your plans will make you more likely to receive funding.
 
