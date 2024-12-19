@@ -229,18 +229,11 @@ A dataset without a license does not necessarily mean that the data is open. Usi
 
 Understanding when and where the license applies is crucial. For example, data created using US Government public research funds is, by default, in the public domain. However, that only applies to the jurisdiction of the United States. In order for this to apply internationally, data creators need to select an open license.
 
-<table>
-<colgroup>
-    <col style="width: 20%" />
-    <col style="width: 80%" />
-</colgroup>
-<tbody>
-    <tr>
-        <td><img style="width: 100%; height: auto;" src="../images/media/spectrum-of-protections.png"></td>
-        <td><img style="width: 100%; height: auto;" src="../images/media/types-of-licenses-colored.png"></td>
-    </tr>
-</tbody>
-</table>
+<img style="width: 100%; height: auto;" src="../images/media/types-of-licenses-colored.png">
+
+*Click '+' to travel more information.*
+
+<img style="width: 100%; height: auto;" src="../images/media/spectrum-of-protections.png">
 
 There are several different types of licenses that build on each other. Creative Commons (CC) licenses are often used for datasets. CC0 (also known as "public domain") is the license that allows for the most reuse because it has the least restrictions on what users can do with it. Although the CC0 license does not explicitly require citation, you should still follow community best practices and cite the data source. CC-BY is another common license used for scientific data that requires citation. From there, you can add restrictions around commercial use, ability to adapt or modify the data, or requirements to share with the same license. These other flavors all reduce usability by adding restrictions, such that other scientists may be unable to use the data because of institutional or legal restrictions. Funding agencies may require use of a specific license. For public agencies, this is often CC-0 or CC-BY, to maximize their return on investment and ensure the widest possible re-use.
 
