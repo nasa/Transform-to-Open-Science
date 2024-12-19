@@ -148,7 +148,7 @@ Publications can have both open and closed elements. How is it open?
 
 ### Challenge: Collaboration & Community - Open community members don’t always agree with one other
 
-<img src="../images/media/image252.png" style="width: 350px; height: auto;" />
+<img src="../images/media/team-TOPS-colors.png" style="width: 350px; height: auto;" />
 
 Meaningful collaborations across diverse communities can require additional time and effort to coordinate across groups and to address conflicts. While interacting with the community can be one of the most fulfilling things about Open Science, it might also be a source of disagreements about the direction of the project or how it should be used. That’s where licenses and codes of conduct come into play. Clear rules for community- and colleague- interactions and use of resources provide a framework to make decisions in a fair and agreed-upon manner. This can all take additional time, especially at the beginning of a research project, but can save time and headaches down the road.
 
